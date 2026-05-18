@@ -1,0 +1,13 @@
+El repositorio de habilidades llegó a 70 mil estrellas. Ese número es enorme. Significa que mucha gente usa este proyecto. La comunidad creció mucho este mes.
+
+Ahora hay dos habilidades nuevas. La primera se llama Handoff. Esta habilidad crea un documento temporal con un resumen de la conversación. Ese documento sirve para que otro agente continúe el trabajo. Imagina que estás hablando con un asistente. De pronto necesitas irte. Usas Handoff y el nuevo asistente sabe exactamente qué hacías. No pierde el contexto. No pierde la idea principal. Eso es muy útil para cambiar de tema rápido.
+
+La segunda habilidad nueva se llama Prototype. Prototype genera versiones temporales para explorar ideas. Por ejemplo, si diseñas una interfaz, puedes crear varias opciones y comparar. También sirve para probar lógica de negocio antes de decidirse. La ventaja es que puedes recibir comentarios de una persona antes de hacer el trabajo final. Es como un boceto. Haces el boceto, lo muestras, y después creas el producto real.
+
+También hubo correcciones de errores. Un problema se llamaba Grill with Docs. El sistema daba demasiada importancia a información secundaria. Ahora esa información está en etiquetas especiales. El sistema la considera menos importante. Otro cambio afectó las etiquetas de tareas. Antes decían “necesita revisión”. Ahora dicen “listo para el agente”. Es un cambio pequeño pero hace el proceso más claro.
+
+Hay habilidades en desarrollo. Una se llama Tripart Writing. Es una forma de escribir con ayuda de inteligencia artificial. El proceso usa fragmentos, luego momentos clave, y después la forma final del texto. La otra habilidad se llama Code Review. Todavía no está lista. Cuando salga, tendrá dos agentes revisando el código al mismo tiempo. Uno revisa las reglas de programación. El otro revisa que el código haga lo que debe hacer.
+
+Para el futuro hay planes interesantes. Van a crear un sitio de documentación con videos de cada habilidad. También van a enviar un boletín con noticias sobre las actualizaciones. Así la gente puede estar al día.
+
+En resumen, el repositorio creció mucho. Hay dos habilidades nuevas muy prácticas para compartir trabajo y para experimentar con ideas. Algunos errores se arreglaron. Hay dos habilidades más en camino. Y pronto habrá más recursos para aprender a usar todo esto. El proyecto sigue avanzando y la comunidad sigue creciendo.

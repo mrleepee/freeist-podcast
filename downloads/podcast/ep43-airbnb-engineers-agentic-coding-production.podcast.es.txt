@@ -1,0 +1,11 @@
+En este episodio vas a aprender tres cosas: qué es el código agentivo, por qué los ingenieros lo adoptaron tan rápido, y cómo puedes empezar a usarlo si quieres probarlo.
+
+Cuando un programador escribe código hoy, generalmente escribe cada línea. A veces copia código de herramientas de inteligencia artificial. Pero hay una manera nueva de trabajar que cambió todo en Airbnb. Imagina que tú eres el navegador de un carro. El navegador decide a dónde ir. La inteligencia artificial es como el conductor. El conductor hace el trabajo físico de escribir. Tú das las instrucciones generales. Tú decides qué necesita el proyecto. Tú ves el panorama completo. Por eso dicen que el programador es el navegador permanente y la inteligencia artificial es el conductor que ejecuta.
+
+Los números muestran algo interesante. Los ingenieros de Airbnb pensaron que solo el veinte o cuarenta por ciento de programadores usarían estas herramientas al final de 2025. Pero ya más del sesenta por ciento las usa. Es mucho más rápido de lo que esperaban. La adopción grew almost like a vertical line on a graph. Nadie forzó a los ingenieros a usarlo. Lo usan porque les gusta. Lo usan porque los ayuda mucho.
+
+Hay diferentes niveles para aprender este tipo de programación. En el primer nivel, el programador revisa cada paso de la inteligencia artificial. Aprueba cada operación antes de continuar. Es un nivel de aprendizaje. En el segundo nivel, confías más en el sistema. Dejas que la inteligencia artificial haga más trabajo sola. En el tercer nivel, trabajas con varios proyectos al mismo tiempo. Algunos programadores manejan cinco o más proyectos simultáneos. Eso es para usuarios avanzados.
+
+Hay cosas importantes que debes recordar. Siempre revisa el código que la inteligencia artificial produce. Nunca envíes código sin revisar. Si algo parece raro, pregunta por qué. Habla con la herramienta como hablas con un compañero. Airbnb también creó una herramienta especial para practicar. Se llama Air Dev Workspace. Es un espacio seguro donde puedes experimentar y probar cosas nuevas.
+
+Hoy aprendimos que el código agentivo cambia la forma de programar. Tú diriges y la inteligencia artificial ejecuta. La adopción fue muy rápida porque ayuda mucho. Si quieres empezar, revisa cada paso al principio y no tengas prisa por dejarlo hacer todo solo.

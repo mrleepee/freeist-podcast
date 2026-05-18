@@ -1,0 +1,19 @@
+¿Alguna vez te preguntaste cómo escriben los programadores todas esas apps y páginas web que usas todos los días? Bueno, un experto en inteligencia artificial llamado Andrej Karpathy tiene una teoría muy interesante. Él dice que la programación como la conocemos está cambiando. De hecho, cree que está pasando por tres edades diferentes, y我们现在 está en un momento muy especial de esa historia.
+
+La primera edad se llama Software 1.0. Esta es la programación tradicional, la que todos conocen. Imagina que alguien escribe instrucciones muy detalladas, paso por paso, telling the computer exactly what to do. Si quieres hacer una calculadora, escribes código que dice: "suma estos números", "resta estos otros", y así sucesivamente. Cada línea, cada símbolo, cada instrucción la escribe una persona. Es un trabajo muy meticuloso y requiere mucho tiempo.
+
+Pero entonces llegó la segunda edad: Software 2.0. Aquí no escribes código directamente. En cambio, entrenas redes neuronales con muchos datos. Piensas en un programa que reconoce fotos de gatos, por ejemplo. No le dices "un gato tiene orejas puntiagudas y bigotes". En cambio, le muestras miles de fotos de gatos y el programa aprende solo a reconocerlos. El "código" ya no son líneas escritas por humanos. Son valores llamados "pesos" que el sistema ajusta mientras aprende.
+
+Y ahora viene algo verdaderamente fascinante: Software 3.0. Aquí es donde hablas con una inteligencia artificial en inglés normal y le describes lo que quieres. Le dices "hazme una app para guardar recetas" y el programa escribe el código por ti. El programador ya no escribe código línea por línea. Ahora es más como un director que da instrucciones en texto simple.
+
+Karpathy comparó estos modelos de lenguaje con servicios básicos como la electricidad. Piensas en una empresa que entrena el modelo, como una compañía eléctrica que genera energía. Luego tú pagas por usar esa energía a través de internet. Es similar a cómo funciona tu suministro de agua o luz en casa.
+
+También los comparó con sistemas operativos. El modelo mismo funciona como el cerebro de una computadora, y la "ventana de contexto" es como la memoria. Según Karpathy, estamos como en los años sesenta con esta tecnología. Acabamos de descubrir cómo compartir recursos por internet, pero todavía falta mucho para que sea algo común en todos los hogares.
+
+Estos sistemas tienen cosas buenas y cosas malas. Lo bueno: tienen conocimiento enorme, como enciclopedias vivas. Lo malo: a veces inventan información y la presentan como si fuera verdad. También son muy inteligentes en algunas cosas y muy tontos en otras. Por ejemplo, a veces dicen que 9.11 es mayor que 9.9, lo cual es completamente falso. Y no recuerdan nada de una conversación a otra, como el personaje de una película que pierde su memoria.
+
+Hay una tendencia nueva donde los humanos verifican lo que la inteligencia artificial crea. El programa genera ideas, tú revisas y corriges, y así funciona mucho mejor que dejar todo al programa.
+
+También existe algo llamado "vibe coding". La idea es que cualquier persona puede crear software simplemente describiendo lo que quiere en palabras normales. Karpathy mismo creó aplicaciones así, sin saber mucho de programación tradicional. Pero hacer apps realmente profesionales, con pagos y seguridad, todavía es difícil.
+
+En resumen, Karpathy nos dice que los próximos años van a ser emocionantes. La inteligencia artificial no va a reemplazar a los humanos completamente. Es más como una armadura que te da poderes especiales, como en las películas de Iron Man. Tú sigues siendo importante, sigues tomando decisiones, pero tienes ayuda muy poderosa. Las reglas del desarrollo de software están cambiando ahora mismo, y es un momento increíble para estar prestando atención.

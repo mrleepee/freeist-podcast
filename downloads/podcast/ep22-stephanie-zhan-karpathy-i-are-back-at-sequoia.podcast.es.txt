@@ -1,0 +1,21 @@
+En diciembre, algo cambió en la forma de programar. Andrej Karpathy, un experto en inteligencia artificial, dejó de escribir código línea por línea. Empezó a confiar en las sugerencias de la IA. Llamó a este nuevo estilo "vibe coding". Funcionó tan bien que casi nunca necesitó corregir nada.
+
+Para entender mejor este cambio, Karpathy propone tres eras del software. La primera es Software 1.0. Es el código tradicional, escrito por personas con comandos específicos. La segunda es Software 2.0. Aquí se entrenan redes neuronales con datos. La tercera es Software 3.0. En esta era, la programación funciona con preguntas simples. El programador escribe prompts en lugar de código. La memoria de la IA funciona como una palanca que controla el resultado.
+
+Karpathy da ejemplos prácticos de Software 3.0. Antes, instalar un programa como OpenClaw requería scripts complejos en la terminal. Ahora, solo necesitas pegar un prompt en una IA y el programa se instala solo. Otro ejemplo es MenuGen, una herramienta para mejorar menús de restaurantes con fotos. Esta aplicación ahora puede reemplazarse con una sola instrucción a Gemini. La red neuronal hace casi todo el trabajo sin necesidad de un sistema complejo detrás.
+
+Aquí aparece un punto muy importante. La IA funciona mejor cuando podemos verificar el resultado fácilmente. Por ejemplo, el código de programación o los problemas de matemáticas son fáciles de revisar. La IA brilla en estas áreas. Pero en preguntas simples, como calcular distancias, a veces falla. Karpathy llama a esto "capacidades irregulares".
+
+Para los emprendedores, Karpathy tiene consejos claros. Primero, deben enfocarse en problemas verificables. Segundo, necesitan crear ambientes donde la IA pueda aprender con refuerzo. Estas técnicas permiten mejorar los modelos incluso cuando las grandes empresas no han trabajado en ese campo específico.
+
+Existen dos formas de trabajar con IA en programación. La primera es vibe coding. Esta herramienta levanta el nivel para todos. Cualquier persona puede crear software sin experiencia. La segunda es agentic engineering. Esta opción mantiene la calidad profesional. Coordina varias IAs que trabajan juntas de forma responsable.
+
+Karpathy también habla de las diferencias entre programar con IA y programar de forma tradicional. La clave no es resolver puzzles abstractos. La clave es usar bien las herramientas disponibles. Por ejemplo, personalizar Codex o Copilot para proyectos grandes y complejos.
+
+Algunas habilidades humanas siguen siendo esenciales. El gusto, el juicio y el diseño de alto nivel son importantes. Los humanos deben definir qué quiere el programa, revisar la seguridad y conectar diferentes sistemas. Las IAs manejan los detalles técnicos, el código repetitivo y las conexiones con APIs.
+
+El futuro apunta a ambientes diseñados para IAs. La documentación y los servicios se crearán para que las IAs puedan leer instrucciones directamente. Aparecerán sistemas donde las IAs trabajan juntas representando a personas u organizaciones.
+
+Para la educación, Karpathy dice algo importante. Puedes outsource el pensamiento, pero no puedes outsource el entendimiento. Los estudiantes siguen necesitando comprender los objetivos, el contexto y el diseño de sistemas. Las herramientas que mejoran el procesamiento del conocimiento personal se vuelven cada vez más valiosas.
+
+En resumen, la programación está cambiando rápido. Pasamos de escribir código línea por línea a dar instrucciones simples a la IA. Este cambio abre puertas a más personas, pero también requiere nuevas habilidades humanas como el juicio y la visión general de los proyectos.

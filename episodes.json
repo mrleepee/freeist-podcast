@@ -1,0 +1,226 @@
+{
+    "ep01-claude-code-best-ai-tool": {
+        "title": "Claude Code is the Best AI Tool on the Planet",
+        "description": "We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available."
+    },
+    "ep02-jane-street-ai-hire": {
+        "title": "Jane Street Hired This Junior at $600K Because He Uses AI",
+        "description": "The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market."
+    },
+    "ep03-energy-crisis-investing": {
+        "title": "Critical Commodity Shortages: How to Invest in an Energy Crisis",
+        "description": "A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie."
+    },
+    "ep04-codex-five-new-features": {
+        "title": "Codex 0.129.0: 5 New Features You Need to Know",
+        "description": "A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user."
+    },
+    "ep05-izmir-real-estate-investment": {
+        "title": "I Made a Real Estate Investment in Izmir, Turkey",
+        "description": "A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically."
+    },
+    "ep06-cheap-residency-balkans": {
+        "title": "Albania, Serbia, and Montenegro: Cheap Residency Options",
+        "description": "Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option."
+    },
+    "ep07-eu-bans-citizenship-investment": {
+        "title": "EU Banned Citizenship by Investment — Here's What Happened",
+        "description": "The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight."
+    },
+    "ep08-anthropic-ai-company-blueprint": {
+        "title": "Anthropic's Official Blueprint for Building a Company With AI",
+        "description": "Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude."
+    },
+    "ep09-anthropic-company-playbook": {
+        "title": "Anthropic's Official Playbook for Building an AI Company",
+        "description": "A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale."
+    },
+    "ep10-open-source-software-factory": {
+        "title": "I Built My Own Software Factory and Open-Sourced It",
+        "description": "Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers."
+    },
+    "ep11-nine-things-claude-code": {
+        "title": "9 Things the Creator of Claude Code Wants You to Know",
+        "description": "Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance."
+    },
+    "ep12-karpathy-end-of-programming": {
+        "title": "Andrej Karpathy Just Declared the End of Programming",
+        "description": "Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code."
+    },
+    "ep13-europe-tax-system-you-cant-escape": {
+        "title": "How Europe Is Designing a Tax System You Can't Escape",
+        "description": "A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally."
+    },
+    "ep14-istanbul-citizenship-real-estate": {
+        "title": "Secondhand Real Estate in Istanbul for Turkish Citizenship",
+        "description": "Buying secondhand property in Istanbul is one of the most popular routes to Turkish citizenship. We cover the process, the neighbourhoods, the pitfalls, and what your money actually buys you."
+    },
+    "ep15-ten-hermes-agent-features": {
+        "title": "10 Hermes Agent Features Most People Aren't Using",
+        "description": "Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents."
+    },
+    "ep16-istanbul-apartment-tour": {
+        "title": "We Toured 4 Istanbul Apartments for Turkish Citizenship",
+        "description": "A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property."
+    },
+    "ep17-how-to-use-openai-code": {
+        "title": "How to Actually Use OpenAI Code — From the Engineers Who Built It",
+        "description": "OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools."
+    },
+    "ep18-inside-communist-cuba": {
+        "title": "Inside Communist-Controlled Cuba's Humanitarian Crisis",
+        "description": "Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling."
+    },
+    "ep19-llms-hallucinate-lot": {
+        "title": "LLMs Hallucinate. A LOT. — Matt Pocock",
+        "description": "Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with."
+    },
+    "ep20-hermes-agent-setup-step-step": {
+        "title": "Hermes Agent Setup: A Step-by-Step Guide",
+        "description": "A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step."
+    },
+    "ep21-video-thereluctantaccountant": {
+        "title": "AI Agents Are Changing Everything — Even Accounting",
+        "description": "A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers."
+    },
+    "ep22-stephanie-zhan-karpathy-i-are-back-at-sequoia": {
+        "title": "Karpathy's Software 3.0 Vision at Sequoia AI Ascent",
+        "description": "Andrej Karpathy returns to Sequoia's AI Ascent to explain Software 3.0 — where prompting replaces programming, vibe coding raises the floor, and agentic engineering raises the ceiling."
+    },
+    "ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase": {
+        "title": "Karpathy on No Priors: The Phase Shift in AI",
+        "description": "Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society."
+    },
+    "ep24-movez-jane-street-ai-engineer-revealed-how-they": {
+        "title": "How Jane Street Uses AI to Hire Engineers",
+        "description": "A Jane Street engineer reveals how the elite trading firm uses AI skills as a hiring signal — and what it takes to land a $600K role straight out of school."
+    },
+    "ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer": {
+        "title": "Karpathy Threw a Grenade at Every Senior Engineer",
+        "description": "Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development."
+    },
+    "ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight": {
+        "title": "I Spent Tonight Figuring Out Codex So You Don't Have To",
+        "description": "A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart)."
+    },
+    "ep27-bio-hack-gut-health": {
+        "title": "The Bio Hack Revolution: Gut Health Secrets",
+        "description": "The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype."
+    },
+    "ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass": {
+        "title": "Kimi Founder's 40-Minute AI Masterclass",
+        "description": "The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently."
+    },
+    "ep29-matt-pocock-two-new-skills-this-week-handoff": {
+        "title": "Matt Pocock's New Skills: Handoff and Beyond",
+        "description": "Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases."
+    },
+    "ep30-dunik-40-code-claude-writes-you-wasted-youre": {
+        "title": "40% of Your Code — Claude Writes It and You Wasted Your Time",
+        "description": "A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it."
+    },
+    "ep31-bio-hack-gut-health": {
+        "title": "Gut Health: The Bio Hack Everyone's Talking About",
+        "description": "Why gut health has become the central focus of the biohacking movement, and what the science actually says about probiotics, microbiome diversity, and longevity."
+    },
+    "ep32-en-wehrman-this-new-flat-earth-conceptual-model": {
+        "title": "A New Flat Earth Conceptual Model — and Why It Matters",
+        "description": "We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information."
+    },
+    "ep38-matt-pocock-grill-me-my-most-popular-skill": {
+        "title": "Matt Pocock's Grill with Docs: AI Pair Programming Evolved",
+        "description": "Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive."
+    },
+    "ep39-how-run-paperclip-hermes-24-hours": {
+        "title": "How to Run Paperclip and Hermes in 24 Hours",
+        "description": "Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure."
+    },
+    "ep40-movez-anthropic-head-product-just-dropped-28-minute": {
+        "title": "Anthropic Head of Product's 28-Minute AI Masterclass",
+        "description": "Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works."
+    },
+    "ep41-maxinomics-heres-full-video-why-small-town-north": {
+        "title": "Why a Small Town in North Carolina Is America's Chip Ace in the Hole",
+        "description": "Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance."
+    },
+    "ep42-vincent-logic-信号噪音-未来的世界属于懂-token-的人-出自一位10岁博主之口-刚换了": {
+        "title": "The 10-Year-Old Who Understands AI Tokens Better Than Most Experts",
+        "description": "A 10-year-old Chinese blogger explains why tokens are the hard currency of the AI era, breaks down the AI supply chain from energy to applications, and runs multiple AI agents on his new Mac Studio. His insights on compute and token economics might be closer to the truth than many expert reports."
+    },
+    "ep43-airbnb-engineers-agentic-coding-production": {
+        "title": "Airbnb Engineers on Agentic Coding in Production",
+        "description": "Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship."
+    },
+    "ep44-best-claude-cowork-tutorial-under-25-minutes": {
+        "title": "The Best Claude Cowork Tutorial Under 25 Minutes",
+        "description": "Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes."
+    },
+    "ep45-guarani-language-soul-of-paraguay": {
+        "title": "Guaraní: The Indigenous Language That Outlived an Empire",
+        "description": "Why Paraguay is the only country in the Americas where an indigenous language is spoken by the majority — and how Guaraní became the heartbeat of a nation."
+    },
+    "ep46-chipa-and-terere-taste-of-paraguay": {
+        "title": "Chipa and Tereré: The Taste of Paraguay",
+        "description": "How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without."
+    },
+    "ep47-paraguay-war-that-almost-erased-a-nation": {
+        "title": "The War That Almost Erased Paraguay From the Map",
+        "description": "The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself."
+    },
+    "ep48-polka-paraguaya-music-of-resilience": {
+        "title": "Polka Paraguaya: How a European Dance Became a National Anthem",
+        "description": "Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing."
+    },
+    "ep49-welsh-migrants-paraguay": {
+        "title": "The Welsh Who Chose Paraguay",
+        "description": "In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected."
+    },
+    "ep50-flight-attendant-top-hacks-save-big": {
+        "title": "Flight Attendant's Top Hacks to Save Big on Flights",
+        "description": "An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking."
+    },
+    "ep51-khairallah-al-awady-anthropics-claude-team-just-showed": {
+        "title": "Building an AI Agent With Real Memory — From Anthropic's Claude Team",
+        "description": "Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude."
+    },
+    "ep52-noisy-andrew-ng-says-watch-these-27-minutes": {
+        "title": "Andrew Ng: Why Everything You Know About Using AI Is Already Outdated",
+        "description": "Andrew Ng explains the shift from LLMs as tools to agents as infrastructure — one model that plans, executes, checks, and corrects itself. The 27 minutes that could change how you think about AI."
+    },
+    "ep53-godfather-ai-lecture-that-keeps-you-awake": {
+        "title": "The Godfather of AI: The Lecture That Keeps You Awake",
+        "description": "If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone."
+    },
+    "ep54-andrew-ng-ai-native-agencies": {
+        "title": "Andrew Ng: The Next Wave Is AI Native Agencies, Not SaaS",
+        "description": "Andrew Ng told YC something most people missed — the next software companies won't sell subscriptions to tools, they'll sell outcomes powered by AI agents. The full playbook is free, and the target is $10k/month."
+    },
+    "ep55-paraguays-bloody-independence": {
+        "title": "Paraguay's Bloody Independence",
+        "description": "What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance."
+    },
+    "ep56-andrew-ngs-yc-insight-most-people-missed": {
+        "title": "Andrew Ng's YC Insight Most People Missed",
+        "description": "A startup that can prototype ten times faster than it could five years ago has a decisive edge in the market.  \n\nSpeed has always mattered, but recent advances in AI tools are turning execution velocity into the single most reliable predictor of startup success."
+    },
+    "ep57-nous-research-hermes-agent-v0140-foundation-release-changelog": {
+        "title": "Hermes Agent v0.14: The Foundation Release",
+        "description": "Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work."
+    },
+    "ep58-rahul-boris-cherny-creator-claude-code-just-confirmed": {
+        "title": "Boris Cherny on Claude Code: 4% of All GitHub Commits and Counting",
+        "description": "The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development."
+    },
+    "ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp": {
+        "title": "Goldman Sachs and Citadel Are Buying XRP — Here's Why It Matters",
+        "description": "Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now."
+    },
+    "ep60-muhammad-shehada-this-short-film-exposes-true-story": {
+        "title": "What the Founding Fathers of Israel Actually Said Behind Closed Doors",
+        "description": "Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today."
+    },
+    "ep61-avid-peter-steinberger-creator-openclaw-just-gave-30": {
+        "title": "Peter Steinberger's 9 Rules for Agentic Engineering",
+        "description": "Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate."
+    }
+}

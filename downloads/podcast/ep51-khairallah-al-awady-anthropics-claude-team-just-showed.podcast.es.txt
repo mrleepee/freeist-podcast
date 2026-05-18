@@ -1,0 +1,15 @@
+En este episodio vas a aprender tres cosas: por qué la memoria es importante para los agentes de inteligencia artificial, cómo funciona el sistema de memoria en la nube, y una función especial llamada "Dreaming" que ayuda a los agentes a mejorar. Vamos a empezar.
+
+Los agentes de inteligencia artificial son programas que pueden hacer muchas tareas. Antes existían herramientas para dar a estos agentes nuevas habilidades. Pero había un problema: los agentes no podían recordar lo que aprendían. Cada vez que empezaban una nueva tarea, olvidaban todo. La memoria es la solución a ese problema. Con memoria, los agentes pueden aprender de su trabajo, de su entorno y de otros agentes. Así mejoran con el tiempo.
+
+Anthropic creó un sistema de memoria muy interesante. El sistema funciona como un sistema de archivos, como las carpetas de tu computadora. Los agentes pueden leer y escribir en esas carpetas. Pueden usar herramientas familiares como bash y grep para manejar su memoria. Este modelo es muy avanzado para agentes en la nube.
+
+El sistema tiene características importantes para cuando muchos agentes trabajan juntos. Primero, hay permisos. Algunos agentes pueden leer la memoria de toda la organización pero no cambiarla. Otros pueden leer y escribir en su memoria específica. Segundo, el sistema evita que dos agentes escriban lo mismo al mismo tiempo. Usa códigos especiales para proteger la información. Tercero, el sistema soporta cientos o miles de agentes funcionando al mismo tiempo.
+
+Los desarrolladores también tienen control. Hay un historial completo de todos los cambios en la memoria. Cada cambio tiene información sobre qué agente lo hizo, cuándo y en qué sesión. Esto es muy útil para empresas que necesitan auditorías. Además, hay una API que permite a sistemas externos revisar la memoria, buscar información personal o copiar datos.
+
+Ahora viene la parte más interesante. Se llama "Dreaming", que significa "soñar" en inglés. Es un proceso que corre separado del trabajo normal del agente. Mientras el agente trabaja, otro proceso analiza las conversaciones y tareas recientes. Busca patrones, errores comunes y estrategias que funcionan bien. Al final, produce nueva memoria organizada. Los desarrolladores pueden revisar esta memoria antes de aplicarla.
+
+Este proceso tiene muchos beneficios. No atrasa el trabajo del agente porque corre en segundo plano. Encuentra patrones que un solo agente no puede ver. También separa el objetivo de completar tareas del objetivo de mejorar la memoria. Una empresa probó esta función y vio que los agentes completaron seis veces más tareas en pruebas legales.
+
+Hoy aprendimos que la memoria ayuda a los agentes de inteligencia artificial a recordar y mejorar. El sistema de archivos permite organizar la memoria de forma clara. Y "Dreaming" es un proceso especial que ayuda a los agentes a aprender más patrones y ser más eficientes con el tiempo.

@@ -1,0 +1,15 @@
+En este episodio vas a aprender tres cosas importantes sobre la inteligencia artificial. Primero, cómo la IA está cambiando muy rápido. Segundo, qué son los flujos de trabajo con IA y por qué son tan emocionantes. Tercero, cómo la IA visual está creciendo mucho.
+
+Andrew Ng dice que la inteligencia artificial es como una nueva electricidad. Esta tecnología está creando muchas oportunidades para las personas que crean aplicaciones y productos. La buena noticia es que las mejores oportunidades están en la capa de aplicaciones, no en los modelos básicos.
+
+Antes, crear un sistema de IA necesitaba mucho tiempo. Un equipo podía trabajar durante seis a doce meses para hacer una aplicación. Ahora, con la IA generativa, ese mismo equipo puede construir algo en solo diez días. Este cambio es muy importante. La experimentación rápida se convirtió en un nuevo camino para crear cosas nuevas. Los developers pueden construir veinte prototipos y quedarse con el que funciona mejor. Las pruebas y evaluaciones ahora son el nuevo reto en el desarrollo de IA.
+
+El tema más emocionante son los flujos de trabajo con IA. Antes, para usar un modelo de lenguaje, le dabas una instrucción y el modelo daba una respuesta. Eso era todo. Ahora, los flujos de trabajo usan ciclos repetitivos. El modelo hace una tarea, revisa el resultado, mejora el trabajo, y repite el proceso hasta que el resultado es bueno. Esta diferencia es enorme. En pruebas difíciles, los resultados pueden pasar de cuarenta y ocho por ciento de precisión a noventa y cinco por ciento.
+
+Hay cuatro patrones importantes en estos flujos de trabajo. El primero es la reflexión. El modelo de IA revisa su propia respuesta y la mejora. El segundo es el uso de herramientas. El modelo decide cuándo buscar información en internet, cuándo ejecutar código, o cuándo hacer otras acciones. El tercero es la planificación. El modelo divide una tarea complicada en pasos pequeños y los hace en orden. El cuarto es la colaboración entre varios agentes. Varios modelos de IA trabajan juntos, cada uno con un rol diferente, para resolver un problema.
+
+La revolución visual también es importante. Los modelos que pueden ver imágenes y videos ahora procesan la información paso a paso. Esto permite contar objetos, analizar escenas y crear descripciones. Muchas empresas tienen videos e imágenes que no usan bien. Esta tecnología les ayuda a sacar valor de esos datos visuales.
+
+Hay otras tendencias que importan. La velocidad de generación de texto está aumentando. Los modelos se optimizan para usar herramientas y hacer tareas repetitivas. La ingeniería de datos se vuelve más importante porque hay que manejar muchos textos, imágenes y videos. Todo esto significa que es un gran momento para crear cosas con IA.
+
+Hoy aprendimos que la IA está avanzando muy rápido y que ahora se puede construir en días lo que antes tomaba meses. Los flujos de trabajo con IA, especialmente los cuatro patrones que vimos, están cambiando cómo developamos aplicaciones. La IA visual también ofrece muchas oportunidades nuevas. Es un momento muy bueno para ser creador.
