@@ -4,13 +4,31 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 21:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:01:23 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Ep65 Exploring Worlds Largest 100 Billion Failed Ghost City</title>
+      <description/>
+      <pubDate>Wed, 20 May 2026 22:00:40 +0000</pubDate>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3" length="1485092" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Spotify's Chief Architect: 4,500 Deployments a Day with AI</title>
+      <description>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</description>
+      <pubDate>Wed, 20 May 2026 21:57:47 +0000</pubDate>
+      <itunes:duration>09:11</itunes:duration>
+      <itunes:summary>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3" length="5093468" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3</guid>
+    </item>
     <item>
       <title>Microsoft's AI Agents with Claude: Build, Connect, Ship</title>
       <description>A Microsoft Senior AI developer demonstrates how to build production-ready AI agents using Claude Opus 4.7 inside Microsoft Foundry. The platform supports over 1,400 built-in connectors and MCP tools, with enterprise security, observability, and governance baked in. From environment setup to a working cupcake store agent that handles customer registration, flavour selection, and order fulfilment — a practical walkthrough of the full agent development lifecycle.</description>

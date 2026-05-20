@@ -230,5 +230,9 @@
     "ep63-movez-microsoft-senior-ai-developer-just-showed-how": {
         "title": "Microsoft's AI Agents with Claude: Build, Connect, Ship",
         "description": "A Microsoft Senior AI developer demonstrates how to build production-ready AI agents using Claude Opus 4.7 inside Microsoft Foundry. The platform supports over 1,400 built-in connectors and MCP tools, with enterprise security, observability, and governance baked in. From environment setup to a working cupcake store agent that handles customer registration, flavour selection, and order fulfilment — a practical walkthrough of the full agent development lifecycle."
+    },
+    "ep64-spotify-chief-architect-how-they-ship-4500-deployments": {
+        "title": "Spotify's Chief Architect: 4,500 Deployments a Day with AI",
+        "description": "Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world."
     }
 }
