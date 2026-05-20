@@ -234,5 +234,9 @@
     "ep64-spotify-chief-architect-how-they-ship-4500-deployments": {
         "title": "Spotify's Chief Architect: 4,500 Deployments a Day with AI",
         "description": "Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world."
+    },
+    "ep65-exploring-worlds-largest-100-billion-failed-ghost-city": {
+        "title": "The $100 Billion Ghost City Nobody Moved To",
+        "description": "Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept."
     }
 }

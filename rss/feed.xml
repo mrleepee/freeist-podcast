@@ -4,7 +4,7 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 22:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:02:17 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
@@ -12,11 +12,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Ep65 Exploring Worlds Largest 100 Billion Failed Ghost City</title>
+      <title>Ep65 This Home Costs 300 Build 0 Heat Forever</title>
       <description/>
+      <pubDate>Wed, 20 May 2026 22:01:41 +0000</pubDate>
+      <itunes:duration>04:10</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3" length="2189492" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The $100 Billion Ghost City Nobody Moved To</title>
+      <description>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</description>
       <pubDate>Wed, 20 May 2026 22:00:40 +0000</pubDate>
       <itunes:duration>02:59</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3" length="1485092" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3</guid>
     </item>
