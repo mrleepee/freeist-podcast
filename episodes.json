@@ -226,5 +226,9 @@
     "ep62-hermes-goal-command-essential-agent-commands": {
         "title": "Hermes Goal Command: Make Your AI Agent Finish the Job",
         "description": "The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system."
+    },
+    "ep63-movez-microsoft-senior-ai-developer-just-showed-how": {
+        "title": "Microsoft's AI Agents with Claude: Build, Connect, Ship",
+        "description": "A Microsoft Senior AI developer demonstrates how to build production-ready AI agents using Claude Opus 4.7 inside Microsoft Foundry. The platform supports over 1,400 built-in connectors and MCP tools, with enterprise security, observability, and governance baked in. From environment setup to a working cupcake store agent that handles customer registration, flavour selection, and order fulfilment — a practical walkthrough of the full agent development lifecycle."
     }
 }
