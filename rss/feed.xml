@@ -4,7 +4,7 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 22:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:04:51 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
@@ -12,11 +12,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Ep65 This Home Costs 300 Build 0 Heat Forever</title>
+      <title>Ep66 Narcissist State Groundbreaking Psychological Perspective Statism</title>
       <description/>
+      <pubDate>Wed, 20 May 2026 22:04:14 +0000</pubDate>
+      <itunes:duration>06:03</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3121676" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Ep66 Kol415 Commentary Larken Rose Ip Wrong Question Part</title>
+      <description/>
+      <pubDate>Wed, 20 May 2026 22:03:44 +0000</pubDate>
+      <itunes:duration>05:28</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3" length="2905316" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>This Home Costs $300 to Build and $0 to Heat FOREVER. Why Is It Banned?</title>
+      <description>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</description>
       <pubDate>Wed, 20 May 2026 22:01:41 +0000</pubDate>
       <itunes:duration>04:10</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3" length="2189492" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3</guid>
     </item>
