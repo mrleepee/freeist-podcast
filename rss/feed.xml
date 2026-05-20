@@ -4,7 +4,7 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 22:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:07:22 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
@@ -12,13 +12,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Ep66 Narcissist State Groundbreaking Psychological Perspective Statism</title>
-      <description/>
+      <title>The Narcissist State: A Psychological Perspective on Statism</title>
+      <description>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</description>
       <pubDate>Wed, 20 May 2026 22:04:14 +0000</pubDate>
       <itunes:duration>06:03</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3121676" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
+      <itunes:summary>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3121676" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
     </item>
     <item>
       <title>Kinsella vs Rose: The Libertarian Civil War Over Intellectual Property</title>
