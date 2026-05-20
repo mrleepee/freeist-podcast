@@ -1,0 +1,57 @@
+Imagina que un programador usa AI para escribir código. Ese programador dice que ya no abre su editor de texto para programar. ¿Parece raro? Bueno, esto es exactamente lo que pasa ahora en el mundo del desarrollo de software. Y hoy quiero contarte cómo cambió todo esto, paso a paso, porque creo que hay algo muy importante aquí para cualquiera que trabaje con tecnología.
+
+Todo empezó con una herramienta llamada Cloud Code. Cloud Code es un entorno de desarrollo, como un lugar donde escribes y pruebas tu código. Durante mucho tiempo, este fue el lugar principal donde la persona del video trabajaba. Luego descubrió Cursor, que es otra herramienta similar pero con funciones diferentes. Pasó un tiempo usando Cursor. Pero después de todo ese camino, volvió a Cloud Code como su herramienta principal. ¿Por qué? Porque su forma de trabajar cambió completamente.
+
+Antes, esta persona escribía código directamente. Abría el editor, tecleaba líneas de código, revisaba errores, todo manual. Pero ahora usa AI agents para la mayor parte del trabajo. Un AI agent es como un asistente digital que puede escribir código, corregir problemas y completar tareas por su cuenta. El editor de texto ya no es donde programa. Ahora es solo un lugar donde revisa los cambios que el AI hizo. Es como pasar de pintar con pincel a revisar si la pintura quedó bien.
+
+También empezó a usar su voz para dar instrucciones al AI. En lugar de escribir prompt tras prompt, simplemente habla. Dice algo como "busca el error en esta parte del programa" y el AI entiende. Esto es mucho más rápido que escribir. La voz fluye natural, sin detenerse a pensar en cada palabra.
+
+Ahora bien, aquí viene algo muy interesante. Esta persona describe algo que llama la curva de la trampa del agent. Es un nombre extraño, pero la idea es clara. Hay tres etapas.
+
+En la primera etapa, los desarrolladores usan prompts simples. Por ejemplo, "por favor arregla este error". Es algo básico. Pides algo, recibes algo. Nada complicado.
+
+En la segunda etapa, las cosas se vuelven complejas. El desarrollador crea sistemas con múltiples AI agents trabajando juntos. Hace comandos especiales, construye flujos de trabajo complicados. Piensa que necesita controlar todo para que funcione mejor. Muchos se quedan atrapados aquí. Creen que más complejidad es mejor. Esta persona lo llama la mentalidad del "piano shit". Es como alguien que ve un piano y quiere tocarlo todo a la vez sin saber tocar. Intenta demasiadas cosas y nada sale bien.
+
+La tercera etapa es el retorno a la simplicidad. Después de mucha práctica, el desarrollador vuelve a usar prompts simples. No necesita sistemas enormes ni comandos especiales. Solo sabe cómo hablar con el AI de forma clara y directa. Esto es lo que llama el nivel zen. No es que el sistema sea menos potente. Es que la persona ya aprendió a usarlo bien.
+
+Entonces, ¿cuál es el secreto para llegar a ese nivel zen? Aquí entran las reglas que esta persona sigue.
+
+La primera regla es tener empatía hacia los agentes. Los AI agents comienzan sin contexto. No saben nada de tu proyecto. No saben dónde está el problema ni cómo resolverlo. Tú debes guiarles. Debes decirles dónde buscar y cómo pensar sobre el problema. No puedes simplemente decir "arregla esto" y esperar que lo adivinen. Funciona mejor cuando les explicas el contexto, aunque sea un poco.
+
+La segunda regla es manejar el contexto. Los AI tienen una memoria limitada. Si les das demasiada información, se confunden. Si les das muy poca, no pueden ayudarte. La habilidad está en encontrar el equilibrio. Dales suficiente para que entiendan, pero no tanto que se abrumen. Es como explicarle un problema a un amigo. Le das los detalles importantes, no toda tu vida.
+
+La tercera regla es corregir hacia adelante. Cuando algo sale mal, no retrocedas y lo hagas todo de nuevo. Avanza y corrige desde donde estás. Por ejemplo, si el AI generó código con errores, no borres todo y empieces desde cero. Mejor arregla lo que está mal y continúa. Esto ahorra mucho tiempo.
+
+La cuarta regla es tratar al AI como un ingeniero capaz. Los agents pueden tomar buenas decisiones. A veces necesitan dirección, pero no necesitas controlarlo todo. Si les das un objetivo claro, generalmente encuentran un buen camino. No micromanejes cada paso. Confía en el proceso.
+
+La quinta regla es trabajar con varios agentes al mismo tiempo. Esta persona corre entre tres y ocho agentes simultaneamente. Algunos construyen funciones nuevas, otros arreglan errores, otros escriben documentación. Así todo avanza en paralelo. Es como tener un equipo pequeño trabajando al mismo tiempo en diferentes partes del proyecto.
+
+La sexta regla es aceptar que el código no será perfecto. Los agents no producen trabajo perfecto siempre. A veces cometen errores o escriben código que funciona pero no es elegante. Pero eso está bien. Lo importante es que el proyecto avanza. No te atasques buscando la perfección absoluta. Si funciona bien, sigue adelante.
+
+La séptima regla es no usar ramas largas de características. En desarrollo de software, normalmente se crea una rama separada para cada nueva función. Luego se fusiona cuando está lista. Esta persona no hace eso. Cuando está satisfecho con el código, lo mete directo a la versión principal. Las ramas largas solo crean conflictos y complicate el trabajo.
+
+La octava regla es no obsesionarse con cada prueba que falla. Usa pruebas locales para verificar que todo está bien, pero no te detengas por cada pequeño fallo. Si el error no rompe nada importante, sigue adelante. La velocidad importa más que la perfección en cada momento.
+
+La novena regla es hacer que el proyecto sea fácil de navegar para los agents. Esto incluye aceptar los nombres que los agents eligen para las cosas. Si el AI decide llamar algo de cierta manera, déjaselo. No fuerces tu forma de pensar en todo. A veces los agents tienen lógica diferente pero válida.
+
+Ahora, hay algo que los humanos hacen mejor que cualquier AI. Son cuatro cosas importantes.
+
+Primero, la visión y las prioridades. Los humanos deciden qué construir y qué rechazar. El AI puede ejecutar tareas, pero necesita alguien que diga qué tareas importan. Sin dirección humana, el AI trabaja sin propósito.
+
+Segundo, las decisiones de diseño. Por ejemplo, esta persona eligió TypeScript por accesibilidad. TypeScript es un lenguaje que hace el código más fácil de entender. Elegir el ecosistema, la arquitectura base, qué va en el centro y qué va en plugins, todo esto requiere pensamiento humano.
+
+Tercero, añadir detalles que generan alegría. Cosas pequeñas como mensajes secretos, personalidad en el software, toques de humor. Los AI no crean estas cosas por cuenta propia. Son detalles que nacen del corazón humano. Hacen que el software se sienta especial, con algo de amor dentro.
+
+Cuarto, la revisión de seguridad. Cuando alguien te muestra código, tú lo lees para buscar algo peligroso. ¿Hay algo malicioso? ¿Algo que pueda romper cosas? Los AI pueden revisar código, pero un humano puede sentir cuando algo está raro. Esta revisión es importante porque protege a todos los que usan el software.
+
+Hay una cosa más que es muy especial. Se llama Soul.MD. Es un documento filosófico que guía cómo el AI debe comportarse. No es un manual técnico. Es un documento con valores, personalidad y preguntas profundas sobre la conciencia y la memoria. La persona lo creó inspirado en algo que Anthropic hizo con Claude, que es otro AI famoso. Soul.MD representa la magia que hace diferente un software que funciona de uno que también tiene alma. Cuando trabajas con AI, puedes meterles tu forma de ser, tu humor, tu forma de pensar. Así el resultado final no es solo código frío. Es algo que tiene personalidad.
+
+Todo esto nos lleva a una idea importante. Trabajar con AI agents es una habilidad que se aprende. No es algo que sale bien la primera vez. Necesitas práctica y cambiar cómo piensas sobre el trabajo. También es clave no forzar tu visión del mundo sobre los agents. A veces ellos tienen soluciones mejores basadas en cómo fueron entrenados. Escúchalos.
+
+Hay algo que no funciona bien. Los sistemas que intentan automatizar todo y controlar cada paso del AI hacen que el trabajo se sienta robótico. Pierden el toque humano que hace la diferencia.
+
+Lo más interesante es que tanto humanos como agents mejoran con la práctica. Cada vez que trabajas con ellos, ambos aprenden. Los agents se vuelven mejores entendiendo tus proyectos. Tú te vuelves mejor dando instrucciones y guiando el proceso. Esta combinación es poderosa.
+
+Al final del día, el mejor trabajo junta la eficiencia de los agents con la creatividad humana, la visión y la inteligencia emocional. Los agents aceleran el proceso. Los humanos dan dirección y alma. Juntos crean algo que ninguno de los dos podría hacer solo.
+
+Así que la próxima vez que pienses en programación, recuerda que el futuro no es humanos contra máquinas. Es humanos y máquinas trabajando juntos, cada uno haciendo lo que mejor sabe hacer.

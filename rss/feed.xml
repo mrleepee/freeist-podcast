@@ -4,13 +4,22 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 15:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:42:46 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Hermes Goal Command: Make Your AI Agent Finish the Job</title>
+      <description>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</description>
+      <pubDate>Wed, 20 May 2026 08:39:47 +0000</pubDate>
+      <itunes:duration>06:53</itunes:duration>
+      <itunes:summary>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3" length="3652028" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3</guid>
+    </item>
     <item>
       <title>Peter Steinberger's 9 Rules for Agentic Engineering</title>
       <description>Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.</description>
