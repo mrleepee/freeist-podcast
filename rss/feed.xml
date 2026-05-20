@@ -4,13 +4,22 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 22:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:06:53 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Complete Guide to Building Skills for Claude</title>
+      <description>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</description>
+      <pubDate>Wed, 20 May 2026 23:03:34 +0000</pubDate>
+      <itunes:duration>07:54</itunes:duration>
+      <itunes:summary>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3" length="4486316" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3</guid>
+    </item>
     <item>
       <title>The Narcissist State: A Psychological Perspective on Statism</title>
       <description>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</description>

@@ -250,5 +250,9 @@
     "ep67-narcissist-state-groundbreaking-psychological-perspective-statism": {
         "title": "The Narcissist State: A Psychological Perspective on Statism",
         "description": "What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments."
+    },
+    "ep68-complete-guide-building-skills-claude": {
+        "title": "The Complete Guide to Building Skills for Claude",
+        "description": "Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting."
     }
 }
