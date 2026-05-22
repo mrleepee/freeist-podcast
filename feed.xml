@@ -4,13 +4,22 @@
     <title>Senor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 11:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:39:31 +0000</lastBuildDate>
     <itunes:author>Senor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Senor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Ep71 Microsoft Cancels Internal Anthropic Contract</title>
+      <description/>
+      <pubDate>Fri, 22 May 2026 12:37:21 +0000</pubDate>
+      <itunes:duration>05:36</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3" length="2765204" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3</guid>
+    </item>
     <item>
       <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
       <description>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</description>
