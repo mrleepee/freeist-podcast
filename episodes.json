@@ -247,6 +247,10 @@
         "title": "Mises Media: Rothbard's Political Strategy as Entrepreneurship",
         "description": "After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty."
     },
+    "ep70-video-agenticengineering": {
+        "title": "Why AI Agents Are Switching from Markdown to HTML",
+        "description": "An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce."
+    },
     "ep33-ronin-andrej-karpathy-90-your-ai-coding-bill": {
         "title": "Andrej Karpathy: 90% of Your AI Coding Bill is Wasted",
         "description": "Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results."
