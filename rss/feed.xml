@@ -4,13 +4,22 @@
     <title>Senor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 11:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:19:28 +0000</lastBuildDate>
     <itunes:author>Senor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Senor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
+      <description>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</description>
+      <pubDate>Fri, 22 May 2026 11:16:56 +0000</pubDate>
+      <itunes:duration>09:54</itunes:duration>
+      <itunes:summary>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3" length="4721132" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3</guid>
+    </item>
     <item>
       <title>Why AI Agents Are Switching from Markdown to HTML</title>
       <description>An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.</description>

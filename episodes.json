@@ -270,5 +270,9 @@
     "ep37-building-local-knowledge-base-hermes-agent-obsidian-llm": {
         "title": "Building a Local Knowledge Base with Hermes Agent, Obsidian, and LLM",
         "description": "A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required."
+    },
+    "ep70-history-london-docklands-from-roman-port-canary-wharf": {
+        "title": "The History of London Docklands: From Roman Port to Canary Wharf",
+        "description": "A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts."
     }
 }
