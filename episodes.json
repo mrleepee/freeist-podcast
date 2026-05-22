@@ -183,25 +183,13 @@
         "title": "Building an AI Agent With Real Memory — From Anthropic's Claude Team",
         "description": "Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude."
     },
-    "ep52-noisy-andrew-ng-says-watch-these-27-minutes": {
-        "title": "Andrew Ng: Why Everything You Know About Using AI Is Already Outdated",
-        "description": "Andrew Ng explains the shift from LLMs as tools to agents as infrastructure — one model that plans, executes, checks, and corrects itself. The 27 minutes that could change how you think about AI."
-    },
     "ep53-godfather-ai-lecture-that-keeps-you-awake": {
         "title": "The Godfather of AI: The Lecture That Keeps You Awake",
         "description": "If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone."
     },
-    "ep54-andrew-ng-ai-native-agencies": {
-        "title": "Andrew Ng: The Next Wave Is AI Native Agencies, Not SaaS",
-        "description": "Andrew Ng told YC something most people missed — the next software companies won't sell subscriptions to tools, they'll sell outcomes powered by AI agents. The full playbook is free, and the target is $10k/month."
-    },
     "ep55-paraguays-bloody-independence": {
         "title": "Paraguay's Bloody Independence",
         "description": "What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance."
-    },
-    "ep56-andrew-ngs-yc-insight-most-people-missed": {
-        "title": "Andrew Ng's YC Insight Most People Missed",
-        "description": "A startup that can prototype ten times faster than it could five years ago has a decisive edge in the market.  \n\nSpeed has always mattered, but recent advances in AI tools are turning execution velocity into the single most reliable predictor of startup success."
     },
     "ep57-nous-research-hermes-agent-v0140-foundation-release-changelog": {
         "title": "Hermes Agent v0.14: The Foundation Release",
