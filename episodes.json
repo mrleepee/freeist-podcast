@@ -242,5 +242,9 @@
     "ep68-complete-guide-building-skills-claude": {
         "title": "The Complete Guide to Building Skills for Claude",
         "description": "Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting."
+    },
+    "ep69-mises-media-system-designed-not-be-unraveled-one": {
+        "title": "Mises Media: Rothbard's Political Strategy as Entrepreneurship",
+        "description": "After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty."
     }
 }
