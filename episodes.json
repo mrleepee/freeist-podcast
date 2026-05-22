@@ -290,5 +290,9 @@
     "ep74-borough-market-1000-years-london-plate": {
         "title": "Borough Market: 1000 Years of London on a Plate",
         "description": "From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock."
+    },
+    "ep75-video-parthknowsai": {
+        "title": "Subqueue Claims 52x Faster Long-Context AI With Sub-Quadratic Attention",
+        "description": "A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet."
     }
 }

@@ -1,0 +1,19 @@
+Imagine feeding an entire code repository—every line, comment, and dependency—into a language model without watching the cost meter spin out of control. A Miami‑based startup called Subqueue says it can, using a twelve‑million‑token context window—enough to swallow ten thousand pages in a single breath.
+
+The snag with today’s transformer models is the quadratic cost of attention. Double the input length and you quadruple the computation required, which makes long‑context work prohibitively expensive for most developers. The price can spiral into the thousands of pounds for a single query.
+
+Subqueue’s answer is a technique called Sub‑Quadratic Sparse Attention, or SSA. Rather than throwing every token at the attention mechanism, the model first skims the query, decides which tokens matter, and then only attends to those, turning a quadratic problem into a linear one.
+
+In its marketing the company boasts SSA runs fifty‑two times faster than the widely used Flash Attention implementation and that the per‑token cost is just one‑fifth of current long‑context services. If those figures are accurate, the economics of large‑context AI would shift dramatically.
+
+What would that look like in practice? Developers could feed a whole codebase, a stack of legal contracts, or an archive of scientific papers into a single query without the sky‑high price tag that currently makes such tasks a niche luxury. It could turn long‑context processing into an everyday tool for any developer.
+
+There is, however, a healthy dose of scepticism. Subqueue has not released a technical report, and no independent party has verified the claims. The only public benchmark they show is for a one‑million‑token version; the headline twelve‑million‑token window comes without any supporting data.
+
+It’s also possible that the twelve‑million‑token capability is simply a fine‑tuned version of an existing open‑source model such as DeepSeek or Kimi, rather than a ground‑up architecture breakthrough. Without a clear description of the training pipeline, it’s hard to know whether the speed gains stem from a novel algorithm or from sheer scale.
+
+That said, the team’s pedigree adds a crumb of credibility. Their website lists former Meta and Google engineers who have worked on large‑scale language‑model projects. Their experience doesn’t guarantee the claims are true, but it suggests they have the technical background to attempt something ambitious.
+
+I’ve already signed up for the waitlist, and as soon as the model is publicly available I’ll put it through a set of practical tests—checking both raw performance and whether the promised cost savings actually materialise. I’ll report back in a future episode.
+
+If Subqueue can back up even a fraction of its promises, it could tip the balance for developers priced out of long‑context work. Until the evidence lands, the sensible stance is cautious optimism and a close watch on that waitlist.
