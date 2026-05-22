@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 13:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:16:57 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -12,13 +12,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Borough Market 1000 Years London Plate</title>
-      <description/>
+      <title>Borough Market: 1000 Years of London on a Plate</title>
+      <description>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</description>
       <pubDate>Fri, 22 May 2026 13:13:10 +0000</pubDate>
       <itunes:duration>06:49</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3" length="3854708" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3</guid>
+      <itunes:summary>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3" length="3854708" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3</guid>
     </item>
     <item>
       <title>Blackheath and Greenwich Park: A Walk Through 2000 Years of History</title>
