@@ -1,16 +1,34 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Senor Freedom</title>
+    <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 12:53:25 +0000</lastBuildDate>
-    <itunes:author>Senor Freedom</itunes:author>
+    <lastBuildDate>Fri, 22 May 2026 13:14:49 +0000</lastBuildDate>
+    <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
-      <itunes:name>Senor Freedom</itunes:name>
+      <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Borough Market 1000 Years London Plate</title>
+      <description/>
+      <pubDate>Fri, 22 May 2026 13:13:10 +0000</pubDate>
+      <itunes:duration>06:49</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3" length="3854708" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Blackheath Greenwich Park Walk Through 2000 Years History</title>
+      <description/>
+      <pubDate>Fri, 22 May 2026 13:12:51 +0000</pubDate>
+      <itunes:duration>06:34</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3" length="3132140" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3</guid>
+    </item>
     <item>
       <title>Build a Voice Agent From Scratch with AssemblyAI and Claude Code</title>
       <description>AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step.</description>
