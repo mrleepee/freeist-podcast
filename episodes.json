@@ -275,7 +275,7 @@
         "title": "The History of London Docklands: From Roman Port to Canary Wharf",
         "description": "A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts."
     },
-    "ep71-microsoft-cancels-internal-anthropic": {
+    "ep71-microsoft-cancels-internal-anthropic-contract": {
         "title": "Microsoft Cancels Internal Anthropic Contract",
         "description": "Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing."
     }

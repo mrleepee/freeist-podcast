@@ -4,7 +4,7 @@
     <title>Senor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 12:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:49:18 +0000</lastBuildDate>
     <itunes:author>Senor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Senor Freedom</itunes:name>
@@ -12,11 +12,11 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Ep71 Microsoft Cancels Internal Anthropic Contract</title>
-      <description/>
+      <title>Microsoft Cancels Internal Anthropic Contract</title>
+      <description>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</description>
       <pubDate>Fri, 22 May 2026 12:37:21 +0000</pubDate>
       <itunes:duration>05:36</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3" length="2765204" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3</guid>
     </item>
