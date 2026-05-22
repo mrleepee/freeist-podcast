@@ -1,0 +1,19 @@
+Imagina que en solo tres minutos creas un asistente de voz que entiende lo que dices y responde como un humano. Eso ya es posible gracias a una nueva herramienta que combina inteligencia artificial y código automático. Un equipo lo demostró hace poco. En lugar de escribir líneas y líneas de código, solo necesitas unas pocas instrucciones.
+
+AssemblyAI tiene una interfaz llamada Voice Agent API. Esta interfaz se encarga de escuchar, entender y hablar. Simultáneamente, Cloud Code, que es un entorno de programación con inteligencia artificial, puede leer documentación y generar código por sí solo.
+
+Para que Cloud Code tenga la información más reciente de AssemblyAI, se instala un servidor especial. Ese servidor se agrega con un simple comando y permite al entorno acceder a la documentación actualizada.
+
+El proceso es así: primero se instala el servidor. Después se escribe un texto corto donde describes la aplicación que quieres. Por ejemplo, “Crea una aplicación en Python que use la Voice Agent API de AssemblyAI para actuar como un restaurante que recibe y cambia reservas”. Luego se deja que Cloud Code haga el resto.
+
+Cloud Code consulta la documentación, crea las funciones necesarias para hacer una reserva, modificarla o cancelarla, y genera una interfaz de línea de comandos. Todo sucede en unos segundos.
+
+El resultado es un programa llamado La Bella Notte. Este programa puede hablar de forma natural. Imagina que dices: “Nueva reserva, nombre Santiago, 20 de mayo, 8 de la noche, 4 personas”. El agente responde confirmando los datos, guarda la reserva y puede cambiarla o cancelarla si lo pides después.
+
+En una demostración en vivo, una persona le dijo: “Nueva reserva – nombre Santiago, 20 de mayo, 8 p.m., 4 invitados”. El agente respondió: “Perfecto, guardé la reserva para 4 personas a nombre de Santiago el 20 de mayo a las 8 p.m.”. Luego la persona pidió modificar la cantidad de personas y el agente lo hizo sin problema.
+
+Lo más impresionante es que todo el prototipo se construyó en unos tres o cuatro minutos. El sistema ya sabe cuándo es su turno de hablar y puede entender si alguien lo interrumpe. No es una versión lista para producción, pero es un punto de partida muy sólido.
+
+La combinación de Cloud Code con el servidor de documentación de AssemblyAI permite a los desarrolladores crear agentes de voz rápidos y con poco esfuerzo. Puedes pensar en usarlo para atendimento al cliente, reservas, o cualquier otra situación donde la voz sea más cómoda. En poco tiempo, la creación de estos asistentes será algo cotidiano.
+
+Pronto, estas herramientas cambiarán cómo interactuamos con las máquinas. Crear un asistente de voz ya no será un proyecto enorme, sino algo que cualquiera puede hacer en poco tiempo.

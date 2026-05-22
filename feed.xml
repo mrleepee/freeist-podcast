@@ -4,13 +4,22 @@
     <title>Senor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 12:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:53:25 +0000</lastBuildDate>
     <itunes:author>Senor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Senor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Build a Voice Agent From Scratch with AssemblyAI and Claude Code</title>
+      <description>AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step.</description>
+      <pubDate>Fri, 22 May 2026 12:49:53 +0000</pubDate>
+      <itunes:duration>02:53</itunes:duration>
+      <itunes:summary>AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3" length="1529324" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3</guid>
+    </item>
     <item>
       <title>Microsoft Cancels Internal Anthropic Contract</title>
       <description>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</description>
