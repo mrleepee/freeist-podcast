@@ -4,7 +4,7 @@
     <title>The Freeist Podcast</title>
     <description>AI-curated short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 07:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:59:23 +0000</lastBuildDate>
     <itunes:author>Freeist</itunes:author>
     <itunes:owner>
       <itunes:name>Freeist</itunes:name>
@@ -282,47 +282,47 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3</guid>
     </item>
     <item>
-      <title>Ep37 Building Local Knowledge Base Hermes Agent Obsidian Llm</title>
-      <description/>
+      <title>Building a Local Knowledge Base with Hermes Agent, Obsidian, and LLM</title>
+      <description>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
       <itunes:duration>03:39</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3" length="2039252" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3</guid>
     </item>
     <item>
-      <title>Ep36 Hermes Agent Masterclass Akshay Pachaar</title>
-      <description/>
+      <title>Hermes Agent Masterclass with Akshay Pachaar</title>
+      <description>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
       <itunes:duration>04:26</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3" length="2333444" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3</guid>
     </item>
     <item>
-      <title>Ep35 How Build Obsidian Vault That Runs Your Entire</title>
-      <description/>
+      <title>How to Build an Obsidian Vault That Runs Your Entire Life</title>
+      <description>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
       <itunes:duration>04:27</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3" length="2535500" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3</guid>
     </item>
     <item>
-      <title>Ep34 Matt Pocock Anthropic Has Given Us Dedicated Monthly</title>
-      <description/>
+      <title>Matt Pocock: Anthropic Has Given Us a Dedicated Monthly Budget</title>
+      <description>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
       <itunes:duration>03:12</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3" length="1537676" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3</guid>
     </item>
     <item>
-      <title>Ep33 Ronin Andrej Karpathy 90 Your Ai Coding Bill</title>
-      <description/>
+      <title>Andrej Karpathy: 90% of Your AI Coding Bill is Wasted</title>
+      <description>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
       <itunes:duration>11:07</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3" length="5836556" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3</guid>
     </item>
