@@ -298,5 +298,9 @@
     "ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin": {
         "title": "The Anarchist Who Tried to Destroy Marx's Movement",
         "description": "Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century."
+    },
+    "ep77-khairallah-al-awady-claude-code-team-just-dropped": {
+        "title": "Claude Managed Agents: Production AI Without the Infrastructure",
+        "description": "Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&A decisions."
     }
 }

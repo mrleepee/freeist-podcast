@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 09:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:55:12 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
+      <description>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</description>
+      <pubDate>Sat, 23 May 2026 09:51:17 +0000</pubDate>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:summary>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3" length="1639460" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3</guid>
+    </item>
     <item>
       <title>The Anarchist Who Tried to Destroy Marx's Movement</title>
       <description>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</description>
