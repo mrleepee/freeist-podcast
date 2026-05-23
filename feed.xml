@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 23:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:46:24 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Anarchist Who Tried to Destroy Marx's Movement</title>
+      <description>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</description>
+      <pubDate>Sat, 23 May 2026 09:41:03 +0000</pubDate>
+      <itunes:duration>03:41</itunes:duration>
+      <itunes:summary>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3" length="1764980" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3</guid>
+    </item>
     <item>
       <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
       <description>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</description>
