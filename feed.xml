@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 16:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:24:45 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Hermes Agent Memory Guidebook</title>
+      <description>Kevin Simback's definitive guide to Hermes Agent memory systems. A three-layer architecture — native markdown files and SQLite at Layer 1, eight official plug-in providers at Layer 2, and community-built alternatives like GBrain and Mnemosyne at Layer 3. Covers how MEMORY.md and USER.md work as always-visible sticky notes, the session database with full-text search, and a comparative deep dive into Honcho, Mem0, Hindsight, Cipher, Zep, RetainDB, ByteRover, and Supermemory — each making a different architectural bet about what agent memory should do.</description>
+      <pubDate>Sun, 24 May 2026 16:21:15 +0000</pubDate>
+      <itunes:duration>07:01</itunes:duration>
+      <itunes:summary>Kevin Simback's definitive guide to Hermes Agent memory systems. A three-layer architecture — native markdown files and SQLite at Layer 1, eight official plug-in providers at Layer 2, and community-built alternatives like GBrain and Mnemosyne at Layer 3. Covers how MEMORY.md and USER.md work as always-visible sticky notes, the session database with full-text search, and a comparative deep dive into Honcho, Mem0, Hindsight, Cipher, Zep, RetainDB, ByteRover, and Supermemory — each making a different architectural bet about what agent memory should do.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3" length="3934604" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3</guid>
+    </item>
     <item>
       <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
       <description>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</description>

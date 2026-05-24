@@ -1,0 +1,31 @@
+Sabías que sin memoria, un agente de I.A. es básicamente lo mismo que una ventana vacía de ChatGPT. Cada pregunta parece la primera vez. No sabe nada de lo que hablaste ayer, no recuerda tus preferencias, no aprende de lo que hiciste la semana pasada. Eso suena aburrido, ¿no?
+
+Por eso quiero hablarte de algo llamado The Hermes Agent Memory Guidebook. Es una guía que explica cómo funciona la memoria en Hermes, que es una herramienta muy popular para crear agentes de I.A. El autor se llama Kevin Simback y pasó meses investigando todo lo relacionado con este tema.
+
+Primero, ¿por qué es tan importante la memoria en un agente? Imagina que tienes un asistente que te ayuda a programar. Sin memoria, cada vez que starts una sesión nueva tiene que preguntarte otra vez cómo te gustan las cosas, qué herramientas usas, qué convenciones sigues. Es como empezar de cero siempre. Pero con memoria, el asistente recuerda todo eso y puede ayudarte mucho mejor. La memoria convierte un chatbot simple en algo que mejora con el tiempo.
+
+Hermes tiene tres capas de memoria. La primera capa viene incluida cuando installas el programa. No tienes que hacer nada. El sistema crea dos archivos pequeños de texto en tu computadora. Se llaman MEMORY.md y USER.md. Tú puedes abrirlos en cualquier editor de texto normal.
+
+En MEMORY.md, el agente guarda información general. Cosas sobre tus proyectos, decisiones técnicas, información importante que necesita recordar entre sesiones. Este archivo es pequeño, más o menos del tamaño de un párrafo y medio.
+
+En USER.md, el agente guarda información sobre ti. Tus preferencias, tu estilo de trabajo, tu rol. Este archivo es aún más pequeño, más o menos un párrafo.
+
+¿POR QUÉ son tan pequeños estos archivos? Porque el agente los lee al inicio de cada sesión. Los copia directamente en el prompt que envía al modelo. Así siempre tiene esa información frente a él. No necesita buscarla. Es como si el agente tuviera notas pegadas en su escritorio.
+
+El propio agente decide qué poner en estos archivos. Cuando algo importante pasa en una conversación, él llama a una herramienta especial llamada memory y agrega, reemplaza o elimina información.
+
+También hay una base de datos. Hermes guarda todas tus conversaciones en un archivo SQLite. Cada mensaje tuyo, cada respuesta del agente, cada paso que dio. Todo está ahí. Por defecto, guarda 90 días de historia y borra lo más viejo automáticamente.
+
+Esta base de datos es diferente de los archivos de texto. El agente no la ve siempre. En cambio, la busca cuando necesita encontrar algo específico. Es como una biblioteca enorme donde el agente puede buscar cuando sabe qué buscar.
+
+Ahora, la segunda capa es opcional. Aquí puedes instalar diferentes proveedores de memoria. Son como aplicaciones que añaden más funciones de memoria. El libro menciona ocho opciones oficiales.
+
+Por ejemplo, Honcho es popular porque trata de entender cómo piensas tú, no solo lo que dices. Mem0 es muy fácil de instalar, en solo 30 segundos. Hindsight es conocido por obtener muy buenos resultados en pruebas de memoria. Cipher funciona completamente sin internet, lo cual es bueno para privacidad.
+
+La tercera capa viene de la comunidad. Aquí hay proyectos que la gente creó. Algunos son muy innovadores. GBrain tiene un sistema de conocimiento con ocho capas diferentes. Mnemosyne funciona en tu máquina sin necesidad de servicios en la nube y puede responder preguntas sobre lo que creías en el pasado.
+
+Mi consejo es simple. Empieza siempre con la primera capa, la que viene incluida. Es suficiente para muchos casos. Si necesitas más, elige un proveedor de la segunda capa basado en lo que más te importa: velocidad, privacidad, costo o resultados. Solo ve a la tercera capa cuando tienes una necesidad muy específica que las otras capas no resuelven.
+
+Un signo de que usaste demasiado es cuando el agente se siente más lento, cuando tu factura de A.P.I. sube mucho, o cuando el agente empieza a contradecirse. Si después de unas semanas tu trabajo no es mejor que antes, probablemente algo está mal.
+
+La memoria es lo que hace interesante a un agente de I.A. Sin ella, cada conversación es igual a la anterior. Con ella, el agente crece contigo y se vuelve cada vez más útil. Eso es algo que vale la pena entender bien.
