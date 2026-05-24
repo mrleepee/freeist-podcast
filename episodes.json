@@ -279,10 +279,6 @@
         "title": "Microsoft Cancels Internal Anthropic Contract",
         "description": "Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing."
     },
-    "ep72-santiago-step-step-video-build-voice-agent-from": {
-        "title": "Build a Voice Agent From Scratch with AssemblyAI and Claude Code",
-        "description": "AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step."
-    },
     "ep73-blackheath-greenwich-park-walk-through-2000-years-history": {
         "title": "Blackheath and Greenwich Park: A Walk Through 2000 Years of History",
         "description": "A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces."

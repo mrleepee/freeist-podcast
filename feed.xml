@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 09:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:13:48 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -64,15 +64,6 @@
       <itunes:summary>A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3" length="1393340" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Build a Voice Agent From Scratch with AssemblyAI and Claude Code</title>
-      <description>AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step.</description>
-      <pubDate>Fri, 22 May 2026 12:49:53 +0000</pubDate>
-      <itunes:duration>02:53</itunes:duration>
-      <itunes:summary>AssemblyAI's Voice Agent API handles the hard parts of building conversational AI — turn detection, interruptions, speech-to-text and back again — all in a single unified API. Pair it with Claude Code and an MCP server that gives the agent real-time access to documentation, and you can build a fully conversational voice agent in minutes. Santiago walks through the entire process step by step.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3" length="1529324" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3</guid>
     </item>
     <item>
       <title>Microsoft Cancels Internal Anthropic Contract</title>
