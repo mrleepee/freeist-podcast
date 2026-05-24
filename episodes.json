@@ -306,5 +306,9 @@
     "ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy": {
         "title": "Karpathy on Software 3.0: Vibe Coding, Verifiability, and What Remains Human",
         "description": "Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding."
+    },
+    "ep80-hermes-agent-memory-guidebook-ksimback": {
+        "title": "The Hermes Agent Memory Guidebook — Kevin Simback's Deep Dive",
+        "description": "Kevin Simback published the definitive guide to Hermes Agent memory systems, breaking them into a clean three-layer architecture. Layer 1 ships in the box: two small markdown files injected into every prompt plus a full SQLite session archive. Layer 2 offers eight official plug-in providers — from Honcho's dialectic user modeling to Hindsight's benchmark-winning four-network retrieval, Mem0's instant setup, Letta's fully local HRR approach, and Supermemory's sub-300ms vector graph engine. Layer 3 is where the community innovates, with GBrain's 8-layer knowledge engine and Mnemosyne's tiered cognitive architecture leading the way. Each provider makes a fundamentally different architectural bet about what agent memory should do."
     }
 }

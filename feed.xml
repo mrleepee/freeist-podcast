@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 16:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:52:37 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Hermes Agent Memory Guidebook</title>
+      <description/>
+      <pubDate>Sun, 24 May 2026 16:49:13 +0000</pubDate>
+      <itunes:duration>05:31</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3" length="3133988" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3</guid>
+    </item>
     <item>
       <title>Karpathy on Software 3.0: Vibe Coding, Verifiability, and What Remains Human</title>
       <description>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</description>
