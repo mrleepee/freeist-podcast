@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 19:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:34:47 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic Engineer Shows How to Give AI Agents Real Memory</title>
+      <description>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</description>
+      <pubDate>Sun, 24 May 2026 21:33:05 +0000</pubDate>
+      <itunes:duration>03:40</itunes:duration>
+      <itunes:summary>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3" length="1756268" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3</guid>
+    </item>
     <item>
       <title>Building AI Agents with Claude Inside Microsoft Foundry</title>
       <description>Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.</description>

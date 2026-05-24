@@ -318,5 +318,9 @@
     "ep82-rahul-microsoft-senior-ai-developer-just-showed-how": {
         "title": "Building AI Agents with Claude Inside Microsoft Foundry",
         "description": "Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform."
+    },
+    "ep83-anthropic-ai-engineer-just-showed-how-give-ai": {
+        "title": "Anthropic Engineer Shows How to Give AI Agents Real Memory",
+        "description": "An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations."
     }
 }
