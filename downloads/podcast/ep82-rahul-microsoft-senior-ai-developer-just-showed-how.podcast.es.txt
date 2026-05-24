@@ -1,0 +1,17 @@
+¿Te imaginas que una inteligencia artificial puede hacer tu pedido en una tienda de cupcakes? No es ciencia ficción. Es exactamente lo que vamos a explorar hoy.
+
+El mundo de la inteligencia artificial está cambiando muy rápido. Antes, los programas de IA respondían preguntas simples una vez. Ahora, las empresas quieren sistemas que puedan pensar, planear y actuar por sí mismos. Se llaman sistemas "agentes". Estos agentes nuevos tienen tres grandes retos: primero, necesitan pensar en muchos pasos seguidos sin perderse. Segundo, deben ser confiables y seguros para las empresas. Y tercero, necesitan conectarse con herramientas y datos externos para hacer cosas reales.
+
+Aquí entra Microsoft Foundry. Foundry es una plataforma unificada para crear aplicaciones de inteligencia artificial a gran escala. Soporta muchas herramientas como GitHub, Visual Studio Code y Copilot Studio. Sus productos principales incluyen modelos Foundry, un servicio de agentes, integraciones de herramientas y servicios de aprendizaje automático. Foundry tiene más de mil cuatrocientos conectores listos para usar. También ofrece características importantes para empresas: seguridad integrada, capacidad de observar el sistema y reglas de gobierno.
+
+Pero, ¿por qué usar Claude en Foundry? Claude es uno de los mejores para razonamiento en agentes. El modelo Opus cuatro con siete es el recomendado. Claude es excelente planificando y manejando mucha información. También ofrece un ciclo completo para crear agentes: puedes crearlos, coordinarlos y darles herramientas. Las funciones empresariales vienen listas: seguridad, cumplimiento de reglas. Además, el desarrollo es más rápido porque incluye herramientas para evaluar y monitorear.
+
+Vamos a ver cómo funciona en un taller práctico. El ejemplo es construir un agente para una tienda de cupcakes. El primer paso es usar el modelo. Accedes a Claude Sonnet cuatro con seis en el playground de Foundry. Después, preparas tu ambiente de desarrollo. Cargas un archivo con la dirección del servicio y tus claves de A P I. Luego construyes el agente usando el Marco de Agentes de Microsoft. Este marco es un kit de desarrollo de Python de código abierto.
+
+Después conectas todo a un servidor de contexto de modelo. Este servidor tiene la información de la tienda de cupcakes. Le permite al agente ver el inventario en tiempo real y procesar pedidos. También cargas instrucciones desde el servidor. Estas instrucciones incluyen saludos y mensajes de bienvenida para los clientes.
+
+Finalmente, pruebas el agente. Creas un identificador de cliente. Seleccionas sabores de cupcakes. Aplicas un cupón de descuento. Y completas el pedido. Todo funciona en vivo. El agente consultó el inventario, registró al cliente y procesó la orden usando las herramientas del servidor.
+
+Los recursos para aprender más están disponibles. Puedes ver la documentación de Foundry. Microsoft ofrece cursos gratuitos en Microsoft Learn. Y hay créditos de Azure para experimentar.
+
+Lo interesante aquí es que estamos pasando de aplicaciones estáticas a sistemas dinámicos que pueden actuar. Esto cambia todo. Si te interesa crear cosas con inteligencia artificial, este es un momento muy emocionante para empezar.
