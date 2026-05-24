@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 16:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:56:38 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Karpathy on Software 3.0, Verifiability, and What AI Still Cannot Do</title>
+      <description>Andrej Karpathy explains the shift from Software 1.0 to 3.0, where prompting replaces programming and context windows become the primary lever over LLMs. He breaks down why AI excels at verifiable tasks like math and code but struggles with subjective domains, introduces the animals versus ghosts framework for understanding what these systems actually are, and argues that vibe coding raises the floor for everyone while agentic engineering raises the ceiling for professionals. The takeaway: you can outsource your thinking, but you cannot outsource your understanding.</description>
+      <pubDate>Sun, 24 May 2026 16:53:48 +0000</pubDate>
+      <itunes:duration>03:40</itunes:duration>
+      <itunes:summary>Andrej Karpathy explains the shift from Software 1.0 to 3.0, where prompting replaces programming and context windows become the primary lever over LLMs. He breaks down why AI excels at verifiable tasks like math and code but struggles with subjective domains, introduces the animals versus ghosts framework for understanding what these systems actually are, and argues that vibe coding raises the floor for everyone while agentic engineering raises the ceiling for professionals. The takeaway: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2088932" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
+    </item>
     <item>
       <title>Hermes Agent Memory Guidebook</title>
       <description/>
