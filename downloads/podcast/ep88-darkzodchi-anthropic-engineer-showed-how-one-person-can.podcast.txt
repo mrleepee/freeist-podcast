@@ -1,4 +1,4 @@
-What if I told you that a piece of A I software—something built to help manage inventory—became so complex that it actually started doing its job worse? That's exactly what happened to an agent called Stock Pilot, and the story of how developers fixed it reveals something fascinating about the future of A I development.
+What if I told you that a piece of eh eye software—something built to help manage inventory—became so complex that it actually started doing its job worse? That's exactly what happened to an agent called Stock Pilot, and the story of how developers fixed it reveals something fascinating about the future of eh eye development.
 
 Stock Pilot was built incrementally over time, which sounds reasonable until you consider the end result: a four hundred line system prompt, twelve different tools, and multiple subagents all trying to work together. The performance tests showed a troubling drop from around eighty-three percent down to concerning levels. Suddenly, a tool meant to make warehouse operations smoother was actually creating more problems than it solved.
 
@@ -10,4 +10,4 @@ The architectural changes were significant. Long system prompts got replaced wit
 
 The evaluation framework they built to measure success had two main categories. Regression tasks test single-turn, realistic scenarios that the agent should handle reliably. Failure mode tasks are more complex, multi-turn situations designed to push the agent into edge cases. They measured both straightforward things like speed and token usage, and used an L L M to judge more subjective qualities like tone and style.
 
-What makes this workshop particularly valuable is that it demonstrated a replicable process—using Claude Code to triage failures, identify recurring themes, and systematically modernise an agent's architecture. For anyone building A I systems, the takeaway is that complexity isn't inevitable, and sometimes the smartest thing you can do is deliberately simplify.
+What makes this workshop particularly valuable is that it demonstrated a replicable process—using Claude Code to triage failures, identify recurring themes, and systematically modernise an agent's architecture. For anyone building eh eye systems, the takeaway is that complexity isn't inevitable, and sometimes the smartest thing you can do is deliberately simplify.
