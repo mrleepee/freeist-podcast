@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 14:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:05:30 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -12,40 +12,31 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Darkzodchi Anthropic Engineer Showed How One Person Can</title>
-      <description/>
+      <title>Anthropic Engineer Showed How One Person Can Run 5 AI Agents</title>
+      <description>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</description>
       <pubDate>Mon, 25 May 2026 14:45:12 +0000</pubDate>
       <itunes:duration>03:08</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3" length="1667180" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3</guid>
     </item>
     <item>
-      <title>When Robots Get Wallets Agentic Payments</title>
-      <description/>
+      <title>When Robots Get Wallets: Agentic Payments Explained</title>
+      <description>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</description>
       <pubDate>Mon, 25 May 2026 12:51:29 +0000</pubDate>
       <itunes:duration>09:27</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4629308" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
     </item>
     <item>
       <title>Can One Ancient Hum Really Awaken the Pineal Gland?</title>
-      <description>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</description>
+      <description>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</description>
       <pubDate>Mon, 25 May 2026 10:27:28 +0000</pubDate>
       <itunes:duration>03:45</itunes:duration>
-      <itunes:summary>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</itunes:summary>
+      <itunes:summary>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1991780" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Vegastar Can One Ancient Hum Really Awaken Pineal</title>
-      <description/>
-      <pubDate>Mon, 25 May 2026 10:22:00 +0000</pubDate>
-      <itunes:duration>03:17</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1688996" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
     </item>
     <item>
       <title>Why Georgia Is Considered the Cradle of Civilisation</title>
@@ -76,10 +67,10 @@
     </item>
     <item>
       <title>Hermes Agent Memory Guidebook</title>
-      <description/>
+      <description>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</description>
       <pubDate>Sun, 24 May 2026 16:49:13 +0000</pubDate>
       <itunes:duration>05:31</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3" length="3133988" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3</guid>
     </item>
