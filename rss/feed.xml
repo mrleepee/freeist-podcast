@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 21:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:07:32 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -12,670 +12,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>How to Run Paperclip and Hermes in 24 Hours</title>
-      <description>Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.</description>
-      <pubDate>Mon, 25 May 2026 20:26:30 +0000</pubDate>
-      <itunes:duration>02:36</itunes:duration>
-      <itunes:summary>Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep39-how-run-paperclip-hermes-24-hours.podcast.mp3" length="1475732" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep39-how-run-paperclip-hermes-24-hours.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Karpathy Threw a Grenade at Every Senior Engineer</title>
-      <description>Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development.</description>
-      <pubDate>Mon, 25 May 2026 20:26:07 +0000</pubDate>
-      <itunes:duration>03:09</itunes:duration>
-      <itunes:summary>Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer.podcast.mp3" length="1493300" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Inside Communist-Controlled Cuba's Humanitarian Crisis</title>
-      <description>Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling.</description>
-      <pubDate>Mon, 25 May 2026 20:23:24 +0000</pubDate>
-      <itunes:duration>05:33</itunes:duration>
-      <itunes:summary>Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep18-inside-communist-cuba.podcast.mp3" length="3076844" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep18-inside-communist-cuba.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Paraguay's Bloody Independence</title>
-      <description>What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance.</description>
-      <pubDate>Mon, 25 May 2026 20:22:11 +0000</pubDate>
-      <itunes:duration>09:07</itunes:duration>
-      <itunes:summary>What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep55-paraguays-bloody-independence.podcast.mp3" length="5040284" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep55-paraguays-bloody-independence.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>LLMs Hallucinate. A LOT. — Matt Pocock</title>
-      <description>Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with.</description>
-      <pubDate>Mon, 25 May 2026 20:21:31 +0000</pubDate>
-      <itunes:duration>04:47</itunes:duration>
-      <itunes:summary>Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep19-llms-hallucinate-lot.podcast.mp3" length="2637716" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep19-llms-hallucinate-lot.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>What the Founding Fathers of Israel Actually Said Behind Closed Doors</title>
-      <description>Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.</description>
-      <pubDate>Mon, 25 May 2026 20:20:06 +0000</pubDate>
-      <itunes:duration>02:37</itunes:duration>
-      <itunes:summary>Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3" length="1473308" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>How to Build an Obsidian Vault That Runs Your Entire Life</title>
-      <description>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</description>
-      <pubDate>Mon, 25 May 2026 20:19:26 +0000</pubDate>
-      <itunes:duration>04:50</itunes:duration>
-      <itunes:summary>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3" length="2708516" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Borough Market: 1000 Years of London on a Plate</title>
-      <description>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</description>
-      <pubDate>Mon, 25 May 2026 20:19:10 +0000</pubDate>
-      <itunes:duration>07:00</itunes:duration>
-      <itunes:summary>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3" length="3679916" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Peter Steinberger's 9 Rules for Agentic Engineering</title>
-      <description>Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.</description>
-      <pubDate>Mon, 25 May 2026 20:18:39 +0000</pubDate>
-      <itunes:duration>07:11</itunes:duration>
-      <itunes:summary>Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep61-avid-peter-steinberger-creator-openclaw-just-gave-30.podcast.mp3" length="3698948" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep61-avid-peter-steinberger-creator-openclaw-just-gave-30.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Godfather of AI: The Lecture That Keeps You Awake</title>
-      <description>If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone.</description>
-      <pubDate>Mon, 25 May 2026 20:17:23 +0000</pubDate>
-      <itunes:duration>03:58</itunes:duration>
-      <itunes:summary>If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep53-godfather-ai-lecture-that-keeps-you-awake.podcast.mp3" length="2082932" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep53-godfather-ai-lecture-that-keeps-you-awake.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Hermes Agent v0.14: The Foundation Release</title>
-      <description>Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work.</description>
-      <pubDate>Mon, 25 May 2026 20:17:20 +0000</pubDate>
-      <itunes:duration>02:46</itunes:duration>
-      <itunes:summary>Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep57-nous-research-hermes-agent-v0140-foundation-release-changelog.podcast.mp3" length="1577492" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep57-nous-research-hermes-agent-v0140-foundation-release-changelog.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Matt Pocock's New Skills: Handoff and Beyond</title>
-      <description>Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases.</description>
-      <pubDate>Mon, 25 May 2026 20:16:58 +0000</pubDate>
-      <itunes:duration>02:45</itunes:duration>
-      <itunes:summary>Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep29-matt-pocock-two-new-skills-this-week-handoff.podcast.mp3" length="1357532" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep29-matt-pocock-two-new-skills-this-week-handoff.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Anthropic Head of Product's 28-Minute AI Masterclass</title>
-      <description>Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works.</description>
-      <pubDate>Mon, 25 May 2026 20:16:22 +0000</pubDate>
-      <itunes:duration>02:48</itunes:duration>
-      <itunes:summary>Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep40-movez-anthropic-head-product-just-dropped-28-minute.podcast.mp3" length="1586420" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep40-movez-anthropic-head-product-just-dropped-28-minute.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Kinsella vs Rose: The Libertarian Civil War Over Intellectual Property</title>
-      <description>Stefan Kinsella dissects Larken Rose's arguments against intellectual property — and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this.</description>
-      <pubDate>Mon, 25 May 2026 20:16:13 +0000</pubDate>
-      <itunes:duration>05:28</itunes:duration>
-      <itunes:summary>Stefan Kinsella dissects Larken Rose's arguments against intellectual property — and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3" length="2904164" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Anarchist Who Tried to Destroy Marx's Movement</title>
-      <description>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</description>
-      <pubDate>Mon, 25 May 2026 20:16:09 +0000</pubDate>
-      <itunes:duration>03:16</itunes:duration>
-      <itunes:summary>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3" length="1716644" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Blackheath and Greenwich Park: A Walk Through 2000 Years of History</title>
-      <description>A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces.</description>
-      <pubDate>Mon, 25 May 2026 20:15:59 +0000</pubDate>
-      <itunes:duration>06:02</itunes:duration>
-      <itunes:summary>A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3" length="3367220" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Matt Pocock's Grill with Docs: AI Pair Programming Evolved</title>
-      <description>Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive.</description>
-      <pubDate>Mon, 25 May 2026 20:15:33 +0000</pubDate>
-      <itunes:duration>03:39</itunes:duration>
-      <itunes:summary>Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3" length="2064500" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Matt Pocock: Anthropic Has Given Us a Dedicated Monthly Budget</title>
-      <description>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</description>
-      <pubDate>Mon, 25 May 2026 20:15:06 +0000</pubDate>
-      <itunes:duration>02:40</itunes:duration>
-      <itunes:summary>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3" length="1370924" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>I Made a Real Estate Investment in Izmir, Turkey</title>
-      <description>A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically.</description>
-      <pubDate>Mon, 25 May 2026 20:14:07 +0000</pubDate>
-      <itunes:duration>03:48</itunes:duration>
-      <itunes:summary>A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep05-izmir-real-estate-investment.podcast.mp3" length="1944860" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep05-izmir-real-estate-investment.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Why AI Agents Are Switching from Markdown to HTML</title>
-      <description>An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.</description>
-      <pubDate>Mon, 25 May 2026 20:13:44 +0000</pubDate>
-      <itunes:duration>02:38</itunes:duration>
-      <itunes:summary>An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep70-video-agenticengineering.podcast.mp3" length="1502084" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep70-video-agenticengineering.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Flight Attendant's Top Hacks to Save Big on Flights</title>
-      <description>An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking.</description>
-      <pubDate>Mon, 25 May 2026 20:13:36 +0000</pubDate>
-      <itunes:duration>02:15</itunes:duration>
-      <itunes:summary>An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep50-flight-attendant-top-hacks-save-big.podcast.mp3" length="1266116" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep50-flight-attendant-top-hacks-save-big.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Hermes Agent Setup: A Step-by-Step Guide</title>
-      <description>A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step.</description>
-      <pubDate>Mon, 25 May 2026 20:13:27 +0000</pubDate>
-      <itunes:duration>04:36</itunes:duration>
-      <itunes:summary>A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep20-hermes-agent-setup-step-step.podcast.mp3" length="2620004" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep20-hermes-agent-setup-step-step.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Bio Hack Revolution: Gut Health Secrets</title>
-      <description>The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype.</description>
-      <pubDate>Mon, 25 May 2026 20:12:41 +0000</pubDate>
-      <itunes:duration>02:58</itunes:duration>
-      <itunes:summary>The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep27-bio-hack-gut-health.podcast.mp3" length="1536260" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep27-bio-hack-gut-health.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Can One Ancient Hum Really Awaken the Pineal Gland?</title>
-      <description>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</description>
-      <pubDate>Mon, 25 May 2026 20:12:36 +0000</pubDate>
-      <itunes:duration>03:39</itunes:duration>
-      <itunes:summary>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1917140" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Kimi Founder's 40-Minute AI Masterclass</title>
-      <description>The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently.</description>
-      <pubDate>Mon, 25 May 2026 20:12:05 +0000</pubDate>
-      <itunes:duration>04:39</itunes:duration>
-      <itunes:summary>The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass.podcast.mp3" length="2242796" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>10 Hermes Agent Features Most People Aren't Using</title>
-      <description>Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents.</description>
-      <pubDate>Mon, 25 May 2026 20:11:31 +0000</pubDate>
-      <itunes:duration>05:29</itunes:duration>
-      <itunes:summary>Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3" length="3050636" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>A New Flat Earth Conceptual Model — and Why It Matters</title>
-      <description>We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information.</description>
-      <pubDate>Mon, 25 May 2026 20:11:24 +0000</pubDate>
-      <itunes:duration>04:03</itunes:duration>
-      <itunes:summary>We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep32-en-wehrman-this-new-flat-earth-conceptual-model.podcast.mp3" length="1932836" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep32-en-wehrman-this-new-flat-earth-conceptual-model.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Codex 0.129.0: 5 New Features You Need to Know</title>
-      <description>A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user.</description>
-      <pubDate>Mon, 25 May 2026 20:11:24 +0000</pubDate>
-      <itunes:duration>03:41</itunes:duration>
-      <itunes:summary>A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep04-codex-five-new-features.podcast.mp3" length="1946660" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep04-codex-five-new-features.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>I Spent Tonight Figuring Out Codex So You Don't Have To</title>
-      <description>A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart).</description>
-      <pubDate>Mon, 25 May 2026 20:11:14 +0000</pubDate>
-      <itunes:duration>06:22</itunes:duration>
-      <itunes:summary>A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart).</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight.podcast.mp3" length="3273932" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Building an AI Agent With Real Memory — From Anthropic's Claude Team</title>
-      <description>Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude.</description>
-      <pubDate>Mon, 25 May 2026 20:09:58 +0000</pubDate>
-      <itunes:duration>03:11</itunes:duration>
-      <itunes:summary>Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep51-khairallah-al-awady-anthropics-claude-team-just-showed.podcast.mp3" length="1762820" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep51-khairallah-al-awady-anthropics-claude-team-just-showed.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The War That Almost Erased Paraguay From the Map</title>
-      <description>The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself.</description>
-      <pubDate>Mon, 25 May 2026 20:09:27 +0000</pubDate>
-      <itunes:duration>04:02</itunes:duration>
-      <itunes:summary>The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep47-paraguay-war-that-almost-erased-a-nation.podcast.mp3" length="2242052" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep47-paraguay-war-that-almost-erased-a-nation.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Boris Cherny on Claude Code: 4% of All GitHub Commits and Counting</title>
-      <description>The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development.</description>
-      <pubDate>Mon, 25 May 2026 20:09:00 +0000</pubDate>
-      <itunes:duration>10:48</itunes:duration>
-      <itunes:summary>The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep58-rahul-boris-cherny-creator-claude-code-just-confirmed.podcast.mp3" length="5680172" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep58-rahul-boris-cherny-creator-claude-code-just-confirmed.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Claude Code is the Best AI Tool on the Planet</title>
-      <description>We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.</description>
-      <pubDate>Mon, 25 May 2026 20:08:53 +0000</pubDate>
-      <itunes:duration>03:29</itunes:duration>
-      <itunes:summary>We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep01-claude-code-best-ai-tool.podcast.mp3" length="1831748" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep01-claude-code-best-ai-tool.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation</title>
       <description>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</description>
-      <pubDate>Mon, 25 May 2026 20:08:43 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 21:25:45 +0000</pubDate>
       <itunes:duration>05:56</itunes:duration>
       <itunes:summary>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3" length="3366068" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Subqueue Claims 52x Faster Long-Context AI With Sub-Quadratic Attention</title>
-      <description>A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet.</description>
-      <pubDate>Mon, 25 May 2026 20:08:24 +0000</pubDate>
-      <itunes:duration>02:56</itunes:duration>
-      <itunes:summary>A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3" length="1629116" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Why Georgia Is Considered the Cradle of Civilisation</title>
-      <description>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</description>
-      <pubDate>Mon, 25 May 2026 20:07:24 +0000</pubDate>
-      <itunes:duration>05:22</itunes:duration>
-      <itunes:summary>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3" length="2819372" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Mises Media: Rothbard's Political Strategy as Entrepreneurship</title>
-      <description>After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty.</description>
-      <pubDate>Mon, 25 May 2026 20:06:54 +0000</pubDate>
-      <itunes:duration>03:45</itunes:duration>
-      <itunes:summary>After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep69-mises-media-system-designed-not-be-unraveled-one.podcast.mp3" length="2105612" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep69-mises-media-system-designed-not-be-unraveled-one.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>EU Banned Citizenship by Investment — Here's What Happened</title>
-      <description>The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight.</description>
-      <pubDate>Mon, 25 May 2026 20:06:35 +0000</pubDate>
-      <itunes:duration>03:47</itunes:duration>
-      <itunes:summary>The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep07-eu-bans-citizenship-investment.podcast.mp3" length="1994636" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep07-eu-bans-citizenship-investment.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Narcissist State: A Psychological Perspective on Statism</title>
-      <description>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</description>
-      <pubDate>Mon, 25 May 2026 20:06:03 +0000</pubDate>
-      <itunes:duration>06:21</itunes:duration>
-      <itunes:summary>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3342908" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Andrej Karpathy: 90% of Your AI Coding Bill is Wasted</title>
-      <description>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</description>
-      <pubDate>Mon, 25 May 2026 20:05:12 +0000</pubDate>
-      <itunes:duration>11:31</itunes:duration>
-      <itunes:summary>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3" length="6084884" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>This Home Costs $300 to Build and $0 to Heat FOREVER. Why Is It Banned?</title>
-      <description>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</description>
-      <pubDate>Mon, 25 May 2026 20:04:56 +0000</pubDate>
-      <itunes:duration>04:17</itunes:duration>
-      <itunes:summary>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3" length="2260700" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>AI Agents Are Changing Everything — Even Accounting</title>
-      <description>A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers.</description>
-      <pubDate>Mon, 25 May 2026 20:04:34 +0000</pubDate>
-      <itunes:duration>02:51</itunes:duration>
-      <itunes:summary>A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep21-video-thereluctantaccountant.podcast.mp3" length="1581140" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep21-video-thereluctantaccountant.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Anthropic Engineer Showed How One Person Can Run 5 AI Agents</title>
-      <description>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</description>
-      <pubDate>Mon, 25 May 2026 20:03:13 +0000</pubDate>
-      <itunes:duration>03:02</itunes:duration>
-      <itunes:summary>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3" length="1505396" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Anthropic Engineer Shows How to Give AI Agents Real Memory</title>
-      <description>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</description>
-      <pubDate>Mon, 25 May 2026 20:02:39 +0000</pubDate>
-      <itunes:duration>03:44</itunes:duration>
-      <itunes:summary>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3" length="2076860" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Critical Commodity Shortages: How to Invest in an Energy Crisis</title>
-      <description>A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie.</description>
-      <pubDate>Mon, 25 May 2026 20:01:38 +0000</pubDate>
-      <itunes:duration>03:53</itunes:duration>
-      <itunes:summary>A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep03-energy-crisis-investing.podcast.mp3" length="2044724" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep03-energy-crisis-investing.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Karpathy on No Priors: The Phase Shift in AI</title>
-      <description>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</description>
-      <pubDate>Mon, 25 May 2026 20:01:19 +0000</pubDate>
-      <itunes:duration>07:31</itunes:duration>
-      <itunes:summary>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3" length="3612404" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Airbnb Engineers on Agentic Coding in Production</title>
-      <description>Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship.</description>
-      <pubDate>Mon, 25 May 2026 19:59:12 +0000</pubDate>
-      <itunes:duration>02:53</itunes:duration>
-      <itunes:summary>Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep43-airbnb-engineers-agentic-coding-production.podcast.mp3" length="1422500" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep43-airbnb-engineers-agentic-coding-production.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Why a Small Town in North Carolina Is America's Chip Ace in the Hole</title>
-      <description>Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance.</description>
-      <pubDate>Mon, 25 May 2026 19:58:11 +0000</pubDate>
-      <itunes:duration>03:46</itunes:duration>
-      <itunes:summary>Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep41-maxinomics-heres-full-video-why-small-town-north.podcast.mp3" length="1988876" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep41-maxinomics-heres-full-video-why-small-town-north.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Hermes Goal Command: Make Your AI Agent Finish the Job</title>
-      <description>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</description>
-      <pubDate>Mon, 25 May 2026 19:57:15 +0000</pubDate>
-      <itunes:duration>07:29</itunes:duration>
-      <itunes:summary>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3" length="3596252" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Building a Local Knowledge Base with Hermes Agent, Obsidian, and LLM</title>
-      <description>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</description>
-      <pubDate>Mon, 25 May 2026 19:57:02 +0000</pubDate>
-      <itunes:duration>04:04</itunes:duration>
-      <itunes:summary>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3" length="2230124" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Chipa and Tereré: The Taste of Paraguay</title>
-      <description>How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without.</description>
-      <pubDate>Mon, 25 May 2026 19:56:50 +0000</pubDate>
-      <itunes:duration>03:52</itunes:duration>
-      <itunes:summary>How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep46-chipa-and-terere-taste-of-paraguay.podcast.mp3" length="2033900" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep46-chipa-and-terere-taste-of-paraguay.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Polka Paraguaya: How a European Dance Became a National Anthem</title>
-      <description>Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing.</description>
-      <pubDate>Mon, 25 May 2026 19:54:49 +0000</pubDate>
-      <itunes:duration>04:02</itunes:duration>
-      <itunes:summary>Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep48-polka-paraguaya-music-of-resilience.podcast.mp3" length="2248220" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep48-polka-paraguaya-music-of-resilience.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Best Claude Cowork Tutorial Under 25 Minutes</title>
-      <description>Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes.</description>
-      <pubDate>Mon, 25 May 2026 19:54:01 +0000</pubDate>
-      <itunes:duration>03:56</itunes:duration>
-      <itunes:summary>Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep44-best-claude-cowork-tutorial-under-25-minutes.podcast.mp3" length="2175740" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep44-best-claude-cowork-tutorial-under-25-minutes.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>When Robots Get Wallets: Agentic Payments Explained</title>
-      <description>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</description>
-      <pubDate>Mon, 25 May 2026 19:52:35 +0000</pubDate>
-      <itunes:duration>09:23</itunes:duration>
-      <itunes:summary>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4640132" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
-      <description>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</description>
-      <pubDate>Mon, 25 May 2026 19:52:18 +0000</pubDate>
-      <itunes:duration>09:59</itunes:duration>
-      <itunes:summary>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3" length="4757444" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Building AI Agents with Claude Inside Microsoft Foundry</title>
-      <description>Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.</description>
-      <pubDate>Mon, 25 May 2026 19:46:58 +0000</pubDate>
-      <itunes:duration>03:06</itunes:duration>
-      <itunes:summary>Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep82-rahul-microsoft-senior-ai-developer-just-showed-how.podcast.mp3" length="1624268" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep82-rahul-microsoft-senior-ai-developer-just-showed-how.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Albania, Serbia, and Montenegro: Cheap Residency Options</title>
-      <description>Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option.</description>
-      <pubDate>Mon, 25 May 2026 19:43:52 +0000</pubDate>
-      <itunes:duration>04:25</itunes:duration>
-      <itunes:summary>Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep06-cheap-residency-balkans.podcast.mp3" length="2327084" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep06-cheap-residency-balkans.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Hermes Agent Masterclass with Akshay Pachaar</title>
-      <description>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</description>
-      <pubDate>Mon, 25 May 2026 19:43:38 +0000</pubDate>
-      <itunes:duration>04:27</itunes:duration>
-      <itunes:summary>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3" length="2206148" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>How Europe Is Designing a Tax System You Can't Escape</title>
-      <description>A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally.</description>
-      <pubDate>Mon, 25 May 2026 19:42:58 +0000</pubDate>
-      <itunes:duration>04:49</itunes:duration>
-      <itunes:summary>A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep13-europe-tax-system-you-cant-escape.podcast.mp3" length="2464940" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep13-europe-tax-system-you-cant-escape.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Microsoft Cancels Internal Anthropic Contract</title>
-      <description>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</description>
-      <pubDate>Mon, 25 May 2026 19:42:14 +0000</pubDate>
-      <itunes:duration>05:14</itunes:duration>
-      <itunes:summary>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3" length="2987156" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Karpathy on Software 3.0: Vibe Coding, Verifiability, and What Remains Human</title>
-      <description>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</description>
-      <pubDate>Mon, 25 May 2026 19:41:42 +0000</pubDate>
-      <itunes:duration>04:14</itunes:duration>
-      <itunes:summary>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2340428" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Goldman Sachs and Citadel Are Buying XRP — Here's Why It Matters</title>
-      <description>Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now.</description>
-      <pubDate>Mon, 25 May 2026 19:41:40 +0000</pubDate>
-      <itunes:duration>03:20</itunes:duration>
-      <itunes:summary>Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp.podcast.mp3" length="1841300" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>We Toured 4 Istanbul Apartments for Turkish Citizenship</title>
-      <description>A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property.</description>
-      <pubDate>Mon, 25 May 2026 19:40:32 +0000</pubDate>
-      <itunes:duration>05:34</itunes:duration>
-      <itunes:summary>A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep16-istanbul-apartment-tour.podcast.mp3" length="3060500" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep16-istanbul-apartment-tour.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Andrej Karpathy Just Declared the End of Programming</title>
-      <description>Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code.</description>
-      <pubDate>Mon, 25 May 2026 19:40:32 +0000</pubDate>
-      <itunes:duration>05:29</itunes:duration>
-      <itunes:summary>Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep12-karpathy-end-of-programming.podcast.mp3" length="3100508" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep12-karpathy-end-of-programming.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>40% of Your Code — Claude Writes It and You Wasted Your Time</title>
-      <description>A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.</description>
-      <pubDate>Mon, 25 May 2026 19:40:13 +0000</pubDate>
-      <itunes:duration>04:08</itunes:duration>
-      <itunes:summary>A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep30-dunik-40-code-claude-writes-you-wasted-youre.podcast.mp3" length="2282108" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep30-dunik-40-code-claude-writes-you-wasted-youre.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
-      <description>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</description>
-      <pubDate>Mon, 25 May 2026 19:39:50 +0000</pubDate>
-      <itunes:duration>03:06</itunes:duration>
-      <itunes:summary>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3" length="1602668" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>How to Actually Use OpenAI Code — From the Engineers Who Built It</title>
-      <description>OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools.</description>
-      <pubDate>Mon, 25 May 2026 19:37:33 +0000</pubDate>
-      <itunes:duration>07:13</itunes:duration>
-      <itunes:summary>OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep17-how-to-use-openai-code.podcast.mp3" length="3449876" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep17-how-to-use-openai-code.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>9 Things the Creator of Claude Code Wants You to Know</title>
-      <description>Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance.</description>
-      <pubDate>Mon, 25 May 2026 19:37:22 +0000</pubDate>
-      <itunes:duration>05:31</itunes:duration>
-      <itunes:summary>Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep11-nine-things-claude-code.podcast.mp3" length="2906876" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep11-nine-things-claude-code.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Anthropic's Official Blueprint for Building a Company With AI</title>
-      <description>Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude.</description>
-      <pubDate>Mon, 25 May 2026 19:37:22 +0000</pubDate>
-      <itunes:duration>04:29</itunes:duration>
-      <itunes:summary>Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep08-anthropic-ai-company-blueprint.podcast.mp3" length="2357372" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep08-anthropic-ai-company-blueprint.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Spotify's Chief Architect: 4,500 Deployments a Day with AI</title>
-      <description>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</description>
-      <pubDate>Mon, 25 May 2026 19:35:46 +0000</pubDate>
-      <itunes:duration>08:23</itunes:duration>
-      <itunes:summary>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3" length="4417196" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Anthropic's Official Playbook for Building an AI Company</title>
-      <description>A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale.</description>
-      <pubDate>Mon, 25 May 2026 19:34:49 +0000</pubDate>
-      <itunes:duration>04:33</itunes:duration>
-      <itunes:summary>A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep09-anthropic-company-playbook.podcast.mp3" length="2191604" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep09-anthropic-company-playbook.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Complete Guide to Building Skills for Claude</title>
-      <description>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</description>
-      <pubDate>Mon, 25 May 2026 19:34:00 +0000</pubDate>
-      <itunes:duration>09:33</itunes:duration>
-      <itunes:summary>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3" length="5271716" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Hermes Agent Memory Guidebook</title>
-      <description>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</description>
-      <pubDate>Mon, 25 May 2026 19:33:40 +0000</pubDate>
-      <itunes:duration>05:43</itunes:duration>
-      <itunes:summary>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3" length="2844644" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>I Built My Own Software Factory and Open-Sourced It</title>
-      <description>Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers.</description>
-      <pubDate>Mon, 25 May 2026 19:32:18 +0000</pubDate>
-      <itunes:duration>03:21</itunes:duration>
-      <itunes:summary>Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep10-open-source-software-factory.podcast.mp3" length="1723772" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep10-open-source-software-factory.podcast.mp3</guid>
     </item>
     <item>
       <title>The 10-Year-Old Who Understands AI Tokens Better Than Most Experts</title>
@@ -687,40 +30,697 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep42-vincent-logic-信号噪音-未来的世界属于懂-token-的人-出自一位10岁博主之口-刚换了.podcast.mp3</guid>
     </item>
     <item>
+      <title>When Robots Get Wallets: Agentic Payments Explained</title>
+      <description>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</description>
+      <pubDate>Mon, 25 May 2026 16:37:58 +0000</pubDate>
+      <itunes:duration>09:23</itunes:duration>
+      <itunes:summary>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4640132" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Anthropic Engineer Showed How One Person Can Run 5 AI Agents</title>
+      <description>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</description>
+      <pubDate>Mon, 25 May 2026 16:37:58 +0000</pubDate>
+      <itunes:duration>03:02</itunes:duration>
+      <itunes:summary>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3" length="1505396" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Can One Ancient Hum Really Awaken the Pineal Gland?</title>
+      <description>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</description>
+      <pubDate>Mon, 25 May 2026 12:29:50 +0000</pubDate>
+      <itunes:duration>03:39</itunes:duration>
+      <itunes:summary>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1917140" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Why Georgia Is Considered the Cradle of Civilisation</title>
+      <description>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</description>
+      <pubDate>Mon, 25 May 2026 11:40:01 +0000</pubDate>
+      <itunes:duration>05:22</itunes:duration>
+      <itunes:summary>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3" length="2819372" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Anthropic Engineer Shows How to Give AI Agents Real Memory</title>
+      <description>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</description>
+      <pubDate>Sun, 24 May 2026 23:34:49 +0000</pubDate>
+      <itunes:duration>03:44</itunes:duration>
+      <itunes:summary>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3" length="2076860" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep83-anthropic-ai-engineer-just-showed-how-give-ai.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Building AI Agents with Claude Inside Microsoft Foundry</title>
+      <description>Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.</description>
+      <pubDate>Sun, 24 May 2026 19:49:49 +0000</pubDate>
+      <itunes:duration>03:06</itunes:duration>
+      <itunes:summary>Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep82-rahul-microsoft-senior-ai-developer-just-showed-how.podcast.mp3" length="1624268" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep82-rahul-microsoft-senior-ai-developer-just-showed-how.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Agent Memory Guidebook</title>
+      <description>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</description>
+      <pubDate>Sun, 24 May 2026 18:52:39 +0000</pubDate>
+      <itunes:duration>05:43</itunes:duration>
+      <itunes:summary>A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3" length="2844644" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep80-hermes-agent-memory-guidebook.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Karpathy on Software 3.0: Vibe Coding, Verifiability, and What Remains Human</title>
+      <description>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</description>
+      <pubDate>Sun, 24 May 2026 18:29:33 +0000</pubDate>
+      <itunes:duration>04:14</itunes:duration>
+      <itunes:summary>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2340428" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
+      <description>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</description>
+      <pubDate>Sat, 23 May 2026 10:55:14 +0000</pubDate>
+      <itunes:duration>03:06</itunes:duration>
+      <itunes:summary>Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&amp;A decisions.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3" length="1602668" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep77-khairallah-al-awady-claude-code-team-just-dropped.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Anarchist Who Tried to Destroy Marx's Movement</title>
+      <description>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</description>
+      <pubDate>Sat, 23 May 2026 10:46:26 +0000</pubDate>
+      <itunes:duration>03:16</itunes:duration>
+      <itunes:summary>Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3" length="1716644" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Subqueue Claims 52x Faster Long-Context AI With Sub-Quadratic Attention</title>
+      <description>A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet.</description>
+      <pubDate>Fri, 22 May 2026 23:53:53 +0000</pubDate>
+      <itunes:duration>02:56</itunes:duration>
+      <itunes:summary>A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3" length="1629116" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep75-video-parthknowsai.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Borough Market: 1000 Years of London on a Plate</title>
+      <description>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</description>
+      <pubDate>Fri, 22 May 2026 14:16:59 +0000</pubDate>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:summary>From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3" length="3679916" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep74-borough-market-1000-years-london-plate.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Blackheath and Greenwich Park: A Walk Through 2000 Years of History</title>
+      <description>A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces.</description>
+      <pubDate>Fri, 22 May 2026 14:14:52 +0000</pubDate>
+      <itunes:duration>06:02</itunes:duration>
+      <itunes:summary>A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3" length="3367220" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-blackheath-greenwich-park-walk-through-2000-years-history.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Microsoft Cancels Internal Anthropic Contract</title>
+      <description>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</description>
+      <pubDate>Fri, 22 May 2026 13:39:32 +0000</pubDate>
+      <itunes:duration>05:14</itunes:duration>
+      <itunes:summary>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3" length="2987156" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
+      <description>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</description>
+      <pubDate>Fri, 22 May 2026 12:19:30 +0000</pubDate>
+      <itunes:duration>09:59</itunes:duration>
+      <itunes:summary>A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3" length="4757444" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep70-history-london-docklands-from-roman-port-canary-wharf.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Why AI Agents Are Switching from Markdown to HTML</title>
+      <description>An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.</description>
+      <pubDate>Fri, 22 May 2026 12:16:23 +0000</pubDate>
+      <itunes:duration>02:38</itunes:duration>
+      <itunes:summary>An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep70-video-agenticengineering.podcast.mp3" length="1502084" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep70-video-agenticengineering.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Mises Media: Rothbard's Political Strategy as Entrepreneurship</title>
+      <description>After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty.</description>
+      <pubDate>Fri, 22 May 2026 08:38:24 +0000</pubDate>
+      <itunes:duration>03:45</itunes:duration>
+      <itunes:summary>After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep69-mises-media-system-designed-not-be-unraveled-one.podcast.mp3" length="2105612" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep69-mises-media-system-designed-not-be-unraveled-one.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Complete Guide to Building Skills for Claude</title>
+      <description>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</description>
+      <pubDate>Thu, 21 May 2026 00:06:55 +0000</pubDate>
+      <itunes:duration>09:33</itunes:duration>
+      <itunes:summary>Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3" length="5271716" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep68-complete-guide-building-skills-claude.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Narcissist State: A Psychological Perspective on Statism</title>
+      <description>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</description>
+      <pubDate>Wed, 20 May 2026 23:07:24 +0000</pubDate>
+      <itunes:duration>06:21</itunes:duration>
+      <itunes:summary>What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3342908" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep67-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Kinsella vs Rose: The Libertarian Civil War Over Intellectual Property</title>
+      <description>Stefan Kinsella dissects Larken Rose's arguments against intellectual property — and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this.</description>
+      <pubDate>Wed, 20 May 2026 23:04:53 +0000</pubDate>
+      <itunes:duration>05:28</itunes:duration>
+      <itunes:summary>Stefan Kinsella dissects Larken Rose's arguments against intellectual property — and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3" length="2904164" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-kol415-commentary-larken-rose-ip-wrong-question-part.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>This Home Costs $300 to Build and $0 to Heat FOREVER. Why Is It Banned?</title>
+      <description>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</description>
+      <pubDate>Wed, 20 May 2026 23:02:18 +0000</pubDate>
+      <itunes:duration>04:17</itunes:duration>
+      <itunes:summary>Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3" length="2260700" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-this-home-costs-300-build-0-heat-forever.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Spotify's Chief Architect: 4,500 Deployments a Day with AI</title>
+      <description>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</description>
+      <pubDate>Wed, 20 May 2026 23:01:25 +0000</pubDate>
+      <itunes:duration>08:23</itunes:duration>
+      <itunes:summary>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3" length="4417196" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3</guid>
+    </item>
+    <item>
       <title>The $100 Billion Ghost City Nobody Moved To</title>
       <description>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</description>
-      <pubDate>Wed, 20 May 2026 22:00:40 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 23:01:25 +0000</pubDate>
       <itunes:duration>02:59</itunes:duration>
       <itunes:summary>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3" length="1485092" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3</guid>
     </item>
     <item>
-      <title>The Welsh Who Chose Paraguay</title>
-      <description>In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
+      <title>Peter Steinberger's 9 Rules for Agentic Engineering</title>
+      <description>Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.</description>
+      <pubDate>Wed, 20 May 2026 09:42:48 +0000</pubDate>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:summary>Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep61-avid-peter-steinberger-creator-openclaw-just-gave-30.podcast.mp3" length="3698948" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep61-avid-peter-steinberger-creator-openclaw-just-gave-30.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Goal Command: Make Your AI Agent Finish the Job</title>
+      <description>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</description>
+      <pubDate>Wed, 20 May 2026 09:42:48 +0000</pubDate>
+      <itunes:duration>07:29</itunes:duration>
+      <itunes:summary>The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3" length="3596252" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Claude Code is the Best AI Tool on the Planet</title>
+      <description>We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:29</itunes:duration>
+      <itunes:summary>We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep01-claude-code-best-ai-tool.podcast.mp3" length="1831748" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep01-claude-code-best-ai-tool.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Jane Street Hired This Junior at $600K Because He Uses AI</title>
+      <description>The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:26</itunes:duration>
+      <itunes:summary>The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep02-jane-street-ai-hire.podcast.mp3" length="2449172" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep02-jane-street-ai-hire.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Critical Commodity Shortages: How to Invest in an Energy Crisis</title>
+      <description>A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:53</itunes:duration>
+      <itunes:summary>A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep03-energy-crisis-investing.podcast.mp3" length="2044724" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep03-energy-crisis-investing.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Codex 0.129.0: 5 New Features You Need to Know</title>
+      <description>A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:41</itunes:duration>
+      <itunes:summary>A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep04-codex-five-new-features.podcast.mp3" length="1946660" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep04-codex-five-new-features.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>I Made a Real Estate Investment in Izmir, Turkey</title>
+      <description>A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:48</itunes:duration>
+      <itunes:summary>A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep05-izmir-real-estate-investment.podcast.mp3" length="1944860" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep05-izmir-real-estate-investment.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Albania, Serbia, and Montenegro: Cheap Residency Options</title>
+      <description>Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
       <itunes:duration>04:25</itunes:duration>
-      <itunes:summary>In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep49-welsh-migrants-paraguay.podcast.mp3" length="2321300" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep49-welsh-migrants-paraguay.podcast.mp3</guid>
+      <itunes:summary>Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep06-cheap-residency-balkans.podcast.mp3" length="2327084" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep06-cheap-residency-balkans.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>EU Banned Citizenship by Investment — Here's What Happened</title>
+      <description>The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:47</itunes:duration>
+      <itunes:summary>The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep07-eu-bans-citizenship-investment.podcast.mp3" length="1994636" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep07-eu-bans-citizenship-investment.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Anthropic's Official Blueprint for Building a Company With AI</title>
+      <description>Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:29</itunes:duration>
+      <itunes:summary>Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep08-anthropic-ai-company-blueprint.podcast.mp3" length="2357372" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep08-anthropic-ai-company-blueprint.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Anthropic's Official Playbook for Building an AI Company</title>
+      <description>A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:33</itunes:duration>
+      <itunes:summary>A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep09-anthropic-company-playbook.podcast.mp3" length="2191604" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep09-anthropic-company-playbook.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>I Built My Own Software Factory and Open-Sourced It</title>
+      <description>Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:21</itunes:duration>
+      <itunes:summary>Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep10-open-source-software-factory.podcast.mp3" length="1723772" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep10-open-source-software-factory.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>9 Things the Creator of Claude Code Wants You to Know</title>
+      <description>Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>05:31</itunes:duration>
+      <itunes:summary>Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep11-nine-things-claude-code.podcast.mp3" length="2906876" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep11-nine-things-claude-code.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Andrej Karpathy Just Declared the End of Programming</title>
+      <description>Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>05:29</itunes:duration>
+      <itunes:summary>Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep12-karpathy-end-of-programming.podcast.mp3" length="3100508" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep12-karpathy-end-of-programming.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>How Europe Is Designing a Tax System You Can't Escape</title>
+      <description>A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:49</itunes:duration>
+      <itunes:summary>A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep13-europe-tax-system-you-cant-escape.podcast.mp3" length="2464940" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep13-europe-tax-system-you-cant-escape.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>10 Hermes Agent Features Most People Aren't Using</title>
+      <description>Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>05:29</itunes:duration>
+      <itunes:summary>Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3" length="3050636" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>We Toured 4 Istanbul Apartments for Turkish Citizenship</title>
+      <description>A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>05:34</itunes:duration>
+      <itunes:summary>A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep16-istanbul-apartment-tour.podcast.mp3" length="3060500" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep16-istanbul-apartment-tour.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>How to Actually Use OpenAI Code — From the Engineers Who Built It</title>
+      <description>OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>07:13</itunes:duration>
+      <itunes:summary>OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep17-how-to-use-openai-code.podcast.mp3" length="3449876" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep17-how-to-use-openai-code.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Inside Communist-Controlled Cuba's Humanitarian Crisis</title>
+      <description>Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>05:33</itunes:duration>
+      <itunes:summary>Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep18-inside-communist-cuba.podcast.mp3" length="3076844" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep18-inside-communist-cuba.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>LLMs Hallucinate. A LOT. — Matt Pocock</title>
+      <description>Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:47</itunes:duration>
+      <itunes:summary>Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep19-llms-hallucinate-lot.podcast.mp3" length="2637716" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep19-llms-hallucinate-lot.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Agent Setup: A Step-by-Step Guide</title>
+      <description>A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:36</itunes:duration>
+      <itunes:summary>A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep20-hermes-agent-setup-step-step.podcast.mp3" length="2620004" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep20-hermes-agent-setup-step-step.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>AI Agents Are Changing Everything — Even Accounting</title>
+      <description>A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:summary>A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep21-video-thereluctantaccountant.podcast.mp3" length="1581140" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep21-video-thereluctantaccountant.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Karpathy on No Priors: The Phase Shift in AI</title>
+      <description>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>07:31</itunes:duration>
+      <itunes:summary>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3" length="3612404" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Karpathy Threw a Grenade at Every Senior Engineer</title>
+      <description>Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:09</itunes:duration>
+      <itunes:summary>Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer.podcast.mp3" length="1493300" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>I Spent Tonight Figuring Out Codex So You Don't Have To</title>
+      <description>A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart).</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>06:22</itunes:duration>
+      <itunes:summary>A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart).</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight.podcast.mp3" length="3273932" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Bio Hack Revolution: Gut Health Secrets</title>
+      <description>The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:58</itunes:duration>
+      <itunes:summary>The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep27-bio-hack-gut-health.podcast.mp3" length="1536260" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep27-bio-hack-gut-health.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Kimi Founder's 40-Minute AI Masterclass</title>
+      <description>The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:39</itunes:duration>
+      <itunes:summary>The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass.podcast.mp3" length="2242796" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Matt Pocock's New Skills: Handoff and Beyond</title>
+      <description>Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:45</itunes:duration>
+      <itunes:summary>Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep29-matt-pocock-two-new-skills-this-week-handoff.podcast.mp3" length="1357532" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep29-matt-pocock-two-new-skills-this-week-handoff.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>40% of Your Code — Claude Writes It and You Wasted Your Time</title>
+      <description>A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:08</itunes:duration>
+      <itunes:summary>A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep30-dunik-40-code-claude-writes-you-wasted-youre.podcast.mp3" length="2282108" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep30-dunik-40-code-claude-writes-you-wasted-youre.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>A New Flat Earth Conceptual Model — and Why It Matters</title>
+      <description>We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:03</itunes:duration>
+      <itunes:summary>We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep32-en-wehrman-this-new-flat-earth-conceptual-model.podcast.mp3" length="1932836" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep32-en-wehrman-this-new-flat-earth-conceptual-model.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Andrej Karpathy: 90% of Your AI Coding Bill is Wasted</title>
+      <description>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>11:31</itunes:duration>
+      <itunes:summary>Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3" length="6084884" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep33-ronin-andrej-karpathy-90-your-ai-coding-bill.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Matt Pocock: Anthropic Has Given Us a Dedicated Monthly Budget</title>
+      <description>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:40</itunes:duration>
+      <itunes:summary>Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3" length="1370924" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>How to Build an Obsidian Vault That Runs Your Entire Life</title>
+      <description>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:50</itunes:duration>
+      <itunes:summary>A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3" length="2708516" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep35-how-build-obsidian-vault-that-runs-your-entire.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Agent Masterclass with Akshay Pachaar</title>
+      <description>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:27</itunes:duration>
+      <itunes:summary>Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3" length="2206148" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep36-hermes-agent-masterclass-akshay-pachaar.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Building a Local Knowledge Base with Hermes Agent, Obsidian, and LLM</title>
+      <description>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:04</itunes:duration>
+      <itunes:summary>A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3" length="2230124" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep37-building-local-knowledge-base-hermes-agent-obsidian-llm.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Matt Pocock's Grill with Docs: AI Pair Programming Evolved</title>
+      <description>Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:39</itunes:duration>
+      <itunes:summary>Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3" length="2064500" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>How to Run Paperclip and Hermes in 24 Hours</title>
+      <description>Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:36</itunes:duration>
+      <itunes:summary>Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep39-how-run-paperclip-hermes-24-hours.podcast.mp3" length="1475732" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep39-how-run-paperclip-hermes-24-hours.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Anthropic Head of Product's 28-Minute AI Masterclass</title>
+      <description>Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:48</itunes:duration>
+      <itunes:summary>Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep40-movez-anthropic-head-product-just-dropped-28-minute.podcast.mp3" length="1586420" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep40-movez-anthropic-head-product-just-dropped-28-minute.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Why a Small Town in North Carolina Is America's Chip Ace in the Hole</title>
+      <description>Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:46</itunes:duration>
+      <itunes:summary>Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep41-maxinomics-heres-full-video-why-small-town-north.podcast.mp3" length="1988876" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep41-maxinomics-heres-full-video-why-small-town-north.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Airbnb Engineers on Agentic Coding in Production</title>
+      <description>Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:53</itunes:duration>
+      <itunes:summary>Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep43-airbnb-engineers-agentic-coding-production.podcast.mp3" length="1422500" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep43-airbnb-engineers-agentic-coding-production.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Best Claude Cowork Tutorial Under 25 Minutes</title>
+      <description>Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:56</itunes:duration>
+      <itunes:summary>Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep44-best-claude-cowork-tutorial-under-25-minutes.podcast.mp3" length="2175740" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep44-best-claude-cowork-tutorial-under-25-minutes.podcast.mp3</guid>
     </item>
     <item>
       <title>Guaraní: The Indigenous Language That Outlived an Empire</title>
       <description>Why Paraguay is the only country in the Americas where an indigenous language is spoken by the majority — and how Guaraní became the heartbeat of a nation.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
       <itunes:duration>03:58</itunes:duration>
       <itunes:summary>Why Paraguay is the only country in the Americas where an indigenous language is spoken by the majority — and how Guaraní became the heartbeat of a nation.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep45-guarani-language-soul-of-paraguay.podcast.mp3" length="1892228" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep45-guarani-language-soul-of-paraguay.podcast.mp3</guid>
     </item>
     <item>
-      <title>Jane Street Hired This Junior at $600K Because He Uses AI</title>
-      <description>The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market.</description>
-      <pubDate>Sun, 17 May 2026 20:26:34 +0000</pubDate>
-      <itunes:duration>04:26</itunes:duration>
-      <itunes:summary>The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep02-jane-street-ai-hire.podcast.mp3" length="2449172" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep02-jane-street-ai-hire.podcast.mp3</guid>
+      <title>Chipa and Tereré: The Taste of Paraguay</title>
+      <description>How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:52</itunes:duration>
+      <itunes:summary>How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep46-chipa-and-terere-taste-of-paraguay.podcast.mp3" length="2033900" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep46-chipa-and-terere-taste-of-paraguay.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The War That Almost Erased Paraguay From the Map</title>
+      <description>The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:02</itunes:duration>
+      <itunes:summary>The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep47-paraguay-war-that-almost-erased-a-nation.podcast.mp3" length="2242052" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep47-paraguay-war-that-almost-erased-a-nation.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Polka Paraguaya: How a European Dance Became a National Anthem</title>
+      <description>Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:02</itunes:duration>
+      <itunes:summary>Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep48-polka-paraguaya-music-of-resilience.podcast.mp3" length="2248220" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep48-polka-paraguaya-music-of-resilience.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Welsh Who Chose Paraguay</title>
+      <description>In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:summary>In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep49-welsh-migrants-paraguay.podcast.mp3" length="2321300" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep49-welsh-migrants-paraguay.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Flight Attendant's Top Hacks to Save Big on Flights</title>
+      <description>An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:15</itunes:duration>
+      <itunes:summary>An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep50-flight-attendant-top-hacks-save-big.podcast.mp3" length="1266116" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep50-flight-attendant-top-hacks-save-big.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Building an AI Agent With Real Memory — From Anthropic's Claude Team</title>
+      <description>Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:11</itunes:duration>
+      <itunes:summary>Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep51-khairallah-al-awady-anthropics-claude-team-just-showed.podcast.mp3" length="1762820" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep51-khairallah-al-awady-anthropics-claude-team-just-showed.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The Godfather of AI: The Lecture That Keeps You Awake</title>
+      <description>If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:58</itunes:duration>
+      <itunes:summary>If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep53-godfather-ai-lecture-that-keeps-you-awake.podcast.mp3" length="2082932" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep53-godfather-ai-lecture-that-keeps-you-awake.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Paraguay's Bloody Independence</title>
+      <description>What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>09:07</itunes:duration>
+      <itunes:summary>What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep55-paraguays-bloody-independence.podcast.mp3" length="5040284" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep55-paraguays-bloody-independence.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Agent v0.14: The Foundation Release</title>
+      <description>Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:46</itunes:duration>
+      <itunes:summary>Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep57-nous-research-hermes-agent-v0140-foundation-release-changelog.podcast.mp3" length="1577492" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep57-nous-research-hermes-agent-v0140-foundation-release-changelog.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Boris Cherny on Claude Code: 4% of All GitHub Commits and Counting</title>
+      <description>The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>10:48</itunes:duration>
+      <itunes:summary>The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep58-rahul-boris-cherny-creator-claude-code-just-confirmed.podcast.mp3" length="5680172" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep58-rahul-boris-cherny-creator-claude-code-just-confirmed.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Goldman Sachs and Citadel Are Buying XRP — Here's Why It Matters</title>
+      <description>Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>03:20</itunes:duration>
+      <itunes:summary>Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp.podcast.mp3" length="1841300" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>What the Founding Fathers of Israel Actually Said Behind Closed Doors</title>
+      <description>Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.</description>
+      <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
+      <itunes:duration>02:37</itunes:duration>
+      <itunes:summary>Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3" length="1473308" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3</guid>
     </item>
   </channel>
 </rss>

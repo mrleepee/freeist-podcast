@@ -1,322 +1,400 @@
 {
   "ep01-claude-code-best-ai-tool": {
     "title": "Claude Code is the Best AI Tool on the Planet",
-    "description": "We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available."
+    "description": "We explore why Claude Code with ChatGPT 5.5 is being called literally magic \u2014 from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep02-jane-street-ai-hire": {
     "title": "Jane Street Hired This Junior at $600K Because He Uses AI",
-    "description": "The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market."
+    "description": "The story of how a junior developer landed a $220K to $600K per year role at Jane Street, one of the most prestigious trading firms in the world, primarily because of their AI skills. What this tells us about the changing job market.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep03-energy-crisis-investing": {
     "title": "Critical Commodity Shortages: How to Invest in an Energy Crisis",
-    "description": "A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie."
+    "description": "A deep dive into the coming commodity supercycle and why critical mineral shortages could reshape global energy markets. What the smart money is doing and where the opportunities lie.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep04-codex-five-new-features": {
     "title": "Codex 0.129.0: 5 New Features You Need to Know",
-    "description": "A walkthrough of the five most important new features in Codex 0.129.0 — from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user."
+    "description": "A walkthrough of the five most important new features in Codex 0.129.0 \u2014 from keymap debugging to Vim mode, raw mode, and the redesigned session browser. Essential listening for any Codex user.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep05-izmir-real-estate-investment": {
     "title": "I Made a Real Estate Investment in Izmir, Turkey",
-    "description": "A firsthand look at buying property in Izmir, Turkey — from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically."
+    "description": "A firsthand look at buying property in Izmir, Turkey \u2014 from the process and prices to the realities of investing in Turkish real estate as a foreigner. What to expect, what to avoid, and why Izmir specifically.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep06-cheap-residency-balkans": {
     "title": "Albania, Serbia, and Montenegro: Cheap Residency Options",
-    "description": "Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option."
+    "description": "Three Balkan countries are offering some of the easiest and cheapest residency pathways in Europe. We break down the requirements, costs, and lifestyle trade-offs for each option.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep07-eu-bans-citizenship-investment": {
-    "title": "EU Banned Citizenship by Investment — Here's What Happened",
-    "description": "The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared — it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight."
+    "title": "EU Banned Citizenship by Investment \u2014 Here's What Happened",
+    "description": "The EU Court of Justice struck down formal citizenship-by-investment programmes in 2025. But demand hasn't disappeared \u2014 it's gone underground into discretionary 'citizenship by merit' schemes that operate with zero EU oversight.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep08-anthropic-ai-company-blueprint": {
     "title": "Anthropic's Official Blueprint for Building a Company With AI",
-    "description": "Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude."
+    "description": "Anthropic published their official guide for building a company using AI agents. We break down the key strategies, architecture decisions, and practical advice from the team behind Claude.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep09-anthropic-company-playbook": {
     "title": "Anthropic's Official Playbook for Building an AI Company",
-    "description": "A companion to the blueprint — this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale."
+    "description": "A companion to the blueprint \u2014 this episode covers the operational playbook: team structure, agent design patterns, and how to actually ship AI-powered products at scale.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep10-open-source-software-factory": {
     "title": "I Built My Own Software Factory and Open-Sourced It",
-    "description": "Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers."
+    "description": "Matt Pocock built a complete software factory using AI agents and open-sourced the whole thing. We explore the architecture, the tooling choices, and what it means for solo developers.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep11-nine-things-claude-code": {
     "title": "9 Things the Creator of Claude Code Wants You to Know",
-    "description": "Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance."
+    "description": "Boris Cherny, the creator of Claude Code at Anthropic, listed nine insights about how to get the most out of AI coding tools. From workflow patterns to mental models that change how you think about AI assistance.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep12-karpathy-end-of-programming": {
     "title": "Andrej Karpathy Just Declared the End of Programming",
-    "description": "Andrej Karpathy — one of the founding minds of modern AI — says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code."
+    "description": "Andrej Karpathy \u2014 one of the founding minds of modern AI \u2014 says programming as we know it is over. Not clickbait, but a nuanced argument about how AI is fundamentally changing what it means to write code.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep13-europe-tax-system-you-cant-escape": {
     "title": "How Europe Is Designing a Tax System You Can't Escape",
-    "description": "A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally."
+    "description": "A look at how European countries, led by the Netherlands, are building an increasingly coordinated tax net that makes it harder than ever to optimise or reduce your tax burden legally.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep15-ten-hermes-agent-features": {
     "title": "10 Hermes Agent Features Most People Aren't Using",
-    "description": "Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents."
+    "description": "Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging \u2014 ten features that will change how you use AI agents.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep16-istanbul-apartment-tour": {
     "title": "We Toured 4 Istanbul Apartments for Turkish Citizenship",
-    "description": "A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property."
+    "description": "A tour of four actual apartments in central Istanbul that qualify for the Turkish citizenship by investment programme. Real prices, real neighbourhoods, and honest assessments of each property.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep17-how-to-use-openai-code": {
-    "title": "How to Actually Use OpenAI Code — From the Engineers Who Built It",
-    "description": "OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools."
+    "title": "How to Actually Use OpenAI Code \u2014 From the Engineers Who Built It",
+    "description": "OpenAI's own engineers showed how they actually use their own coding tools internally. Spoiler: it's not how you think. Practical tips and workflows straight from the team building the tools.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep18-inside-communist-cuba": {
     "title": "Inside Communist-Controlled Cuba's Humanitarian Crisis",
-    "description": "Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening — the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling."
+    "description": "Cuba is facing its largest humanitarian crisis in decades. We go inside the communist-controlled island to understand what's really happening \u2014 the food shortages, the power grid failures, the mass emigration, and why the system is finally buckling.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep19-llms-hallucinate-lot": {
-    "title": "LLMs Hallucinate. A LOT. — Matt Pocock",
-    "description": "Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with."
+    "title": "LLMs Hallucinate. A LOT. \u2014 Matt Pocock",
+    "description": "Matt Pocock breaks down one of the most frustrating realities of working with AI: large language models hallucinate constantly. Why it happens, how to mitigate it, and whether it's a solvable problem or an inherent limitation we just have to live with.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep20-hermes-agent-setup-step-step": {
     "title": "Hermes Agent Setup: A Step-by-Step Guide",
-    "description": "A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running — explained clearly and step by step."
+    "description": "A complete walkthrough of setting up Hermes Agent from scratch. Installation, configuration, connecting to messaging platforms, and getting your first AI agent running \u2014 explained clearly and step by step.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep21-video-thereluctantaccountant": {
-    "title": "AI Agents Are Changing Everything — Even Accounting",
-    "description": "A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers."
+    "title": "AI Agents Are Changing Everything \u2014 Even Accounting",
+    "description": "A look at how AI agents are disrupting traditional industries like accounting, and what it means for professionals who've spent decades building their careers.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase": {
     "title": "Karpathy on No Priors: The Phase Shift in AI",
-    "description": "Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society."
+    "description": "Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now \u2014 from how models are trained to how they're changing software development and society.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer": {
     "title": "Karpathy Threw a Grenade at Every Senior Engineer",
-    "description": "Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners — it's the future of all software development."
+    "description": "Andrej Karpathy's latest take on AI coding has senior engineers rattled. He argues that vibe coding isn't just for beginners \u2014 it's the future of all software development.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep26-cyrilxbt-instead-spending-weeks-figuring-out-codex-tonight": {
     "title": "I Spent Tonight Figuring Out Codex So You Don't Have To",
-    "description": "A deep dive into OpenAI's Codex coding agent — setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart)."
+    "description": "A deep dive into OpenAI's Codex coding agent \u2014 setting it up, figuring out the workflow, and discovering what it actually does well (and where it falls apart).",
+    "date": "2026-05-18 16:55:44"
   },
   "ep27-bio-hack-gut-health": {
     "title": "The Bio Hack Revolution: Gut Health Secrets",
-    "description": "The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype."
+    "description": "The latest science on gut health and why the biohacking community is obsessed with it. Practical tips backed by research, not hype.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep28-kirill-kimi-founder-just-dropped-40-minute-masterclass": {
     "title": "Kimi Founder's 40-Minute AI Masterclass",
-    "description": "The founder of Kimi drops a masterclass on building AI products — from founding principles to scaling, and why the best AI companies are built differently."
+    "description": "The founder of Kimi drops a masterclass on building AI products \u2014 from founding principles to scaling, and why the best AI companies are built differently.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep29-matt-pocock-two-new-skills-this-week-handoff": {
     "title": "Matt Pocock's New Skills: Handoff and Beyond",
-    "description": "Matt Pocock introduces two new AI-powered skills this week — including Handoff, a tool that changes how developers work with AI agents on complex codebases."
+    "description": "Matt Pocock introduces two new AI-powered skills this week \u2014 including Handoff, a tool that changes how developers work with AI agents on complex codebases.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep30-dunik-40-code-claude-writes-you-wasted-youre": {
-    "title": "40% of Your Code — Claude Writes It and You Wasted Your Time",
-    "description": "A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it."
+    "title": "40% of Your Code \u2014 Claude Writes It and You Wasted Your Time",
+    "description": "A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep32-en-wehrman-this-new-flat-earth-conceptual-model": {
-    "title": "A New Flat Earth Conceptual Model — and Why It Matters",
-    "description": "We examine a new conceptual model for the flat earth theory — not to endorse it, but to understand why these ideas persist and what they reveal about how people process information."
+    "title": "A New Flat Earth Conceptual Model \u2014 and Why It Matters",
+    "description": "We examine a new conceptual model for the flat earth theory \u2014 not to endorse it, but to understand why these ideas persist and what they reveal about how people process information.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep38-matt-pocock-grill-me-my-most-popular-skill": {
     "title": "Matt Pocock's Grill with Docs: AI Pair Programming Evolved",
-    "description": "Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive."
+    "description": "Matt Pocock's most popular skill 'Grill Me' got an upgrade. By combining relentless AI interviewing with Domain-Driven Design's Ubiquitous Language concept, 'Grill with Docs' creates a shared vocabulary that makes AI-assisted coding faster, more precise, and less repetitive.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep39-how-run-paperclip-hermes-24-hours": {
     "title": "How to Run Paperclip and Hermes in 24 Hours",
-    "description": "Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure."
+    "description": "Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer \u2014 turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep40-movez-anthropic-head-product-just-dropped-28-minute": {
     "title": "Anthropic Head of Product's 28-Minute AI Masterclass",
-    "description": "Anthropic's Head of Product dropped a masterclass on building with AI — practical insights from inside the company behind Claude on product strategy, agent design, and what actually works."
+    "description": "Anthropic's Head of Product dropped a masterclass on building with AI \u2014 practical insights from inside the company behind Claude on product strategy, agent design, and what actually works.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep41-maxinomics-heres-full-video-why-small-town-north": {
     "title": "Why a Small Town in North Carolina Is America's Chip Ace in the Hole",
-    "description": "Maxinomics explains why China will always depend on the US for chips — and how one small town in North Carolina holds the key to America's semiconductor dominance."
+    "description": "Maxinomics explains why China will always depend on the US for chips \u2014 and how one small town in North Carolina holds the key to America's semiconductor dominance.",
+    "date": "2026-05-18 16:55:44"
   },
-  "ep42-vincent-logic-信号噪音-未来的世界属于懂-token-的人-出自一位10岁博主之口-刚换了": {
+  "ep42-vincent-logic-\u4fe1\u53f7\u566a\u97f3-\u672a\u6765\u7684\u4e16\u754c\u5c5e\u4e8e\u61c2-token-\u7684\u4eba-\u51fa\u81ea\u4e00\u4f4d10\u5c81\u535a\u4e3b\u4e4b\u53e3-\u521a\u6362\u4e86": {
     "title": "The 10-Year-Old Who Understands AI Tokens Better Than Most Experts",
     "description": "A 10-year-old Chinese blogger explains why tokens are the hard currency of the AI era, breaks down the AI supply chain from energy to applications, and runs multiple AI agents on his new Mac Studio. His insights on compute and token economics might be closer to the truth than many expert reports."
   },
   "ep43-airbnb-engineers-agentic-coding-production": {
     "title": "Airbnb Engineers on Agentic Coding in Production",
-    "description": "Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production — live lecture on real agentic coding workflows that actually ship."
+    "description": "Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production \u2014 live lecture on real agentic coding workflows that actually ship.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep44-best-claude-cowork-tutorial-under-25-minutes": {
     "title": "The Best Claude Cowork Tutorial Under 25 Minutes",
-    "description": "Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough — from setup to advanced workflows in under 25 minutes."
+    "description": "Tina Huang, ex-Meta data scientist, delivers the definitive Claude Cowork walkthrough \u2014 from setup to advanced workflows in under 25 minutes.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep45-guarani-language-soul-of-paraguay": {
-    "title": "Guaraní: The Indigenous Language That Outlived an Empire",
-    "description": "Why Paraguay is the only country in the Americas where an indigenous language is spoken by the majority — and how Guaraní became the heartbeat of a nation."
+    "title": "Guaran\u00ed: The Indigenous Language That Outlived an Empire",
+    "description": "Why Paraguay is the only country in the Americas where an indigenous language is spoken by the majority \u2014 and how Guaran\u00ed became the heartbeat of a nation.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep46-chipa-and-terere-taste-of-paraguay": {
-    "title": "Chipa and Tereré: The Taste of Paraguay",
-    "description": "How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals — UNESCO-recognised, legally protected, and impossible to imagine life without."
+    "title": "Chipa and Terer\u00e9: The Taste of Paraguay",
+    "description": "How a simple cheese bread and a cold herbal drink became Paraguay's most iconic cultural rituals \u2014 UNESCO-recognised, legally protected, and impossible to imagine life without.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep47-paraguay-war-that-almost-erased-a-nation": {
     "title": "The War That Almost Erased Paraguay From the Map",
-    "description": "The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself."
+    "description": "The War of the Triple Alliance killed up to seventy percent of Paraguay's men and lost forty percent of its territory. How one nation survived near-extinction and rebuilt itself.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep48-polka-paraguaya-music-of-resilience": {
     "title": "Polka Paraguaya: How a European Dance Became a National Anthem",
-    "description": "Paraguay took the European polka and made it something entirely its own — a UNESCO-recognised musical tradition built on Guaraní soul, Paraguayan harp, and the resilience of a people who refused to stop singing."
+    "description": "Paraguay took the European polka and made it something entirely its own \u2014 a UNESCO-recognised musical tradition built on Guaran\u00ed soul, Paraguayan harp, and the resilience of a people who refused to stop singing.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep49-welsh-migrants-paraguay": {
     "title": "The Welsh Who Chose Paraguay",
-    "description": "In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures — Wales stripped of autonomy, Paraguay stripped of its population — found each other and built something unexpected."
+    "description": "In the 1880s, a group of Welsh settlers crossed the Atlantic to build a New Wales in the heart of South America. Two wounded cultures \u2014 Wales stripped of autonomy, Paraguay stripped of its population \u2014 found each other and built something unexpected.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep50-flight-attendant-top-hacks-save-big": {
     "title": "Flight Attendant's Top Hacks to Save Big on Flights",
-    "description": "An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking."
+    "description": "An ex-flight attendant shares four insider tricks: the best days to book, why incognito mode matters, which days are cheapest to fly, and the service that automatically refunds you when prices drop after booking.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep51-khairallah-al-awady-anthropics-claude-team-just-showed": {
-    "title": "Building an AI Agent With Real Memory — From Anthropic's Claude Team",
-    "description": "Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude."
+    "title": "Building an AI Agent With Real Memory \u2014 From Anthropic's Claude Team",
+    "description": "Anthropic's Claude team shows how to build an AI agent with persistent memory in under 30 minutes. Free, practical, and from the people who built Claude.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep53-godfather-ai-lecture-that-keeps-you-awake": {
     "title": "The Godfather of AI: The Lecture That Keeps You Awake",
-    "description": "If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers — covering why everything is about to change and what it means for everyone."
+    "description": "If you sleep well tonight, you may not have understood this lecture. A 47-minute deep dive into the state of AI from one of its pioneers \u2014 covering why everything is about to change and what it means for everyone.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep55-paraguays-bloody-independence": {
     "title": "Paraguay's Bloody Independence",
-    "description": "What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America — and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance."
+    "description": "What would you do if I told you that one of the bloodiest wars in modern history was fought in a small landlocked country in the heart of South America \u2014 and that this catastrophe was the direct legacy of a fight for independence that began more than half a century earlier? A special Independence Day episode tracing Paraguay's bloody path from 1811 to the War of the Triple Alliance.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep57-nous-research-hermes-agent-v0140-foundation-release-changelog": {
     "title": "Hermes Agent v0.14: The Foundation Release",
-    "description": "Nous Research drops the biggest Hermes Agent update yet — version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work."
+    "description": "Nous Research drops the biggest Hermes Agent update yet \u2014 version 0.14, dubbed The Foundation Release. GROC 4.3 now supports a 1 million token context window, one-click installation arrives via agent client protocol registry, and nine new optional skills join the platform including Yahoo Finance, Notion, and API testing. With 22 messaging platforms now supported and native Windows support in early beta, this is the release that makes Hermes a foundation for serious agent work.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep58-rahul-boris-cherny-creator-claude-code-just-confirmed": {
     "title": "Boris Cherny on Claude Code: 4% of All GitHub Commits and Counting",
-    "description": "The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool — heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development."
+    "description": "The creator of Claude Code reveals that 4% of all GitHub commits are now written by his tool \u2014 heading toward 20% by year's end. In this deep dive, Boris Cherny explains why he built Claude Code as a terminal hack that nobody initially liked, how Anthropic's engineering team achieved 200% productivity gains per engineer, and why the printing press is the best analogy for what AI coding is about to do to software development.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep59-shocking-deal-saved-clarity-act-goldmancitadel-buying-xrp": {
-    "title": "Goldman Sachs and Citadel Are Buying XRP — Here's Why It Matters",
-    "description": "Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction — it's happening right now."
+    "title": "Goldman Sachs and Citadel Are Buying XRP \u2014 Here's Why It Matters",
+    "description": "Citadel increased its XRP position by 63 percent and closed all put hedges. Goldman Sachs holds nearly two million shares in Bitwise's XRP ETF. Italy's largest bank is buying through Grayscale. Meanwhile the Clarity Act has a 67 percent chance of becoming law, Nasdaq is planning tokenized equities, and JP Morgan's JPM Coin is already running on public blockchain. The institutional flood into crypto is no longer a prediction \u2014 it's happening right now.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep60-muhammad-shehada-this-short-film-exposes-true-story": {
     "title": "What the Founding Fathers of Israel Actually Said Behind Closed Doors",
-    "description": "Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today."
+    "description": "Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep61-avid-peter-steinberger-creator-openclaw-just-gave-30": {
     "title": "Peter Steinberger's 9 Rules for Agentic Engineering",
-    "description": "Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents — from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate."
+    "description": "Peter Steinberger, creator of OpenClaw, shares his 9 rules for working with AI coding agents \u2014 from the Agent Trap curve to empathy for agents, context management, running multiple agents simultaneously, and the Soul.MD concept. A masterclass in treating AI agents as capable engineers while adding the human creativity and vision that machines still can't replicate.",
+    "date": "2026-05-20 09:42:48"
   },
   "ep62-hermes-goal-command-essential-agent-commands": {
     "title": "Hermes Goal Command: Make Your AI Agent Finish the Job",
-    "description": "The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved — judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system."
+    "description": "The Hermes Goal command gives your AI agent a persistent objective that loops automatically until achieved \u2014 judged by an auxiliary model with a configurable turn budget and full session persistence. We break down how it works, the subgoal system for tightening criteria mid-flight, and nine other essential slash commands including cron scheduling, background processing, branch forking, and rollback safety that together transform Hermes from a chat interface into a complete AI agent operating system.",
+    "date": "2026-05-20 09:42:48"
   },
   "ep64-spotify-chief-architect-how-they-ship-4500-deployments": {
     "title": "Spotify's Chief Architect: 4,500 Deployments a Day with AI",
-    "description": "Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world."
+    "description": "Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk \u2014 an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.",
+    "date": "2026-05-20 23:01:25"
   },
   "ep65-exploring-worlds-largest-100-billion-failed-ghost-city": {
     "title": "The $100 Billion Ghost City Nobody Moved To",
-    "description": "Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept."
+    "description": "Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.",
+    "date": "2026-05-20 23:01:25"
   },
   "ep65-this-home-costs-300-build-0-heat-forever": {
     "title": "This Home Costs $300 to Build and $0 to Heat FOREVER. Why Is It Banned?",
-    "description": "Adobe — just mud, sand, and straw — outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year — with zero energy bills and no mortgage."
+    "description": "Adobe \u2014 just mud, sand, and straw \u2014 outperforms modern construction in strength, insulation, and cost, yet it's been systematically excluded from building codes for nearly a century. Each brick costs three cents, walls maintain stable temperatures without any mechanical system, and a University of Arizona study showed adobe homes needed zero cooling while wood-frame homes ran air conditioning ten months a year. The codes were written by the Portland Cement Association, an $18 billion industry protecting its market. But legal loopholes exist, and Simone Swan used them to build 600 adobe homes for families earning under $12,000 a year \u2014 with zero energy bills and no mortgage.",
+    "date": "2026-05-20 23:02:18"
   },
   "ep66-kol415-commentary-larken-rose-ip-wrong-question-part": {
     "title": "Kinsella vs Rose: The Libertarian Civil War Over Intellectual Property",
-    "description": "Stefan Kinsella dissects Larken Rose's arguments against intellectual property — and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this."
+    "description": "Stefan Kinsella dissects Larken Rose's arguments against intellectual property \u2014 and finds Rose guilty of the very hypocrisy he denounces. Rose opposes copyright on principle, yet issued DMCA takedowns when his own film was pirated. Kinsella argues that property rights only apply to scarce, rivalrous resources, that creation itself does not confer ownership, and that once information escapes into the world, third parties have no contractual obligation to its creator. A philosophical cage match between two libertarians who agree on almost everything except this.",
+    "date": "2026-05-20 23:04:53"
   },
   "ep67-narcissist-state-groundbreaking-psychological-perspective-statism": {
     "title": "The Narcissist State: A Psychological Perspective on Statism",
-    "description": "What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments."
+    "description": "What if the State operates not through ideology but through the precise dynamics of narcissistic abuse? Philip Bodessell, a UK barrister imprisoned for refusing COVID masking, maps family roles like Golden Child, Enabler, and Scapegoat onto political structures and identifies mechanisms like Gaslighting, DARVO, and Intermittent Reinforcement in statecraft. The framework is structural, not conspiratorial, and aims to give people a compass and map for concrete exit strategies rather than abstract philosophical arguments.",
+    "date": "2026-05-20 23:07:24"
   },
   "ep68-complete-guide-building-skills-claude": {
     "title": "The Complete Guide to Building Skills for Claude",
-    "description": "Anthropic's official guide to building Agent Skills for Claude — from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting."
+    "description": "Anthropic's official guide to building Agent Skills for Claude \u2014 from the three-level progressive disclosure system and YAML frontmatter requirements to five battle-tested patterns for workflow orchestration, multi-MCP coordination, iterative refinement, context-aware tool selection, and domain-specific intelligence. Whether you are a developer building standalone skills or enhancing an MCP integration, this episode covers everything from planning and testing to distribution and troubleshooting.",
+    "date": "2026-05-21 00:06:55"
   },
   "ep69-mises-media-system-designed-not-be-unraveled-one": {
     "title": "Mises Media: Rothbard's Political Strategy as Entrepreneurship",
-    "description": "After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship — with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty."
+    "description": "After Thomas Massie's defeat in the most expensive House primary in U.S. history, the Mises Institute panel discusses what went wrong and what libertarians should do next. Ryan McMaken, Connor O'Keeffe, and Tho Bishop explore how Rothbard treated political strategy as entrepreneurship \u2014 with scarce time and resources governed by opportunity cost. They question the value of libertarian congressmen in modern DC, examine the generational divide between young Massie supporters and older Fox News viewers, and propose alternative approaches including state-level activism and building special interest groups for liberty.",
+    "date": "2026-05-22 08:38:24"
   },
   "ep70-video-agenticengineering": {
     "title": "Why AI Agents Are Switching from Markdown to HTML",
-    "description": "An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content — SVG diagrams, interactive controls, animated prototypes, and custom editors — plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce."
+    "description": "An Anthropic cloud code engineer argues that HTML is becoming a superior interface for AI agents compared to markdown. As agents generate richer content \u2014 SVG diagrams, interactive controls, animated prototypes, and custom editors \u2014 plain text can no longer carry the weight of what agents need to communicate. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.",
+    "date": "2026-05-22 12:16:23"
   },
   "ep33-ronin-andrej-karpathy-90-your-ai-coding-bill": {
     "title": "Andrej Karpathy: 90% of Your AI Coding Bill is Wasted",
-    "description": "Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results."
+    "description": "Andrej Karpathy breaks down how most AI coding costs come from inefficient prompt patterns and redundant iterations. Practical strategies to cut your AI development spend dramatically while getting better results.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep34-matt-pocock-anthropic-has-given-us-dedicated-monthly": {
     "title": "Matt Pocock: Anthropic Has Given Us a Dedicated Monthly Budget",
-    "description": "Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows."
+    "description": "Matt Pocock reveals how Anthropic is providing dedicated monthly budgets for power users of Claude Code, and what this means for the future of AI-assisted development workflows.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep35-how-build-obsidian-vault-that-runs-your-entire": {
     "title": "How to Build an Obsidian Vault That Runs Your Entire Life",
-    "description": "A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture."
+    "description": "A comprehensive guide to setting up Obsidian as a personal knowledge management system that handles everything from daily planning to long-term projects and knowledge capture.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep36-hermes-agent-masterclass-akshay-pachaar": {
     "title": "Hermes Agent Masterclass with Akshay Pachaar",
-    "description": "Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies."
+    "description": "Akshay Pachaar walks through building production-grade AI agents with the Hermes framework, covering architecture patterns, tool integration, and deployment strategies.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep37-building-local-knowledge-base-hermes-agent-obsidian-llm": {
     "title": "Building a Local Knowledge Base with Hermes Agent, Obsidian, and LLM",
-    "description": "A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing — no cloud services required."
+    "description": "A step-by-step tutorial on creating a fully local knowledge base using the Hermes agent framework, Obsidian for storage, and local LLMs for processing \u2014 no cloud services required.",
+    "date": "2026-05-18 16:55:44"
   },
   "ep70-history-london-docklands-from-roman-port-canary-wharf": {
     "title": "The History of London Docklands: From Roman Port to Canary Wharf",
-    "description": "A journey through two thousand years of London's Docklands — from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts."
+    "description": "A journey through two thousand years of London's Docklands \u2014 from the Roman port of Londinium and the chaotic medieval riverfront, through the explosive growth of the enclosed docks during the British Empire, the devastation of the Blitz, the decline and dereliction brought by containerisation, and the dramatic Canary Wharf regeneration that transformed derelict warehouses into one of the world's great financial districts.",
+    "date": "2026-05-22 12:19:30"
   },
   "ep71-microsoft-cancels-internal-anthropic-contract": {
     "title": "Microsoft Cancels Internal Anthropic Contract",
-    "description": "Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing."
+    "description": "Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.",
+    "date": "2026-05-22 13:39:32"
   },
   "ep73-blackheath-greenwich-park-walk-through-2000-years-history": {
     "title": "Blackheath and Greenwich Park: A Walk Through 2000 Years of History",
-    "description": "A vivid walk through two millennia of Blackheath and Greenwich Park — from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces."
+    "description": "A vivid walk through two millennia of Blackheath and Greenwich Park \u2014 from the Roman road and temple remains, through Saxon settlements and medieval rebellions, Tudor royal hunting grounds and the Palace of Placentia, the Royal Observatory and the birth of GMT, the oldest golf club in England, plague burials, Chartist and suffragette rallies on the heath, the Victorian railway transformation, WWII bombing devastation, and modern conservation of one of London's most historic green spaces.",
+    "date": "2026-05-22 14:14:52"
   },
   "ep74-borough-market-1000-years-london-plate": {
     "title": "Borough Market: 1000 Years of London on a Plate",
-    "description": "From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee — plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock."
+    "description": "From Roman merchants haggling over salted fish beneath the first London Bridge to Instagram influencers photographing artisan doughnuts beneath Victorian railway arches, Borough Market has been continuously reinventing itself for a millennium. This episode traces the market through medieval charters and Shakespeare's Southwark, the great wholesale golden age, near-death by supermarket, and the 1990s foodie renaissance led by Neal's Yard Dairy, Brindisa, and Monmouth Coffee \u2014 plus its starring roles in Bridget Jones, Harry Potter, and Lock, Stock.",
+    "date": "2026-05-22 14:16:59"
   },
   "ep75-video-parthknowsai": {
     "title": "Subqueue Claims 52x Faster Long-Context AI With Sub-Quadratic Attention",
-    "description": "A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not — yet."
+    "description": "A Miami-based startup called Subqueue claims to have built a model with a 12 million token context window using Sub-Quadratic Sparse Attention, or SSA. Rather than attending to every token, the model skims the query, decides which tokens matter, and only attends to those, turning a quadratic cost problem into a linear one. The company says it runs 52 times faster than Flash Attention at one-fifth the cost. But there are no published technical reports, no independent verification, and no benchmarks for the headline 12 million token claim. With former Meta and Google engineers on the team, the pedigree is there but the evidence is not \u2014 yet.",
+    "date": "2026-05-22 23:53:53"
   },
   "ep76-anarchist-who-tried-destroy-marxs-movement-mikhail-bakunin": {
     "title": "The Anarchist Who Tried to Destroy Marx's Movement",
-    "description": "Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning — that revolutionaries who inherit state machinery become the new tyrants — was borne out across every Marxist revolution of the twentieth century."
+    "description": "Mikhail Bakunin was born into Russian nobility and discarded every privilege for revolutionary activism. Karl Marx believed the working class should seize the state; Bakunin believed the state itself was the trap. Their rivalry inside the International Working Men's Association ended with Bakunin's expulsion at the 1872 Hague Congress after Marx weaponised a blackmail letter from a third party. The International collapsed within four years. A century later, Bakunin's warning \u2014 that revolutionaries who inherit state machinery become the new tyrants \u2014 was borne out across every Marxist revolution of the twentieth century.",
+    "date": "2026-05-23 10:46:26"
   },
   "ep77-khairallah-al-awady-claude-code-team-just-dropped": {
     "title": "Claude Managed Agents: Production AI Without the Infrastructure",
-    "description": "Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&A decisions."
+    "description": "Anthropic's Claude Managed Agents gives you production-ready building blocks for AI agent products without reinventing the wheel. Agents with custom prompts and tool access, self-hosted sandboxes on Cloudflare or Modal, sessions that preload GitHub repos, and an event system covering everything from user messages to multi-agent coordination. New features include self-hosted containers for private data and MCP tunnels that connect to private servers without internet exposure. The demo shows a deal desk product using specialised sub-agents for M&A decisions.",
+    "date": "2026-05-23 10:55:14"
   },
   "ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy": {
     "title": "Karpathy on Software 3.0: Vibe Coding, Verifiability, and What Remains Human",
-    "description": "Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding."
+    "description": "Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 \u2014 where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.",
+    "date": "2026-05-24 18:29:33"
   },
   "ep80-hermes-agent-memory-guidebook-ksimback": {
-    "title": "The Hermes Agent Memory Guidebook — Kevin Simback's Deep Dive",
-    "description": "Kevin Simback published the definitive guide to Hermes Agent memory systems, breaking them into a clean three-layer architecture. Layer 1 ships in the box: two small markdown files injected into every prompt plus a full SQLite session archive. Layer 2 offers eight official plug-in providers — from Honcho's dialectic user modeling to Hindsight's benchmark-winning four-network retrieval, Mem0's instant setup, Letta's fully local HRR approach, and Supermemory's sub-300ms vector graph engine. Layer 3 is where the community innovates, with GBrain's 8-layer knowledge engine and Mnemosyne's tiered cognitive architecture leading the way. Each provider makes a fundamentally different architectural bet about what agent memory should do."
+    "title": "The Hermes Agent Memory Guidebook \u2014 Kevin Simback's Deep Dive",
+    "description": "Kevin Simback published the definitive guide to Hermes Agent memory systems, breaking them into a clean three-layer architecture. Layer 1 ships in the box: two small markdown files injected into every prompt plus a full SQLite session archive. Layer 2 offers eight official plug-in providers \u2014 from Honcho's dialectic user modeling to Hindsight's benchmark-winning four-network retrieval, Mem0's instant setup, Letta's fully local HRR approach, and Supermemory's sub-300ms vector graph engine. Layer 3 is where the community innovates, with GBrain's 8-layer knowledge engine and Mnemosyne's tiered cognitive architecture leading the way. Each provider makes a fundamentally different architectural bet about what agent memory should do."
   },
   "ep82-rahul-microsoft-senior-ai-developer-just-showed-how": {
     "title": "Building AI Agents with Claude Inside Microsoft Foundry",
-    "description": "Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform."
+    "description": "Microsoft senior developer advocates demonstrate how to build production-ready AI agents using Claude inside Microsoft Foundry. The workshop covers deploying Claude Sonnet, connecting to MCP servers for real-time inventory, and building a complete cupcake ordering agent. Foundry offers over 1,400 built-in connectors, enterprise security with Defender and Purview integrations, and built-in evaluation tools. A practical look at why Claude's reasoning capabilities make it the model of choice for agentic workloads on the Microsoft platform.",
+    "date": "2026-05-24 19:49:49"
   },
   "ep83-anthropic-ai-engineer-just-showed-how-give-ai": {
     "title": "Anthropic Engineer Shows How to Give AI Agents Real Memory",
-    "description": "An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations."
+    "description": "An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers \u2014 sessions, memory stores, and dreaming \u2014 this fundamentally changes what AI agents can remember across conversations.",
+    "date": "2026-05-24 23:34:49"
   },
   "ep84-why-georgia-considered-cradle-civilisation": {
     "title": "Why Georgia Is Considered the Cradle of Civilisation",
-    "description": "The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue."
+    "description": "The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi \u2014 the oldest hominin fossils found outside Africa \u2014 to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation \u2014 it may well be the prologue.",
+    "date": "2026-05-25 11:40:01"
   },
   "ep86-vegastar-can-one-ancient-hum-really-awaken-pineal": {
     "title": "Can One Ancient Hum Really Awaken the Pineal Gland?",
-    "description": "By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain."
+    "description": "By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari \u2014 just three minutes of daily humming \u2014 may reverse this. Researchers at the Karinolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.",
+    "date": "2026-05-25 12:29:50"
   },
   "ep80-hermes-agent-memory-guidebook": {
     "title": "Hermes Agent Memory Guidebook",
-    "description": "A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations."
+    "description": "A deep dive into the Hermes Agent Memory Guidebook by Kevin Simback, covering how memory transforms AI agents from blank slates into contextually aware assistants. The guide explains session-based memory, persistent memory stores, and how to configure agents that actually remember your project history across conversations.",
+    "date": "2026-05-24 18:52:39"
   },
   "ep87-when-robots-get-wallets-agentic-payments": {
     "title": "When Robots Get Wallets: Agentic Payments Explained",
-    "description": "A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services."
+    "description": "A two-host conversation about the emerging world of agentic payments \u2014 how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.",
+    "date": "2026-05-25 16:37:58"
   },
   "ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can": {
     "title": "Anthropic Engineer Showed How One Person Can Run 5 AI Agents",
-    "description": "An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration."
+    "description": "An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot \u2014 a 400-line system prompt with 12 tools that had degraded from 83 percent performance \u2014 into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.",
+    "date": "2026-05-25 16:37:58"
   },
   "ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new": {
     "title": "Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation",
-    "description": "Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation."
+    "description": "Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars \u2014 meritocracy, republicanism, constrained democracy, and a founder Senate \u2014 into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.",
+    "date": "2026-05-25 21:25:45"
   }
 }
