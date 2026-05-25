@@ -314,5 +314,9 @@
   "ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can": {
     "title": "Anthropic Engineer Showed How One Person Can Run 5 AI Agents",
     "description": "An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration."
+  },
+  "ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new": {
+    "title": "Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation",
+    "description": "Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation."
   }
 }

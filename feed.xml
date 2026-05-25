@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 16:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:25:43 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation</title>
+      <description>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</description>
+      <pubDate>Mon, 25 May 2026 19:15:25 +0000</pubDate>
+      <itunes:duration>06:58</itunes:duration>
+      <itunes:summary>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3" length="3347012" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3</guid>
+    </item>
     <item>
       <title>Anthropic Engineer Showed How One Person Can Run 5 AI Agents</title>
       <description>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</description>
