@@ -1,0 +1,149 @@
+PRODUCTION NOTES — DO NOT FEED THIS SECTION TO TTS
+==================================================
+Episode: "When Robots Get Wallets" — agentic payments explainer. Runtime ~15 minutes.
+Two voices, deliberately asymmetric:
+  DOROTHY  — host. Friendly skeptic, burned by past hype cycles, slightly annoyed she
+          finds this interesting. Her job is to RESIST until a claim is earned.
+  KARLOS   — explainer. True believer, but a recovered skeptic himself, so he earns
+          every claim instead of asserting it. Allowed to be wrong once.
+Craft notes baked in: but/therefore transitions; the "$1.50" open loop stays open;
+four engineered co-arrival beats (Dorothy states the insight a half-beat before Karlos
+confirms); concrete-before-abstract; one texture nugget per segment; rallies vs arias;
+houseguest + "talk me down" motifs planted early and paid off.
+TTS normalization applied (Kokoro): "x402" -> "X four oh two"; status codes spelled;
+"$10" -> "ten-dollar"; acronyms spaced ("A I", "A P I").
+Speaker labels are for voice-splitting, not to be read. No bracketed cues.
+
+==================================================
+SPOKEN SCRIPT
+==================================================
+
+DOROTHY: Karlos, I read a crypto article this weekend and there's one number in it I can't shake loose. This guy ran fifteen to twenty real data queries with an A I agent. Financial data, cross-referencing sources — the kind of work that normally sits behind a hundred-dollar-a-month subscription. His total bill was a dollar fifty.
+
+KARLOS: A dollar fifty.
+
+KARLOS: A dollar fifty.
+
+DOROTHY: A dollar fifty. That number is either nothing or it's a genuinely big deal, and I can't tell which. I've been fooled by this corner of the internet eleven times. So earn it. Can an A I agent buy something?
+
+DOROTHY: Define "buy something."
+
+KARLOS: Can it pay thirty cents to look something up. It's running a task, halfway through it needs data that costs money. What happens?
+
+DOROTHY: I assume it just... stops.
+
+KARLOS: It stops. An A I agent today is a houseguest who is brilliant at absolutely everything and is carrying no wallet. No card, no cash, nothing. You can send it anywhere. But the second it hits a toll booth, a turnstile, a paywall — it just stands there.
+
+DOROTHY: Okay, but why is it standing there? My streaming apps have my card. Why not just give the agent one?
+
+KARLOS: Two reasons. One is trust — a card is a master key. Unlimited, reversible, tied to your name. You don't hand a stranger that for a thirty-cent errand. But the second reason is economics, and it's the one nobody sees. A credit card physically cannot do tiny payments. Every single card transaction has a fixed cost baked in — call it thirty cents, plus a percentage, just to process it.
+
+DOROTHY: Thirty cents to process.
+
+KARLOS: So picture a forty-cent payment. The processing costs thirty. You're spending thirty cents to move forty.
+
+DOROTHY: That's the postage stamp costing more than the letter.
+
+KARLOS: Exactly. Imagine mailing someone a one-dollar bill, and the envelope and stamp cost ninety cents. So the whole internet just quietly rounded up. There's a reason nothing online costs three cents.
+
+DOROTHY: ...Hang on. So when everything online is a ten-dollar monthly subscription — that's not because companies decided subscriptions are nice. That's because they couldn't charge me three cents even if they wanted to.
+
+KARLOS: Say that again slowly, because you just got to it before I did.
+
+DOROTHY: Subscriptions aren't a preference. They're a workaround. For a thing that was broken.
+
+KARLOS: They're scar tissue. That is the word I'd use. Micropayments were impossible, so everyone said "fine — I can't bill you three cents per use, so I'll bill you ten bucks a month and hope you forget you subscribed."
+
+DOROTHY: I have eleven of those and I use four.
+
+KARLOS: Everyone has eleven and uses four. And that specifically wrecks the agent. You can tolerate the subscription model. But an agent's entire superpower is reaching for any tool, once, the moment it needs it. Your research agent might need a financial database today, a maps service tomorrow, a legal lookup next week — each for a single ten-second query.
+
+DOROTHY: And you can't subscribe to a hundred services on the chance it reaches for one.
+
+KARLOS: You'd burn a thousand dollars a month to unlock thirty cents of use. So the agent doesn't just struggle with the old payment model. The agent is fundamentally incompatible with it.
+
+DOROTHY: Okay. The problem is real. But a clean problem is not a solution. So what actually changed.
+
+KARLOS: When the web was first designed, the engineers wrote a list of standard codes a server can send back. Four oh four — page not found. Two hundred — everything's fine. Five hundred — the server's on fire.
+
+DOROTHY: Sure. Four oh four is famous.
+
+KARLOS: Back then, they also reserved a code numbered four oh two. And they labeled it "Payment Required." And then they never used it. For roughly thirty years, four oh two has just been sitting in the standard. An empty room in the architecture of the internet, with a sign on the door reading "payments go here," and the lights off the entire time.
+
+DOROTHY: ...They left a slot for a future that hadn't shown up yet.
+
+KARLOS: They left the slot. And the thing in that article — X four oh two — is people finally walking into that room and turning the lights on. A server says to a machine "you owe me eleven cents," the machine pays it, the data comes back. No login. No signup. No human typing a card. One breath.
+
+DOROTHY: And what's actually moving when it pays? Because you told me cards can't do pennies.
+
+KARLOS: Cards are out. The money moves as a stablecoin — don't let that word spook anyone. It's just digital dollars. A dollar that lives on the internet and can move in tiny amounts for almost nothing. Pegged to a real dollar — not the rollercoaster crypto.
+
+DOROTHY: So it's a dollar made small enough to fit through a mail slot.
+
+KARLOS: It's a dollar made small enough to fit through a mail slot. The second the penny becomes possible to send, that frozen part of the economy thaws.
+
+DOROTHY: This is the moment in every one of those eleven articles where I got fooled. The part where the writer goes "and therefore, utopia." Why should I believe you and not them.
+
+KARLOS: Because six months ago I thought X four oh two was pointless. My exact argument was yours — there are free tools everywhere, generous free tiers, why would an agent ever need to pay. I thought it was a solution hunting for a problem.
+
+DOROTHY: What changed your mind.
+
+KARLOS: I watched one actually run. And the thing I'd missed is that "free" has a hidden tax — your time. Every free tool means a human signs up, gets an A P I key, wires it in, manages it. Fine for three tools. It does not scale to an agent that wants to touch fifty tools. X four oh two means it just pays the toll and moves. I was wrong because I priced the subscription and forgot to price the friction.
+
+DOROTHY: That's the most convincing thing you've said, because it cost you something to say it. So walk me back to my dollar fifty.
+
+KARLOS: The article's guy builds an agent — nicknames it Hermes, after the messenger god. Gives it a job: investigate a financial asset. Who's buying, who's selling, are the holders about to dump it. Old way: subscribe to two or three professional data services, each a hundred-plus dollars a month, to run a handful of lookups.
+
+DOROTHY: Pay for the whole gym to use one treadmill.
+
+KARLOS: The whole gym, one treadmill. New way: the agent walks up to each service and each one says "four oh two — five cents," "four oh two — seven cents." Pays each toll out of a small wallet you gave it, collects everything, writes the report. Fifteen, twenty little tolls. A dollar fifty.
+
+DOROTHY: And the wallet — that's the trust problem from earlier. You didn't give it your card.
+
+KARLOS: You didn't give it the master key. You gave it a prepaid card with twenty bucks on it. If the agent goes haywire or gets tricked, the worst case is it burns twenty dollars. Not your bank account.
+
+DOROTHY: You gave it an allowance.
+
+KARLOS: You gave a stranger an allowance instead of a master key. That bounded worst case is the only reason it's sane to let it spend at all.
+
+DOROTHY: So three things had to arrive at the same time. The agents got good enough to be worth sending out. Digital dollars got small enough to be a toll. And there's finally a shared language — your empty room, the lights on — for the asking and the paying.
+
+KARLOS: All three at one party. Miss any one, nothing works. And here's the part I want you to feel. For the entire history of the internet, money has moved between people. Or between a person and a company. There was always a human somewhere in the loop. Tapping the card. Clicking "buy."
+
+DOROTHY: ...And if the agent pays the toll by itself —
+
+KARLOS: Then for the first time —
+
+DOROTHY: — there's no human in that moment at all. Payment stops being a thing a person does.
+
+KARLOS: That's the whole episode, and you just said it. Software paying software. We set the budget and the rules at the top, and underneath, a swarm of agents buy and sell tiny services from each other all day. An economy running underneath ours, in pennies, at machine speed.
+
+DOROTHY: That's a little vertiginous, honestly.
+
+KARLOS: It should be. But if subscriptions are scar tissue — and they are — then working micropayments could dissolve a lot of that scar. Read the four articles you actually want for six cents instead of subscribing to four papers. Rent software by the minute you use it. The "pay for everything, use almost none of it" era could just end. That's not better for the robots. That's better for you.
+
+DOROTHY: Skeptic's corner. The catches. Real ones.
+
+KARLOS: Three, and they're real. One: right now this lives almost entirely inside crypto. The article is a crypto guy doing crypto research, and crypto has a long, proud record of being thrilled about things that never arrive. Early and promising is not the same as proven.
+
+DOROTHY: Two.
+
+KARLOS: Two: an agent that can spend on its own is an agent that can be tricked into spending, or just spend badly. We've invented a way for software to get scammed in real time. The small prepaid wallet caps the damage — but it doesn't make it zero. Treat that wallet like cash you're prepared to lose.
+
+DOROTHY: Three.
+
+KARLOS: Three is the boring one that decides everything. For this to matter past a niche, the serious, mainstream, non-crypto data companies have to actually show up and offer their services this way. Right now it's mostly crypto-native tools paying each other. Whether this becomes real infrastructure depends entirely on whether the rest of the internet walks into that room too.
+
+DOROTHY: So here's where I've landed. You didn't sell me utopia, and the eleven articles always sold me utopia. What you sold me is a piece of plumbing. It might be the thing. It might be the rough draft.
+
+KARLOS: That's the honest version. The idea is not hype — machines paying each other in pennies has been the missing piece of a digital economy for thirty years. What's unproven is the timeline.
+
+DOROTHY: And either way —
+
+KARLOS: Either way, the houseguest is getting a wallet. Maybe a small one. Maybe on a tight allowance. But the brilliant, completely broke houseguest, standing frozen at the toll booth — that era is closing.
+
+DOROTHY: The houseguest gets a wallet. Karlos, thank you. Listeners — if your A I assistant asks you for thirty cents next year, it's not a glitch.
+
+KARLOS: It got a job.
+
+DOROTHY: It got a job. See you next episode.
