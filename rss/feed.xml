@@ -4,13 +4,31 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 10:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:29:47 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Can One Ancient Hum Really Awaken the Pineal Gland?</title>
+      <description>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</description>
+      <pubDate>Mon, 25 May 2026 10:27:28 +0000</pubDate>
+      <itunes:duration>03:45</itunes:duration>
+      <itunes:summary>By age forty, there's a seventy percent chance your pineal gland has started calcifying. By fifty-five, it's over eighty percent. Yet an ancient yogic technique called Brahmari — just three minutes of daily humming — may reverse this. Researchers at the Karolinska Institute found that humming increases nitric oxide production fifteen-fold, and that molecule can reach the pineal gland through the cribriform plate to dissolve calcified deposits. The same mechanism cardiologists have used for decades to clear arterial plaque, applied to the most enigmatic gland in the human brain.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1991780" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep86-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Vegastar Can One Ancient Hum Really Awaken Pineal</title>
+      <description/>
+      <pubDate>Mon, 25 May 2026 10:22:00 +0000</pubDate>
+      <itunes:duration>03:17</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1688996" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
+    </item>
     <item>
       <title>Why Georgia Is Considered the Cradle of Civilisation</title>
       <description>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</description>
