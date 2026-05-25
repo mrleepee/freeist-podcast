@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 22:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:35:19 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>How Trade Commodities Market Gold 2026</title>
+      <description/>
+      <pubDate>Mon, 25 May 2026 22:33:48 +0000</pubDate>
+      <itunes:duration>03:40</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep91-how-trade-commodities-market-gold-2026.podcast.mp3" length="1756028" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep91-how-trade-commodities-market-gold-2026.podcast.mp3</guid>
+    </item>
     <item>
       <title>Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation</title>
       <description>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</description>
@@ -19,15 +28,6 @@
       <itunes:summary>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3" length="3366068" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep90-liberlands-direct-meritocracy-how-vit-jedlicka-designed-new.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The 10-Year-Old Who Understands AI Tokens Better Than Most Experts</title>
-      <description>A 10-year-old Chinese blogger explains why tokens are the hard currency of the AI era, breaks down the AI supply chain from energy to applications, and runs multiple AI agents on his new Mac Studio. His insights on compute and token economics might be closer to the truth than many expert reports.</description>
-      <pubDate>Mon, 25 May 2026 19:32:09 +0000</pubDate>
-      <itunes:duration>02:24</itunes:duration>
-      <itunes:summary>A 10-year-old Chinese blogger explains why tokens are the hard currency of the AI era, breaks down the AI supply chain from energy to applications, and runs multiple AI agents on his new Mac Studio. His insights on compute and token economics might be closer to the truth than many expert reports.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep42-vincent-logic-信号噪音-未来的世界属于懂-token-的人-出自一位10岁博主之口-刚换了.podcast.mp3" length="1362908" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep42-vincent-logic-信号噪音-未来的世界属于懂-token-的人-出自一位10岁博主之口-刚换了.podcast.mp3</guid>
     </item>
     <item>
       <title>When Robots Get Wallets: Agentic Payments Explained</title>

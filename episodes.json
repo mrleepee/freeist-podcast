@@ -159,10 +159,6 @@
     "description": "Maxinomics explains why China will always depend on the US for chips \u2014 and how one small town in North Carolina holds the key to America's semiconductor dominance.",
     "date": "2026-05-18 16:55:44"
   },
-  "ep42-vincent-logic-\u4fe1\u53f7\u566a\u97f3-\u672a\u6765\u7684\u4e16\u754c\u5c5e\u4e8e\u61c2-token-\u7684\u4eba-\u51fa\u81ea\u4e00\u4f4d10\u5c81\u535a\u4e3b\u4e4b\u53e3-\u521a\u6362\u4e86": {
-    "title": "The 10-Year-Old Who Understands AI Tokens Better Than Most Experts",
-    "description": "A 10-year-old Chinese blogger explains why tokens are the hard currency of the AI era, breaks down the AI supply chain from energy to applications, and runs multiple AI agents on his new Mac Studio. His insights on compute and token economics might be closer to the truth than many expert reports."
-  },
   "ep43-airbnb-engineers-agentic-coding-production": {
     "title": "Airbnb Engineers on Agentic Coding in Production",
     "description": "Two senior staff engineers from Airbnb explain how they shipped one of the most ambitious LLM-agent migrations in production \u2014 live lecture on real agentic coding workflows that actually ship.",
