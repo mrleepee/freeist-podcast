@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 21:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:39:59 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Why Georgia Is Considered the Cradle of Civilisation</title>
+      <description>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</description>
+      <pubDate>Mon, 25 May 2026 09:37:03 +0000</pubDate>
+      <itunes:duration>05:22</itunes:duration>
+      <itunes:summary>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3" length="2819612" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3</guid>
+    </item>
     <item>
       <title>Anthropic Engineer Shows How to Give AI Agents Real Memory</title>
       <description>An Anthropic engineer demonstrates a three-layer architecture for giving AI agents genuine persistent memory. Memory stores act as a file system that attaches to sessions, supporting versioning and per-user configuration. The dreaming process runs asynchronously in the background, using a multi-agent system to fact-check, enrich, consolidate, and organise stored information without destroying the originals. With an expected ninety-five percent cache hit rate and three composable layers — sessions, memory stores, and dreaming — this fundamentally changes what AI agents can remember across conversations.</description>
