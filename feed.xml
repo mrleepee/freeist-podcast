@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 09:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:09:24 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -39,15 +39,6 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep82-rahul-microsoft-senior-ai-developer-just-showed-how.podcast.mp3</guid>
     </item>
     <item>
-      <title>Karpathy on Software 3.0, Verifiability, and What AI Still Cannot Do</title>
-      <description>Andrej Karpathy explains the shift from Software 1.0 to 3.0, where prompting replaces programming and context windows become the primary lever over LLMs. He breaks down why AI excels at verifiable tasks like math and code but struggles with subjective domains, introduces the animals versus ghosts framework for understanding what these systems actually are, and argues that vibe coding raises the floor for everyone while agentic engineering raises the ceiling for professionals. The takeaway: you can outsource your thinking, but you cannot outsource your understanding.</description>
-      <pubDate>Sun, 24 May 2026 16:53:48 +0000</pubDate>
-      <itunes:duration>03:40</itunes:duration>
-      <itunes:summary>Andrej Karpathy explains the shift from Software 1.0 to 3.0, where prompting replaces programming and context windows become the primary lever over LLMs. He breaks down why AI excels at verifiable tasks like math and code but struggles with subjective domains, introduces the animals versus ghosts framework for understanding what these systems actually are, and argues that vibe coding raises the floor for everyone while agentic engineering raises the ceiling for professionals. The takeaway: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2088932" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Hermes Agent Memory Guidebook</title>
       <description/>
       <pubDate>Sun, 24 May 2026 16:49:13 +0000</pubDate>
@@ -64,15 +55,6 @@
       <itunes:summary>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="1746452" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The Hermes Agent Memory Guidebook</title>
-      <description>Kevin Simback's definitive guide to Hermes Agent memory systems. A three-layer architecture — native markdown files and SQLite at Layer 1, eight official plug-in providers at Layer 2, and community-built alternatives like GBrain and Mnemosyne at Layer 3. Covers how MEMORY.md and USER.md work as always-visible sticky notes, the session database with full-text search, and a comparative deep dive into Honcho, Mem0, Hindsight, Cipher, Zep, RetainDB, ByteRover, and Supermemory — each making a different architectural bet about what agent memory should do.</description>
-      <pubDate>Sun, 24 May 2026 16:21:15 +0000</pubDate>
-      <itunes:duration>07:01</itunes:duration>
-      <itunes:summary>Kevin Simback's definitive guide to Hermes Agent memory systems. A three-layer architecture — native markdown files and SQLite at Layer 1, eight official plug-in providers at Layer 2, and community-built alternatives like GBrain and Mnemosyne at Layer 3. Covers how MEMORY.md and USER.md work as always-visible sticky notes, the session database with full-text search, and a comparative deep dive into Honcho, Mem0, Hindsight, Cipher, Zep, RetainDB, ByteRover, and Supermemory — each making a different architectural bet about what agent memory should do.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3" length="3934604" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3</guid>
     </item>
     <item>
       <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
@@ -208,15 +190,6 @@
       <itunes:summary>Spotify's Chief Architect reveals how they ship 4,500 deployments daily using AI. With 99% of engineers using AI coding tools and 2.5 million automated maintenance PRs merged, the company built Honk — an AI agent powered by Claude that handles complex migrations at scale. From Fleet Management to the Golden State standardisation framework and Backstage developer portal, this episode breaks down the infrastructure, tools, and principles behind one of the most impressive AI-powered engineering operations in the world.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3" length="5093468" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Microsoft's AI Agents with Claude: Build, Connect, Ship</title>
-      <description>A Microsoft Senior AI developer demonstrates how to build production-ready AI agents using Claude Opus 4.7 inside Microsoft Foundry. The platform supports over 1,400 built-in connectors and MCP tools, with enterprise security, observability, and governance baked in. From environment setup to a working cupcake store agent that handles customer registration, flavour selection, and order fulfilment — a practical walkthrough of the full agent development lifecycle.</description>
-      <pubDate>Wed, 20 May 2026 21:37:49 +0000</pubDate>
-      <itunes:duration>03:25</itunes:duration>
-      <itunes:summary>A Microsoft Senior AI developer demonstrates how to build production-ready AI agents using Claude Opus 4.7 inside Microsoft Foundry. The platform supports over 1,400 built-in connectors and MCP tools, with enterprise security, observability, and governance baked in. From environment setup to a working cupcake store agent that handles customer registration, flavour selection, and order fulfilment — a practical walkthrough of the full agent development lifecycle.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep63-movez-microsoft-senior-ai-developer-just-showed-how.podcast.mp3" length="1766588" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep63-movez-microsoft-senior-ai-developer-just-showed-how.podcast.mp3</guid>
     </item>
     <item>
       <title>Hermes Goal Command: Make Your AI Agent Finish the Job</title>
@@ -471,15 +444,6 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep32-en-wehrman-this-new-flat-earth-conceptual-model.podcast.mp3</guid>
     </item>
     <item>
-      <title>Gut Health: The Bio Hack Everyone's Talking About</title>
-      <description>Why gut health has become the central focus of the biohacking movement, and what the science actually says about probiotics, microbiome diversity, and longevity.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
-      <itunes:duration>02:26</itunes:duration>
-      <itunes:summary>Why gut health has become the central focus of the biohacking movement, and what the science actually says about probiotics, microbiome diversity, and longevity.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep31-bio-hack-gut-health.podcast.mp3" length="1249556" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep31-bio-hack-gut-health.podcast.mp3</guid>
-    </item>
-    <item>
       <title>40% of Your Code — Claude Writes It and You Wasted Your Time</title>
       <description>A look at how much code AI is actually writing in production environments, and whether developers are wasting time fighting it instead of leveraging it.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
@@ -534,15 +498,6 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep25-mnimiy-karpathy-threw-grenade-at-every-senior-engineer.podcast.mp3</guid>
     </item>
     <item>
-      <title>How Jane Street Uses AI to Hire Engineers</title>
-      <description>A Jane Street engineer reveals how the elite trading firm uses AI skills as a hiring signal — and what it takes to land a $600K role straight out of school.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
-      <itunes:duration>03:57</itunes:duration>
-      <itunes:summary>A Jane Street engineer reveals how the elite trading firm uses AI skills as a hiring signal — and what it takes to land a $600K role straight out of school.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep24-movez-jane-street-ai-engineer-revealed-how-they.podcast.mp3" length="2101892" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep24-movez-jane-street-ai-engineer-revealed-how-they.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Karpathy on No Priors: The Phase Shift in AI</title>
       <description>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</description>
       <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
@@ -550,15 +505,6 @@
       <itunes:summary>Andrej Karpathy joins the No Priors podcast to discuss the phase shift happening in AI right now — from how models are trained to how they're changing software development and society.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3" length="3974924" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep23-sarah-guo-caught-up-karpathy-new-nopriorspod-phase.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Karpathy's Software 3.0 Vision at Sequoia AI Ascent</title>
-      <description>Andrej Karpathy returns to Sequoia's AI Ascent to explain Software 3.0 — where prompting replaces programming, vibe coding raises the floor, and agentic engineering raises the ceiling.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
-      <itunes:duration>03:17</itunes:duration>
-      <itunes:summary>Andrej Karpathy returns to Sequoia's AI Ascent to explain Software 3.0 — where prompting replaces programming, vibe coding raises the floor, and agentic engineering raises the ceiling.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep22-stephanie-zhan-karpathy-i-are-back-at-sequoia.podcast.mp3" length="1692932" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep22-stephanie-zhan-karpathy-i-are-back-at-sequoia.podcast.mp3</guid>
     </item>
     <item>
       <title>AI Agents Are Changing Everything — Even Accounting</title>
@@ -622,15 +568,6 @@
       <itunes:summary>Hermes Agent is packed with features that most users never discover. From advanced tool configuration to memory management and multi-platform messaging — ten features that will change how you use AI agents.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3" length="3334052" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep15-ten-hermes-agent-features.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Secondhand Real Estate in Istanbul for Turkish Citizenship</title>
-      <description>Buying secondhand property in Istanbul is one of the most popular routes to Turkish citizenship. We cover the process, the neighbourhoods, the pitfalls, and what your money actually buys you.</description>
-      <pubDate>Sun, 17 May 2026 20:26:35 +0000</pubDate>
-      <itunes:duration>05:41</itunes:duration>
-      <itunes:summary>Buying secondhand property in Istanbul is one of the most popular routes to Turkish citizenship. We cover the process, the neighbourhoods, the pitfalls, and what your money actually buys you.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep14-istanbul-citizenship-real-estate.podcast.mp3" length="3142748" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep14-istanbul-citizenship-real-estate.podcast.mp3</guid>
     </item>
     <item>
       <title>How Europe Is Designing a Tax System You Can't Escape</title>
