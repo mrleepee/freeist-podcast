@@ -16,15 +16,13 @@ Speaker labels are for voice-splitting, not to be read. No bracketed cues.
 
 ==================================================
 SPOKEN SCRIPT
-==================================================
-
-DOROTHY: Karlos, I read a crypto article this weekend and there's one number in it I can't shake loose. This guy ran fifteen to twenty real data queries with an A I agent. Financial data, cross-referencing sources — the kind of work that normally sits behind a hundred-dollar-a-month subscription. His total bill was a dollar fifty.
+DOROTHY: Karlos, I read a crypto article this weekend and there's one number in it I can't shake loose. This guy ran fifteen to twenty real data queries with an eh! eye! agent. Financial data, cross-referencing sources — the kind of work that normally sits behind a hundred-dollar-a-month subscription. His total bill was a dollar fifty.
 
 KARLOS: A dollar fifty.
 
 KARLOS: A dollar fifty.
 
-DOROTHY: A dollar fifty. That number is either nothing or it's a genuinely big deal, and I can't tell which. I've been fooled by this corner of the internet eleven times. So earn it. Can an A I agent buy something?
+DOROTHY: A dollar fifty. That number is either nothing or it's a genuinely big deal, and I can't tell which. I've been fooled by this corner of the internet eleven times. So earn it. Can an eh! eye! agent buy something?
 
 DOROTHY: Define "buy something."
 
@@ -32,7 +30,7 @@ KARLOS: Can it pay thirty cents to look something up. It's running a task, halfw
 
 DOROTHY: I assume it just... stops.
 
-KARLOS: It stops. An A I agent today is a houseguest who is brilliant at absolutely everything and is carrying no wallet. No card, no cash, nothing. You can send it anywhere. But the second it hits a toll booth, a turnstile, a paywall — it just stands there.
+KARLOS: It stops. An eh! eye! agent today is a houseguest who is brilliant at absolutely everything and is carrying no wallet. No card, no cash, nothing. You can send it anywhere. But the second it hits a toll booth, a turnstile, a paywall — it just stands there.
 
 DOROTHY: Okay, but why is it standing there? My streaming apps have my card. Why not just give the agent one?
 
@@ -46,7 +44,7 @@ DOROTHY: That's the postage stamp costing more than the letter.
 
 KARLOS: Exactly. Imagine mailing someone a one-dollar bill, and the envelope and stamp cost ninety cents. So the whole internet just quietly rounded up. There's a reason nothing online costs three cents.
 
-DOROTHY: ...Hang on. So when everything online is a ten-dollar monthly subscription — that's not because companies decided subscriptions are nice. That's because they couldn't charge me three cents even if they wanted to.
+DOROTHY: Hang on. So when everything online is a ten-dollar monthly subscription — that's not because companies decided subscriptions are nice. That's because they couldn't charge me three cents even if they wanted to.
 
 KARLOS: Say that again slowly, because you just got to it before I did.
 
@@ -70,9 +68,9 @@ DOROTHY: Sure. Four oh four is famous.
 
 KARLOS: Back then, they also reserved a code numbered four oh two. And they labeled it "Payment Required." And then they never used it. For roughly thirty years, four oh two has just been sitting in the standard. An empty room in the architecture of the internet, with a sign on the door reading "payments go here," and the lights off the entire time.
 
-DOROTHY: ...They left a slot for a future that hadn't shown up yet.
+DOROTHY: They left a slot for a future that hadn't shown up yet.
 
-KARLOS: They left the slot. And the thing in that article — X four oh two — is people finally walking into that room and turning the lights on. A server says to a machine "you owe me eleven cents," the machine pays it, the data comes back. No login. No signup. No human typing a card. One breath.
+KARLOS: They left the slot. And the thing in that article — ex four oh two — is people finally walking into that room and turning the lights on. A server says to a machine "you owe me eleven cents," the machine pays it, the data comes back. No login. No signup. No human typing a card. One breath.
 
 DOROTHY: And what's actually moving when it pays? Because you told me cards can't do pennies.
 
@@ -84,15 +82,15 @@ KARLOS: It's a dollar made small enough to fit through a mail slot. The second t
 
 DOROTHY: This is the moment in every one of those eleven articles where I got fooled. The part where the writer goes "and therefore, utopia." Why should I believe you and not them.
 
-KARLOS: Because six months ago I thought X four oh two was pointless. My exact argument was yours — there are free tools everywhere, generous free tiers, why would an agent ever need to pay. I thought it was a solution hunting for a problem.
+KARLOS: Because six months ago I thought ex four oh two was pointless. My exact argument was yours — there are free tools everywhere, generous free tiers, why would an agent ever need to pay. I thought it was a solution hunting for a problem.
 
 DOROTHY: What changed your mind.
 
-KARLOS: I watched one actually run. And the thing I'd missed is that "free" has a hidden tax — your time. Every free tool means a human signs up, gets an A P I key, wires it in, manages it. Fine for three tools. It does not scale to an agent that wants to touch fifty tools. X four oh two means it just pays the toll and moves. I was wrong because I priced the subscription and forgot to price the friction.
+KARLOS: I watched one actually run. And the thing I'd missed is that "free" has a hidden tax — your time. Every free tool means a human signs up, gets an eh! pee! eye! key, wires it in, manages it. Fine for three tools. It does not scale to an agent that wants to touch fifty tools. Ex four oh two means it just pays the toll and moves. I was wrong because I priced the subscription and forgot to price the friction.
 
 DOROTHY: That's the most convincing thing you've said, because it cost you something to say it. So walk me back to my dollar fifty.
 
-KARLOS: The article's guy builds an agent — nicknames it Hermes, after the messenger god. Gives it a job: investigate a financial asset. Who's buying, who's selling, are the holders about to dump it. Old way: subscribe to two or three professional data services, each a hundred-plus dollars a month, to run a handful of lookups.
+KARLOS: The article's guy builds an agent — nicknames it Hermes, after the messenger god. Gives it a job: investigate a financial asset. Who's buying, who's selling, are the holders about to dump it. Old way: subscribe to two or three professional data services, each a hundred dollars or more a month, to run a handful of lookups.
 
 DOROTHY: Pay for the whole gym to use one treadmill.
 
@@ -100,7 +98,7 @@ KARLOS: The whole gym, one treadmill. New way: the agent walks up to each servic
 
 DOROTHY: And the wallet — that's the trust problem from earlier. You didn't give it your card.
 
-KARLOS: You didn't give it the master key. You gave it a prepaid card with twenty bucks on it. If the agent goes haywire or gets tricked, the worst case is it burns twenty dollars. Not your bank account.
+KARLOS: You didn't give it the master key. You gave it a prepaid card with twenty dollars on it. If the agent goes haywire or gets tricked, the worst case is it burns twenty dollars. Not your bank account.
 
 DOROTHY: You gave it an allowance.
 
@@ -110,11 +108,9 @@ DOROTHY: So three things had to arrive at the same time. The agents got good eno
 
 KARLOS: All three at one party. Miss any one, nothing works. And here's the part I want you to feel. For the entire history of the internet, money has moved between people. Or between a person and a company. There was always a human somewhere in the loop. Tapping the card. Clicking "buy."
 
-DOROTHY: ...And if the agent pays the toll by itself —
+DOROTHY: And if the agent pays the toll by itself —
 
-KARLOS: Then for the first time —
-
-DOROTHY: — there's no human in that moment at all. Payment stops being a thing a person does.
+KARLOS: Then for the first time, there is no human in that moment at all. Payment stops being a thing a person does.
 
 KARLOS: That's the whole episode, and you just said it. Software paying software. We set the budget and the rules at the top, and underneath, a swarm of agents buy and sell tiny services from each other all day. An economy running underneath ours, in pennies, at machine speed.
 
@@ -138,11 +134,9 @@ DOROTHY: So here's where I've landed. You didn't sell me utopia, and the eleven 
 
 KARLOS: That's the honest version. The idea is not hype — machines paying each other in pennies has been the missing piece of a digital economy for thirty years. What's unproven is the timeline.
 
-DOROTHY: And either way —
+DOROTHY: And either way, the houseguest is getting a wallet. Maybe a small one. Maybe on a tight allowance. But the brilliant, completely broke houseguest, standing frozen at the toll booth — that era is closing.
 
-KARLOS: Either way, the houseguest is getting a wallet. Maybe a small one. Maybe on a tight allowance. But the brilliant, completely broke houseguest, standing frozen at the toll booth — that era is closing.
-
-DOROTHY: The houseguest gets a wallet. Karlos, thank you. Listeners — if your A I assistant asks you for thirty cents next year, it's not a glitch.
+DOROTHY: The houseguest gets a wallet. Karlos, thank you. Listeners — if your eh! eye! assistant asks you for thirty cents next year, it's not a glitch.
 
 KARLOS: It got a job.
 
