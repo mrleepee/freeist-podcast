@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 13:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:53:16 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Claude Prompting Playbook</title>
+      <description/>
+      <pubDate>Tue, 26 May 2026 14:50:35 +0000</pubDate>
+      <itunes:duration>03:10</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3" length="1681796" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3</guid>
+    </item>
     <item>
       <title>How to Trade the Commodities Market and Gold in 2026</title>
       <description>Stagflation is back and most of the establishment has forgotten what it means. Gold, silver, copper, and uranium are sitting at historically elevated levels but the long-term bullish case remains intact. The key is timing: resist FOMO, wait for corrections caused by market crashes, war de-escalation, or economic slowdowns, and take profits when the market rewards you. A practical guide to disciplined commodity investing in an inflationary world where governments keep printing money to fund conflicts and the nuclear renaissance creates durable demand for uranium.</description>
