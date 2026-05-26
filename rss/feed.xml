@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 14:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:39:15 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -12,13 +12,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
-      <title>Claude Prompting Playbook</title>
+      <title>Anthropics Agent Evaluation Playbook</title>
       <description/>
-      <pubDate>Tue, 26 May 2026 14:50:35 +0000</pubDate>
-      <itunes:duration>03:10</itunes:duration>
+      <pubDate>Tue, 26 May 2026 18:34:34 +0000</pubDate>
+      <itunes:duration>04:13</itunes:duration>
       <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3" length="1681796" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3</guid>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep94-anthropics-agent-evaluation-playbook.podcast.mp3" length="2097428" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep94-anthropics-agent-evaluation-playbook.podcast.mp3</guid>
     </item>
     <item>
       <title>How to Trade the Commodities Market and Gold in 2026</title>
