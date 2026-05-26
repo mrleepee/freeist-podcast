@@ -4,13 +4,31 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 18:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:22:46 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The UK Government Wants to Tax Your Cash</title>
+      <description>The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste.</description>
+      <pubDate>Tue, 26 May 2026 19:19:58 +0000</pubDate>
+      <itunes:duration>03:13</itunes:duration>
+      <itunes:summary>The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep96-neil-mccoy-ward-shocking-now-uk-government-going.podcast.mp3" length="1687292" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep96-neil-mccoy-ward-shocking-now-uk-government-going.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Why We Believe Ai Hype Magic Effect</title>
+      <description/>
+      <pubDate>Tue, 26 May 2026 19:13:04 +0000</pubDate>
+      <itunes:duration>04:07</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3" length="2338652" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3</guid>
+    </item>
     <item>
       <title>Anthropics Agent Evaluation Playbook</title>
       <description/>

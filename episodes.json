@@ -407,5 +407,9 @@
     "title": "Anthropic's Agent Evaluation Playbook",
     "description": "Anthropic published a practical guide for building, testing, and debugging A I agents using structured evaluations. The framework covers three types of test cases — control cases, edge cases, and capability boundaries — and demonstrates with a telecom customer support agent scenario. Key insight: most prompt failures are structural, not logical. Simply reorganizing the prompt often produces bigger gains than rewriting the instructions.",
     "date": "2026-05-26"
+  },
+  "ep96-neil-mccoy-ward-shocking-now-uk-government-going": {
+    "title": "The UK Government Wants to Tax Your Cash",
+    "description": "The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste."
   }
 }
