@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 07:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:43:12 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -51,9 +51,9 @@
       <title>When Robots Get Wallets: Agentic Payments Explained</title>
       <description>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</description>
       <pubDate>Mon, 25 May 2026 16:37:58 +0000</pubDate>
-      <itunes:duration>09:23</itunes:duration>
+      <itunes:duration>08:51</itunes:duration>
       <itunes:summary>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4640132" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4813172" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
     </item>
     <item>
