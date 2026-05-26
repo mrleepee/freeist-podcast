@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 22:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:19:03 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -28,6 +28,15 @@
       <itunes:summary>Georgia spent a decade as the open-door country for digital nomads, but 2026 changed the rules. This episode walks through every corporate structure available to foreigners, from the Individual Entrepreneur with its famous 1% turnover tax to the LLC with its Estonian-style deferred distribution model, the Virtual Zone's 0% corporate rate for IT companies, International IT Company status, and Free Industrial Zones. Plus the mandatory work permit introduced in March 2026 and what it means for your planning timeline.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep92-georgia-corporate-structures-nomad-complete-guide-2026.podcast.mp3" length="3276836" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep92-georgia-corporate-structures-nomad-complete-guide-2026.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Setting Up Shop in the Caucasus: Georgia Corporate Structures for Nomads</title>
+      <description>A practical walkthrough of every corporate structure Georgia offers digital nomads in 2026. From the Individual Entrepreneur with its 1% turnover tax and next-day registration to the LLC with Estonian-style deferred profit taxation, the Virtual Zone's 0% rate for IT companies, Free Industrial Zones, and the new mandatory Right to Labour Activity work permit effective March 2026. Covers costs, timelines, residency pathways, and the 183-day tax trap.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>06:20</itunes:duration>
+      <itunes:summary>A practical walkthrough of every corporate structure Georgia offers digital nomads in 2026. From the Individual Entrepreneur with its 1% turnover tax and next-day registration to the LLC with Estonian-style deferred profit taxation, the Virtual Zone's 0% rate for IT companies, Free Industrial Zones, and the new mandatory Right to Labour Activity work permit effective March 2026. Covers costs, timelines, residency pathways, and the 183-day tax trap.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep93-setting-up-shop-caucasus-georgia-corporate-structures-nomads.podcast.mp3" length="3524684" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep93-setting-up-shop-caucasus-georgia-corporate-structures-nomads.podcast.mp3</guid>
     </item>
     <item>
       <title>Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation</title>
