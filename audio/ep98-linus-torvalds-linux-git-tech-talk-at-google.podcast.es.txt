@@ -1,173 +1,166 @@
-ES: ¿Sabías que el programa más importante del mundo no lo hizo una empresa?
-EN: Did you know that the most important piece of software in the world wasn't made by a company?
-
-ES: Lo creó una persona en dos semanas, en su tiempo libre.
-EN: One person created it in two weeks, on their own time.
-
-ES: Se llama Git, y hoy te cuento la filosofía detrás de su diseño.
-EN: It's called Git, and today I'm going to tell you the philosophy behind its design.
-
-ES: El hombre detrás de todo esto es Linus Torvalds.
-EN: The man behind all of this is Linus Torvalds.
-
-ES: Nació en Finlandia y en mil novecientos noventa y uno creó Linux.
-EN: He was born in Finland and in nineteen ninety-one he created Linux.
-
-ES: Linux es el sistema operativo que usa tu teléfono Android.
-EN: Linux is the operating system that runs on your Android phone.
-
-ES: También es el sistema que usan los servidores de internet y las supercomputadoras.
-EN: It's also the system that internet servers and supercomputers use.
-
-ES: En dos mil siete, Linus tuvo un problema.
-EN: In two thousand seven, Linus had a problem.
-
-ES: Usaba una herramienta para gestionar su código, pero perdió el acceso.
-EN: He used a tool to manage his code, but he lost access to it.
-
-ES: Entonces hizo lo que cualquier programador haría: creó su propia herramienta.
-EN: So he did what any programmer would do: he built his own tool.
-
-ES: En solo dos semanas, nació Git.
-EN: In just two weeks, Git was born.
-
-ES: No lo creó desde un libro o una clase. Lo creó porque lo necesitaba.
-EN: He didn't create it from a book or a class. He created it because he needed it.
-
-ES: Después dio una charla en Google. Habló de por qué Git funciona de cierta manera.
-EN: Later, he gave a talk at Google. He talked about why Git works the way it does.
-
-ES: Linus tiene una opinión muy clara sobre otras herramientas.
-EN: Linus has a very clear opinion about other tools.
-
-ES: Pasó diez años usando archivos simples para gestionar su código.
-EN: He spent ten years using simple files to manage his code.
-
-ES: Suena anticuado, pero tenía una ventaja: no mentía sobre lo que pasaba.
-EN: It sounds old-fashioned, but it had one advantage: it didn't lie about what was happening.
-
-ES: Las herramientas centralizadas, dijo, introducen política donde no debe haberla.
-EN: Centralized tools, he said, introduce politics where there shouldn't be any.
-
-ES: Crean puntos lentos. Hacen difícil trabajar sin conexión.
-EN: They create bottlenecks. They make it hard to work offline.
-
-ES: Y hacen que algo simple, como crear una nueva versión, sea muy difícil.
-EN: And they make something simple, like creating a new version, very difficult.
-
-ES: Git cambia todo eso.
-EN: Git changes all of that.
-
-ES: En Git, crear una nueva rama es casi instantáneo.
-EN: In Git, creating a new branch is almost instant.
-
-ES: Necesita apenas unos bytes de espacio.
-EN: It needs barely a few bytes of space.
-
-ES: Lo importante no es la velocidad. Lo importante es que crear ramas se convierte en algo normal.
-EN: The important thing isn't the speed. The important thing is that creating branches becomes normal.
-
-ES: ¿Quieres probar algo nuevo? Crea una rama.
-EN: Want to try something new? Create a branch.
-
-ES: ¿Algo se rompió? Crea una rama.
-EN: Something broke? Create a branch.
-
-ES: La herramienta no te molesta.
-EN: The tool doesn't get in your way.
-
-ES: El kernel de Linux tiene miles de archivos y miles de desarrolladores.
-EN: The Linux kernel has thousands of files and thousands of developers.
-
-ES: Cada día, hacen cuatro o cinco combinaciones de código.
-EN: Every day, they do four or five code merges.
-
-ES: Si fuera difícil, todo se derrumbaría.
-EN: If it were difficult, everything would collapse.
-
-ES: Pero es rápido. Toma segundos.
-EN: But it's fast. It takes seconds.
-
-ES: Linus no confía en todos. Confía en cinco o quince personas.
-EN: Linus doesn't trust everyone. He trusts five or fifteen people.
-
-ES: Pero lo interesante es esto: la confianza se transmite.
-EN: But here's the interesting part: trust spreads.
-
-ES: Si María confía en Pedro, y Pedro confía en Linus, entonces el trabajo de María llega a Linus sin que él lo verifique todo.
-EN: If Maria trusts Pedro, and Pedro trusts Linus, then Maria's work reaches Linus without him having to verify everything.
-
-ES: No hay un jefe que approve todo.
-EN: There's no boss who approves everything.
-
-ES: Los conflictos los resuelven las personas que crearon el problema.
-EN: The people who created the conflict resolve it.
-
-ES: Git también es muy rápido para ver cambios en el código.
-EN: Git is also very fast at seeing changes in the code.
-
-ES: Puede revisar todo el kernel de Linux en menos de un segundo.
-EN: It can review the entire Linux kernel in less than one second.
-
-ES: En una computadora vieja.
-EN: On an old computer.
-
-ES: Esto cambia cómo trabajan los programadores.
-EN: This changes how programmers work.
-
-ES: Dejan de tener miedo de ver los cambios porque es instantáneo.
-EN: They stop being afraid to look at changes because it's instant.
-
-ES: Empiezan a tratar el historial como algo vivo, algo que pueden entender.
-EN: They start treating history as something alive, something they can understand.
-
-ES: Git no sigue archivos. Sigue contenido.
-EN: Git doesn't follow files. It follows content.
-
-ES: Cada versión del proyecto tiene un identificador único, como una huella digital.
-EN: Every version of the project has a unique identifier, like a fingerprint.
-
-ES: Si cambias el nombre de un archivo, Git lo sigue porque conoce el contenido.
-EN: If you rename a file, Git follows it because it knows the content.
-
-ES: Este diseño tiene un beneficio de seguridad.
-EN: This design has a security benefit.
-
-ES: Git garantiza que tu código no se ha dañado en silencio.
-EN: Git guarantees that your code hasn't been silently corrupted.
-
-ES: Si algo cambió mal, el identificador no coincide. Siempre lo sabes.
-EN: If something changed wrong, the identifier doesn't match. You always know.
-
-ES: Lo que me llama la atención es cómo Git refleja valores importantes.
-EN: What strikes me is how Git reflects important values.
-
-ES: Descentralización. Libertad individual. Redes de confianza.
-EN: Decentralization. Individual freedom. Trust networks.
-
-ES: Linus creía que quitar obstáculos para lo bueno importa más que añadir barreras para lo malo.
-EN: Linus believed that removing obstacles for good behavior matters more than adding barriers for bad behavior.
-
-ES: Haz que crear ramas sea fácil, y la gente crea ramas.
+EN: What if the most important software in the world wasn't created by a company?
+ES: ¿Qué pasa si el software más importante del mundo no fue creado por una empresa?
+EN: Git manages code for millions of people, but one person built it in two weeks.
+ES: Git gestiona código para millones de personas, pero una persona lo construyó en dos semanas.
+EN: His name is Linus Torvalds, and he comes from Finland.
+ES: Su nombre es Linus Torvalds, y viene de Finlandia.
+EN: In 1991, he wrote the kernel that now runs Android phones, servers, and supercomputers.
+ES: En 1991, él escribió el núcleo que ahora corre en teléfonos Android, servidores y supercomputadoras.
+EN: In 2007, he lost access to a tool called BitKeeper, the software he used to manage code.
+ES: En 2007, perdió acceso a una herramienta llamada BitKeeper, el software que usaba para gestionar código.
+EN: Most people would have complained and waited for a solution.
+ES: La mayoría de las personas habrían reclamado y esperado una solución.
+EN: Linus built his own replacement in fourteen days.
+ES: Linus construyó su propio reemplazo en catorce días.
+EN: He gave a talk at Google shortly after, and it reveals how he thinks about collaboration.
+ES: Dio una charla en Google poco después, y revela cómo piensa sobre la colaboración.
+EN: Today, we focus on the philosophy behind Git — the reasons for its design.
+ES: Hoy, nos centramos en la filosofía detrás de Git — las razones de su diseño.
+EN: Here is the first thing you need to know about Linus.
+ES: Aquí está lo primero que necesitas saber sobre Linus.
+EN: He does not tolerate tools he considers broken.
+ES: No tolera herramientas que considera rotas.
+EN: When people asked him about older systems like CVS or Subversion, his response was immediate and clear.
+ES: Cuando le preguntaban sobre sistemas más antiguos como CVS o Subversion, su respuesta fue inmediata y clara.
+EN: He called them fundamentally flawed at their core.
+ES: Los llamó fundamentalmente defectuosos en su base.
+EN: For ten years, he managed code the old way — with tarballs, patches, and manual effort.
+ES: Durante diez años, gestionó código de la manera vieja — con archivos tar, parches y esfuerzo manual.
+EN: That approach sounds primitive, but it had one important virtue.
+ES: Ese enfoque suena primitivo, pero tenía una virtud importante.
+EN: It did not lie to you about what was happening to your code.
+ES: No te mentía sobre lo que pasaba con tu código.
+EN: Centralized systems, in his view, introduce politics where there should be none.
+ES: Los sistemas centralizados, en su opinión, introducen política donde no debe haber ninguna.
+EN: They create bottlenecks and make offline work impossible.
+ES: Crean cuellos de botella y hacen imposible el trabajo sin conexión.
+EN: They treat branching as something only experts should do.
+ES: Tratan la creación de ramas como algo que solo los expertos deben hacer.
+EN: Git changes all of this.
+ES: Git cambia todo esto.
+EN: In Git, branching is trivial.
+ES: En Git, crear ramas es trivial.
+EN: Creating a new branch requires only about forty bytes of disk space.
+ES: Crear una nueva rama requiere solo cerca de cuarenta bytes de espacio en disco.
+EN: The real innovation is not that branching is fast.
+ES: La innovación real no es que crear ramas sea rápido.
+EN: The real innovation is that branching becomes a first-class operation.
+ES: La innovación real es que crear ramas se convierte en una operación de primera clase.
+EN: Every developer does it constantly without thinking.
+ES: Cada desarrollador lo hace constantemente sin pensar.
+EN: You want to try a new feature? Create a branch.
+ES: ¿Quieres probar una función nueva? Crea una rama.
+EN: Something breaks? Create a branch.
+ES: ¿Algo se rompe? Crea una rama.
+EN: You have a crazy idea that will probably fail? Create a branch.
+ES: ¿Tienes una idea loca que probablemente fallará? Crea una rama.
+EN: The tool stops getting in your way.
+ES: La herramienta deja de estorbarte.
+EN: Branching is only half the story.
+ES: Crear ramas es solo la mitad de la historia.
+EN: The other half is merging, and this is where Linus's philosophy gets really interesting.
+ES: La otra mitad es fusionar, y aquí es donde la filosofía de Linus se pone muy interesante.
+EN: In centralized systems, merging is painful and slow.
+ES: En sistemas centralizados, fusionar es doloroso y lento.
+EN: In Git, merging is what actually matters.
+ES: En Git, fusionar es lo que realmente importa.
+EN: The Linux kernel has over twenty-two thousand files.
+ES: El núcleo de Linux tiene más de veintidós mil archivos.
+EN: Thousands of developers contribute to it every day.
+ES: Miles de desarrolladores contribuyen a él cada día.
+EN: It averages four and a half merges per day.
+ES: Promedia cuatro y medio fusiones por día.
+EN: If merging were difficult, the kernel would have collapsed years ago.
+ES: Si fusionar fuera difícil, el núcleo habría colapsado hace años.
+EN: Instead, merges happen in seconds.
+ES: En cambio, las fusiones pasan en segundos.
+EN: This brings us to the network of trust model.
+ES: Esto nos lleva al modelo de red de confianza.
+EN: Linus does not trust everyone.
+ES: Linus no confía en todos.
+EN: He trusts five to fifteen specific people.
+ES: Confía en cinco a quince personas específicas.
+EN: But here is the clever part.
+ES: Pero aquí está la parte inteligente.
+EN: Trust propagates naturally through the system.
+ES: La confianza se propaga naturalmente a través del sistema.
+EN: If Sarah trusts Tom, and Tom trusts Linus, then Sarah's work reaches Linus automatically.
+ES: Si Sarah confía en Tom, y Tom confía en Linus, entonces el trabajo de Sarah llega a Linus automáticamente.
+EN: There is no central gatekeeper who must approve everything.
+ES: No hay un guardián central que debe aprobar todo.
+EN: Conflicts are resolved by the people who created them.
+ES: Los conflictos se resuelven por las personas que los crearon.
+EN: This connects to how Linus thinks about performance.
+ES: Esto se conecta con cómo Linus piensa sobre el rendimiento.
+EN: He does not talk about speed as a bragging point.
+ES: No habla de la velocidad como un punto de orgullo.
+EN: He talks about it as an enabler of better workflows.
+ES: Habla de ella como un habilitador de mejores flujos de trabajo.
+EN: Git can compare the entire Linux kernel in under one second on an old laptop.
+ES: Git puede comparar todo el núcleo de Linux en menos de un segundo en una computadora vieja.
+EN: That speed changes how developers interact with their history.
+ES: Esa velocidad cambia cómo los desarrolladores interactúan con su historia.
+EN: You stop being afraid to look at changes because looking is instant.
+ES: Dejas de tener miedo de ver los cambios porque ver es instantáneo.
+EN: You start treating your project's history as something alive and queryable.
+ES: Empiezas a tratar el historial de tu proyecto como algo vivo y consultable.
+EN: Performance also matters for merging.
+ES: El rendimiento también importa para fusionar.
+EN: The faster merges happen, the more willing people are to do them.
+ES: Cuanto más rápido ocurren las fusiones, más dispuestos están las personas a hacerlas.
+EN: If merging took an hour, developers would avoid it.
+ES: Si fusionar tomara una hora, los desarrolladores lo evitarían.
+EN: They would work in isolation longer and accumulate bigger conflicts.
+ES: Trabajarían aislados por más tiempo y acumularían conflictos más grandes.
+EN: Speed encourages the behavior you actually want.
+ES: La velocidad encourage el comportamiento que realmente quieres.
+EN: Now, here is a technical decision that seems minor but has profound implications.
+ES: Ahora, aquí hay una decisión técnica que parece menor pero tiene implicaciones profundas.
+EN: Git tracks content, not individual files.
+ES: Git rastrea contenido, no archivos individuales.
+EN: It does not care about file names or locations.
+ES: No le importan los nombres de archivos o sus ubicaciones.
+EN: It cares about the entire state of the project at any given moment.
+ES: Le importa el estado completo del proyecto en cualquier momento dado.
+EN: Every version gets a digital fingerprint called a SHA-one hash.
+ES: Cada versión recibe una huella digital llamada hash SHA-one.
+EN: If you rename a file, Git can still follow it because the content has not changed.
+ES: Si renombras un archivo, Git puede seguirlo porque el contenido no ha cambiado.
+EN: This design choice has an important security implication.
+ES: Esta decisión de diseño tiene una implicación de seguridad importante.
+EN: Git uses hashing for integrity, not for secrecy.
+ES: Git usa hashing para integridad, no para secreto.
+EN: It guarantees that your data has not been quietly corrupted.
+ES: Garantiza que tus datos no han sido corrupos silenciosamente.
+EN: If the hash does not match, something went wrong.
+ES: Si el hash no coincide, algo salió mal.
+EN: You will always know.
+ES: Siempre lo sabrás.
+EN: What strikes me about Linus's philosophy is how deeply it reflects values that many consider idealistic.
+ES: Lo que me llama la atención de la filosofía de Linus es cuánto refleja valores que muchos consideran idealistas.
+EN: Decentralization, individual sovereignty, trust networks instead of hierarchical approval.
+ES: Descentralización, soberanía individual, redes de confianza en lugar de aprobación jerárquica.
+EN: Git was built by someone who believed that removing friction from good behavior matters more than adding barriers to bad behavior.
+ES: Git fue construido por alguien que creía que eliminar fricción del buen comportamiento importa más que agregar barreras al mal comportamiento.
 EN: Make branching easy, and people branch.
-
-ES: Haz que combinar código sea rápido, y la gente combina código.
+ES: Haz que crear ramas sea fácil, y las personas crean ramas.
 EN: Make merging fast, and people merge.
-
-ES: Git no triunfó por dinero o marketing.
-EN: Git didn't succeed because of money or marketing.
-
-ES: Triunfó porque su diseño tenía sentido.
-EN: It succeeded because its design made sense.
-
-ES: La gente que entendió esos principios prefirió trabajar así.
-EN: People who understood those principles preferred working this way.
-
-ES: El kernel de Linux creció con miles de contribuyentes gracias a la naturaleza distribuida de Git.
-EN: The Linux kernel grew with thousands of contributors because of Git's distributed nature.
-
-ES: La próxima vez hablaremos de cómo usar Git en empresas.
-EN: Next time we'll talk about how to use Git in companies.
-
-ES: Pero la filosofía es la base. Sin buena base, nada más importa.
-EN: But the philosophy is the foundation. Without a good foundation, nothing else matters.
+ES: Haz que fusionar sea rápido, y las personas fusionan.
+EN: Build a system where no single point of failure exists, and it becomes resilient in ways that centralized systems cannot match.
+ES: Construye un sistema donde no existe un solo punto de falla, y se vuelve resiliente de maneras que los sistemas centralizados no pueden igualar.
+EN: Git did not succeed because of corporate backing or marketing budgets.
+ES: Git no tuvo éxito por respaldo corporativo o presupuestos de marketing.
+EN: It succeeded because it was designed according to principles that made sense.
+ES: Tuvo éxito porque fue diseñado según principios que tenían sentido.
+EN: People who understood those principles preferred working that way.
+ES: Las personas que entendieron esos principios prefirieron trabajar de esa manera.
+EN: The Linux kernel grew to twenty-two thousand files and thousands of contributors not despite its distributed nature, but because of it.
+ES: El núcleo de Linux creció a veintidós mil archivos y miles de colaboradores no a pesar de su naturaleza distribuida, sino gracias a ella.
+EN: That is the philosophy worth sitting with.
+ES: Esa es la filosofía que vale la pena considerar.
+EN: Next time, we will look at what this means for companies and how repository structure actually works.
+ES: La próxima vez, veremos lo que esto significa para las empresas y cómo funciona la estructura de repositorios en la práctica.
+EN: But the philosophy is the foundation.
+ES: Pero la filosofía es la base.
+EN: Build on the wrong foundation, and no amount of polish on top will save you.
+ES: Construye sobre la base equivocada, y ninguna cantidad de brillo arriba te salvará.
