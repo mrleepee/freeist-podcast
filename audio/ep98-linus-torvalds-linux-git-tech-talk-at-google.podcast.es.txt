@@ -1,29 +1,173 @@
-Imagina que creas un programa tan importante que lo usa casi todo el mundo en el mundo. Millones de computadoras funcionan con él. Servidores, teléfonos, incluso la computadora de tu escuela. Eso es Linux. Y el hombre que lo creó se llama Linus Torvalds. Hoy vamos a hablar de él y de otra cosa increíble que él construyó: Git. Es una herramienta que los programadores usan todos los días para guardar su código. Vamos a aprender cómo funciona y por qué es tan especial.
+ES: ¿Sabías que el programa más importante del mundo no lo hizo una empresa?
+EN: Did you know that the most important piece of software in the world wasn't made by a company?
 
-Todo empezó porque Linus estaba frustrado. Antes de crear Git, él usaba otra herramienta para guardar su código. Se llamaba BitKeeper. Durante diez años, esa fue la única herramienta que él consideró buena. Pero un día, perdió el acceso a BitKeeper. Ya no podía usarlo gratis. ¿Qué hizo Linus? No se rindió. En lugar de buscar otra herramienta, creó la suya propia. Así nació Git.
+ES: Lo creó una persona en dos semanas, en su tiempo libre.
+EN: One person created it in two weeks, on their own time.
 
-Cuando Linus miró las herramientas que existían, no le gustó ninguna. Había un sistema muy popular llamado C V S. Linus lo odiaba. Decía que C V S era terrible. Después vino Subversion, que intentó ser una versión mejor de C V S. Pero Linus no creía que eso funcionara. Su frase famosa era que Subversion era "C V S hecho bien". Y eso, según Linus, era imposible. C V S tenía problemas muy profundos en su diseño.
+ES: Se llama Git, y hoy te cuento la filosofía detrás de su diseño.
+EN: It's called Git, and today I'm going to tell you the philosophy behind its design.
 
-Aquí es donde Git cambió todo. La idea principal de Git es algo que se llama "distribución". ¿Qué significa eso? Imagina una oficina donde hay un jefe y todos los demás trabajadores. En un sistema centralizado, todo el código está en la oficina del jefe. Los trabajadores van allí para guardar sus cambios. Si el jefe no está, nadie puede guardar nada. Eso era C V S. Era un sistema con un solo lugar central.
+ES: El hombre detrás de todo esto es Linus Torvalds.
+EN: The man behind all of this is Linus Torvalds.
 
-Git funciona diferente. En Git, cada persona tiene su propia copia completa del proyecto. No hay un jefe. No hay una oficina central. Si tú usas Git, tienes todo el código en tu computadora. Puedes hacer cambios, guardar tu trabajo, ver la historia del proyecto. Todo funciona sin internet. Puedes hacerlo en un avión, en una playa, en tu casa. Eso es lo que significa "distribuido". Todos los lugares son igual de importantes.
+ES: Nació en Finlandia y en mil novecientos noventa y uno creó Linux.
+EN: He was born in Finland and in nineteen ninety-one he created Linux.
 
-Otra cosa increíble de Git es cómo maneja las ramas. En los sistemas antiguos, hacer una rama era difícil. Solo los expertos lo hacían. En Git, crear una rama es súper fácil. Una rama nueva es solo un archivo muy pequeño, de unos cuarenta y un bytes. Imagina eso. Cuarenta y un bytes. Es casi nada. Puedes crear ramas todo el tiempo para probar cosas nuevas. Si no te gusta lo que hiciste, borras la rama. Si te gusta, la unes al proyecto principal.
+ES: Linux es el sistema operativo que usa tu teléfono Android.
+EN: Linux is the operating system that runs on your Android phone.
 
-Hablando del proyecto principal, ¿sabes cuántos archivos tiene el proyecto de Linux? Tiene más de veintidós mil archivos. Cada día, los programadores hacen cambios en esos archivos. ¿Cuántas veces al día se unen esos cambios? En promedio, cuatro veces y media al día. Cuatro merges al día con veintidós mil archivos. En otros sistemas, eso sería un desastre. Tomaría horas. En Git, toma segundos. Eso es lo que hace especial a Git. No solo es rápido. Es rápido donde importa más: cuando unes código.
+ES: También es el sistema que usan los servidores de internet y las supercomputadoras.
+EN: It's also the system that internet servers and supercomputers use.
 
-Linus tenía una idea muy interesante sobre la confianza. Él no confiaba en todo el mundo. De hecho, solo confiaba en cinco o quince personas específicas. Pero eso no era un problema. ¿Por qué? Porque Git crea redes de confianza automáticamente. Si tú confías en mí y yo confío en otro programador, entonces esa otra persona también puede participar. No necesitas que Linus confíe directamente en todos. La confianza se transmite. Es como una cadena de amigos. Si tu amigo confía en alguien, tú puedes confiar en esa persona también.
+ES: En dos mil siete, Linus tuvo un problema.
+EN: In two thousand seven, Linus had a problem.
 
-Git también tiene algo que se llama "tracking de contenido". Esto significa que Git no guarda archivos individuales. Guarda el estado completo del proyecto en cada momento. ¿Por qué importa esto? Imagina que escribes código en un archivo. Después mueves ese archivo a otro lugar. Git puede seguir tu código aunque cambie de lugar. No pierde la historia. Eso es muy útil cuando los proyectos son grandes y complicados.
+ES: Usaba una herramienta para gestionar su código, pero perdió el acceso.
+EN: He used a tool to manage his code, but he lost access to it.
 
-Otra cosa importante es la seguridad de Git. Git usa algo que se llama S H A uno. Es un número muy largo que identifica cada versión del código. Si alguien cambia algo en el código, el número cambia. Los programadores saben inmediatamente si algo está mal. Pero Linus aclara una cosa. Esto no es criptografía. No protege tu código de hackers. Solo verifica que el código no se corrompió por error. Eso es diferente.
+ES: Entonces hizo lo que cualquier programador haría: creó su propia herramienta.
+EN: So he did what any programmer would do: he built his own tool.
 
-Ahora, ¿qué pasó en Google? Linus dio una charla ahí. Explicó todas estas ideas. Habló de por qué creó Git y cómo piensa sobre el software. Después de la charla, mucha gente en la industria entendió que Git era serio. Ya no era solo para proyectos pequeños. Era para proyectos enormes como el kernel de Linux.
+ES: En solo dos semanas, nació Git.
+EN: In just two weeks, Git was born.
 
-Si trabajas en una empresa, hay consejos prácticos. Git funciona mejor cuando cada proyecto tiene su propio repositorio. Un repositorio es como un contenedor donde guardas todo el código. Si tienes muchos proyectos diferentes, sepáralos. Así es más fácil manejar todo.
+ES: No lo creó desde un libro o una clase. Lo creó porque lo necesitaba.
+EN: He didn't create it from a book or a class. He created it because he needed it.
 
-Lo interesante es que hace unos años, Git no estaba listo para uso comercial. Era difícil. Pero ahora es mucho más fácil. Mucha gente lo usa todos los días sin problemas. Es más rápido que otras herramientas como Perforce, especialmente cuando el proyecto crece.
+ES: Después dio una charla en Google. Habló de por qué Git funciona de cierta manera.
+EN: Later, he gave a talk at Google. He talked about why Git works the way it does.
 
-Hay más para hablar sobre Linus Torvalds y sus ideas. Podríamos hacer otro episodio solo sobre Linux y cómo funciona. O sobre la filosofía de código abierto que él promueve. Hay mucho material interesante. Pero por hoy, lo importante es esto: Linus vio un problema. Creó una solución. Esa solución cambió cómo el mundo escribe software. Y todo empezó porque un programador se negó a usar herramientas que no le gustaban.
+ES: Linus tiene una opinión muy clara sobre otras herramientas.
+EN: Linus has a very clear opinion about other tools.
 
-La próxima vez que uses Git para guardar tu código, recuerda a Linus. Recuerda que detrás de cada herramienta hay una historia. Y a veces, una persona terca puede cambiar el mundo entero.
+ES: Pasó diez años usando archivos simples para gestionar su código.
+EN: He spent ten years using simple files to manage his code.
+
+ES: Suena anticuado, pero tenía una ventaja: no mentía sobre lo que pasaba.
+EN: It sounds old-fashioned, but it had one advantage: it didn't lie about what was happening.
+
+ES: Las herramientas centralizadas, dijo, introducen política donde no debe haberla.
+EN: Centralized tools, he said, introduce politics where there shouldn't be any.
+
+ES: Crean puntos lentos. Hacen difícil trabajar sin conexión.
+EN: They create bottlenecks. They make it hard to work offline.
+
+ES: Y hacen que algo simple, como crear una nueva versión, sea muy difícil.
+EN: And they make something simple, like creating a new version, very difficult.
+
+ES: Git cambia todo eso.
+EN: Git changes all of that.
+
+ES: En Git, crear una nueva rama es casi instantáneo.
+EN: In Git, creating a new branch is almost instant.
+
+ES: Necesita apenas unos bytes de espacio.
+EN: It needs barely a few bytes of space.
+
+ES: Lo importante no es la velocidad. Lo importante es que crear ramas se convierte en algo normal.
+EN: The important thing isn't the speed. The important thing is that creating branches becomes normal.
+
+ES: ¿Quieres probar algo nuevo? Crea una rama.
+EN: Want to try something new? Create a branch.
+
+ES: ¿Algo se rompió? Crea una rama.
+EN: Something broke? Create a branch.
+
+ES: La herramienta no te molesta.
+EN: The tool doesn't get in your way.
+
+ES: El kernel de Linux tiene miles de archivos y miles de desarrolladores.
+EN: The Linux kernel has thousands of files and thousands of developers.
+
+ES: Cada día, hacen cuatro o cinco combinaciones de código.
+EN: Every day, they do four or five code merges.
+
+ES: Si fuera difícil, todo se derrumbaría.
+EN: If it were difficult, everything would collapse.
+
+ES: Pero es rápido. Toma segundos.
+EN: But it's fast. It takes seconds.
+
+ES: Linus no confía en todos. Confía en cinco o quince personas.
+EN: Linus doesn't trust everyone. He trusts five or fifteen people.
+
+ES: Pero lo interesante es esto: la confianza se transmite.
+EN: But here's the interesting part: trust spreads.
+
+ES: Si María confía en Pedro, y Pedro confía en Linus, entonces el trabajo de María llega a Linus sin que él lo verifique todo.
+EN: If Maria trusts Pedro, and Pedro trusts Linus, then Maria's work reaches Linus without him having to verify everything.
+
+ES: No hay un jefe que approve todo.
+EN: There's no boss who approves everything.
+
+ES: Los conflictos los resuelven las personas que crearon el problema.
+EN: The people who created the conflict resolve it.
+
+ES: Git también es muy rápido para ver cambios en el código.
+EN: Git is also very fast at seeing changes in the code.
+
+ES: Puede revisar todo el kernel de Linux en menos de un segundo.
+EN: It can review the entire Linux kernel in less than one second.
+
+ES: En una computadora vieja.
+EN: On an old computer.
+
+ES: Esto cambia cómo trabajan los programadores.
+EN: This changes how programmers work.
+
+ES: Dejan de tener miedo de ver los cambios porque es instantáneo.
+EN: They stop being afraid to look at changes because it's instant.
+
+ES: Empiezan a tratar el historial como algo vivo, algo que pueden entender.
+EN: They start treating history as something alive, something they can understand.
+
+ES: Git no sigue archivos. Sigue contenido.
+EN: Git doesn't follow files. It follows content.
+
+ES: Cada versión del proyecto tiene un identificador único, como una huella digital.
+EN: Every version of the project has a unique identifier, like a fingerprint.
+
+ES: Si cambias el nombre de un archivo, Git lo sigue porque conoce el contenido.
+EN: If you rename a file, Git follows it because it knows the content.
+
+ES: Este diseño tiene un beneficio de seguridad.
+EN: This design has a security benefit.
+
+ES: Git garantiza que tu código no se ha dañado en silencio.
+EN: Git guarantees that your code hasn't been silently corrupted.
+
+ES: Si algo cambió mal, el identificador no coincide. Siempre lo sabes.
+EN: If something changed wrong, the identifier doesn't match. You always know.
+
+ES: Lo que me llama la atención es cómo Git refleja valores importantes.
+EN: What strikes me is how Git reflects important values.
+
+ES: Descentralización. Libertad individual. Redes de confianza.
+EN: Decentralization. Individual freedom. Trust networks.
+
+ES: Linus creía que quitar obstáculos para lo bueno importa más que añadir barreras para lo malo.
+EN: Linus believed that removing obstacles for good behavior matters more than adding barriers for bad behavior.
+
+ES: Haz que crear ramas sea fácil, y la gente crea ramas.
+EN: Make branching easy, and people branch.
+
+ES: Haz que combinar código sea rápido, y la gente combina código.
+EN: Make merging fast, and people merge.
+
+ES: Git no triunfó por dinero o marketing.
+EN: Git didn't succeed because of money or marketing.
+
+ES: Triunfó porque su diseño tenía sentido.
+EN: It succeeded because its design made sense.
+
+ES: La gente que entendió esos principios prefirió trabajar así.
+EN: People who understood those principles preferred working this way.
+
+ES: El kernel de Linux creció con miles de contribuyentes gracias a la naturaleza distribuida de Git.
+EN: The Linux kernel grew with thousands of contributors because of Git's distributed nature.
+
+ES: La próxima vez hablaremos de cómo usar Git en empresas.
+EN: Next time we'll talk about how to use Git in companies.
+
+ES: Pero la filosofía es la base. Sin buena base, nada más importa.
+EN: But the philosophy is the foundation. Without a good foundation, nothing else matters.
