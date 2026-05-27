@@ -421,5 +421,10 @@
     "title": "Liberland: From Micronation to Para-State",
     "description": "Croatia reclassified Liberland from an organized group to a para-state — taking it seriously as a political entity rather than dismissing it as a micronation. The episode covers the legal basis (Serbia renounced the territory, Croatia never claimed it), how Liberland meets all four Montevideo criteria for statehood, the four-pillar governance system merging meritocracy, republic, democracy, and monarchy, blockchain-powered bureaucracy removal, Justin Sun as Prime Minister, Uberized security, competitive justice, and diplomatic progress across 90 countries.",
     "date": "2026-05-27"
+  },
+  "ep98-linus-torvalds-linux-git-tech-talk-at-google": {
+    "title": "Linus Torvalds: The Philosophy Behind Git — Why Decentralisation Wins",
+    "description": "Linus Torvalds created Linux in 1991 and Git in 2005 — two tools that now underpin most of the world's infrastructure. In a landmark talk at Google, he explained why centralised version control is fundamentally broken, why branching should be trivial and merging should be fast, and how a network of trust model replaced the politics of commit access. This episode focuses on the philosophy behind Git's design: content tracking over file tracking, SHA-1 integrity, performance as a workflow enabler, and the decentralised architecture that lets the Linux kernel manage 22,000 files with 4.5 merges per day. A future episode will cover the technical implementation and what it means for companies.",
+    "date": "2026-05-27"
   }
 }

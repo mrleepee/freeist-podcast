@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 07:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:32:34 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -21,12 +21,21 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep97-liberland-from-micronation-para-state.podcast.mp3</guid>
     </item>
     <item>
+      <title>Linus Torvalds: The Philosophy Behind Git — Why Decentralisation Wins</title>
+      <description>Linus Torvalds created Linux in 1991 and Git in 2005 — two tools that now underpin most of the world's infrastructure. In a landmark talk at Google, he explained why centralised version control is fundamentally broken, why branching should be trivial and merging should be fast, and how a network of trust model replaced the politics of commit access. This episode focuses on the philosophy behind Git's design: content tracking over file tracking, SHA-1 integrity, performance as a workflow enabler, and the decentralised architecture that lets the Linux kernel manage 22,000 files with 4.5 merges per day. A future episode will cover the technical implementation and what it means for companies.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>07:54</itunes:duration>
+      <itunes:summary>Linus Torvalds created Linux in 1991 and Git in 2005 — two tools that now underpin most of the world's infrastructure. In a landmark talk at Google, he explained why centralised version control is fundamentally broken, why branching should be trivial and merging should be fast, and how a network of trust model replaced the politics of commit access. This episode focuses on the philosophy behind Git's design: content tracking over file tracking, SHA-1 integrity, performance as a workflow enabler, and the decentralised architecture that lets the Linux kernel manage 22,000 files with 4.5 merges per day. A future episode will cover the technical implementation and what it means for companies.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="3762092" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3</guid>
+    </item>
+    <item>
       <title>The UK Government Wants to Tax Your Cash</title>
       <description>The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste.</description>
-      <pubDate>Tue, 26 May 2026 21:40:15 +0000</pubDate>
-      <itunes:duration>03:28</itunes:duration>
+      <pubDate>Tue, 26 May 2026 19:19:58 +0000</pubDate>
+      <itunes:duration>03:13</itunes:duration>
       <itunes:summary>The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep96-neil-mccoy-ward-shocking-now-uk-government-going.podcast.mp3" length="1666724" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep96-neil-mccoy-ward-shocking-now-uk-government-going.podcast.mp3" length="1687292" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep96-neil-mccoy-ward-shocking-now-uk-government-going.podcast.mp3</guid>
     </item>
     <item>
@@ -37,6 +46,15 @@
       <itunes:summary/>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep94-anthropics-agent-evaluation-playbook.podcast.mp3" length="2097428" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep94-anthropics-agent-evaluation-playbook.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Claude Prompting Playbook</title>
+      <description/>
+      <pubDate>Tue, 26 May 2026 14:50:35 +0000</pubDate>
+      <itunes:duration>03:10</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3" length="1681796" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep94-claude-prompting-playbook.podcast.mp3</guid>
     </item>
     <item>
       <title>How to Trade the Commodities Market and Gold in 2026</title>
@@ -66,6 +84,15 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3</guid>
     </item>
     <item>
+      <title>Georgia Corporate Structures Nomad Complete Guide 2026</title>
+      <description/>
+      <pubDate>Mon, 25 May 2026 22:48:44 +0000</pubDate>
+      <itunes:duration>05:45</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep92-georgia-corporate-structures-nomad-complete-guide-2026.podcast.mp3" length="3276836" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep92-georgia-corporate-structures-nomad-complete-guide-2026.podcast.mp3</guid>
+    </item>
+    <item>
       <title>Liberland's Direct Meritocracy: How Vit Jedlicka Designed a New Nation</title>
       <description>Vit Jedlicka explains how Liberland's direct meritocracy combines four pillars — meritocracy, republicanism, constrained democracy, and a founder Senate — into a blockchain-governed state where all elections, budgeting, and justice run as smart contracts. Voluntary contributions earn governance shares rather than being extracted as taxes, and the justice system uses AI-assisted resolution with merit-based collateral for immediate compensation.</description>
       <pubDate>Mon, 25 May 2026 21:25:45 +0000</pubDate>
@@ -78,9 +105,9 @@
       <title>When Robots Get Wallets: Agentic Payments Explained</title>
       <description>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</description>
       <pubDate>Mon, 25 May 2026 16:37:58 +0000</pubDate>
-      <itunes:duration>08:51</itunes:duration>
+      <itunes:duration>09:23</itunes:duration>
       <itunes:summary>A two-host conversation about the emerging world of agentic payments — how AI agents can autonomously pay for services. From the x402 protocol that unlocks the dormant HTTP 402 status code, to the economics of agents spending fractions of a cent per query, this episode explores why giving AI agents wallets changes everything about how software interacts with paid services.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4813172" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3" length="4640132" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
     </item>
     <item>
@@ -109,6 +136,15 @@
       <itunes:summary>The country of Georgia yields some of the most extraordinary archaeological discoveries in human history. From 1.8 million year old Homo erectus skulls at Dmanisi — the oldest hominin fossils found outside Africa — to the world's earliest wine production dating back 8,000 years, the Shulaveri-Shomu culture's pioneering agriculture, the wealthy kingdom of Colchis that inspired the myth of Jason and the Golden Fleece, and one of only fourteen independent alphabets on Earth. Georgia is not merely a chapter in the story of civilisation — it may well be the prologue.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3" length="2819372" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep84-why-georgia-considered-cradle-civilisation.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Vegastar Can One Ancient Hum Really Awaken Pineal</title>
+      <description/>
+      <pubDate>Mon, 25 May 2026 10:22:00 +0000</pubDate>
+      <itunes:duration>03:17</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3" length="1688996" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep85-vegastar-can-one-ancient-hum-really-awaken-pineal.podcast.mp3</guid>
     </item>
     <item>
       <title>Anthropic Engineer Shows How to Give AI Agents Real Memory</title>
@@ -145,6 +181,24 @@
       <itunes:summary>Andrej Karpathy traces the evolution from Software 1.0 through 2.0 to 3.0 — where prompting replaces programming and the context window becomes your primary lever. He explains why AI capabilities are jagged rather than uniform, why verifiability is the key to building with AI, and how vibe coding democratises creation while agentic engineering raises the ceiling. The animals versus ghosts analogy reframes what these systems actually are, and the parting lesson is clear: you can outsource your thinking, but you cannot outsource your understanding.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2340428" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep79-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Defileo Anthropic Just Paid Millions Hire Andrej Karpathy</title>
+      <description/>
+      <pubDate>Sun, 24 May 2026 16:53:48 +0000</pubDate>
+      <itunes:duration>03:40</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3" length="2088932" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep81-defileo-anthropic-just-paid-millions-hire-andrej-karpathy.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Hermes Agent Memory Guidebook</title>
+      <description/>
+      <pubDate>Sun, 24 May 2026 16:21:15 +0000</pubDate>
+      <itunes:duration>07:01</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3" length="3934604" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep78-hermes-agent-memory-guidebook.podcast.mp3</guid>
     </item>
     <item>
       <title>Claude Managed Agents: Production AI Without the Infrastructure</title>
@@ -199,6 +253,24 @@
       <itunes:summary>Microsoft cancelled an internal pilot giving staff access to Anthropic's Claude Code after token-based billing blew through the budget in months. Uber burned its entire 2026 AI budget by April. AI software prices surged 20-37%. GitHub abandoned flat-rate plans. When a company with infinite cloud resources decides a third-party AI tool is too expensive, something fundamental is broken in enterprise AI pricing.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3" length="2987156" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep71-microsoft-cancels-internal-anthropic-contract.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Borough Market 1000 Years London Plate</title>
+      <description/>
+      <pubDate>Fri, 22 May 2026 13:13:10 +0000</pubDate>
+      <itunes:duration>06:49</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3" length="3854708" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep73-borough-market-1000-years-london-plate.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Santiago Step Step Video Build Voice Agent From</title>
+      <description/>
+      <pubDate>Fri, 22 May 2026 12:49:53 +0000</pubDate>
+      <itunes:duration>02:53</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3" length="1529324" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep72-santiago-step-step-video-build-voice-agent-from.podcast.mp3</guid>
     </item>
     <item>
       <title>The History of London Docklands: From Roman Port to Canary Wharf</title>
@@ -280,6 +352,24 @@
       <itunes:summary>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3" length="1485092" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Narcissist State Groundbreaking Psychological Perspective Statism</title>
+      <description/>
+      <pubDate>Wed, 20 May 2026 22:04:14 +0000</pubDate>
+      <itunes:duration>06:03</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3" length="3121676" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep66-narcissist-state-groundbreaking-psychological-perspective-statism.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Movez Microsoft Senior Ai Developer Just Showed How</title>
+      <description/>
+      <pubDate>Wed, 20 May 2026 21:37:49 +0000</pubDate>
+      <itunes:duration>03:25</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep63-movez-microsoft-senior-ai-developer-just-showed-how.podcast.mp3" length="1766588" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep63-movez-microsoft-senior-ai-developer-just-showed-how.podcast.mp3</guid>
     </item>
     <item>
       <title>Peter Steinberger's 9 Rules for Agentic Engineering</title>
@@ -766,6 +856,42 @@
       <itunes:summary>Historical documents and statements from Israel's own founding figures paint a more complicated picture than the standard narrative suggests. Ben-Gurion called partition a temporary strategy. Weizmann said it would only last 25 to 30 years. Accounts of the 1948 conflict include allegations of deliberate provocation, systematic brutality, and whisper propaganda designed to spread fear. The same patterns of contested narratives and resistance to scrutiny echo into the present, shaping how we see the conflict today.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3" length="1473308" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep60-muhammad-shehada-this-short-film-exposes-true-story.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Bio Hack Gut Health</title>
+      <description/>
+      <pubDate>Mon, 18 May 2026 09:36:27 +0000</pubDate>
+      <itunes:duration>02:26</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep31-bio-hack-gut-health.podcast.mp3" length="1249556" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep31-bio-hack-gut-health.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Movez Jane Street Ai Engineer Revealed How They</title>
+      <description/>
+      <pubDate>Mon, 18 May 2026 09:36:27 +0000</pubDate>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep24-movez-jane-street-ai-engineer-revealed-how-they.podcast.mp3" length="2101892" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep24-movez-jane-street-ai-engineer-revealed-how-they.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Stephanie Zhan Karpathy I Are Back At Sequoia</title>
+      <description/>
+      <pubDate>Mon, 18 May 2026 09:36:27 +0000</pubDate>
+      <itunes:duration>03:17</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep22-stephanie-zhan-karpathy-i-are-back-at-sequoia.podcast.mp3" length="1692932" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep22-stephanie-zhan-karpathy-i-are-back-at-sequoia.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Istanbul Citizenship Real Estate</title>
+      <description/>
+      <pubDate>Mon, 18 May 2026 09:36:27 +0000</pubDate>
+      <itunes:duration>05:41</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep14-istanbul-citizenship-real-estate.podcast.mp3" length="3142748" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep14-istanbul-citizenship-real-estate.podcast.mp3</guid>
     </item>
   </channel>
 </rss>

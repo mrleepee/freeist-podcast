@@ -1,0 +1,29 @@
+Imagina que creas un programa tan importante que lo usa casi todo el mundo en el mundo. Millones de computadoras funcionan con él. Servidores, teléfonos, incluso la computadora de tu escuela. Eso es Linux. Y el hombre que lo creó se llama Linus Torvalds. Hoy vamos a hablar de él y de otra cosa increíble que él construyó: Git. Es una herramienta que los programadores usan todos los días para guardar su código. Vamos a aprender cómo funciona y por qué es tan especial.
+
+Todo empezó porque Linus estaba frustrado. Antes de crear Git, él usaba otra herramienta para guardar su código. Se llamaba BitKeeper. Durante diez años, esa fue la única herramienta que él consideró buena. Pero un día, perdió el acceso a BitKeeper. Ya no podía usarlo gratis. ¿Qué hizo Linus? No se rindió. En lugar de buscar otra herramienta, creó la suya propia. Así nació Git.
+
+Cuando Linus miró las herramientas que existían, no le gustó ninguna. Había un sistema muy popular llamado C V S. Linus lo odiaba. Decía que C V S era terrible. Después vino Subversion, que intentó ser una versión mejor de C V S. Pero Linus no creía que eso funcionara. Su frase famosa era que Subversion era "C V S hecho bien". Y eso, según Linus, era imposible. C V S tenía problemas muy profundos en su diseño.
+
+Aquí es donde Git cambió todo. La idea principal de Git es algo que se llama "distribución". ¿Qué significa eso? Imagina una oficina donde hay un jefe y todos los demás trabajadores. En un sistema centralizado, todo el código está en la oficina del jefe. Los trabajadores van allí para guardar sus cambios. Si el jefe no está, nadie puede guardar nada. Eso era C V S. Era un sistema con un solo lugar central.
+
+Git funciona diferente. En Git, cada persona tiene su propia copia completa del proyecto. No hay un jefe. No hay una oficina central. Si tú usas Git, tienes todo el código en tu computadora. Puedes hacer cambios, guardar tu trabajo, ver la historia del proyecto. Todo funciona sin internet. Puedes hacerlo en un avión, en una playa, en tu casa. Eso es lo que significa "distribuido". Todos los lugares son igual de importantes.
+
+Otra cosa increíble de Git es cómo maneja las ramas. En los sistemas antiguos, hacer una rama era difícil. Solo los expertos lo hacían. En Git, crear una rama es súper fácil. Una rama nueva es solo un archivo muy pequeño, de unos cuarenta y un bytes. Imagina eso. Cuarenta y un bytes. Es casi nada. Puedes crear ramas todo el tiempo para probar cosas nuevas. Si no te gusta lo que hiciste, borras la rama. Si te gusta, la unes al proyecto principal.
+
+Hablando del proyecto principal, ¿sabes cuántos archivos tiene el proyecto de Linux? Tiene más de veintidós mil archivos. Cada día, los programadores hacen cambios en esos archivos. ¿Cuántas veces al día se unen esos cambios? En promedio, cuatro veces y media al día. Cuatro merges al día con veintidós mil archivos. En otros sistemas, eso sería un desastre. Tomaría horas. En Git, toma segundos. Eso es lo que hace especial a Git. No solo es rápido. Es rápido donde importa más: cuando unes código.
+
+Linus tenía una idea muy interesante sobre la confianza. Él no confiaba en todo el mundo. De hecho, solo confiaba en cinco o quince personas específicas. Pero eso no era un problema. ¿Por qué? Porque Git crea redes de confianza automáticamente. Si tú confías en mí y yo confío en otro programador, entonces esa otra persona también puede participar. No necesitas que Linus confíe directamente en todos. La confianza se transmite. Es como una cadena de amigos. Si tu amigo confía en alguien, tú puedes confiar en esa persona también.
+
+Git también tiene algo que se llama "tracking de contenido". Esto significa que Git no guarda archivos individuales. Guarda el estado completo del proyecto en cada momento. ¿Por qué importa esto? Imagina que escribes código en un archivo. Después mueves ese archivo a otro lugar. Git puede seguir tu código aunque cambie de lugar. No pierde la historia. Eso es muy útil cuando los proyectos son grandes y complicados.
+
+Otra cosa importante es la seguridad de Git. Git usa algo que se llama S H A uno. Es un número muy largo que identifica cada versión del código. Si alguien cambia algo en el código, el número cambia. Los programadores saben inmediatamente si algo está mal. Pero Linus aclara una cosa. Esto no es criptografía. No protege tu código de hackers. Solo verifica que el código no se corrompió por error. Eso es diferente.
+
+Ahora, ¿qué pasó en Google? Linus dio una charla ahí. Explicó todas estas ideas. Habló de por qué creó Git y cómo piensa sobre el software. Después de la charla, mucha gente en la industria entendió que Git era serio. Ya no era solo para proyectos pequeños. Era para proyectos enormes como el kernel de Linux.
+
+Si trabajas en una empresa, hay consejos prácticos. Git funciona mejor cuando cada proyecto tiene su propio repositorio. Un repositorio es como un contenedor donde guardas todo el código. Si tienes muchos proyectos diferentes, sepáralos. Así es más fácil manejar todo.
+
+Lo interesante es que hace unos años, Git no estaba listo para uso comercial. Era difícil. Pero ahora es mucho más fácil. Mucha gente lo usa todos los días sin problemas. Es más rápido que otras herramientas como Perforce, especialmente cuando el proyecto crece.
+
+Hay más para hablar sobre Linus Torvalds y sus ideas. Podríamos hacer otro episodio solo sobre Linux y cómo funciona. O sobre la filosofía de código abierto que él promueve. Hay mucho material interesante. Pero por hoy, lo importante es esto: Linus vio un problema. Creó una solución. Esa solución cambió cómo el mundo escribe software. Y todo empezó porque un programador se negó a usar herramientas que no le gustaban.
+
+La próxima vez que uses Git para guardar tu código, recuerda a Linus. Recuerda que detrás de cada herramienta hay una historia. Y a veces, una persona terca puede cambiar el mundo entero.
