@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 07:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:52:34 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Liberland: From Micronation to Para-State</title>
+      <description>Croatia reclassified Liberland from an organized group to a para-state — taking it seriously as a political entity rather than dismissing it as a micronation. The episode covers the legal basis (Serbia renounced the territory, Croatia never claimed it), how Liberland meets all four Montevideo criteria for statehood, the four-pillar governance system merging meritocracy, republic, democracy, and monarchy, blockchain-powered bureaucracy removal, Justin Sun as Prime Minister, Uberized security, competitive justice, and diplomatic progress across 90 countries.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:36</itunes:duration>
+      <itunes:summary>Croatia reclassified Liberland from an organized group to a para-state — taking it seriously as a political entity rather than dismissing it as a micronation. The episode covers the legal basis (Serbia renounced the territory, Croatia never claimed it), how Liberland meets all four Montevideo criteria for statehood, the four-pillar governance system merging meritocracy, republic, democracy, and monarchy, blockchain-powered bureaucracy removal, Justin Sun as Prime Minister, Uberized security, competitive justice, and diplomatic progress across 90 countries.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep97-liberland-from-micronation-para-state.podcast.mp3" length="2393180" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep97-liberland-from-micronation-para-state.podcast.mp3</guid>
+    </item>
     <item>
       <title>The UK Government Wants to Tax Your Cash</title>
       <description>The UK Treasury is planning a twenty-two percent levy on cash held in stocks and shares ISAs from April twenty twenty-seven, while cutting annual ISA allowances for under sixty-fives to twelve thousand pounds. The Extended Producer Responsibility scheme adds fifty pounds a year to food bills. Real wages are shrinking across the developed world, businesses are replacing entry-level staff with AI consultants, and the Institute for Fiscal Studies flags seven billion pounds in government waste.</description>
