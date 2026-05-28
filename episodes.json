@@ -426,5 +426,10 @@
     "title": "Linus Torvalds: The Philosophy Behind Git — Why Decentralisation Wins",
     "description": "Linus Torvalds created Linux in 1991 and Git in 2005 — two tools that now underpin most of the world's infrastructure. In a landmark talk at Google, he explained why centralised version control is fundamentally broken, why branching should be trivial and merging should be fast, and how a network of trust model replaced the politics of commit access. This episode focuses on the philosophy behind Git's design: content tracking over file tracking, SHA-1 integrity, performance as a workflow enabler, and the decentralised architecture that lets the Linux kernel manage 22,000 files with 4.5 merges per day. A future episode will cover the technical implementation and what it means for companies.",
     "date": "2026-05-27"
+  },
+  "ep99-david-ondrej-your-ai-agent-dies-second-you": {
+    "title": "Your AI Agent Dies the Second You Close the Terminal",
+    "description": "David Ondrej explains why long-running AI agents need persistent sessions and how tmux keeps them alive after you disconnect. Covers tmux basics, session management, and running agents on remote VPS servers so they survive terminal closure.",
+    "date": "2026-05-28"
   }
 }

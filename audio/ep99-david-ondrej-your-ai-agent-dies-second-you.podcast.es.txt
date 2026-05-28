@@ -1,0 +1,50 @@
+EN: If you run AI agents for serious projects, you need to know about terminal sessions that never die.
+ES: Si ejecutas agentes de IA para proyectos serios, necesitas saber sobre sesiones de terminal que nunca mueren.
+EN: The tool is called a terminal multiplexer, and the most popular version is called tmux.
+ES: La herramienta se llama multiplexor de terminal, y la versión más popular se llama tmux.
+EN: Think of it as a persistent workspace for your command line.
+ES: Piensalo como un espacio de trabajo persistente para tu línea de comandos.
+EN: You can close your laptop, lose power, or walk away for days — and your agents keep running.
+ES: Puedes cerrar tu computadora, perder energía, o irte por días — y tus agentes siguen funcionando.
+EN: Tmux organizes work into three layers: sessions, windows, and panes.
+ES: Tmux organiza el trabajo en tres capas: sesiones, ventanas, y paneles.
+EN: A session is a named container that persists even when you disconnect.
+ES: Una sesión es un contenedor con nombre que persiste incluso cuando te desconectas.
+EN: Windows are like tabs in a browser — multiple windows per session.
+ES: Las ventanas son como pestañas en un navegador — múltiples ventanas por sesión.
+EN: Panes split your screen into sections, and here's the key part — agents can read other panes.
+ES: Los paneles dividen tu pantalla en secciones, y aquí está la parte clave — los agentes pueden leer otros paneles.
+EN: That means your agents can coordinate with each other in real time.
+ES: Eso significa que tus agentes pueden coordinarse entre ellos en tiempo real.
+EN: Let's start with the essential commands you need today.
+ES: Empecemos con los comandos esenciales que necesitas hoy.
+EN: To create a new session, you type tmux new, space, hyphen s, space, and a name you choose.
+ES: Para crear una nueva sesión, escribes tmux new, espacio, guión s, espacio, y un nombre que eliges.
+EN: To leave a session without stopping it, you press control and b together, then d.
+ES: Para salir de una sesión sin pararla, presionas control y b juntos, luego d.
+EN: To come back later, you type tmux attach, space, hyphen t, space, and the session name.
+ES: Para volver después, escribes tmux attach, espacio, guión t, espacio, y el nombre de la sesión.
+EN: To see all your active sessions, just type tmux ls.
+ES: Para ver todas tus sesiones activas, solo escribe tmux ls.
+EN: Now here's where it gets powerful — running this on a virtual private server.
+ES: Ahora aquí es donde se pone poderoso — ejecutando esto en un servidor privado virtual.
+EN: A VPS is a cheap computer somewhere else that runs 24 hours a day.
+ES: Un VPS es una computadora barata en algún lugar que corre 24 horas al día.
+EN: You connect through SSH, install tmux, and your agents run on someone else's machine.
+ES: Te conectas por SSH, instalas tmux, y tus agentes corren en la máquina de alguien más.
+EN: Your laptop battery doesn't drain. Your internet doesn't matter. You access from any device.
+ES: La batería de tu computadora no se agota. Tu internet no importa. Accedes desde cualquier dispositivo.
+EN: You can run multiple agents on the same project or different projects simultaneously.
+ES: Puedes ejecutar múltiples agentes en el mismo proyecto o proyectos diferentes simultáneamente.
+EN: Commands that take 24 hours? Start them before bed. They finish while you sleep.
+ES: ¿Comandos que toman 24 horas? Empiézalos antes de dormir. Terminan mientras duermes.
+EN: Build full web apps, create 3D games, analyze data — all while you live your life.
+ES: Construye aplicaciones web completas, crea juegos 3D, analiza datos — todo mientras vives tu vida.
+EN: The setup is simple: rent a VPS, install tmux with one command, enable mouse support.
+ES: La configuración es simple: renta un VPS, instala tmux con un comando, activa el soporte de mouse.
+EN: Then launch your AI agent inside a tmux session and detach.
+ES: Luego lanza tu agente de IA dentro de una sesión tmux y desconéctate.
+EN: The takeaway: local hardware limits your AI workflow. A VPS plus tmux removes that ceiling.
+ES: La conclusión: el hardware local limita tu flujo de trabajo de IA. Un VPS más tmux elimina ese límite.
+EN: Your agents work when you sleep. Your creativity scales when you stop waiting.
+ES: Tus agentes trabajan cuando duermes. Tu creatividad escala cuando dejas de esperar.
