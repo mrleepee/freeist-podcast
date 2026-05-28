@@ -1,0 +1,100 @@
+EN: Breaking news from Anthropic — Opus 4.8 dropped today, and it changes the game.
+ES: Noticias de última hora — Anthropic publicó Opus 4.8 hoy, y cambia todo.
+EN: The headline feature is called dynamic workflows, and it is a massive shift in how Claude Code operates.
+ES: La función principal se llama flujos de trabajo dinámicos, y es un cambio enorme en cómo funciona Claude Code.
+EN: Here is what it does: instead of Claude answering your questions one by one, you can now ask it to manage dozens or even hundreds of agents at once.
+ES: Esto es lo que hace: en vez de que Claude responda tus preguntas una por una, ahora puedes pedirle que maneje decenas o hasta cientos de agentes a la vez.
+EN: You describe the task, Claude writes a JavaScript script, and the script runs in the background while your session stays responsive.
+ES: Describes la tarea, Claude escribe un script de JavaScript, y el script corre en segundo plano mientras tu sesión se mantiene activa.
+EN: The script coordinates everything — the agents, the loops, the decisions — and your conversation only holds the final answer.
+ES: El script coordina todo — los agentes, los ciclos, las decisiones — y tu conversación solo contiene la respuesta final.
+EN: This is different from the old subagents feature.
+ES: Esto es diferente de la función anterior de subagentes.
+EN: With subagents, Claude decides turn by turn what to spawn next, and every result lands in Claude's context window.
+ES: Con los subagentes, Claude decide paso a paso qué activar después, y cada resultado entra en la ventana de contexto de Claude.
+EN: A workflow moves the plan into code.
+ES: Un flujo de trabajo mueve el plan al código.
+EN: The script holds the loop, the branching, and the intermediate results in variables.
+ES: El script guarda el ciclo, las bifurcaciones y los resultados intermedios en variables.
+EN: Claude's context only gets the final answer.
+ES: El contexto de Claude solo recibe la respuesta final.
+EN: The scale is staggering — up to 16 concurrent agents, one thousand total per run.
+ES: La escala es impresionante — hasta 16 agentes al mismo tiempo, mil en total por ejecución.
+EN: That is a fundamentally different order of magnitude than spawning a few subagents in a conversation.
+ES: Eso es un orden de magnitud completamente diferente que activar unos pocos subagentes en una conversación.
+EN: Because the plan is code, you can apply repeatable quality checks.
+ES: Porque el plan es código, puedes aplicar verificaciones de calidad repetibles.
+EN: Independent agents can review each other's findings before they are reported to you.
+ES: Agentes independientes pueden revisar los hallazgos de los demás antes de reportarlos a ti.
+EN: You can draft a plan from several angles and weigh them against each other.
+ES: Puedes redactar un plan desde varios ángulos y compararlos entre sí.
+EN: The result is more trustworthy than a single pass.
+ES: El resultado es más confiable que una sola pasada.
+EN: Activating a workflow is simple.
+ES: Activar un flujo de trabajo es simple.
+EN: Option one: include the word "workflow" anywhere in your prompt.
+ES: Opción uno: incluye la palabra "workflow" en cualquier parte de tu mensaje.
+EN: Claude writes a workflow script instead of working turn by turn.
+ES: Claude escribe un script de flujo de trabajo en vez de trabajar paso a paso.
+EN: Option two: set the command slash ultracode.
+ES: Opción dos: usa el comando barra ultracode.
+EN: Claude automatically plans a workflow for every substantive task in your session.
+ES: Claude planea automáticamente un flujo de trabajo para cada tarea importante en tu sesión.
+EN: Ultracode combines high reasoning effort with automatic workflow orchestration.
+ES: Ultracode combina esfuerzo de razonamiento alto con orquestación automática de flujos de trabajo.
+EN: The first bundled workflow is slash deep research.
+ES: El primer flujo de trabajo incluido es barra deep research.
+EN: It spreads web searches across several angles, fetches and cross checks sources, votes on each claim, and returns a cited report.
+ES: Espande búsquedas web en varios ángulos, obtiene y cruza fuentes, vota sobre cada afirmación, y devuelve un reporte con citas.
+EN: Claims that did not survive cross checking get filtered out.
+ES: Las afirmaciones que no sobrevivieron la verificación cruzada se filtran.
+EN: When a workflow does what you want, press the save key in the workflows view.
+ES: Cuando un flujo de trabajo hace lo que quieres, presiona la tecla de guardar en la vista de flujos de trabajo.
+EN: Saved workflows appear in command autocomplete alongside the bundled ones.
+ES: Los flujos de trabajo guardados aparecen en el autocompletado de comandos junto a los incluidos.
+EN: You can save to your project folder for your team, or to your home directory for personal use.
+ES: Puedes guardar en la carpeta de tu proyecto para tu equipo, o en tu directorio personal para uso propio.
+EN: Here is a useful feature: if you stop a run, you can resume it within the same session.
+ES: Aquí tienes una función útil: si detienes una ejecución, puedes continuarla en la misma sesión.
+EN: Agents that already finished return their cached results.
+ES: Los agentes que ya terminaron devuelven sus resultados guardados.
+EN: The rest run live.
+ES: El resto corre en vivo.
+EN: There are limitations worth knowing.
+ES: Hay limitaciones que vale la pena conocer.
+EN: No mid run user input is possible — only agent permission prompts can pause a run.
+ES: No es posible entrada del usuario durante la ejecución — solo las solicitudes de permiso de los agentes pueden pausar una ejecución.
+EN: The script cannot access the filesystem or shell directly — agents do the reading, writing, and command execution.
+ES: El script no puede acceder al sistema de archivos o terminal directamente — los agentes hacen la lectura, escritura y ejecución de comandos.
+EN: Runs count toward your plan usage and can use significantly more tokens.
+ES: Las executions cuentan para el uso de tu plan y pueden usar muchos más tokens.
+EN: Resume only works within the same Claude Code session.
+ES: Continuar solo funciona dentro de la misma sesión de Claude Code.
+EN: Exit and the next session starts fresh.
+ES: Si sales, la siguiente sesión comienza desde cero.
+EN: Why does this matter?
+ES: ¿Por qué importa esto?
+EN: This moves Claude Code from a conversational assistant to a batch orchestration engine.
+ES: Esto mueve a Claude Code de un asistente conversacional a un motor de orquestación por lotes.
+EN: Tasks that previously required careful turn by turn management — codebase audits, large file migrations, multi source research with cross checking — can now be codified, rerun, and shared as commands.
+ES: Tareas que antes requerían gestión cuidadosa paso a paso — auditorías de código, migraciones de muchos archivos, investigación de varias fuentes con verificación cruzada — ahora se pueden codificar, volver a ejecutar y compartir como comandos.
+EN: The script is readable, auditable, and repeatable.
+ES: El script es legible, auditable y repetible.
+EN: That is a shift from trusting Claude's in the moment judgment to trusting a plan you can inspect before it runs.
+ES: Eso es un cambio de confiar en el juicio momentáneo de Claude a confiar en un plan que puedes revisar antes de que corra.
+EN: Anthropic is betting that the next leap in developer productivity is not a smarter single model but better coordination of many agents.
+ES: Anthropic está apostado a que el próximo salto en productividad del desarrollador no es un modelo único más inteligente sino mejor coordinación de muchos agentes.
+EN: Dynamic workflows are the orchestration layer.
+ES: Los flujos de trabajo dinámicos son la capa de orquestación.
+EN: Combined with ultracode mode, Claude Code is moving toward autonomous operation where you describe the outcome and the system figures out the plan, writes the script, and executes it.
+ES: Combinado con el modo ultracode, Claude Code se mueve hacia operación autónoma donde describes el resultado y el sistema descubre el plan, escribe el script y lo ejecuta.
+EN: Opus 4.8 dropped today.
+ES: Opus 4.8 se publicó hoy.
+EN: The orchestration layer just arrived.
+ES: La capa de orquestación acaba de llegar.
+EN: If you build software for a living, this changes your toolchain.
+ES: Si construyes software profesionalmente, esto cambia tu conjunto de herramientas.
+EN: If you are evaluating AI tooling for your team, watch this space.
+ES: Si estás evaluando herramientas de IA para tu equipo, observa este espacio.
+EN: The script is now the strategy.
+ES: El script ahora es la estrategia.

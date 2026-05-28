@@ -431,5 +431,10 @@
     "title": "Your AI Agent Dies the Second You Close the Terminal",
     "description": "David Ondrej explains why long-running AI agents need persistent sessions and how tmux keeps them alive after you disconnect. Covers tmux basics, session management, and running agents on remote VPS servers so they survive terminal closure.",
     "date": "2026-05-28"
+  },
+  "ep100-claude-code-dynamic-workflows-opus-48-changes-everything": {
+    "title": "Claude Code Dynamic Workflows: Opus 4.8 Changes Everything",
+    "description": "Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.",
+    "date": "2026-05-28"
   }
 }
