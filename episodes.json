@@ -421,20 +421,5 @@
     "title": "Liberland: From Micronation to Para-State",
     "description": "Croatia reclassified Liberland from an organized group to a para-state — taking it seriously as a political entity rather than dismissing it as a micronation. The episode covers the legal basis (Serbia renounced the territory, Croatia never claimed it), how Liberland meets all four Montevideo criteria for statehood, the four-pillar governance system merging meritocracy, republic, democracy, and monarchy, blockchain-powered bureaucracy removal, Justin Sun as Prime Minister, Uberized security, competitive justice, and diplomatic progress across 90 countries.",
     "date": "2026-05-27"
-  },
-  "ep98-linus-torvalds-linux-git-tech-talk-at-google": {
-    "title": "Linus Torvalds: The Philosophy Behind Git — Why Decentralisation Wins",
-    "description": "Linus Torvalds created Linux in 1991 and Git in 2005 — two tools that now underpin most of the world's infrastructure. In a landmark talk at Google, he explained why centralised version control is fundamentally broken, why branching should be trivial and merging should be fast, and how a network of trust model replaced the politics of commit access. This episode focuses on the philosophy behind Git's design: content tracking over file tracking, SHA-1 integrity, performance as a workflow enabler, and the decentralised architecture that lets the Linux kernel manage 22,000 files with 4.5 merges per day. A future episode will cover the technical implementation and what it means for companies.",
-    "date": "2026-05-27"
-  },
-  "ep99-david-ondrej-your-ai-agent-dies-second-you": {
-    "title": "Your AI Agent Dies the Second You Close the Terminal",
-    "description": "David Ondrej explains why long-running AI agents need persistent sessions and how tmux keeps them alive after you disconnect. Covers tmux basics, session management, and running agents on remote VPS servers so they survive terminal closure.",
-    "date": "2026-05-28"
-  },
-  "ep100-claude-code-dynamic-workflows-opus-48-changes-everything": {
-    "title": "Claude Code Dynamic Workflows: Opus 4.8 Changes Everything",
-    "description": "Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.",
-    "date": "2026-05-28"
   }
 }

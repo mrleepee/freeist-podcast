@@ -1,0 +1,29 @@
+Un equipo de programadores convirtió casi setecientos cincuenta mil líneas de código en solo once días. Sí, leíste bien. Once días para cambiar un programa enorme de un lenguaje a otro. Antes, ese trabajo tomaba meses o hasta un año. ¿Cómo es esto posible? Anthropic acaba de lanzar Opus cuatro punto ocho, y viene con algo que se llama flujos de trabajo dinámicos. Esto no es una actualización pequeña. Es algo completamente nuevo.
+
+Te explico qué son y por qué importan.
+
+Antes, cuando usabas Claude Code, el programa trabajaba paso a paso. Tú le pedías algo, y él lo hacía de forma secuencial. Un paso, luego otro, luego otro. Era útil, pero lento para tareas grandes.
+
+Ahora, con flujos de trabajo dinámicos, Claude Code funciona como un director de orquesta. Imagina que le pides que mueva todo tu proyecto de JavaScript a TypeScript. En lugar de trabajar solo, Claude piensa en todos los pasos necesarios, divide el trabajo en partes pequeñas, y envía esas partes a muchos agentes al mismo tiempo. Estos agentes trabajan en paralelo. Algunos escriben código nuevo, otros revisan ese código y buscan errores. Al final, Claude junta todo en una respuesta completa.
+
+Lo más interesante es que los agentes se revisan entre sí. Si un agente dice "este código está bien", otro agente intenta demostrar que está equivocado. Así el resultado final es más fuerte. Es como tener un equipo de programadores trabajando al mismo tiempo, pero todo controlado por una sola inteligencia artificial.
+
+Hay un ejemplo que demuestra el poder de esto. Jarred Sumner, el creador del programa Bun, usó flujos de trabajo dinámicos para convertir todo Bun de Zig a Rust. Son casi setecientos cincuenta mil líneas de código. En once días, el noventa y nueve punto ocho por ciento de las pruebas pasaron. Once días. Sin esta herramienta, ese trabajo habría tomado mucho más tiempo.
+
+También existe algo llamado ultracode. Es una opción que puedes activar. Cuando la enciendes, Claude Code decide solo cuándo usar un flujo de trabajo completo y cuándo resolver algo de forma simple. No tienes que pensar si la tarea es suficientemente grande. El programa lo decide por ti.
+
+¿Por qué es importante todo esto? Por tres razones principales.
+
+Primero, la velocidad. Tareas que antes tomaban trimestres ahora toman días. La magia está en trabajar en paralelo con muchos agentes al mismo tiempo.
+
+Segundo, la verificación. Los agentes que intentan romper el trabajo de otros agentes hacen que el resultado sea más confiable. Es como tener un equipo de revisión de código, pero funcionando a una velocidad imposible para humanos.
+
+Tercero, la resistencia. Si el trabajo se interrumpe, Claude Code guarda el progreso y continúa después. No empieza desde cero. Puedes tener flujos de trabajo que duran horas o hasta días.
+
+Ahora, ¿cuánto cuesta? Los flujos de trabajo dinámicos usan más tokens que una sesión normal. La primera vez que se activa uno, Claude Code te muestra lo que va a hacer y te pide confirmación. Si eres administrador de un equipo, puedes desactivar los flujos de trabajo si no los quieres.
+
+Si tienes el plan Max o Team, los flujos de trabajo están activados por defecto. Si tienes el plan Enterprise, puedes pedirle al administrador que los active.
+
+Opus cuatro punto ocho marca un momento importante. Anthropic dice algo claro: el futuro de la asistencia de I A en programación no es solo autocompletar código o chats más inteligentes. Es crear sistemas que pueden planear, ejecutar, verificar y entregar trabajo complejo a gran escala. El ejemplo de Bun lo demuestra. Esto no es teoría. Ya está pasando.
+
+La próxima vez que tengas un proyecto grande, piensa en esto: ¿cuánto tiempo te ahorraría tener un equipo de cien asistentes trabajando al mismo tiempo en tu código? Con Opus cuatro punto ocho, esa pregunta ya no es solo imaginación.

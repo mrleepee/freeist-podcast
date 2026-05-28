@@ -1,0 +1,15 @@
+En este episodio vas a aprender tres cosas: cómo Hermes Agent recuerda todo, cómo crea sus propias habilidades y cómo puedes tener muchos agentes diferentes funcionando al mismo tiempo.
+
+¿Alguna vez has usado un asistente de inteligencia artificial y cuando vuelves al día siguiente no recuerda nada? Pierde tus preferencias, tus ideas, todo lo que hablaste antes. Ese es el problema principal de casi todos los agentes de IA existentes. Funcionan solo mientras la conversación está abierta. En cuanto cierras la sesión, todo desaparece.
+
+Hermes Agent solved this problem in a special way. It has a memory that stays with you forever. When you start a new conversation, Hermes already knows your name, your work style, and what you like. It keeps notes about your projects in special files. These files are always there, even when you start a new session.
+
+The system has three important parts. First, there is a knowledge layer with your memory files. Second, there is an intelligence layer that makes decisions. Third, there is an automation layer that runs tasks by itself. This three-layer design helps Hermes work like a real assistant that learns over time.
+
+But the most interesting thing is how Hermes creates new skills by itself. When it solves a complex problem, it writes down the solution as a skill. Later, when you need something similar, Hermes uses that skill automatically. It is like learning from experience. The agent also has a background system called The Curator. This system reviews old skills after seven days. If a skill is not useful, it becomes inactive. If nobody uses it for ninety days, it goes to an archive. The Curator never deletes skills completely. It always keeps copies before making changes.
+
+Another powerful feature is GEPA. This is a system that improves the agent's prompts automatically. GEPA reads what went wrong in past tasks, creates better instructions, and tests the new versions. The best version gets applied. This process costs only two to ten dollars and does not need a special computer.
+
+Finally, you can run many different agents at the same time. Each agent has its own memory, skills, and personality. For example, you can have one agent that writes code, another that creates images, and another that searches for news every morning. You can set up one agent to send you a daily summary of new technology articles at eight in the morning. All of this works automatically through a simple scheduler.
+
+Hoy aprendimos que Hermes Agent es especial porque nunca olvida tu información. Aprendimos también que el agente puede crear sus propias habilidades y mejorarlas con el tiempo. Y aprendimos que puedes tener varios agentes trabajando juntos, cada uno con su propia personalidad y tareas.

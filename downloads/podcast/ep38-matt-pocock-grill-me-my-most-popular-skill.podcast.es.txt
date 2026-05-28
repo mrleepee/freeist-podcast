@@ -1,0 +1,15 @@
+En este episodio vas a aprender dos cosas: qué es la herramienta "Grill with Docs" y por qué ayuda a trabajar mejor con la inteligencia artificial.
+
+Imagina esto: tienes un proyecto de código y quieres que una inteligencia artificial te ayude a tomar decisiones. ¿Cómo le explicas las ideas de tu proyecto? Antes existía una herramienta llamada "Grill Me". Esa herramienta hacía preguntas continuas hasta que ambas partes entendían el mismo tema. Los usuarios la amaban porque ahorraba tiempo después de la primera fase de preguntas.
+
+Pero había problemas. La inteligencia artificial escribía mucho, repetía información y no entendía palabras especiales de cada proyecto. Por ejemplo, si tu proyecto usaba el término "video independiente", la AI no sabía qué significaba. Entonces preguntaba cada vez. No había un lugar donde guardar las definiciones nuevas. Eso causaba trabajo repetido.
+
+La solución llegó con una idea de un método llamado Diseño Guiado por Dominio. Ese método usa algo llamado "lenguaje ubicuo". Es simplemente una lista de palabras que todas las personas del proyecto usan con el mismo significado. Incluye las entidades, las relaciones entre ellas y las reglas básicas.
+
+La herramienta nueva se llama "Grill with Docs". Funciona así. Primero lee un archivo llamado context.md. Ese archivo está en tu proyecto y contiene el glosario compartido. Luego hace preguntas sobre palabras que no son claras. Sugiere ejemplos concretos para definir mejor cada término. Cuando encuentran una decisión importante, crea un registro especial llamado ADR. Esos registros guardan decisiones difíciles de cambiar después.
+
+Te doy un ejemplo real. En una aplicación de cursos de video agregaron algo llamado "pitch". La herramienta leyó el archivo, vio que ya existía "video independiente" y preguntó: "¿Un pitch puede tener cero videos? ¿El estado del pitch es libre o tiene opciones fijas?" Después de responder, la herramienta escribió las definiciones actualizadas en el archivo. Por ejemplo: "Pitch tiene de uno a muchos videos independientes" y "El estado del pitch puede ser: vacío, programado o enviado".
+
+Los beneficios son claros. La inteligencia artificial usa menos palabras porque ya tiene el glosario. Sus respuestas son más cortas y más correctas. Encontrar código es más fácil porque los nombres en el programa coinciden con el glosario. Los nuevos miembros del equipo aprenden más rápido porque todo está documentado.
+
+Hoy aprendimos que "Grill with Docs" combina preguntas inteligentes con un glosario compartido. Esto hace que trabajar con inteligencia artificial sea más rápido y más claro. Si trabajas con código, esta herramienta puede ayudarte a comunicarte mejor con la AI.

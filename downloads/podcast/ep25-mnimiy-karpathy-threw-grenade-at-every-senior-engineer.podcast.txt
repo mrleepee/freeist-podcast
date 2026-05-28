@@ -1,0 +1,19 @@
+Most developers have heard the advice to either write every line of code themselves or to hand the whole project over to an el! el! em! and let it vibe‑coding. Both extremes feel tempting, but both quickly reveal their limits when you start working on a real codebase.
+
+The approach that has worked for me sits in the middle: I write the majority of the code by hand, but I let the el! el! em! offer autocomplete suggestions that I can accept or ignore. It’s a bit like having a very fast typist who knows the library docs inside out.
+
+When the el! el! em! shines, it’s usually because the task is something the model has seen a thousand times. Boilerplate code, repetitive file generation, and well‑documented library features are perfect examples—things like creating a configuration file, scaffolding a class, or setting up a standard test harness.
+
+The model also comes into its own when you need to produce reports or when you’re working in an unfamiliar language. If I’m switching to Rust after years in Python, I can ask the el! el! em! to generate the Rust equivalent of a Python snippet, then cross‑check it against my existing tests.
+
+But there’s a class of project that makes the el! el! em! stumble, and nanogpt is a textbook case. The repository is deliberately non‑boilerplate; it contains original research code that doesn’t follow the patterns you’ll find on Stack Overflow, which means the model’s training data is thin on the ground.
+
+When the model does attempt to help, it tends to misunderstand the structure, insists on using standard patterns that aren’t needed, and adds layers of error handling that inflate the code unnecessarily. You’ll also see it reaching for deprecated APIs because they dominate the online examples.
+
+An illustrative failure happened when I wrote a custom gradient synchronisation routine instead of using PyTorch's dee! dee! pee! container. The el! el! em! kept trying to replace my implementation with the standard dee! dee! pee! wrapper, ignoring the bespoke design. It simply couldn’t adapt to the novel approach, even after I explained the reasoning.
+
+The most efficient way I’ve found to get useful help in such contexts is a high‑bandwidth interaction: I point the model directly at the line where the new code should go and type the first few characters to trigger autocomplete. Describing the whole problem in English is far slower.
+
+So, the best use cases remain the low‑hanging fruit: boilerplate tasks, report generation, and stepping into a new language where I can compare the el! el! em!'s output with a reference Python implementation and its test suite. For the rest, a careful hand and a watchful eye still win out.
+
+In short, treat el! el! em!s as a skilled assistant for predictable, well‑documented work, and keep the creative, intellectually intense parts for yourself. That balance keeps the code lean, correct, and genuinely yours.

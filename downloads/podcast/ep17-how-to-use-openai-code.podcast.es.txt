@@ -1,0 +1,27 @@
+Imagina que estás en tu escritorio. Tomas tu café y le dices a una inteligencia artificial: "Arregla ese error, corre las pruebas y sube el código al repositorio." ¿Y qué pasa? ¡La AI lo hace! No solo te da un pedazo de código. Ejecuta comandos en tu computadora, revisa las pruebas y envía los cambios. Parece de una película de ciencia ficción, ¿verdad? Pues OpenAI creó algo que hace exactamente esto. Se llama Codex.
+
+Si te interesa el mundo de la programación y la inteligencia artificial, probablemente has escuchado mucho sobre herramientas que generan código. Pero Codex es diferente. No es solo un autocompletado inteligente. Es un agente completo de ingeniería de software. Puede manejar muchas tareas solo.
+
+Los números son impresionantes. En un taller reciente, el equipo de OpenAI compartió que más de tres millones de personas usan Codex cada semana. ¡Eso es más del triple que al начала del año! Tanto crecimiento dice algo importante: los desarrolladores no solo tienen curiosidad. Están usando Codex en su trabajo diario.
+
+Codex usa modelos de la serie GPT-4. La última versión es GPT-4.4. También hay versiones más ligeras llamadas GPT-4.4 Mini y Nano. Estas versiones pequeñas son más rápidas y más baratas para trabajos simples.
+
+Hablando de velocidad, el equipo mejoró mucho el rendimiento. Usando una tecnología llamada WebSockets, la entrega de texto es 1.75 veces más rápida. Y con el nuevo modo Fast, puedes получить otra mejora de dos veces. Todo esto corre en un sistema unificado que maneja herramientas, configuración y verificaciones de seguridad.
+
+¿Donde puedes usar Codex? El equipo lo hizo disponible en muchas plataformas. Hay una aplicación para Mac OS y Windows. También funciona en una página web. Si prefieres trabajar en tu editor de código, puedes instalar una extensión para VS Code. ¿Te gusta la terminal? Hay una CLI lista para usar. Además, Codex se conecta con herramientas que ya conoces: Slack, GitHub, Figma, Linear y Notion.
+
+Una función muy útil se llama "work tree". Piensa en esto: puedes trabajar en varias tareas al mismo tiempo sin perder el hilo. Abres un nuevo work tree para una tarea, luego cambias a otra. La primera sigue corriendo en segundo plano. Y como tiene soporte nativo de Git, puedes enviar cambios y crear commits fácilmente.
+
+El sistema de plugins es donde las cosas se ponen emocionantes. Puedes agrupar habilidades, conectar servicios externos y hasta crear servidores personalizados. Un plugin de Games Studio permitió crear un juego de plataformas completo. Generó sprites con un modelo de imágenes y creó pruebas automáticas. Otro plugin de Google Drive actualiza hojas de cálculo cuando el código cambia. También hay integraciones con Slack y Gmail que te mandan resúmenes cada mañana o marcan correos urgentes.
+
+Puedes programar tareas en segundo plano. ¿Quieres un resumen de Slack a las nueve de la mañana? ¿Una revisión de tu calendario antes de tu primera reunión? Solo dile a Codex en palabras simples y él lo configura. El sistema también puede revisar tus correos, separar los importantes y ayudarte a crear automatizaciones sin escribir código.
+
+Si te preocupa la calidad del código, Codex tiene una función de revisión. Analiza los cambios propuestos en GitHub, en la terminal o en la aplicación. No solo mira línea por línea. Entiende el contexto completo. De hecho, OpenAI usa esta herramienta para revisar todos sus propios proyectos internos. El plugin Cloud Code para VS Code trae esa función directamente a tu editor.
+
+Para tareas muy grandes, puedes crear "subagentes". Imagina que tienes un proyecto enorme de reescritura de código. Puedes pedirle a Codex que lo divida en partes y cada parte trabaja al mismo tiempo. Hay diferentes tipos de subagentes: unos para trabajo general, otros para ejecución de tareas y algunos para investigación. Puedes usar modelos pequeños para ahorrar dinero y darles diferentes permisos.
+
+Mirando hacia el futuro, hay funciones experimentales interesantes. "Guardian Approvals" revisa solicitudes de permisos de seguridad. "Hooks" pueden activar acciones al inicio de una sesión, después de usar una herramienta o al final. Puedes cambiar la personalidad de Codex: más amigable, más práctico o con instrucciones especiales para tu equipo. Cloud Execution permite correr tareas en paralelo en la nube y elegir el mejor resultado.
+
+Los datos de las sesiones se guardan en una carpeta especial para que puedas revisarlos o continuar después. En el roadmap viene soporte para SSH que manda trabajo a máquinas virtuales.
+
+En resumen, Codex representa un cambio grande en cómo programamos. La inteligencia artificial ya no es solo un autocompletado. Es un colaborador que puede escribir, probar, revisar y enviar código. También automatiza las partes aburridas de tu trabajo. Ya seas un programador solo con un proyecto personal o un equipo grande que quiere mantener todo en orden, Codex parece listo para ayudarte. Y eso es una vista muy interesante del futuro del desarrollo de software.

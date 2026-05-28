@@ -1,0 +1,15 @@
+Alguna vez te preguntaste por qué cuando miras el cielo, siempre ves la mitad de las estrellas? Eso pasa porque estás parado en un lugar específico en la Tierra. Desde tu posición, puedes ver un semicírculo completo del cielo en cualquier momento. La otra mitad está detrás de ti,看不见 porque la Tierra bloquea tu vista.
+
+Este modelo de cosmología tiene una idea muy interesante. Pone a cada persona en el centro de su propio cielo. Tú decides dónde estás: tu latitud, tu longitud, tu altura sobre el nivel del mar. También decides hacia dónde miras. Desde ese punto, el modelo te muestra exactamente lo que ves arriba.
+
+El modelo usa dos capas del cielo. La primera capa es lo que llamo bóveda óptica. Esta capa muestra las posiciones aparentes de los objetos celestes. Aquí ves el arco del sol, las fases de la luna, cómo giran las estrellas y cómo se mueven los planetas. Es exactamente lo que tus ojos ven cuando miras hacia arriba.
+
+La segunda capa muestra las posiciones verdaderas. Estas posiciones se calculan usando coordenadas geográficas sobre una esfera terrestre. Los marineros usan las posiciones aparentes para navegar. Eso es lo que ves en los mapas náuticos. La capa de posiciones verdaderas es más bien una herramienta matemática, una abstracción.
+
+El modelo usa algo llamado esfera unitaria. Esto significa que todos los cálculos usan solo direcciones y proporciones angulares. No usa números como el radio de la Tierra o la distancia al sol. No usa metros, millas ni ninguna otra unidad de medida. Solo dice dónde mirar. No dice qué tan lejos está algo ni qué tan grande es.
+
+Por qué es importante esto? Porque cuando quitas todas las distancias absolutas, te quedas con las relaciones entre las cosas. La distancia al sol y el tiempo de órbita están conectados entre sí. No son valores independientes. El modelo muestra que todo está relacionado por proporciones constantes.
+
+Puedes controlar el tiempo en este modelo. Puedes ver días, semanas, años o el tiempo real. El programa muestra eclipses, los caminos del sol y la luna, los solsticios, los equinoccios, qué pasa cuando el sol no se oculta por 24 horas, las fases de la luna, catálogos de estrellas y hasta跟踪 de satélites. Puedes elegir ver todo desde la Tierra o desde el sol.
+
+El propósito principal es simple. Este modelo te deja explorar el cielo tal como lo observas. No necesitas asumir tamaños, distancias ni física complicada. Solo miras y aprendes. El movimiento celestial se entiende mejor cuando miras las proporciones y las relaciones entre los objetos. No necesitas números grandes para entender el universo. Solo necesitas observar y comparar.

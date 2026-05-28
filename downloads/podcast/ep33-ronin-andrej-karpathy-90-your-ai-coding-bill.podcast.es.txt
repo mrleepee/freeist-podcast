@@ -1,0 +1,67 @@
+Los modelos de lenguaje grande, los famosos LLMs por sus siglas en inglés, cambiaron la forma en que millones de personas usan la tecnología. Cuando hablamos de estos modelos, la mayoría de la gente conoce ChatGPT, que es de la empresa OpenAI. ChatGPT es como el rey de esta categoría porque tiene más funciones que cualquier otro. Pero no es el único. También existe Claude, que es de una empresa llamada Anthropic. Google tiene su propio modelo que se llama Gemini. Hay uno llamado Grok, de una empresa que se llama xAI. Los chinos tienen DeepSeek y los franceses tienen Mistral. Todos hacen cosas parecidas, pero cada uno tiene sus ventajas y sus desventajas.
+
+Cada empresa ofrece diferentes niveles de sus modelos. Esto significa que hay versiones más básicas y versiones más avanzadas. Las versiones gratuitas suelen ser más limitadas. Las versiones de pago ofrecen más poder y mejores resultados. Es importante saber cuál estás usando porque los modelos más pequeños a veces inventan información. Esto se llama alucinar, y es un problema común cuando usas las versiones gratuitas.
+
+Ahora, ¿cómo funcionan estos modelos por dentro? La respuesta corta es que son muy complicados. La respuesta larga es más interesante. Todo empieza con algo que se llama tokenización. El texto que tú escribes se convierte en pequeños pedazos llamados tokens. Una pregunta normal puede tener como quince tokens. La respuesta que el modelo te da puede tener como diecinueve tokens. Estos tokens van en una línea, como una fila de bloques, y eso es lo que el modelo usa para pensar.
+
+Ese grupo de tokens se llama la ventana de contexto. Piensa en ella como la memoria de trabajo del modelo. El modelo puede ver todos los tokens que están en esa ventana. Todo lo que está fuera de esa ventana, el modelo no lo ve. Es como si tuviera un campo de visión limitado. Si le das mucha información, el modelo puede perderse. Por eso es buena idea empezar conversaciones nuevas cuando cambias de tema.
+
+El entrenamiento de estos modelos tiene dos fases. La primera fase se llama pre-entrenamiento. Durante esta fase, el modelo lee cantidades enormes de texto de internet. Aprende de todo: páginas web, libros, artículos, conversaciones. Toda esa información se comprime dentro de los parámetros del modelo. Es como hacer un archivo zip muy pequeño que guarda mucha información. Este proceso le da al modelo todo su conocimiento. Pero tiene un problema: el conocimiento tiene una fecha de corte. El modelo solo sabe lo que existía cuando terminó su entrenamiento. Si algo pasó después, no lo sabe.
+
+La segunda fase se llama post-entrenamiento. Aquí es donde el modelo aprende a ser un asistente. Se le enseña a responder de manera útil, a tener una personalidad amable, a seguir instrucciones. Sin esta fase, el modelo sería como una enciclopedia sin capacidad de conversar. Sería interesante pero no muy práctico.
+
+Hay algunas reglas simples que te ayudan a usar estos modelos de manera más efectiva. La primera es saber qué tipo de preguntas son buenas para estos modelos. Funcionan muy bien para preguntas sobre información común y estable. Cosas como cuánto cafeína tiene un café, o para qué sirve un medicamento común, o cómo se cocina un arroz. Son preguntas donde la respuesta no cambia mucho con el tiempo.
+
+La segunda regla es empezar conversaciones nuevas cuando cambias de tema. Esto parece extraño al principio. ¿Por qué no puedo hablar de todo en una sola conversación? La razón es que mientras más largo es una conversación, más tokens usa. Y cuando la conversación se vuelve muy larga, el modelo empieza a funcionar peor. También gasta más dinero. Empezar una conversación nueva le da al modelo un respiro. Es como empezar un examen nuevo con una hoja en blanco.
+
+La tercera regla es verificar la información importante. Estos modelos a veces se equivocan. Inventan datos, mezclan cosas, dan información incorrecta. Si necesitas información para algo serio, como decisiones médicas o legales, verifica con fuentes confiables. Los modelos son buenos para darte una primera idea, pero no son reemplazos de los expertos.
+
+La cuarta regla es saber qué modelo estás usando. Si usas la versión gratuita, probablemente estás usando un modelo más pequeño. Estos modelos cometen más errores. Las versiones de pago usan modelos más grandes y dan mejores respuestas. Vale la pena saber esto para no frustrarte cuando el modelo no entiende algo o da información rara.
+
+Hay una categoría especial de modelos que se llaman modelos de razonamiento. Estos usan una técnica llamada aprendizaje por refuerzo. OpenAI tiene los modelos O1 y O3, que son ejemplos de esto. Lo interesante de estos modelos es que piensan de manera similar a como pensamos los humanos cuando enfrentamos un problema difícil.
+
+Cuando les das un problema de matemáticas muy complicado, estos modelos no dan la respuesta inmediatamente. En su lugar, piensan paso a paso. Evalúan diferentes caminos para resolver el problema. Descartan los que no funcionan. Eligen el mejor camino. Este proceso toma tiempo, a veces minutos, pero el resultado es mucho más preciso.
+
+Estos modelos son mejores para matemáticas, para programar, y para razonamiento complejo en general. Si tienes un problema fácil, no los necesitas. Son más lentos y más caros. Pero cuando enfrenas algo difícil, valen la pena. El consejo es usar primero los modelos normales para tareas simples. Son más rápidos. Cuando te atasques con algo complicado, cambia a un modelo de razonamiento.
+
+Los modelos modernos pueden usar herramientas externas. Esto expande mucho lo que pueden hacer. La primera herramienta importante es la búsqueda en internet. Modelos como ChatGPT tienen un botón de búsqueda integrado. También hay aplicaciones como Perplexity que están hechas específicamente para buscar información en la web. Cuando el modelo busca, puede encontrar información reciente. Cosas que pasaron ayer, la semana pasada, o hace unas horas.
+
+Esto es perfecto para noticias recientes, horarios de eventos, temas muy específicos que no están en el conocimiento general del modelo, o información que cambia constantemente. Por ejemplo, si quieres saber el resultado de un partido que se jugó ayer, necesitas búsqueda. El modelo solo no puede saber eso porque su conocimiento tiene fecha de corte.
+
+Otra herramienta muy útil es el intérprete de Python. Esto suena técnico pero es más simple de lo que parece. Python es un lenguaje de programación. El intérprete permite al modelo ejecutar código. Esto significa que puede hacer cálculos, analizar datos, crear gráficos. Si le das datos, puede encontrar patrones, hacer tendencias, visualizar información. Es como tener un asistente de análisis de datos integrado.
+
+Hay también una herramienta que se llama Deep Research, que es investigación profunda. Esta herramienta combina el razonamiento con la búsqueda. Busca en muchas fuentes, lee muchos artículos, sintetiza la información. Da reportes completos y bien documentados. Es excelente para investigación seria. El problema es que es cara. En la versión profesional de ChatGPT cuesta doscientos dólares al mes.
+
+Los modelos también pueden trabajar con documentos. Puedes subir archivos PDF, libros, artículos. El modelo los lee y puede responder preguntas sobre ellos, hacer resúmenes, explicar partes difíciles. Esto es genial para leer papers académicos o textos históricos complejos. Si tienes un libro denso que quieres entender mejor, puedes chatear con el modelo sobre él. Te explica, te resume secciones, te da contexto.
+
+Claude en su versión 3.7 puede manejar archivos muy grandes. También permite lo que se llama pensamiento extendido. El modelo piensa más tiempo, da respuestas más desarrolladas. Es útil para proyectos complejos donde necesitas análisis profundos.
+
+La programación es otra área donde estos modelos son muy útiles. ChatGPT tiene una función que se llama Advanced Data Analysis. Con ella, el modelo puede generar figuras, ajustar líneas de tendencia, ejecutar código. Es excelente para análisis de datos sin saber programar.
+
+Claude tiene algo llamado Artifacts. Esto crea aplicaciones interactivas directamente en la conversación. Puedes pedirle que haga una app sencilla con React, que es una tecnología para crear páginas web. También puede crear diagramas con un lenguaje llamado Mermaid, o tarjetas de estudio para memorizar cosas. Todo se genera automáticamente y puedes verlo inmediatamente.
+
+Para trabajo más serio de programación, hay herramientas como Cursor o Composer. Estas son entornos de desarrollo integrado con inteligencia artificial integrada. Se les llama vibe coding. La idea es que describes lo que quieres y el modelo escribe el código. Es muy poderoso para profesionales que ya saben programar. El modelo no hace todo solo, pero sí hace mucho del trabajo repetitivo.
+
+Es importante saber que no todos los modelos tienen estas herramientas de programación. Algunos simplemente te dan texto y si les pides código, pueden inventar cosas que no funcionan. Verifica siempre que el código que te dan sea correcto antes de usarlo en proyectos reales.
+
+Los modelos modernos pueden trabajar con diferentes tipos de contenido, no solo texto. Esto se llama capacidades multimodales. La voz es una de ellas. Puedes hablarle al modelo y él te responde con voz. Esto se llama texto a voz y voz a texto. Es muy útil cuando no quieres escribir o cuando estás haciendo algo con las manos y no puedes usar el teclado.
+
+Hay un modo todavía más avanzado que se llama Advanced Voice Mode. En este modo, el modelo procesa el audio directamente, sin convertirlo primero a texto. Esto significa que puede entender matices en tu voz, como si estás dudando o si hablas muy rápido. ChatGPT y Grok tienen esta función. Hace la conversación mucho más natural.
+
+Las imágenes también son importantes. Puedes subir fotos al modelo. Puede leer texto en imágenes, como etiquetas de productos o documentos. Puede analizar fotos de análisis de sangre o de comida. Puede describir imágenes, explicar memes, identificar plantas. Es muy versátil.
+
+También pueden generar imágenes. ChatGPT usa una tecnología llamada DALL-E 3 para crear imágenes a partir de descripciones. Le dices qué quieres ver y genera una imagen. Es útil para ilustrar ideas, crear contenido visual, o simplemente divertirse.
+
+El video es otra capacidad. En las aplicaciones móviles, puedes mostrar lo que ve tu cámara en tiempo real. El modelo analiza lo que está frente a ti y puede responder preguntas sobre ello. Por ejemplo, si estás en otro país y no entiendes una señal, le muestras la cámara y te explica. Es como tener un traductor y guía en tu bolsillo.
+
+Hay funciones que personalizan tu experiencia. ChatGPT puede recordar cosas sobre ti. Le puedes decir que recuerde tu preferencia por un estilo de escritura, o que sabes algo de programación, o cualquier otra cosa. Esa información se guarda para futuras conversaciones. No tienes que repetirla cada vez.
+
+También puedes usar Custom Instructions, que son instrucciones personalizadas. Modifican cómo ChatGPT te habla. Por ejemplo, puedes pedirle que siempre te explique las cosas de manera simple, o que use ejemplos prácticos, o que sea más directo. Es como ajustar la personalidad del modelo a tus gustos.
+
+Los Custom GPTs son otra herramienta de personalización. Son versiones de ChatGPT configuradas para tareas específicas. Hay GPTs diseñados para traducir idiomas, otros para extraer vocabulario de textos, otros para ayudarte con matemáticas. Los puedes crear tú mismo o usar los que otras personas compartieron. Ahorran tiempo porque ya tienen las instrucciones correctas.
+
+Resumiendo lo que hemos visto hoy, el mundo de los modelos de lenguaje grande es grande y está creciendo rápido. ChatGPT es el más completo en funciones, pero otras aplicaciones son mejores en áreas específicas. Perplexity brilla para búsqueda. Claude es excelente para crear artefactos y programar. La clave es combinar diferentes herramientas según lo que necesites hacer.
+
+Recuerda usar las versiones correctas para cada tarea. Empieza conversaciones nuevas cuando cambies de tema. Verifica información importante. Usa los modelos de razonamiento para problemas difíciles. Explora las herramientas como búsqueda, análisis de archivos, y programación. Y personaliza tu experiencia con memoria e instrucciones personalizadas.
+
+Estos modelos son herramientas poderosas. Funcionan mejor cuando sabes cómo usarlos bien. Con práctica vas a encontrar las mejores formas de integrarlos en tu trabajo y tu vida diaria. Eso es todo por hoy. Nos escuchamos en el próximo episodio.

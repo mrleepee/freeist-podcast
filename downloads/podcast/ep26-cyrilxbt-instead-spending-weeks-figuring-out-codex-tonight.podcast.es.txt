@@ -1,0 +1,47 @@
+Imagina que tienes un asistente de programación que puede hacer casi todo el trabajo técnico por ti. Ese asistente se llama Codex, y hoy voy a contarte todo sobre esta herramienta increíble de OpenAI.
+
+Codex no es solo una herramienta para escribir código. Es un agente de ingeniería de software de código abierto. Esto significa que puede ejecutar comandos, correr pruebas, explorar bases de código y completar tareas de desarrollo completas. Está basado en modelos fundamentales como GPT-5.2, GPT-5.3 y GPT-5.4. Estos modelos mejoran cada vez que OpenAI lanza versiones nuevas, así que Codex se hace más inteligente con el tiempo.
+
+Puedes usar Codex de muchas formas diferentes. Hay una aplicación llamada Codex app, extensiones para tu IDE favorito, una interfaz de línea de comandos, integraciones con Slack y con GitHub. También puedes conectarlo con herramientas como Figma, Linear y Notion. Esta flexibilidad significa que puedes trabajar con Codex donde ya trabajas normalmente, sin cambiar tus hábitos.
+
+Hablemos de velocidad. La velocidad es muy importante cuando programas, y Codex es rápido. Usa una tecnología llamada WebSockets que hace la entrega de información un 75 por ciento más rápida. Si activas el modo rápido, puedes obtener dos veces más velocidad. En términos prácticos, esto significa que tus tareas se completan mucho más rápido que con otras herramientas similares.
+
+Los números también son impresionantes. Codex tiene más de tres millones de usuarios activos cada semana. Esto es el triple de usuarios comparado con enero de este año. Cada semana, más personas descubren lo útil que es esta herramienta.
+
+Una de las funciones más interesantes se llama work trees, que significa árboles de trabajo. Con esta función, puedes trabajar en múltiples tareas al mismo tiempo dentro del mismo proyecto. Por ejemplo, puedes corregir errores diferentes en partes distintas de tu proyecto simultáneamente. Esto hace el trabajo mucho más eficiente.
+
+Codex tiene soporte nativo para Windows con un sandbox especial. Un sandbox es un entorno seguro donde puedes ejecutar código sin afectar tu sistema principal. Esta es la primera vez que una herramienta así funciona native en Windows, y esto es importante porque muchos desarrolladores usan Windows para programar.
+
+También puedes automatizar tareas con Codex. Por ejemplo, puedes programar resúmenes diarios para Slack o revisar correos electrónicos automáticamente. Imagina que cada mañana recibes un resumen de lo que pasó en tus proyectos mientras dormías. Eso es posible con esta función.
+
+Git tiene soporte nativo en Codex. Git es una herramienta que los desarrolladores usan para guardar y organizar su código. Con Codex, puedes usar Git de forma más fácil y puedes crear personas personalizables. Las personas son como perfiles que definen cómo actúa Codex cuando trabaja con tu código.
+
+Los plugins son otra característica importante. Los plugins te permiten crear flujos de trabajo que puedes usar otra vez. Puedes combinar habilidades, conexiones con servicios externos y servidores en un solo plugin. Las habilidades son instrucciones que le dices a Codex, los apps conectan servicios como Google Drive o Slack, y los servidores MCP permiten integrar herramientas especiales.
+
+Hay varios plugins que ya vienen incluidos con Codex. Tienes plugins para Google Drive, Slack, Gmail, Games Studio y Web App Studio. También hay una habilidad especial llamada Playwright Interactive. Playwright es un navegador que funciona sin interfaz gráfica. Esto significa que puedes depurar código en un navegador de forma automática, lo cual es muy útil para encontrar errores.
+
+Otra habilidad interesante es ImageGen, que significa generación de imágenes. Con esta habilidad, Codex puede crear recursos visuales para tus proyectos. Si necesitas iconos o imágenes simples, puedes pedírselo a Codex directamente.
+
+Codex también puede revisar tu código. La revisión de código es el proceso de revisar el código de otra persona para encontrar errores o mejorar su calidad. Puedes usar esta función en GitHub, en la línea de comandos o en la aplicación de Codex. Lo especial de Codex es que revisa todo el contexto, no solo los cambios. Examina cómo los cambios afectan otras partes del proyecto. De hecho, todos los proyectos internos de OpenAI son revisados automáticamente por Codex.
+
+Los subagentes son otra función avanzada. Un subagente es como un trabajador adicional que puedes crear. Puedes dividir una tarea grande en varias tareas más pequeñas y asignarlas a diferentes subagentes. Estos subagentes trabajan en paralelo, lo que significa al mismo tiempo, de forma independiente.
+
+Codex tiene tres personas por defecto para los subagentes. La persona Default es la normal. La persona Worker está enfocada en ejecutar tareas. La persona Explorer está diseñada para investigar y descubrir cosas. También puedes crear subagentes personalizados con modelos específicos, modos de sandbox, acceso a MCP y habilidades especiales.
+
+Los subagentes son útiles para muchas cosas. Por ejemplo, puedes hacer revisiones de código desde diferentes ángulos al mismo tiempo, generar ideas en paralelo o implementar varias funciones simultáneamente.
+
+Ahora hablemos de funciones nuevas y experimentales. Estas funciones están en desarrollo y quizás cambien en el futuro. Una de ellas se llama Guardian Approvals, que significa aprobaciones del guardián. Con esta función, la inteligencia artificial puede aprobar ciertos procesos automáticamente. Esto reduce la fatiga humana porque no tienes que aprobar todo manualmente.
+
+Los hooks son otra función experimental. Los hooks te permiten activar acciones en momentos específicos. Por ejemplo, puedes programar que Codex descargue automáticamente la versión más reciente del código cuando inicias una sesión. También puedes mantener sesiones activas durante tareas muy largas.
+
+Puedes cambiar la personalidad de Codex. Esto significa que puedes personalizar cómo habla y cómo actúa. Si prefieres un tono más formal o más casual, puedes ajustarlo. También puedes agregar instrucciones especiales para que Codex se comporte de forma específica.
+
+Codex tiene funciones de seguridad avanzadas. Se llama Codex Security y puede detectar y corregir vulnerabilidades en tu código. Una vulnerabilidad es un problema de seguridad que puede ser explotado por personas con malas intenciones. Tener esta función integrada es muy valioso para proyectos importantes.
+
+También hay un plugin especial para Cloud Code. Con este plugin, puedes usar Codex directamente en entornos de Cloud Code. Esto es útil si trabajas con servicios en la nube.
+
+Algunas preguntas frecuentes. Las sesiones se guardan en una carpeta llamada sessions dentro del directorio codex. Puedes escanear estas sesiones para analizarlas después. Codex también soporta lo que se llama cloud handoff, que significa transferir trabajo a la nube. Desde la aplicación de Codex, puedes enviar tareas a la nube donde se ejecutan con lo que se llama parallelización best of n. Esto significa que la misma tarea se ejecuta varias veces y se elige el mejor resultado.
+
+Actualmente, las tareas en la nube no soportan habilidades locales por razones de seguridad del sandbox. Esta es una función que está en el plan de desarrollo para el futuro.
+
+En resumen, Codex es un asistente de programación muy poderoso. Puedes acceder a él de muchas formas diferentes, es rápido, tiene millones de usuarios y ofrece funciones para trabajar en múltiples tareas, automatizar trabajo, revisar código y usar subagentes. Las funciones experimentales como Guardian Approvals y los hooks muestran que OpenAI sigue innovando. Si te interesa la programación, Codex es definitivamente una herramienta que vale la pena explorar.

@@ -1,0 +1,21 @@
+En este episodio vas a aprender tres cosas: cómo guardar información para encontrarla siempre, cómo mantener tus datos en tu computadora, y cómo hacer que una inteligencia artificial recuerde lo que aprendió antes.
+
+Todos tenemos el mismo problema. Guardamos tweets, guardamos enlaces, guardamos notas en diferentes apps. Pasado un tiempo, no lembramos qué guardamos. Buscamos algo y no lo encontramos. Abrimos Notion y tenemos cientos de notas separadas. Cada nota vive sola. Cuando perguntas algo a una inteligencia artificial, empieza desde cero. No recuerda nada de antes. Y si la empresa cierra su servicio, pierdes todo.
+
+Tengo la solución. Se llama construir una base de conocimiento local. Es un sistema que guarda toda tu información en tu computadora. Una inteligencia artificial organiza todo automáticamente. Cada vez que agregas algo nuevo, el sistema entiende el contenido, extrae las ideas principales, crea conexiones entre temas relacionados, y genera enlaces que puedes seguir en ambas direcciones.
+
+El sistema tiene tres herramientas principales. Obsidian es una aplicación gratuita para tomar notas. Su característica especial son los enlaces bidireccionales. Cuando escribes el nombre de otra nota entre corchetes, Obsidian crea un enlace. Si la nota existe, puedes hacer clic e ir directamente a ella. Si no existe, al hacer clic se crea automáticamente. Además, Obsidian tiene una función que muestra todas tus notas y sus conexiones como un mapa visual. Todo está en tu computadora, nada sube a internet.
+
+Hermes Agent es la segunda herramienta. Es un programa que ejecuta tareas automáticamente. Tiene una función especial que se llama skill. Viene con una skill llamada llm-wiki. Esta skill trabaja directamente con la estructura de archivos de tu base de conocimiento. Le dices a Hermes que guarde este artículo en la base de conocimiento. Hermes lee el documento, extrae las personas, herramientas y proyectos mencionados, identifica los conceptos clave, crea notas organizadas con conexiones a otras notas, y actualiza el índice general.
+
+La tercera herramienta es LLM Wiki. No es un programa, es una forma de organizar archivos. Define carpetas para documentos originales, para personas y herramientas, para conceptos e ideas, y archivos especiales para índice y registro de cambios.
+
+Hay una regla importante. Hermes solo toca la base de conocimiento cuando tú lo pides directamente. Dices "escribir en la base de conocimiento" y él escribe. Dices "revisar la base de conocimiento" y él lee. Las conversaciones normales no activan la base de conocimiento. Así se mantiene limpia y ordenada.
+
+Te explico el proceso completo. Abres Hermes y dices "guarda este artículo sobre escritura con inteligencia artificial en la base de conocimiento". Hermes lee el artículo, extrae toda la información importante, crea archivos organizados con conexiones a otras notas, y actualiza el índice. Después abres la carpeta de la base de conocimiento en Obsidian como un Vault. Ahora tienes toda tu información organizada con enlaces que puedes seguir. Puedes ver el Graph View, el mapa visual de todas tus notas y sus conexiones.
+
+Este ciclo se repite cada vez. Cada documento nuevo enriquece la red. Las notas existentes reciben nueva información. El mismo concepto de diferentes documentos se conecta al mismo lugar. Con el tiempo tu base de conocimiento se vuelve más precisa y más completa.
+
+La configuración toma solo unos minutos. Descargas Obsidian desde su página web, descargas LLM Wiki desde GitHub, instalas Hermes Agent con un comando, siges un asistente de configuración, y defines las reglas básicas. Después de la configuración inicial, solo necesitas recordar tres cosas. Dices "escribir en la base de conocimiento" para guardar documentos nuevos. Dices "revisar la base de conocimiento" para preguntar sobre información existente. Abres el directorio wiki en Obsidian para ver tu red de conocimiento como un mapa visual.
+
+Hoy aprendimos que una base de conocimiento local te da control total sobre tus datos. Tres herramientas trabajan juntas para organizar todo automáticamente. Tú te enfocas en hacer preguntas y explorar ideas mientras el sistema maneja el trabajo de organización.
