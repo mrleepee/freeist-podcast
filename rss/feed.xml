@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 22:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:57:36 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -33,9 +33,9 @@
       <title>Claude Code Dynamic Workflows: Opus 4.8 Changes Everything</title>
       <description>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:29</itunes:duration>
+      <itunes:duration>04:37</itunes:duration>
       <itunes:summary>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="2475548" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="2219564" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3</guid>
     </item>
     <item>
@@ -105,9 +105,9 @@
       <title>Why We Believe A I Hype: The Magic Effect</title>
       <description>A Miami startup called SubQueue claims a 12-million token context window with no independent benchmarks. A peer-reviewed paper in the Journal of Consumer Research explains exactly why uncritical excitement spreads: people with lower A I literacy perceive A I as magical and experience awe, which drives adoption. Seven studies confirm the pattern. The implication for A I education is uncomfortable — demystifying A I may reduce its appeal.</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:07</itunes:duration>
+      <itunes:duration>05:49</itunes:duration>
       <itunes:summary>A Miami startup called SubQueue claims a 12-million token context window with no independent benchmarks. A peer-reviewed paper in the Journal of Consumer Research explains exactly why uncritical excitement spreads: people with lower A I literacy perceive A I as magical and experience awe, which drives adoption. Seven studies confirm the pattern. The implication for A I education is uncomfortable — demystifying A I may reduce its appeal.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3" length="2338652" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3" length="2665172" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep95-why-we-believe-ai-hype-magic-effect.podcast.mp3</guid>
     </item>
     <item>
