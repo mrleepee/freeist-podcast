@@ -4,7 +4,7 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 21:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 22:39:13 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
@@ -21,15 +21,6 @@
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3</guid>
     </item>
     <item>
-      <title>David Ondrej Your Ai Agent Dies Second You</title>
-      <description/>
-      <pubDate>Thu, 28 May 2026 10:18:13 +0000</pubDate>
-      <itunes:duration>03:18</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="1573316" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Linus Torvalds: Linux, Git, and a Tech Talk at Google</title>
       <description>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
@@ -37,6 +28,15 @@
       <itunes:summary>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="3762092" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Your AI Agent Dies the Second You Close the Terminal</title>
+      <description>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:summary>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="1573316" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3</guid>
     </item>
     <item>
       <title>Liberland: From Micronation to Para-State</title>

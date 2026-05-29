@@ -431,5 +431,10 @@
     "title": "Linus Torvalds: Linux, Git, and a Tech Talk at Google",
     "date": "2026-05-28",
     "description": "The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning."
+  },
+  "ep99-david-ondrej-your-ai-agent-dies-second-you": {
+    "title": "Your AI Agent Dies the Second You Close the Terminal",
+    "date": "2026-05-28",
+    "description": "The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development."
   }
 }
