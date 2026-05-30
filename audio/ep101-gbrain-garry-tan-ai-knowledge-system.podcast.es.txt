@@ -1,0 +1,58 @@
+EN: What if your AI woke up smarter than you? What if it read everything you ever wrote and told you exactly what you forgot?
+ES: ¿Y si tu IA se despertaba más inteligente que tú? ¿Y si leía todo lo que escribiste y te decía exactamente lo que olvidaste?
+EN: That is not a dream. That is GBrain — an open-source knowledge system built by Garry Tan.
+ES: Eso no es un sueño. Eso es GBrain — un sistema de conocimiento de código abierto creado por Garry Tan.
+EN: Garry Tan is the CEO of Y Combinator, the most famous startup accelerator in the world.
+ES: Garry Tan es el CEO de Y Combinator, el acelerador de startups más famoso del mundo.
+EN: He built GBrain for himself. Now almost twenty thousand developers use it on GitHub.
+ES: Él construyó GBrain para sí mismo. Ahora casi veinte mil desarrolladores lo usan en GitHub.
+EN: Here is the problem it solves. Most tools like Notion or Obsidian give you a list of pages when you search.
+ES: Aquí está el problema que resuelve. La mayoría de herramientas como Notion u Obsidian te dan una lista de páginas cuando buscas.
+EN: You have to read them yourself. GBrain gives you the answer.
+ES: Tú tienes que leerlas solo. GBrain te da la respuesta.
+EN: Imagine a meeting with Alice tomorrow. GBrain does not show you five pages mentioning her name.
+ES: Imagina una reunión con Alice mañana. GBrain no te muestra cinco páginas con su nombre.
+EN: It tells you: Alice runs engineering at Acme, a Series B fintech company.
+ES: Te dice: Alice dirige ingeniería en Acme, una fintech en Serie B.
+EN: You last spoke on April twenty-second about pricing. Three things are still open between you.
+ES: Hablaste el veintidós de abril sobre precios. Tres cosas siguen abiertas entre ustedes.
+EN: Then — and this is important — GBrain tells you what it does not know.
+ES: Y esto es importante — GBrain te dice lo que no sabe.
+EN: Nothing new about Alice appeared in six weeks. She may have replied through channels the brain cannot see.
+ES: Nada nuevo sobre Alice apareció en seis semanas. Quizás ella respondió por canales que el cerebro no puede ver.
+EN: You walk into the meeting knowing exactly what to ask. That is the difference.
+ES: Entras a la reunión sabiendo exactamente qué preguntar. Esa es la diferencia.
+EN: GBrain has three core parts. First, hybrid search with a synthesis layer.
+ES: GBrain tiene tres partes principales. Primero, búsqueda híbrida con una capa de síntesis.
+EN: It combines two types of search. One understands meaning, the other matches keywords.
+ES: Combina dos tipos de búsqueda. Uno entiende el significado, el otro busca palabras clave.
+EN: The system reads the results and composes a clear answer with references.
+ES: El sistema lee los resultados y compose una respuesta clara con referencias.
+EN: Second, a knowledge graph that builds itself automatically.
+ES: Segundo, un gráfico de conocimiento que se construye solo.
+EN: Every time you write a page, GBrain extracts names, companies, and connections.
+ES: Cada vez que escribes una página, GBrain extrae nombres, empresas y conexiones.
+EN: It creates links like works_at, founded, invested_in — without using AI.
+ES: Crea enlaces como trabaja_en, fundó, invirtió_en — sin usar IA.
+EN: Third, the Dream Cycle. While you sleep, GBrain cleans up your data.
+ES: Tercero, el Ciclo del Sueño. Mientras duermes, GBrain limpia tus datos.
+EN: It removes duplicates, fixes broken links, and finds contradictions.
+ES: Elimina duplicados, arregla enlaces rotos y busca contradicciones.
+EN: This is why a brain with one hundred thousand pages stays useful instead of becoming noise.
+ES: Por esto un cerebro con cien mil páginas se mantiene útil en vez de convertirse en ruido.
+EN: GBrain runs on your own computer. No server, no Docker, no configuration.
+ES: GBrain funciona en tu propia computadora. Sin servidor, sin Docker, sin configuración.
+EN: Your data lives in a git repository. You own it completely.
+ES: Tus datos viven en un repositorio git. Tú los tienes completamente.
+EN: There is also a team version. Each person sees only what they are authorized to see.
+ES: También hay una versión para equipos. Cada persona ve solo lo que tiene permiso de ver.
+EN: Y Combinator tested it and found zero data leaks across every search path.
+ES: Y Combinator lo probó y encontró cero filtraciones de datos en cada camino de búsqueda.
+EN: The bigger question is this. If your AI remembers everything, what is the value of experience?
+ES: La pregunta más grande es esta. Si tu IA recuerda todo, ¿cuál es el valor de la experiencia?
+EN: Does a twenty-five-year-old with GBrain for two years have better memory than a fifty-year-old executive?
+ES: ¿Un joven de veinticinco años con GBrain por dos años tiene mejor memoria que un ejecutivo de cincuenta?
+EN: GBrain suggests knowledge compounds. The tool you build now serves the version of you in ten years.
+ES: GBrain sugiere que el conocimiento se compound. La herramienta que construyes ahora sirve a la versión de ti en diez años.
+EN: That is worth thinking about.
+ES: Eso vale la pena pensar.
