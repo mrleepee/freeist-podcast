@@ -441,5 +441,10 @@
     "title": "GBrain: Garry Tan's AI Knowledge System That Makes You Wake Up Smarter",
     "date": "2026-05-30",
     "description": "Garry Tan, President of Y Combinator, personally built GBrain — an open-source AI knowledge system with 147,000 indexed pages, 25,000 tracked people, and 5,000 companies. Unlike traditional knowledge tools that return lists of pages, GBrain synthesizes actual answers with gap analysis telling you what it doesn't know yet. Three pillars make it work: hybrid search with a synthesis layer, a self-wiring knowledge graph that creates typed edges with zero LLM calls, and a dream cycle that enriches your brain while you sleep. Nearly 20,000 GitHub stars. The deeper question: does a 25-year-old with GBrain running for two years have better institutional memory than a 50-year-old executive relying on recall?"
+  },
+  "ep102-liberland-ai-global-government": {
+    "title": "Liberland, AI and Global Government",
+    "date": "2026-05-30",
+    "description": "Vit Jedlicka warns that global government is the most dangerous concept humanity is playing with — borders are not just arbitrary lines but limits on power. Liberland funds itself through voluntary merit purchases instead of taxes, runs elections every three months on blockchain, and plans to let AI agents hold governance shares. Eight hundred thousand citizenship applications, Justin Sun as a citizen, and a diaspora network spanning every continent. The question is not whether Liberland succeeds but whether the idea spreads fast enough before the global bureaucrats finish building their cage."
   }
 }
