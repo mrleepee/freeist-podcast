@@ -1,0 +1,57 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": false,
+      "reason": "LUFS=-24.1 (target -17.0 to -15.0)",
+      "metrics": {
+        "integrated_lufs": -24.1,
+        "true_peak_dbfs": -3.5
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "1 risky tokens, all covered",
+      "metrics": {
+        "risky_count": 1,
+        "covered_count": 1,
+        "uncovered_count": 0,
+        "uncovered_tokens": []
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "only 0.0 numbers/1k words (need \u22656)",
+      "metrics": {
+        "word_count": 1001,
+        "filler_phrases": [],
+        "numbers": 0,
+        "numbers_per_1k": 0.0,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Imagine waking up one morning, checking your phone, and discovering that while you slept, your money",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "loudness: LUFS=-24.1 (target -17.0 to -15.0)",
+    "substance: only 0.0 numbers/1k words (need \u22656)"
+  ]
+}
