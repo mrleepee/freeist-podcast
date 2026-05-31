@@ -446,5 +446,10 @@
     "title": "Liberland, AI and Global Government",
     "date": "2026-05-30",
     "description": "Vit Jedlicka warns that global government is the most dangerous concept humanity is playing with — borders are not just arbitrary lines but limits on power. Liberland funds itself through voluntary merit purchases instead of taxes, runs elections every three months on blockchain, and plans to let AI agents hold governance shares. Eight hundred thousand citizenship applications, Justin Sun as a citizen, and a diaspora network spanning every continent. The question is not whether Liberland succeeds but whether the idea spreads fast enough before the global bureaucrats finish building their cage."
+  },
+  "ep103-unreasonable-effectiveness-html-ai-agents": {
+    "title": "The Unreasonable Effectiveness of HTML for AI Agents",
+    "date": "2026-05-31",
+    "description": "Thariq Shihipar, the engineering lead for Claude Code at Anthropic, published a blog post that hit 4.4 million views in 16 hours arguing that HTML outperforms Markdown for AI agent outputs. The argument is practical: as agents handle larger tasks, Markdown walls of text become impossible to review. HTML gives agents tables, SVG diagrams, interactive navigation, and copy buttons that make output reviewable and actionable. Twenty working examples back the claim. Combined with dynamic workflows — the Opus 4.8 feature that orchestrates up to 1,000 subagents in a single JavaScript script — HTML artifacts become durable project context rather than disposable chat output. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.\n\nLinks:\nhttps://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html\nhttps://code.claude.com/docs/en/workflows\nhttps://thariqs.github.io/html-effectiveness/"
   }
 }

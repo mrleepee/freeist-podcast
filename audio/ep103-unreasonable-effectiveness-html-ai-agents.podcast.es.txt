@@ -1,0 +1,100 @@
+EN: A blog post about HTML hit 4.4 million views in 16 hours. Nobody saw that coming.
+ES: Una publicación sobre HTML tuvo 4.4 millones de visitas en 16 horas. Nadie lo esperaba.
+EN: Thariq Shihipar wrote it. He leads engineering for Claude Code at Anthropic.
+ES: Thariq Shihipar la escribió. Él lidera ingeniería para Claude Code en Anthropic.
+EN: His argument is simple — Markdown is holding AI agents back. HTML is the upgrade.
+ES: Su argumento es simple — Markdown está frenando a los agentes de IA. HTML es la mejora.
+EN: But this is not an academic debate. This is practical.
+ES: Pero esto no es un debate académico. Esto es práctico.
+EN: When AI agents handle bigger tasks, the outputs get bigger too.
+ES: Cuando los agentes de IA manejan tareas más grandes, los resultados también se vuelven más grandes.
+EN: A short checklist in Markdown works fine. A long report in Markdown is just a wall of text.
+ES: Una lista corta en Markdown funciona bien. Un reporte largo en Markdown es solo un muro de texto.
+EN: HTML gives the model a richer surface to organize information.
+ES: HTML le da al modelo una superficie más rica para organizar información.
+EN: It supports tables for dense comparisons, diagrams you can interact with, and buttons to copy output.
+ES: Soporta tablas para comparaciones densas, diagramas interactivos, y botones para copiar resultados.
+EN: Shihipar shared twenty working examples. Each one trades a document you scroll past for one you actually use.
+ES: Shihipar compartió veinte ejemplos funcionales. Cada uno cambia un documento que ignoras por uno que realmente usas.
+EN: Code reviews with color-coded severity labels. Reports with sections you can collapse. Design systems with live color swatches.
+ES: Revisiones de código con etiquetas de severidad en colores. Reportes con secciones que puedes cerrar. Sistemas de diseño con paletas de colores en vivo.
+EN: Simon Willison read the post and started experimenting right away.
+ES: Simon Willison leyó la publicación y empezó a experimentar de inmediato.
+EN: He had used Markdown for years because of token limits. Context windows have grown now. That tradeoff is gone.
+ES: Él había usado Markdown por años por los límites de tokens. Las ventanas de contexto han crecido ahora. Ese trueque desapareció.
+EN: Asking AI for HTML output means it can drop in SVG diagrams and interactive widgets.
+ES: Pedirle a la IA resultados en HTML significa que puede incluir diagramas SVG y widgets interactivos.
+EN: Information becomes navigable instead of just present.
+ES: La información se vuelve navegable en lugar de solo presente.
+EN: Here is the practical shift. Instead of asking for a plan, ask for an HTML artifact.
+ES: Aquí está el cambio práctico. En lugar de pedir un plan, pide un artefacto HTML.
+EN: Include a module map, key file changes, risks by severity, a migration plan, and a copyable prompt.
+ES: Incluye un mapa de módulos, cambios en archivos clave, riesgos por severidad, un plan de migración, y un prompt que puedes copiar.
+EN: Same underlying request. Better format to inspect, share, and use later.
+ES: La misma solicitud de fondo. Mejor formato para revisar, compartir, y usar después.
+EN: HTML becomes durable project context, not just a one-time response.
+ES: HTML se convierte en contexto durable del proyecto, no solo una respuesta de una vez.
+EN: There is a new feature that makes this more powerful. Dynamic workflows shipped with Opus 4.8.
+ES: Hay una función nueva que hace esto más poderoso. Workflows dinámicos llegó con Opus 4.8.
+EN: These are JavaScript scripts that orchestrate subagents at scale.
+ES: Estos son scripts de JavaScript que orquestan subagentes a escala.
+EN: Claude writes the script for your task. A runtime executes it in the background.
+ES: Claude escribe el script para tu tarea. Un runtime lo ejecuta en segundo plano.
+EN: Your session stays responsive while dozens of agents work.
+ES: Tu sesión se mantiene receptiva mientras docenas de agentes trabajan.
+EN: Here is the key insight. The workflow script holds the loop, the branching, and the intermediate results.
+ES: Aquí está la idea clave. El script del workflow controla el ciclo, las ramificaciones, y los resultados intermedios.
+EN: Claude's context window only receives the final answer.
+ES: La ventana de contexto de Claude solo recibe la respuesta final.
+EN: Now combine rich HTML output with workflow orchestration. A workflow can spawn hundreds of agents.
+ES: Ahora combina resultados ricos en HTML con orquestación de workflows. Un workflow puede generar cientos de agentes.
+EN: Each one produces findings. The results synthesize into an HTML artifact.
+ES: Cada uno produce hallazgos. Los resultados se combinan en un artefacto HTML.
+EN: The human reviewer gets handles. Scan the overview. Inspect the diagram. Compare options side by side.
+ES: El revisor humano recibe controles. Revisa el resumen. Examina el diagrama. Compara opciones lado a lado.
+EN: Copy the selected output back into Claude Code. This is not cosmetic. This is part of control.
+ES: Copia el resultado seleccionado de vuelta a Claude Code. Esto no es cosmético. Esto es parte del control.
+EN: As agents handle bigger chunks of work, humans stop reading what agents produce.
+ES: A medida que los agentes manejan pedazos más grandes de trabajo, los humanos dejan de leer lo que los agentes producen.
+EN: Long Markdown plans are easy to rubber-stamp without deep review.
+ES: Los planes largos en Markdown son fáciles de aprobar sin revisión profunda.
+EN: HTML can reduce that failure mode.
+ES: HTML puede reducir ese modo de falla.
+EN: Markdown still has its place. Use it when the output is small.
+ES: Markdown todavía tiene su lugar. Úsalo cuando el resultado es pequeño.
+EN: Use it when humans will edit the text often. Use it when tooling expects it.
+ES: Úsalo cuando humanos editarán el texto a menudo. Úsalo cuando las herramientas lo esperan.
+EN: Use HTML when you need layout, diagrams, dense comparison, or interactivity.
+ES: Usa HTML cuando necesitas diseño, diagramas, comparación densa, o interactividad.
+EN: Some pushback came fast. Team HTML said Markdown is dead.
+ES: Algo de resistencia llegó rápido. El equipo HTML dijo que Markdown está muerto.
+EN: Team Markdown fired back with security risks, noisy diffs, and token costs.
+ES: El equipo Markdown respondió con riesgos de seguridad, diffs ruidosos, y costos de tokens.
+EN: Both sides have a point. HTML artifacts should be disposable.
+ES: Ambos lados tienen razón. Los artefactos HTML deben ser descartables.
+EN: Their value is in helping a human make a better decision right now.
+ES: Su valor está en ayudar a un humano a tomar una mejor decisión ahora.
+EN: Not becoming permanent documentation that rots.
+ES: No en volverse documentación permanente que se deteriora.
+EN: The deeper point is about the interface between humans and AI agents.
+ES: El punto más profundo es sobre la interfaz entre humanos y agentes de IA.
+EN: The bottleneck in AI-assisted development is no longer code generation speed.
+ES: El cuello de botella en desarrollo asistido por IA ya no es la velocidad de generación de código.
+EN: It is the interface through which humans stay cognitively connected to what agents produce.
+ES: Es la interfaz a través de la cual los humanos se mantienen cognitivamente conectados con lo que los agentes producen.
+EN: The format shapes the review. The review shapes the outcome.
+ES: El formato moldea la revisión. La revisión moldea el resultado.
+EN: Anthropic's own team is eating their own cooking on this. They build the tools. They use the tools.
+ES: El propio equipo de Anthropic está aplicando su propia medicina en esto. Construyen las herramientas. Usan las herramientas.
+EN: They publish the evidence that HTML outputs produce better human decisions.
+ES: Publican la evidencia de que resultados en HTML producen mejores decisiones humanas.
+EN: That is more convincing than any theoretical argument.
+ES: Eso es más convincente que cualquier argumento teórico.
+EN: The real takeaway is not about HTML versus Markdown.
+ES: El verdadero aprendizaje no es sobre HTML versus Markdown.
+EN: It is about treating the output format as part of the workflow design.
+ES: Es sobre tratar el formato de salida como parte del diseño del flujo de trabajo.
+EN: Teams that ask agents for artifacts designed for review will stay more in control.
+ES: Equipos que piden a los agentes artefactos diseñados para revisión se mantendrán más en control.
+EN: The format is the interface. The interface is the lever.
+ES: El formato es la interfaz. La interfaz es la palanca.
