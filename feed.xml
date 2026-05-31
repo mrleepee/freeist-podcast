@@ -4,13 +4,22 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 10:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:12:51 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>History Taxation From Ancient Tribute Modern Certainty</title>
+      <description/>
+      <pubDate>Sun, 31 May 2026 14:50:11 +0000</pubDate>
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="6504212" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
+    </item>
     <item>
       <title>The Unreasonable Effectiveness of HTML for AI Agents</title>
       <description>Thariq Shihipar, the engineering lead for Claude Code at Anthropic, published a blog post that hit 4.4 million views in 16 hours arguing that HTML outperforms Markdown for AI agent outputs. The argument is practical: as agents handle larger tasks, Markdown walls of text become impossible to review. HTML gives agents tables, SVG diagrams, interactive navigation, and copy buttons that make output reviewable and actionable. Twenty working examples back the claim. Combined with dynamic workflows — the Opus 4.8 feature that orchestrates up to 1,000 subagents in a single JavaScript script — HTML artifacts become durable project context rather than disposable chat output. The bottleneck is no longer code generation speed but the interface through which humans stay cognitively connected to what agents produce.
@@ -67,6 +76,25 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
 https://modelcontextprotocol.io/specification/2025-06-18</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep105-robinhood-now-open-agents.podcast.mp3" length="3433148" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep105-robinhood-now-open-agents.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The History of Taxation: From Ancient Tribute to Modern Certainty</title>
+      <description>Taxation may be the second-oldest profession — and it has always worked the same way. From Egyptian grain tributes assessed by the scribe of the treasury around 3000 BCE, through Roman tax farmers called publicani who bid at auction for the right to extract whatever they could from provincials, to Magna Carta Clause 12 in 1215 which established no tax without common counsel — extracted at sword-point from King John, not granted by legal philosophy. William Pitt the Younger introduced British income tax in 1799 at 10 percent on incomes above 200 pounds, promised it was temporary, and it was repealed after Waterloo. Robert Peel brought it back in 1842 and it has never left. The US 16th Amendment in 1913 started at 1 percent on incomes above $3,000 with a top rate of 7 percent. By 1918 the top rate hit 77 percent. The Spanish-American War telephone tax of 1898 lasted 108 years. The window tax of 1696 made people brick up their windows for 150 years. Every major tax was sold as temporary. Every one became permanent. The pattern: crisis creates urgency, the tax is introduced with sunset promises, the crisis passes, the revenue proves too convenient, and the sunset clause quietly fails. Legality and legitimacy are not the same thing. The history of taxation is not a history of consent — it is a history of expedience becoming permanent.
+
+Links:
+https://en.wikipedia.org/wiki/Tax
+https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/incometax/
+https://www.archives.gov/milestone-documents/16th-amendment</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>14:35</itunes:duration>
+      <itunes:summary>Taxation may be the second-oldest profession — and it has always worked the same way. From Egyptian grain tributes assessed by the scribe of the treasury around 3000 BCE, through Roman tax farmers called publicani who bid at auction for the right to extract whatever they could from provincials, to Magna Carta Clause 12 in 1215 which established no tax without common counsel — extracted at sword-point from King John, not granted by legal philosophy. William Pitt the Younger introduced British income tax in 1799 at 10 percent on incomes above 200 pounds, promised it was temporary, and it was repealed after Waterloo. Robert Peel brought it back in 1842 and it has never left. The US 16th Amendment in 1913 started at 1 percent on incomes above $3,000 with a top rate of 7 percent. By 1918 the top rate hit 77 percent. The Spanish-American War telephone tax of 1898 lasted 108 years. The window tax of 1696 made people brick up their windows for 150 years. Every major tax was sold as temporary. Every one became permanent. The pattern: crisis creates urgency, the tax is introduced with sunset promises, the crisis passes, the revenue proves too convenient, and the sunset clause quietly fails. Legality and legitimacy are not the same thing. The history of taxation is not a history of consent — it is a history of expedience becoming permanent.
+
+Links:
+https://en.wikipedia.org/wiki/Tax
+https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/incometax/
+https://www.archives.gov/milestone-documents/16th-amendment</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep107-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="7802900" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep107-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
     </item>
     <item>
       <title>GBrain: Garry Tan's AI Knowledge System That Makes You Wake Up Smarter</title>

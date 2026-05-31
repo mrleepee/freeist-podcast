@@ -1,0 +1,54 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": false,
+      "reason": "LUFS=-21.6 (target -17.0 to -15.0); TP=-0.6 (max -1.0)",
+      "metrics": {
+        "integrated_lufs": -21.6,
+        "true_peak_dbfs": -0.6
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "only 0.5 numbers/1k words (need \u22656)",
+      "metrics": {
+        "word_count": 2097,
+        "filler_phrases": [],
+        "numbers": 1,
+        "numbers_per_1k": 0.5,
+        "named_sources": 1,
+        "sources_per_1k": 0.5
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Imagine being told, five thousand years ago, that if you did not hand over a fifth of every bushel y",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "loudness: LUFS=-21.6 (target -17.0 to -15.0); TP=-0.6 (max -1.0)",
+    "substance: only 0.5 numbers/1k words (need \u22656)"
+  ]
+}
