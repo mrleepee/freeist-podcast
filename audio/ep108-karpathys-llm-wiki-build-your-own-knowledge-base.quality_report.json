@@ -1,0 +1,60 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": false,
+      "reason": "LUFS=-24.9 (target -17.0 to -15.0)",
+      "metrics": {
+        "integrated_lufs": -24.9,
+        "true_peak_dbfs": -4.1
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "2 risky tokens, all covered",
+      "metrics": {
+        "risky_count": 2,
+        "covered_count": 2,
+        "uncovered_count": 0,
+        "uncovered_tokens": []
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "only 0.0 numbers/1k words (need \u22656)",
+      "metrics": {
+        "word_count": 737,
+        "filler_phrases": [],
+        "numbers": 0,
+        "numbers_per_1k": 0.0,
+        "named_sources": 1,
+        "sources_per_1k": 1.4
+      }
+    },
+    "structure": {
+      "passed": false,
+      "reason": "ending denylist hit: at the end of the day",
+      "metrics": {
+        "has_hook": true,
+        "opening": "What if everything you've been told about AI knowledge management is exactly backwards? In April twe",
+        "ending_clean": false,
+        "ending_denied_phrases": [
+          "at the end of the day"
+        ]
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "loudness: LUFS=-24.9 (target -17.0 to -15.0)",
+    "substance: only 0.0 numbers/1k words (need \u22656)",
+    "structure: ending denylist hit: at the end of the day"
+  ]
+}

@@ -1,0 +1,70 @@
+EN: What if your AI could read everything you've ever saved — and actually remember it?
+ES: ¿Y si tu AI pudiera leer todo lo que guardaste — y realmente recordarlo?
+EN: On April 2nd, 2026, Andrej Karpathy published a single file on GitHub. It wasn't code. It wasn't a product. It was a pattern — and patterns are worth more than products.
+ES: El 2 de abril de 2026, Andrej Karpathy publicó un solo archivo en GitHub. No era código. No era un producto. Era un patrón — y los patrones valen más que los productos.
+EN: The insight is simple: stop retrieving, start compiling.
+ES: La idea es simple: deja de recuperar, empieza a compilar.
+EN: In software, you write source code once. You compile it into a binary. Then you run the binary every time — no recompiling.
+ES: En software, escribes el código fuente una vez. Lo compilas en un binario. Luego ejecutas el binario cada vez — sin recompilar.
+EN: Karpathy says do the same with your knowledge. Your PDFs, articles, and notes are the source code. The AI builds a wiki from them — that wiki is the compiled binary.
+ES: Karpathy dice que hagas lo mismo con tu conocimiento. Tus PDFs, artículos y notas son el código fuente. La AI construye un wiki desde ellos — ese wiki es el binario compilado.
+EN: Every question you ask reads the wiki, not the raw documents. Your thinking stays fast because the AI did the work once.
+ES: Cada pregunta que haces lee el wiki, no los documentos originales. Tu pensamiento se mantiene rápido porque la AI hizo el trabajo una vez.
+EN: The system has three layers. Layer one is your raw sources — articles, papers, notes, images.
+ES: El sistema tiene tres capas. La capa uno son tus fuentes originales — artículos, papers, notas, imágenes.
+EN: These files stay untouched. Immutable. You can always recompile the wiki from scratch if something goes wrong.
+ES: Estos archivos no cambian. Inmutables. Siempre puedes recompilar el wiki desde cero si algo sale mal.
+EN: Layer two is the wiki itself — a directory of markdown files. The AI creates pages for people, for ideas, for connections between them.
+ES: La capa dos es el wiki mismo — un directorio de archivos markdown. La AI crea páginas para personas, para ideas, para conexiones entre ellas.
+EN: You read the wiki. The AI writes it. This division of labor matters.
+ES: Tú lees el wiki. La AI lo escribe. Esta división del trabajo importa.
+EN: Layer three is the schema — a configuration file like CLAUDE.md. It tells the AI how to maintain the wiki.
+ES: La capa tres es el esquema — un archivo de configuración como CLAUDE.md. Le dice a la AI cómo mantener el wiki.
+EN: Karpathy put it this way: Obsidian is the IDE, the LLM is the programmer, and the wiki is the codebase.
+ES: Karpathy lo dijo así: Obsidian es el IDE, la LLM es el programador, y el wiki es la base de código.
+EN: Three operations power the whole system. First: ingest. You drop a source into the raw folder.
+ES: Tres operaciones hacen funcionar el sistema. Primera: ingestión. Tú pones una fuente en la carpeta original.
+EN: The AI reads it, writes a summary page, and touches ten to fifteen related pages — updating, connecting, flagging contradictions.
+ES: La AI lo lee, escribe una página de resumen, y toca diez a quince páginas relacionadas — actualizando, conectando, marcando contradicciones.
+EN: One article becomes a web of updates across your entire knowledge base.
+ES: Un artículo se convierte en una red de actualizaciones en toda tu base de conocimiento.
+EN: Second operation: query. You ask a question and the AI reads the pre-synthesized wiki.
+ES: Segunda operación: consulta. Tú haces una pregunta y la AI lee el wiki pre-sintetizado.
+EN: It answers with citations. Good answers get filed back as new pages — your explorations become permanent knowledge.
+ES: Responde con citas. Las buenas respuestas se guardan como páginas nuevas — tus exploraciones se convierten en conocimiento permanente.
+EN: Third: lint. The AI audits the whole wiki for contradictions, orphan pages, and concepts mentioned but missing their own page.
+ES: Tercera: lint. La AI revisa todo el wiki buscando contradicciones, páginas huérfanas, y conceptos mencionados sin página propia.
+EN: The wiki stays healthy because the AI does the bookkeeping no human wants to do.
+ES: El wiki se mantiene sano porque la AI hace el trabajo de archivo que ningún humano quiere hacer.
+EN: This pattern solves a problem older than computers. In 1945, Vannevar Bush wrote "As We May Think" in The Atlantic.
+ES: Este patrón resuelve un problema más viejo que las computadoras. En 1945, Vannevar Bush escribió "Como Podemos Pensar" en The Atlantic.
+EN: He proposed the Memex — a personal knowledge store where connections between documents matter as much as the documents themselves.
+ES: Propuso el Memex — un almacén personal de conocimiento donde las conexiones entre documentos importan tanto como los documentos mismos.
+EN: Nobody built it because nobody wants to do the bookkeeping — updating cross-references, keeping summaries current, noting when new data contradicts old claims.
+ES: Nadie lo construyó porque nadie quiere hacer el archivo — actualizar referencias cruzadas, mantener resúmenes actuales, notar cuando datos nuevos contradicen claims antiguos.
+EN: That bookkeeping is exactly what Karpathy's pattern automates. The tedious part of knowledge management isn't reading or thinking — it's filing.
+ES: Ese archivo es exactamente lo que el patrón de Karpathy automatiza. La parte tediosa de manejar conocimiento no es leer o pensar — es archivar.
+EN: The AI handles the filing. Your job shifts to curating and asking better questions.
+ES: La AI maneja el archivo. Tu trabajo cambia a curar y hacer mejores preguntas.
+EN: This pattern shows up elsewhere. Garry Tan's GBrain system — we covered it in episode 101 — indexes 146,000 pages, 25,000 people, and 5,000 companies.
+ES: Este patrón aparece en otros lugares. El sistema GBrain de Garry Tan — lo cubrimos en el episodio 101 — indexa 146,000 páginas, 25,000 personas, y 5,000 compañías.
+EN: Same compile-once philosophy, at serious scale.
+ES: La misma filosofía de compilar una vez, a escala seria.
+EN: The Hermes Agent's llm-wiki skill from episode 37 uses the identical pattern with Obsidian as the viewer.
+ES: La habilidad llm-wiki del Hermes Agent del episodio 37 usa el patrón idéntico con Obsidian como visor.
+EN: The convergence is clear: the most effective personal knowledge systems are moving from retrieval-first to compilation-first architectures.
+ES: La convergencia es clara: los sistemas de conocimiento personal más efectivos se mueven de arquitecturas de recuperación-primero a compilación-primero.
+EN: Here's the Señor Freedom angle. Your knowledge base lives on your machine. No cloud dependency.
+ES: Aquí está el ángulo de Señor Freedom. Tu base de conocimiento vive en tu máquina. Sin dependencia de la nube.
+EN: No vendor lock-in. Your data stays yours. The raw sources are immutable files on your filesystem.
+ES: Sin cautiverio de proveedor. Tus datos se quedan tuyos. Las fuentes originales son archivos inmutables en tu sistema.
+EN: The wiki is markdown you can read with any text editor. The schema is a config file you control.
+ES: El wiki es markdown que puedes leer con cualquier editor de texto. El esquema es un archivo de configuración que tú controlas.
+EN: If your AI provider disappears tomorrow, you still have the wiki. You can recompile it with a different provider.
+ES: Si tu proveedor de AI desaparece mañana, todavía tienes el wiki. Puedes recompilarlo con un proveedor diferente.
+EN: This is sovereignty over your own knowledge. In a world where every platform wants to host your thinking inside their walled garden, that matters more than convenience.
+ES: Esto es soberanía sobre tu propio conocimiento. En un mundo donde cada plataforma quiere alojar tu pensamiento dentro de su jardín amurallado, eso importa más que la conveniencia.
+EN: The pattern works because it mirrors how we naturally think. Stop retrieving. Start compiling.
+ES: El patrón funciona porque refleja cómo pensamos naturalmente. Deja de recuperar. Empieza a compilar.
+EN: You already have the knowledge. Now build the system that uses it.
+ES: Ya tienes el conocimiento. Ahora construye el sistema que lo usa.
