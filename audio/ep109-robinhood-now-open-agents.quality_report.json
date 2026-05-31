@@ -4,10 +4,10 @@
   "checks": {
     "loudness": {
       "passed": false,
-      "reason": "LUFS=-24.1 (target -17.0 to -15.0)",
+      "reason": "LUFS=-24.6 (target -17.0 to -15.0)",
       "metrics": {
-        "integrated_lufs": -24.1,
-        "true_peak_dbfs": -3.5
+        "integrated_lufs": -24.6,
+        "true_peak_dbfs": -3.7
       }
     },
     "pronunciation": {
@@ -24,7 +24,7 @@
       "passed": false,
       "reason": "only 0.0 numbers/1k words (need \u22656)",
       "metrics": {
-        "word_count": 1001,
+        "word_count": 739,
         "filler_phrases": [],
         "numbers": 0,
         "numbers_per_1k": 0.0,
@@ -37,7 +37,7 @@
       "reason": "hook present, ending clean",
       "metrics": {
         "has_hook": true,
-        "opening": "Imagine waking up one morning, checking your phone, and discovering that while you slept, your money",
+        "opening": "Did you know that within the next few years, the majority of financial transactions could be initiat",
         "ending_clean": true,
         "ending_denied_phrases": []
       }
@@ -51,7 +51,7 @@
     }
   },
   "blocking_failures": [
-    "loudness: LUFS=-24.1 (target -17.0 to -15.0)",
+    "loudness: LUFS=-24.6 (target -17.0 to -15.0)",
     "substance: only 0.0 numbers/1k words (need \u22656)"
   ]
 }

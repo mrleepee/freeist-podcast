@@ -1,0 +1,53 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": false,
+      "reason": "LUFS=-25.0 (target -17.0 to -15.0)",
+      "metrics": {
+        "integrated_lufs": -25.0,
+        "true_peak_dbfs": -6.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 7.4 numbers/1k, 1.9 sources/1k",
+      "metrics": {
+        "word_count": 538,
+        "filler_phrases": [],
+        "numbers": 4,
+        "numbers_per_1k": 7.4,
+        "named_sources": 1,
+        "sources_per_1k": 1.9
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "A robot just bought a share of Tesla in your name. It didn't ask.",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "loudness: LUFS=-25.0 (target -17.0 to -15.0)"
+  ]
+}

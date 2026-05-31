@@ -1,0 +1,122 @@
+[
+  {
+    "claim": "Robinhood announced opening their platform to AI agents",
+    "source_quote": "they're opening their platform to AI agents. Not to human developers building apps. To autonomous software agents that can trade, move money, and make financial decisions on your behalf",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Robinhood is rolling out an API layer through their new Robinhood MCP server",
+    "source_quote": "Robinhood is rolling out an API layer — specifically through their new Robinhood MCP server — that lets AI agents connect directly to your brokerage account",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "AI agents can execute trades, check positions, and manage portfolios using natural language instructions through Robinhood's platform",
+    "source_quote": "These agents can execute trades, check positions, and manage your portfolio using natural language instructions",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Robinhood frames this as 'democratizing finance'",
+    "source_quote": "The announcement frames this as 'democratizing finance' — their favorite phrase",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Robinhood makes money on order flow, margin lending, and Cash App-style sweep",
+    "source_quote": "Robinhood makes money on order flow, on margin lending, on that sweet sweet Cash App–style sweep",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The Model Context Protocol (MCP) is an open standard for connecting AI models to external tools",
+    "source_quote": "The architecture Robinhood describes uses something called the Model Context Protocol — MCP — which is an open standard for connecting AI models to external tools",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "MCP serves as a universal adapter allowing any agent that speaks MCP to connect to any service with an MCP server",
+    "source_quote": "You can think of it as a universal adapter. Any agent that speaks MCP can talk to any service that exposes an MCP server",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude, GPT, and open-source models running locally can connect to Robinhood's MCP server",
+    "source_quote": "any compatible AI agent — Claude, GPT, open-source models running locally — can connect and start trading",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Robinhood has built guardrails including transaction limits, risk thresholds, and approval workflows",
+    "source_quote": "Robinhood says they've built guardrails. Transaction limits. Risk thresholds. Approval workflows where the agent proposes an action and you confirm it before execution",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The SEC has been circling algorithmic and AI-driven trading",
+    "source_quote": "The SEC has been circling algorithmic and AI-driven trading for a while now",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Visa and Mastercard are exploring similar AI agent territory in payments",
+    "source_quote": "Visa and Mastercard are exploring similar territory",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The prediction that within five years, most financial transactions will be initiated by agents rather than humans",
+    "source_quote": "The thesis is that within five years, most financial transactions will be initiated by agents, not humans",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "prediction"
+  },
+  {
+    "claim": "Robinhood's options trading was described as 'permissionless' and led to retail traders losing money",
+    "source_quote": "Remember when Robinhood's 'permissionless' options trading led to a generation of retail traders blowing up their accounts?",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "AI agents do not panic sell or hesitate when executing trades",
+    "source_quote": "AI agents don't get cold feet. They don't panic sell. They don't hesitate. They execute",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Robinhood's approach could become a different kind of monopoly if their MCP approach becomes the de facto standard",
+    "source_quote": "If Robinhood's MCP approach becomes the de facto standard, they don't just own the brokerage relationship. They own the agent-to-finance pipe. That's a different kind of monopoly",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

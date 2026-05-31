@@ -1,0 +1,19 @@
+{
+  "thesis": "Robinhood's opening to AI agents isn't just a fintech innovation — it's a sovereignty transfer where users trade active financial decision-making for algorithmic delegation, raising consent and autonomy concerns the platform glosses over with talk of guardrails.",
+  "hook": "A robot can now buy your Tesla and sell your bonds without asking. And you probably signed something agreeing to that.",
+  "stakes": "If AI agents handle most financial transactions within five years — as predicted — the question isn't whether this happens, but whether you're actually in control of what your agent does on your behalf, or whether you've quietly handed that power to a brokerage with a documented interest in maximizing your trading activity.",
+  "evidence_beats": [
+    0,
+    3,
+    8,
+    11,
+    12
+  ],
+  "counterpoint": "Robinhood points to guardrails like transaction limits and approval workflows, but these features don't resolve the fundamental consent question of whether users fully understand what they're delegating — or who benefits when agents trade more frequently.",
+  "implication": "For listeners who care about financial autonomy, the real action item isn't whether to use agentic trading, but understanding exactly what you're authorizing your agent to do before the terms of service bury it in fine print.",
+  "close": "The MCP open standard Robinhood is betting on could mean every major financial service connects to agents within years — but the question Señor Freedom listeners should be asking isn't 'can my AI agent do this?' — it's 'who wrote the instructions my AI agent is following?'",
+  "warnings": [
+    "thin evidence: only 13 claims available",
+    "medium confidence on guardrails details, regulatory timeline, and competitive landscape"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "thesis": "Robinhood's 'democratizing finance' rhetoric masks a land grab to become the dominant gatekeeper of AI agent-to-finance transactions, capturing the same extractive model it claims to disrupt.",
+  "hook": "Robinhood just announced they're opening their platform to AI agents. They call it democratizing finance. What they're actually building is the pipes — and whoever owns the pipes, owns everything that flows through them.",
+  "stakes": "If Robinhood's MCP server becomes the standard, they don't just profit from your trades — they profit from every AI agent that wants to touch the financial system. The question isn't whether AI will trade your money; it's who gets paid for being the middleman.",
+  "evidence_beats": [
+    0,
+    3,
+    4,
+    7,
+    8,
+    14,
+    15
+  ],
+  "counterpoint": "Robinhood claims guardrails exist — transaction limits, approval workflows, risk thresholds. And to be fair, they do have a regulatory obligation to prevent fraud and insolvency. The SEC is circling. Maybe this time they're actually being careful.",
+  "implication": "For listeners, the practical question is whether you're delegating financial decisions to an agent you control or to an infrastructure layer Robinhood controls. Those aren't the same thing, even if the marketing sounds identical.",
+  "close": "Watch where the money actually flows: not from your trades, but from every trade that flows through their pipes. Democratization has always been the excuse. Infrastructure is the prize.",
+  "warnings": []
+}
