@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Señor Freedom</title>
+    <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 22:10:10 +0000</lastBuildDate>
-    <itunes:author>Señor Freedom</itunes:author>
+    <lastBuildDate>Sun, 31 May 2026 22:11:48 +0000</lastBuildDate>
+    <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
-      <itunes:name>Señor Freedom</itunes:name>
+      <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
