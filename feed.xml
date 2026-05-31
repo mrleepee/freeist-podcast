@@ -4,22 +4,13 @@
     <title>Señor Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 20:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 22:08:02 +0000</lastBuildDate>
     <itunes:author>Señor Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señor Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <item>
-      <title>Robinhood Now Open Agents</title>
-      <description/>
-      <pubDate>Sun, 31 May 2026 16:27:56 +0000</pubDate>
-      <itunes:duration>03:44</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep109-robinhood-now-open-agents.podcast.mp3" length="1835780" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep109-robinhood-now-open-agents.podcast.mp3</guid>
-    </item>
     <item>
       <title>History Taxation From Ancient Tribute Modern Certainty</title>
       <description/>
