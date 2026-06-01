@@ -4,13 +4,32 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 22:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:23:02 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Build a System That Prompts Itself</title>
+      <description>An Anthropic engineer said the quiet part out loud: you are not supposed to prompt Claude, you are supposed to build a system that prompts itself. The quote went viral because it named something most people were already doing wrong. The shift is from manual prompting to CLAUDE.md configuration files to fully autonomous agent loops where the system reads your git history, loads your project context, and runs until the task is done without you typing a word. Anthropic calls this context engineering — the discipline of designing the entire information environment an agent operates in. The March 2026 source code leak revealed KAIROS, an unreleased always-on daemon mode referenced 150 times in the codebase. When autonomous agents start writing their own prompts, discarding context they deem unimportant, and making decisions while you sleep, the question is not whether this is powerful. The question is who audits the prompts.
+
+Links:
+https://x.com/eng_khairallah1/status/2061097347749441902
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://code.claude.com/docs/en/agent-sdk/agent-loop</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:20</itunes:duration>
+      <itunes:summary>An Anthropic engineer said the quiet part out loud: you are not supposed to prompt Claude, you are supposed to build a system that prompts itself. The quote went viral because it named something most people were already doing wrong. The shift is from manual prompting to CLAUDE.md configuration files to fully autonomous agent loops where the system reads your git history, loads your project context, and runs until the task is done without you typing a word. Anthropic calls this context engineering — the discipline of designing the entire information environment an agent operates in. The March 2026 source code leak revealed KAIROS, an unreleased always-on daemon mode referenced 150 times in the codebase. When autonomous agents start writing their own prompts, discarding context they deem unimportant, and making decisions while you sleep, the question is not whether this is powerful. The question is who audits the prompts.
+
+Links:
+https://x.com/eng_khairallah1/status/2061097347749441902
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://code.claude.com/docs/en/agent-sdk/agent-loop</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="3494252" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3</guid>
+    </item>
     <item>
       <title>History Taxation From Ancient Tribute Modern Certainty</title>
       <description/>

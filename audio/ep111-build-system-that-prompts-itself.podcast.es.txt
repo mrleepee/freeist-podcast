@@ -1,0 +1,38 @@
+EN: There's a quote that broke the internet last May. An engineer said, "You're not supposed to prompt Claude. You're supposed to build a system that prompts itself."
+ES: Hay una frase que rompió el internet en mayo pasado. Un ingeniero dijo, "No se supone que tú le hagas prompts a Claude. Se supone que construyas un sistema que se pregunte a sí mismo."
+EN: The post went viral in hours. Not because it was surprising, but because it named something everyone was doing wrong.
+ES: El post se volvió viral en horas. No porque fue sorprendente, sino porque nombró algo que todos hacían mal.
+EN: Here's what it actually means. When you open Claude Code, before you type anything, the system already has context.
+ES: Aquí está lo que realmente significa. Cuando abres Claude Code, antes de que escribas algo, el sistema ya tiene contexto.
+EN: It reads your CLAUDE.md file. It checks your git branch. It looks at your recent changes. That is the system prompting itself. You did not type any of that.
+ES: Lee tu archivo CLAUDE.md. Revisa tu rama de git. Mira tus cambios recientes. Eso es el sistema preguntándose a sí mismo. Tú no escribiste nada de eso.
+EN: The engineers call this "context engineering." It's not about writing instructions. It's about designing the environment the AI works in.
+ES: Los ingenieros llaman a esto "ingeniería de contexto." No se trata de escribir instrucciones. Se trata de diseñar el ambiente donde trabaja la IA.
+EN: Think of it in three layers. Layer one is manual prompting. You type a question, you get an answer. Most users still live here.
+ES: Piénsalo en tres capas. La capa uno es el prompt manual. Tú escribes una pregunta, recibes una respuesta. La mayoría de los usuarios todavía viven aquí.
+EN: Layer two is CLAUDE.md. You write your preferences once. The agent reads them every session. You stop repeating yourself.
+ES: La capa dos es CLAUDE.md. Tú escribes tus preferencias una vez. El agente las lee cada sesión. Dejas de repetirte.
+EN: Layer three is autonomous loops. The system runs itself for hours. It uses tools, reads files, writes notes, and compacts its own memory when the context fills up.
+ES: La capa tres son los bucles autónomos. El sistema corre solo por horas. Usa herramientas, lee archivos, escribe notas, y compacta su propia memoria cuando el contexto se llena.
+EN: One developer ran Claude Code for over nine hours straight. The system produced forty-five commits and wrote fourteen thousand lines of code without being told what to do next.
+ES: Un desarrollador corrió Claude Code por más de nueve horas seguidas. El sistema produjo cuarenta y cinco confirmaciones y escribió catorce mil líneas de código sin que le dijeran qué hacer después.
+EN: In March, someone found something buried in the Claude Code source code. A hidden system called KAIROS. It's a daemon mode that runs in the background all the time.
+ES: En marzo, alguien encontró algo escondido en el código fuente de Claude Code. Un sistema oculto llamado KAIROS. Es un modo daemon que corre en el fondo todo el tiempo.
+EN: When it ships, Claude Code will monitor your project and do tasks without you asking. It evaluates its own output. It decides what to remember and what to discard.
+ES: Cuando salga, Claude Code monitoreará tu proyecto y hará tareas sin que tú pidas. Evalúa su propia salida. Decide qué recordar y qué descartar.
+EN: Here's the problem nobody is solving. If the system prompts itself, who audits the prompts?
+ES: Aquí está el problema que nadie está resolviendo. Si el sistema se pregunta a sí mismo, ¿quién audita los prompts?
+EN: When you type a prompt, you know what you asked. When a CLAUDE.md file configures the agent, you wrote that file. But when an autonomous daemon starts generating its own prompts, you have lost visibility.
+ES: Cuando tú escribes un prompt, sabes qué preguntaste. Cuando un archivo CLAUDE.md configura el agente, tú escribiste ese archivo. Pero cuando un daemon autónomo empieza a generar sus propios prompts, pierdes visibilidad.
+EN: Compaction is the practice of summarizing a long conversation and restarting with a compressed version. The agent decides what is important enough to keep.
+ES: La compactación es la práctica de resumir una conversación larga y reiniciar con una versión comprimida. El agente decide qué es importante suficiente para guardar.
+EN: Anthropic's own blog warns about this. "Overly aggressive compaction can result in the loss of subtle but critical context." The agent is choosing what to forget.
+ES: El propio blog de Anthropic advierte sobre esto. "La compactación demasiado agresiva puede resultar en la pérdida de contexto sutil pero crítico." El agente está eligiendo qué olvidar.
+EN: There are AI agents that already execute financial trades autonomously. Add always-on operation, and you have a system that trades stocks while you sleep using prompts it wrote itself.
+ES: Ya hay agentes de IA que ejecutan operaciones financieras de forma autónoma. Agrega operación siempre activa, y tienes un sistema que comercia acciones mientras duermes usando prompts que él mismo escribió.
+EN: Who is liable when that goes wrong? Anthropic proposes "bounded trust." But self-prompting systems, by definition, operate beyond any single boundary.
+ES: ¿Quién es responsable cuando eso sale mal? Anthropic propone "confianza limitada." Pero los sistemas que se preguntan a sí mismos, por definición, operan más allá de cualquier límite único.
+EN: The viral quote names the destination. The question now is whether we build the audit infrastructure fast enough to keep up with the autonomy.
+ES: La frase viral nombra el destino. La pregunta ahora es si construimos la infraestructura de auditoría lo suficientemente rápido para alcanzar la autonomía.
+EN: Tools become assistants. Assistants become autonomous systems. At some point, you stop being the user and start being the supervisor. Ask yourself how ready you are for that shift.
+ES: Las herramientas se vuelven asistentes. Los asistentes se vuelven sistemas autónomos. En algún momento, dejas de ser el usuario y empiezas a ser el supervisor. Pregúntate qué tan listo estás para ese cambio.

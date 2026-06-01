@@ -1,0 +1,20 @@
+{
+  "thesis": "The viral claim that 'you're supposed to build a system that prompts itself' captures a real paradigm shift from prompt engineering to context engineering, and developers who understand this distinction will outpace those still doing manual prompting.",
+  "hook": "An engineer posted a quote on X in May 2026 that immediately went viral: 'You're not supposed to prompt Claude. You're supposed to build a system that prompts itself.' It sounded like hype. But the more you examine what Anthropic actually built into Claude Code, the more you realize it's not aspirational — it's a description of how the tool already works.",
+  "stakes": "If you're still treating every AI interaction as a fresh prompt, you're working harder than you need to. The tools are designed for developers who set up the environment once and let the agent operate autonomously — and that gap is costing you hours every week.",
+  "evidence_beats": [
+    1,
+    4,
+    5,
+    7,
+    8,
+    3,
+    2
+  ],
+  "counterpoint": "Context engineering requires more upfront setup and technical sophistication. Not every team has the expertise or time to architect proper CLAUDE.md files, git integrations, and bounded trust frameworks — making the promise of autonomous operation less accessible to smaller shops.",
+  "implication": "The practical takeaway: stop optimizing individual prompts and start designing your project's information environment. CLAUDE.md, git hooks, and context boundaries aren't nice-to-haves — they're the actual product you're building when you 'prompt' an agentic system.",
+  "close": "The quote wasn't a hot take. It was a heads-up. The developers who read the fine print — who understand they're not hiring a chatbot but architecting an information system — they're the ones who'll look back at 2026 and realize they caught the inflection point. Everyone else will just think they missed a meme.",
+  "warnings": [
+    "thin evidence: only 7 claims available for this angle"
+  ]
+}

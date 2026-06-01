@@ -1,0 +1,57 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "skipped: no audio file available",
+      "metrics": {}
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "3 uncovered: AL, CLAUDE, KAIROS",
+      "metrics": {
+        "risky_count": 4,
+        "covered_count": 1,
+        "uncovered_count": 3,
+        "uncovered_tokens": [
+          "AL",
+          "CLAUDE",
+          "KAIROS"
+        ]
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "filler phrases found: people say",
+      "metrics": {
+        "word_count": 749,
+        "filler_phrases": [
+          "people say"
+        ]
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Forty-five commits in under ten hours, and not a single one was typed by a human being. A Reddit use",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    },
+    "qa_exhausted": true
+  },
+  "blocking_failures": [
+    "pronunciation: 3 uncovered: AL, CLAUDE, KAIROS",
+    "substance: filler phrases found: people say"
+  ]
+}

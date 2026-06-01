@@ -1,0 +1,154 @@
+[
+  {
+    "claim": "A viral quote was posted by Khairallah AL-Awady in late May 2026: 'You're not supposed to prompt Claude. You're supposed to build a system that prompts itself.'",
+    "source_quote": "In late May 2026, a quote attributed to an Anthropic engineer started circulating across X and LinkedIn: \"You're not supposed to prompt Claude. You're supposed to build a system that prompts itself.\" Khairallah AL-Awady, an engineer with a large following on X, posted it alongside a breakdown of what he called \"one of the best workflows I've seen in a long time.\"",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "CLAUDE.md files contain coding standards, architecture decisions, preferred libraries, and user preferences",
+    "source_quote": "It reads your CLAUDE.md file — a project-level configuration that tells the agent your coding standards, your architecture decisions, your preferred libraries, what to avoid, and how you want things done.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code automatically loads git branch, last five commits, and working tree status into context",
+    "source_quote": "It pulls your current git branch, your last five commits, and your working tree status.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Anthropic's Applied AI team authored a blog post on context engineering including Prithvi Rajasekaran, Ethan Dixon, Carly Ryan, and Jeremy Hadfield",
+    "source_quote": "The post, authored by their Applied AI team including Prithvi Rajasekaran, Ethan Dixon, Carly Ryan, and Jeremy Hadfield, makes the distinction clear",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Prompt engineering is about writing instructions while context engineering is about designing the entire information environment",
+    "source_quote": "prompt engineering is about writing instructions. Context engineering is about designing the entire information environment the agent operates in.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Anthropic describes agent loops as 'LLMs autonomously using tools in a loop'",
+    "source_quote": "Anthropic's agent loop documentation describes this explicitly: \"LLMs autonomously using tools in a loop.\"",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A Reddit user ran Claude Code for 9 hours and 27 minutes straight",
+    "source_quote": "A Reddit user documented running Claude Code for 9 hours and 27 minutes straight, chaining four self-paced goal commands, producing 45 commits and 14,259 lines of code autonomously.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "During autonomous operation, 45 commits and 14,259 lines of code were produced",
+    "source_quote": "producing 45 commits and 14,259 lines of code autonomously.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Anthropic's 2026 Agentic Coding Trends Report identifies Trend 2 as 'Single agents evolve into coordinated teams'",
+    "source_quote": "Anthropic's 2026 Agentic Coding Trends Report identifies this as Trend 2: \"Single agents evolve into coordinated teams.\"",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Security researcher Chaofan Shou discovered a 59.8-megabyte source map file in March 2026",
+    "source_quote": "In March 2026, security researcher Chaofan Shou discovered a 59.8-megabyte source map file accidentally bundled inside the `@anthropic-ai/claude-code` npm package.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The leak exposed 512,000 lines of Claude Code's source code",
+    "source_quote": "It exposed 512,000 lines of Claude Code's source code.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "KAIROS was referenced over 150 times in the leaked codebase",
+    "source_quote": "Buried in that codebase, referenced over 150 times, was something called KAIROS — named after the Greek concept of \"the right moment.\"",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "KAIROS is named after the Greek concept of 'the right moment'",
+    "source_quote": "KAIROS — named after the Greek concept of \"the right moment.\"",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The Buddy system has 18 species and 5 rarity tiers",
+    "source_quote": "The leak also revealed a Buddy system — a Tamagotchi-style terminal pet with 18 species and 5 rarity tiers.",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Anthropic acknowledges that 'overly aggressive compaction can result in the loss of subtle but critical context'",
+    "source_quote": "Anthropic's own blog acknowledges the risk: \"overly aggressive compaction can result in the loss of subtle but critical context whose importance only becomes apparent later.\"",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Anthropic's Zero Trust for AI Agents ebook was published May 2026",
+    "source_quote": "Anthropic's own Zero Trust for AI Agents ebook, published May 2026, proposes a \"bounded trust\" framework for exactly this scenario.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Episode 99 covered the statelessness problem where AI agents die when terminal closes",
+    "source_quote": "In episode 99, we covered why your AI agent dies the second you close the terminal — the statelessness problem.",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Episode 100 covered Opus 4.8's dynamic workflows orchestrating up to 1,000 subagents",
+    "source_quote": "In episode 100, we covered Opus 4.8's dynamic workflows that orchestrate up to 1,000 subagents in a single run.",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Episode 108 covered Karpathy's LLM Wiki where AI compiles knowledge base autonomously",
+    "source_quote": "In episode 108, we covered Karpathy's LLM Wiki, where the AI compiles your knowledge base autonomously.",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  }
+]
