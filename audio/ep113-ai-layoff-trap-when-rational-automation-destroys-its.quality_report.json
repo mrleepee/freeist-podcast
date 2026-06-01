@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.4 TP=-1.0",
+      "metrics": {
+        "integrated_lufs": -16.4,
+        "true_peak_dbfs": -1.0
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 27.1 numbers/1k, 1.4 sources/1k",
+      "metrics": {
+        "word_count": 701,
+        "filler_phrases": [],
+        "numbers": 19,
+        "numbers_per_1k": 27.1,
+        "named_sources": 1,
+        "sources_per_1k": 1.4
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "In February 2026, a company called Block cut loose nearly half its workforce \u2014 roughly five thousand",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}

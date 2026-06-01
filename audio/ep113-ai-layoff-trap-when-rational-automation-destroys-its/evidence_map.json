@@ -1,0 +1,474 @@
+[
+  {
+    "claim": "Brett Hemenway Falk at the University of Pennsylvania and Gerry Tsoukalas at Boston University published a paper on arXiv called 'The AI Layoff Trap'",
+    "source_quote": "Brett Homenway Falk at the University of Pennsylvania and Gerry Tsoukalas at Boston University published a 53-page paper on arXiv in March 2026 called 'The AI Layoff Trap.'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper is 53 pages long",
+    "source_quote": "53-page paper on arXiv",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper was published in March 2026",
+    "source_quote": "published a 53-page paper on arXiv in March 2026",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper uses game-theoretic analysis",
+    "source_quote": "It is a game-theoretic proof that rational firms, competing against each other, will automate their workforce beyond what is collectively optimal.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The central concept is 'demand externality'",
+    "source_quote": "The paper's central insight is what the authors call a 'demand externality.'",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "When firms replace workers with AI, they capture full private benefit but bear only 1/N of the demand destruction cost",
+    "source_quote": "Under competitive pricing, if there are N firms in a sector, each firm bears only 1/N of the demand destruction its own layoffs cause.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Each firm's profit-maximizing automation rate exceeds what would be optimal under cooperation",
+    "source_quote": "Each firm's profit-maximizing automation rate is a strictly dominant strategy that exceeds what would be optimal if all firms cooperated.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The over-automation wedge is strictly increasing in N",
+    "source_quote": "The over-automation wedge, as the authors call it, equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N), divided by the integration friction parameter k. This wedge is strictly increasing in N.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A monopolist fully internalizes the externality",
+    "source_quote": "A monopolist fully internalizes the externality.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A market with ten competitors barely internalizes the externality",
+    "source_quote": "A market with ten competitors barely internalizes it at all.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "When integration costs vanish, the game becomes a pure Prisoner's Dilemma",
+    "source_quote": "When integration costs vanish — when every task is equally easy to automate — the game sharpens into a pure Prisoner's Dilemma.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Corollary 1 states that if firms exceed a critical threshold, full automation becomes strictly dominant",
+    "source_quote": "Corollary 1 in the paper states this with clinical precision: if the number of firms exceeds a critical threshold, full automation becomes strictly dominant for every firm.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "If cost saving is less than demand loss per task, cooperative optimum is zero automation",
+    "source_quote": "Yet if the cost saving is less than the demand loss per task, the cooperative optimum is zero automation.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Total deadweight loss equals N times L times (demand loss minus cost saving)",
+    "source_quote": "Total deadweight loss equals N times L times (the demand loss minus the cost saving).",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Communication cannot fix the automation problem",
+    "source_quote": "Communication cannot fix this. The paper explicitly proves that even if all firms acknowledge that collective restraint would raise profits, each firm's individually optimal action remains unchanged.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Block cut nearly half its 10,000-person workforce in February 2026",
+    "source_quote": "Block cut nearly half its 10,000-person workforce in February 2026, with CEO Jack Dorsey stating that AI had made many of those roles unnecessary",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Jack Dorsey stated AI made many Block roles unnecessary",
+    "source_quote": "with CEO Jack Dorsey stating that AI had made many of those roles unnecessary",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Jack Dorsey predicted majority of companies would reach same conclusion within a year",
+    "source_quote": "that within a year, the majority of companies would reach the same conclusion.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Over 100,000 tech workers were laid off in 2025",
+    "source_quote": "Over 100,000 tech workers were laid off in 2025, with AI cited as a primary driver in more than half the cases.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "AI was cited as primary driver in more than half of 2025 tech layoffs",
+    "source_quote": "AI cited as a primary driver in more than half the cases.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Salesforce replaced 4,000 customer-support agents with agentic AI",
+    "source_quote": "Salesforce replaced 4,000 customer-support agents with agentic AI.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cognition's Devin enables one senior engineer to do the work of a five-person team",
+    "source_quote": "Cognition's Devin, deployed at Goldman Sachs and Infosys, enables one senior engineer to do the work of a five-person team.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Devin is deployed at Goldman Sachs and Infosys",
+    "source_quote": "Cognition's Devin, deployed at Goldman Sachs and Infosys",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Roughly 80 percent of US workers hold jobs with tasks susceptible to LLM automation",
+    "source_quote": "Roughly 80 percent of US workers hold jobs with tasks susceptible to automation by large language models, according to Eloundou et al. 2024.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The 80% automation susceptibility statistic is from Eloundou et al. 2024",
+    "source_quote": "according to Eloundou et al. 2024.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Illustrative parameters: AI cost at 30 percent of wages",
+    "source_quote": "AI cost at 30 percent of wages, workers spending 50 percent of income in the sector, 30 percent income replacement, and many competitors — firms automate at twice the cooperatively efficient rate.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Illustrative parameters: workers spending 50 percent of income in the sector",
+    "source_quote": "workers spending 50 percent of income in the sector",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Illustrative parameters: 30 percent income replacement",
+    "source_quote": "30 percent income replacement",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Under illustrative parameters, firms automate at twice the cooperatively efficient rate",
+    "source_quote": "firms automate at twice the cooperatively efficient rate.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Upskilling and retraining narrow but cannot eliminate the wedge",
+    "source_quote": "Upskilling and retraining narrow the wedge by raising the income-replacement rate eta, but cannot eliminate it unless displaced workers are reabsorbed at higher wages than they lost — a condition with zero empirical precedent in displacement episodes.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "There is zero empirical precedent for displaced workers being reabsorbed at higher wages",
+    "source_quote": "a condition with zero empirical precedent in displacement episodes.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "UBI does not change a firm's incentive to automate",
+    "source_quote": "Universal basic income raises the profit floor and cushions living standards but does not change a single firm's incentive to automate.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "UBI is irrelevant to strategic calculation in game-theoretic terms",
+    "source_quote": "UBI changes payoff levels, not payoff differences. In game-theoretic terms, it is irrelevant to the strategic calculation.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Capital income taxes are a non-starter for fixing automation externality",
+    "source_quote": "Capital income taxes are a non-starter.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A proportional tax on profits cancels from the first-order condition and leaves equilibrium automation unchanged",
+    "source_quote": "A proportional tax on profits scales the entire profit function by (1 minus t), which cancels from the first-order condition. The equilibrium automation rate is unchanged.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "UBI and capital taxes fail for the same structural reason: they operate on profit levels not per-task margins",
+    "source_quote": "This is structurally identical to UBI's failure: both operate on profit levels rather than on the per-task margin where the externality lives.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Worker equity participation reduces but cannot close the wedge",
+    "source_quote": "Worker equity participation, through ESOPs or co-determination mandates, reduces the wedge but cannot close it.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Full profit-sharing leaves a positive wedge whenever workers spend less than 100 percent of shared profits in the sector",
+    "source_quote": "The paper proves that even full profit-sharing leaves a positive wedge whenever workers spend less than 100 percent of shared profits in the sector.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Voluntary profit-sharing will not arise because each firm's cost of sharing exceeds its 1/N share of the demand benefit",
+    "source_quote": "And voluntary profit-sharing will not arise: each firm's cost of sharing exceeds its 1/N share of the demand benefit, so sharing zero is a dominant strategy.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Coasian bargaining fails for four reasons",
+    "source_quote": "Coasian bargaining — the idea that firms could negotiate among themselves — fails for four reasons.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Automation is a dominant strategy, so no voluntary agreement is self-enforcing",
+    "source_quote": "Automation is a dominant strategy, so no voluntary agreement is self-enforcing.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The externality is multilateral and diffuse",
+    "source_quote": "The externality is multilateral and diffuse.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The automation rate is not contractible between firms",
+    "source_quote": "The automation rate is not contractible between firms.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Decisions involve large sunk costs that are substantially irreversible",
+    "source_quote": "And the decisions involve large sunk costs that are substantially irreversible.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Private bargaining breaks down in large-numbers settings (Coase's own acknowledgment)",
+    "source_quote": "As Coase himself acknowledged, private bargaining breaks down in large-numbers settings.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Only a Pigouvian automation tax can fully correct the distortion",
+    "source_quote": "Only a Pigouvian automation tax — a per-task charge set equal to the uninternalized demand loss — can fully correct the distortion.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Optimal Pigouvian tax rate equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N)",
+    "source_quote": "The optimal rate equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N).",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "For large N, the optimal tax approximates lambda times (1 minus eta) times w",
+    "source_quote": "For large N, this approximates lambda times (1 minus eta) times w.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Pigouvian tax revenue can fund retraining that raises the income-replacement rate eta",
+    "source_quote": "The revenue can fund retraining that raises the income-replacement rate eta, shrinking the externality over time and making the tax potentially self-limiting.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The welfare loss is quadratic in the wedge, so even imprecise tax yields first-order gain",
+    "source_quote": "The paper notes that because the welfare loss is quadratic in the wedge, even an imprecisely targeted tax yields a first-order gain.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Proposition 6 identifies a Red Queen effect where better AI amplifies over-automation",
+    "source_quote": "Proposition 6 in the paper contains what the authors call a Red Queen effect. When AI is not just cheaper than human workers but also more productive — producing more output per task — each firm perceives a market-share gain from automating beyond rivals.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "At symmetric equilibrium, market-share gains from better AI cancel across firms, leaving only additional distortion",
+    "source_quote": "At the symmetric equilibrium, these gains cancel across firms, leaving only the additional distortion.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Better AI raises the equilibrium automation rate but leaves the cooperative optimum unchanged",
+    "source_quote": "The cooperative optimum is unchanged, but the equilibrium automation rate rises.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Endogenous wages raise the threshold at which the externality activates but don't close the wedge once active",
+    "source_quote": "As firms automate, displaced workers increase labor supply, pushing wages down. Lower wages narrow the cost saving from automation and discourage further displacement. But the paper proves this raises the threshold at which the externality activates without closing the wedge once it does.",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The strongest self-correcting scenario (wages falling to near AI cost) is a Pyrrhic victory",
+    "source_quote": "The strongest self-correcting scenario — wages falling to near the AI cost — is a Pyrrhic victory: workers who keep their jobs earn little more than the machines that would replace them.",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The result is a deadweight loss that harms both workers and firm owners",
+    "source_quote": "The result is a deadweight loss that harms both workers and firm owners. Nobody wins. And nobody can stop.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "More competition means more over-automation, not less",
+    "source_quote": "More competition means more over-automation, not less.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Nash equilibrium gives every firm lower profit than mutual restraint would have",
+    "source_quote": "The Nash equilibrium gives every firm lower profit than mutual restraint would have.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The externality is a structural feature of competitive markets deploying a cost-saving technology, not a coordination failure",
+    "source_quote": "The externality is not a coordination failure that conversation can resolve. It is a structural feature of competitive markets deploying a cost-saving technology.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

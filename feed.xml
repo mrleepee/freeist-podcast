@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 12:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 16:12:44 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -48,6 +48,27 @@ https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
 https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="2332916" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The AI Layoff Trap: When Rational Automation Destroys Its Own Market</title>
+      <description>Two economists from Wharton and Boston University published a 53-page game-theoretic proof that competitive firms will automate their workforce beyond what is collectively optimal, creating a deadweight loss that harms both workers and firm owners. Brett Hemenway Falk and Gerry Tsoukalas show that when a firm replaces workers with AI, it pockets the cost saving but only bears a fraction of the demand destruction — the rest lands on competitors. The resulting Prisoner's Dilemma means no firm can afford to hold back even though all firms end up worse off. Block cut nearly half its 10,000-person workforce. Salesforce replaced 4,000 agents with AI. Over 100,000 tech workers were laid off in 2025 with AI as a primary driver. The paper evaluates six policy instruments — upskilling, UBI, capital taxes, worker equity, Coasian bargaining, and a Pigouvian automation tax — and finds only the last one fully corrects the distortion. A follow-up paper on SSRN proposes a mesh economy counter-thesis but the original authors already anticipated the gap: every historical displacement episode has left workers with persistent earnings losses. The consent problem is structural: workers did not consent to being laid off, and the market does not self-correct because no individual actor has the incentive to stop.
+
+Links:
+https://arxiv.org/abs/2603.20617
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576198
+https://tomwatsonofficial.substack.com/p/the-ai-layoff-trap-and-the-markets
+https://medium.com/@adnanmasood/the-competitive-trap-in-ai-workforce-reduction-prisoners-dilemma-of-the-machine-age-67998fa7aba2</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:summary>Two economists from Wharton and Boston University published a 53-page game-theoretic proof that competitive firms will automate their workforce beyond what is collectively optimal, creating a deadweight loss that harms both workers and firm owners. Brett Hemenway Falk and Gerry Tsoukalas show that when a firm replaces workers with AI, it pockets the cost saving but only bears a fraction of the demand destruction — the rest lands on competitors. The resulting Prisoner's Dilemma means no firm can afford to hold back even though all firms end up worse off. Block cut nearly half its 10,000-person workforce. Salesforce replaced 4,000 agents with AI. Over 100,000 tech workers were laid off in 2025 with AI as a primary driver. The paper evaluates six policy instruments — upskilling, UBI, capital taxes, worker equity, Coasian bargaining, and a Pigouvian automation tax — and finds only the last one fully corrects the distortion. A follow-up paper on SSRN proposes a mesh economy counter-thesis but the original authors already anticipated the gap: every historical displacement episode has left workers with persistent earnings losses. The consent problem is structural: workers did not consent to being laid off, and the market does not self-correct because no individual actor has the incentive to stop.
+
+Links:
+https://arxiv.org/abs/2603.20617
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576198
+https://tomwatsonofficial.substack.com/p/the-ai-layoff-trap-and-the-markets
+https://medium.com/@adnanmasood/the-competitive-trap-in-ai-workforce-reduction-prisoners-dilemma-of-the-machine-age-67998fa7aba2</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="3524228" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3</guid>
     </item>
     <item>
       <title>History Taxation From Ancient Tribute Modern Certainty</title>
