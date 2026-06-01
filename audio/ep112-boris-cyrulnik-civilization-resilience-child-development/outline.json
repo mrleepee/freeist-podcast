@@ -1,0 +1,24 @@
+{
+  "thesis": "Modern civilization's parenting innovations—from institutional childcare to ubiquitous screens—are creating neurological deficits in children, particularly boys, by starving them of the verbal interaction their developing brains require",
+  "hook": "An estimated 200,000 children in orphanages, otherwise 'brilliant,' developed measurable cerebral atrophy—not from lack of food or medicine, but from lack of someone simply talking to them",
+  "stakes": "If screen time quadruples depression risk and language deprivation atrophies the brain's impulse-control centers, then the way modern parents are raising children may be creating a generation neurologically unprepared for their own lives",
+  "evidence_beats": [
+    5,
+    8,
+    9,
+    10,
+    12,
+    16,
+    19,
+    15,
+    17
+  ],
+  "counterpoint": "These studies show correlation more than causation, and children in France's creches and Finland's unstructured schools still produce functional, often high-achieving adults",
+  "implication": "Parents cannot outsource conversation—the prefrontal-amygdala pathway that regulates every impulse from aggression to anxiety depends on being talked to in the first 1,000 days",
+  "close": "The irony: we've created the most information-rich environment in human history while starving children of the one input their brains most desperately need: a voice that talks to them",
+  "warnings": [
+    "thin evidence: only 20 claims available",
+    "multiple sources cite secondary sources with medium confidence",
+    "statistical claims lack specific study citations"
+  ]
+}

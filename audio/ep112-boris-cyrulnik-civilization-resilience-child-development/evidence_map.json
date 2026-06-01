@@ -1,0 +1,186 @@
+[
+  {
+    "claim": "Boris Cyrulnik is a French neuropsychiatrist who coined the term 'resilience'",
+    "source_quote": "Boris Cyrulnik, French neuropsychiatrist who coined the term 'resilience'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Culture encompasses stable institutions including laws, architecture, schools, and marriage",
+    "source_quote": "Culture encompasses stable institutions -- laws, architecture, schools, marriage",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Civilization is the realm of conventions and language including rituals, presentations, and speech patterns",
+    "source_quote": "Civilization is the realm of conventions and language -- rituals, presentations, speech patterns",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Civilizations evolve constantly under ecological, social, and verbal pressure",
+    "source_quote": "Civilizations evolve constantly under ecological, social, and verbal pressure, much like language itself",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Montaigne encountered indigenous peoples and each side found the other 'barbaric'",
+    "source_quote": "He cites Montaigne's account of encountering indigenous peoples, where each side found the other 'barbaric' -- everyone had their own civilization with different rituals",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The first 1,000 days of a child's life (from conception to the appearance of speech) fundamentally structure temperament",
+    "source_quote": "the first 1,000 days of a child's life -- from conception to the appearance of speech -- fundamentally structure temperament",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Affective and sensory deprivation in infants causes serious cerebral dysfunction",
+    "source_quote": "Modern neuroimaging reveals that affective and sensory deprivation in infants, especially boys, causes serious cerebral dysfunction",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "When babies are not spoken to, there is atrophy of the prefrontal lobes",
+    "source_quote": "When babies are not spoken to, there is atrophy of the prefrontal lobes, which normally regulate the amygdala (the brain's impulse center)",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The prefrontal lobes normally regulate the amygdala",
+    "source_quote": "prefrontal lobes, which normally regulate the amygdala (the brain's impulse center)",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Boys who lack verbal interaction cannot regulate their impulses (aggressive, sexual, or otherwise)",
+    "source_quote": "This means boys who lack verbal interaction cannot regulate their impulses -- whether aggressive, sexual, or otherwise",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Girls typically develop language skills earlier than boys and learn more easily to master impulses",
+    "source_quote": "Girls, who typically develop language skills earlier, learn more easily to master these impulses",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "200,000 children in orphanages were deprived of early interaction, resulting in measurable cerebral atrophy",
+    "source_quote": "Cyrulnik cites the tragic example of 200,000 children in orphanages who were deprived of early interaction, resulting in measurable cerebral atrophy despite being otherwise 'brilliant'",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "In France, babies are placed in creches very early with professional caregivers",
+    "source_quote": "In France, babies are placed in creches very early with professional caregivers",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "In Russia, mothers must care for their own babies",
+    "source_quote": "In Russia, mothers must care for their own babies",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Modern children experience four or five different couples and doctors in their lifetime",
+    "source_quote": "Modern children now experience multiple family structures -- four or five different couples and doctors in their lifetime -- leading to repeated ruptures and instability",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "statistic"
+  },
+  {
+    "claim": "Over 3-4 hours of daily screen time multiplies depression risk by 4",
+    "source_quote": "Screens: Over 3-4 hours daily multiplies depression risk by 4",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "C-sections scheduled for convenience deny babies beneficial vaginal microbiome exposure",
+    "source_quote": "C-sections: A medical miracle that when scheduled for convenience denies babies beneficial vaginal microbiome exposure",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Women's education paradoxically leads to family dissolution",
+    "source_quote": "Women's education: A triumph of liberation that paradoxically leads to family dissolution, as women no longer need to stay in marriages for survival",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Every civilizational advance carries secondary effects",
+    "source_quote": "Every civilizational advance carries secondary effects",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Finland has no grading until age 11",
+    "source_quote": "citing Finland's approach of no grading until age 11",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Children develop in leaps, not linearly",
+    "source_quote": "Recognize that children develop in leaps, not linearly",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "What makes good school results is the pleasure of playing and learning",
+    "source_quote": "What makes good school results is the pleasure of playing and learning",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Art develops empathy by helping us discover the world of the other",
+    "source_quote": "The antidote, he argues, is art -- theater, literature, film -- which develops empathy by helping us discover the world of the other",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 12:28:56 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -29,6 +29,25 @@ https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agent
 https://code.claude.com/docs/en/agent-sdk/agent-loop</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="3494252" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Boris Cyrulnik on Civilization, Resilience, and Child Development</title>
+      <description>Boris Cyrulnik, the French neuropsychiatrist who coined the term resilience, delivers a sweeping analysis of modern civilization and its unintended consequences. He draws a key distinction between culture (stable institutions like law, architecture, and marriage) and civilization (the shifting conventions of language, rituals, and social norms). The first 1,000 days of a child's life fundamentally structure temperament — modern neuroimaging shows that sensory and verbal deprivation in infants causes measurable prefrontal lobe atrophy, particularly in boys, crippling their ability to regulate impulses. Every civilizational advance carries secondary effects: screens multiply depression risk fourfold, scheduled C-sections deny babies beneficial microbiome exposure, and women's liberation paradoxically dissolves the family structures that once provided stability. Cyrulnik warns of an empathy crisis driven by personal-development culture's egocentrism and proposes art, literature, and Finnish-style education reform as antidotes. A profound meditation on what we gain and what we lose with every step forward.
+
+Links:
+https://www.lemonde.fr/en/opinion/article/2022/05/23/we-must-protect-the-first-1-000-days-of-a-child-s-life-and-develop-perinatal-care_5984413_23.html
+https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
+https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>03:09</itunes:duration>
+      <itunes:summary>Boris Cyrulnik, the French neuropsychiatrist who coined the term resilience, delivers a sweeping analysis of modern civilization and its unintended consequences. He draws a key distinction between culture (stable institutions like law, architecture, and marriage) and civilization (the shifting conventions of language, rituals, and social norms). The first 1,000 days of a child's life fundamentally structure temperament — modern neuroimaging shows that sensory and verbal deprivation in infants causes measurable prefrontal lobe atrophy, particularly in boys, crippling their ability to regulate impulses. Every civilizational advance carries secondary effects: screens multiply depression risk fourfold, scheduled C-sections deny babies beneficial microbiome exposure, and women's liberation paradoxically dissolves the family structures that once provided stability. Cyrulnik warns of an empathy crisis driven by personal-development culture's egocentrism and proposes art, literature, and Finnish-style education reform as antidotes. A profound meditation on what we gain and what we lose with every step forward.
+
+Links:
+https://www.lemonde.fr/en/opinion/article/2022/05/23/we-must-protect-the-first-1-000-days-of-a-child-s-life-and-develop-perinatal-care_5984413_23.html
+https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
+https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="2332916" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3</guid>
     </item>
     <item>
       <title>History Taxation From Ancient Tribute Modern Certainty</title>
