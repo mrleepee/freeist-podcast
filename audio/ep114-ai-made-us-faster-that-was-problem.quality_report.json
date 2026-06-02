@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.1 TP=-1.2",
+      "metrics": {
+        "integrated_lufs": -16.1,
+        "true_peak_dbfs": -1.2
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 8.7 numbers/1k, 1.5 sources/1k",
+      "metrics": {
+        "word_count": 686,
+        "filler_phrases": [],
+        "numbers": 6,
+        "numbers_per_1k": 8.7,
+        "named_sources": 1,
+        "sources_per_1k": 1.5
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "A Microsoft engineer once shipped six months of work in a single week using artificial intelligence.",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}

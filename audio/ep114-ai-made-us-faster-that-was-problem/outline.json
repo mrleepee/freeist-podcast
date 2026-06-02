@@ -1,0 +1,23 @@
+{
+  "thesis": "AI dramatically accelerates code production but shifts the bottleneck from creation to maintenance—a cost that doesn't scale down the way the productivity gains do.",
+  "hook": "A Microsoft engineer produced six months of code in one week using AI—and called it a problem. Not because the work was wrong, but because the maintenance burden that came with it was never accounted for.",
+  "stakes": "If you're shipping software or managing engineers, the speed gains from AI might be loading hidden costs onto your codebase that you'll pay for long after the sprint ends. Understanding where the real expense lands matters for every technical decision you make.",
+  "evidence_beats": [
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    17,
+    18,
+    19
+  ],
+  "counterpoint": "The discomfort Fowler describes may be transitional—experienced engineers adapting to new tooling often resist before they optimize. The productivity gains are real; the question is whether the maintenance gap closes as AI tools mature and practices improve.",
+  "implication": "The teams that win won't be the ones writing code fastest—they'll be the ones who build with agent-readiness in mind from the start: clean structure, good tests, clear docs, consistent patterns. Speed means nothing if your codebase becomes unmaintainable.",
+  "close": "Next time someone brags about how much code AI shipped this quarter, ask them what the test coverage looks like and who'll be debugging it at 2am next year. That's where the real cost lives.",
+  "warnings": [
+    "thin evidence: only 20 claims available",
+    "all evidence drawn from single secondary source article"
+  ]
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "claim": "David Fowler is a distinguished engineer at Microsoft",
+    "source_quote": "David Fowler is a distinguished engineer at Microsoft.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "He leads the .NET Aspire team",
+    "source_quote": "he leads the .NET Aspire team — an open-source platform for orchestrating your application stack from code.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": ".NET Aspire is an open-source platform for orchestrating application stacks from code",
+    "source_quote": "an open-source platform for orchestrating your application stack from code",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Fowler published a LinkedIn article titled 'AI Made Us Faster. That Was the Problem'",
+    "source_quote": "He just published a LinkedIn article with a title that sounds like a joke but isn't: 'AI Made Us Faster. That Was the Problem.'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Six months of code was produced in one week",
+    "source_quote": "six months of code in one week",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Fowler describes the TypeScript support work on Aspire as 'a massive architectural change'",
+    "source_quote": "Fowler describes the TypeScript support work on Aspire as 'a massive architectural change.'",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The result of AI-assisted work felt like six months of code produced in about a week",
+    "source_quote": "The result: what felt like six months of code produced in about a week.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The problem is 'an overconfidence problem' with AI",
+    "source_quote": "an overconfidence problem",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The cost of production has gone down, but the cost of maintenance has not gone down in the same way",
+    "source_quote": "the cost of production has gone down, but the cost of maintenance has not gone down in the same way",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "AI makes it easier to create code, tests, documentation, and surface area but does not automatically make those things coherent, durable, or worth owning",
+    "source_quote": "AI makes it easier to create code, tests, documentation, and surface area. It does not automatically make those things coherent, durable, or worth owning.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The bottleneck moves with AI but does not disappear",
+    "source_quote": "The bottleneck moves. It does not disappear.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "For experienced engineers, adopting AI agents can feel like putting training wheels back on",
+    "source_quote": "for experienced engineers, adopting AI agents can feel like putting training wheels back on",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Fowler writes that adapting to AI can feel slower, frustrating, and uncomfortably like regression",
+    "source_quote": "That can feel slower, frustrating, and uncomfortably like regression.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The discomfort is described as part of the transition",
+    "source_quote": "But that discomfort is part of the transition.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "opinion"
+  },
+  {
+    "claim": "Fowler states strong engineers are being asked to temporarily change how they work to eventually operate with different leverage",
+    "source_quote": "We are asking strong engineers to temporarily change how they work so they can eventually operate with a different kind of leverage.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Fowler explicitly states good leaders should meet people where they are and help them move forward",
+    "source_quote": "Good leaders meet people where they are and help them move forward.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agent-readiness is introduced as a measure of codebase health",
+    "source_quote": "Fowler introduces a concept worth stealing: agent-readiness as a measure of codebase health.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agents work best when the repository has clear structure, repeatable commands, good tests, useful docs, and consistent patterns",
+    "source_quote": "Agents work best when the repository has clear structure, repeatable commands, good tests, useful docs, and consistent patterns.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A messy codebase was already expensive for humans and with agents, that mess scales faster",
+    "source_quote": "A messy codebase was already expensive for humans. With agents, that mess scales faster.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Aspire team needs fast CI, comprehensive tests, and harnesses that let an agent verify its own work",
+    "source_quote": "fast CI, comprehensive tests, harnesses that let an agent verify its own work",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agents need AGENTS.md files, skills, and agentic workflows for repeated jobs",
+    "source_quote": "They need AGENTS.md files, skills, and agentic workflows for repeated jobs like code review, PR testing, and docs checks.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "An agent can produce confident output that convinces you it worked when it did not if it cannot run the right command and see whether it actually worked",
+    "source_quote": "If the agent cannot run the right command and see whether it actually worked, it can still produce confident output that convinces you it worked when it did not.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The episode referenced coverage of the AI Layoff Trap in episode 113",
+    "source_quote": "In episode 113, we covered the AI Layoff Trap",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Episode 111 covered the shift from manual prompting to context engineering",
+    "source_quote": "In episode 111, we covered the shift from manual prompting to systems that prompt themselves — context engineering as the new discipline.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Aspire team's PR #892 came from a GitHub Agentic Workflow",
+    "source_quote": "The Aspire team's PR #892 came from a GitHub Agentic Workflow that opened a docs PR covering command arguments, validation, and visibility.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Episode 108 covered Karpathy's LLM Wiki concept",
+    "source_quote": "And in episode 108, we covered Karpathy's LLM Wiki — the idea that your knowledge base should compile itself, with AI as the compiler.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agent-readiness requires clear structure, repeatable commands, and enough context for agents to make reasonable decisions",
+    "source_quote": "Fowler's observation that agent-readiness requires clear structure, repeatable commands, and enough context for agents to make reasonable decisions is the same architecture Karpathy was describing.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The codebase is described as the prompt",
+    "source_quote": "The codebase is the prompt.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "If the codebase is messy, the agent's output is messy",
+    "source_quote": "If the codebase is messy, the agent's output is messy.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Without major breakthroughs in memory, continuity, and long-term context, human operators still hold most of the information required to do complex work well",
+    "source_quote": "Without major breakthroughs in memory, continuity, and long-term context, human operators still hold most of the information required to do complex work well.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agents can move fast, generate options, write code, update docs, and explore large codebases but lack accumulated product context, customer history, architectural intent, team tradeoffs, and the memory of why things are the way they are",
+    "source_quote": "Agents can move fast, generate options, write code, update docs, and explore large codebases. But they lack accumulated product context, customer history, architectural intent, team tradeoffs, and the memory of why things are the way they are.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The work shifts toward setting direction, providing context, reviewing tradeoffs, identifying risk, and deciding when generated output is good enough to ship",
+    "source_quote": "The work shifts toward setting direction, providing context, reviewing tradeoffs, identifying risk, and deciding when generated output is good enough to ship.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "AI accelerates the work. Engineers still own the result",
+    "source_quote": "AI accelerates the work. Engineers still own the result.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The team's scorecard model tracks product experiences and how they feel rather than individual bugs",
+    "source_quote": "His team switched to a scenario-focused scorecard model — tracking product experiences and how they feel rather than individual bugs.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

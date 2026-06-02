@@ -1,0 +1,120 @@
+EN: Here is a story about getting everything you wanted and realizing it was a problem.
+ES: Aquí hay una historia sobre obtener todo lo que querías y darte cuenta de que era un problema.
+EN: David Fowler builds software at Microsoft on the .NET Aspire team.
+ES: David Fowler construye software en Microsoft en el equipo .NET Aspire.
+EN: He published an article with a title that sounds like a joke but is not.
+ES: Publicó un artículo con un título que suena a chiste pero no lo es.
+EN: The title is "AI Made Us Faster. That Was the Problem."
+ES: El título es "La IA Nos Hizo Más Rápidos. Ese Fue el Problema."
+EN: This is not a consultant who never shipped code.
+ES: Esto no es un consultor que nunca publicó código.
+EN: This is a builder describing what happened when his team went AI-first on a real product.
+ES: Este es un constructor describiendo lo que pasó cuando su equipo puso la IA primero en un producto real.
+EN: The headline number: six months of code in one week.
+ES: El número principal: seis meses de código en una semana.
+EN: Fowler calls it a blessing and a curse.
+ES: Fowler lo llama una bendición y una maldición.
+EN: The blessing is obvious. More code, faster.
+ES: La bendición es obvia. Más código, más rápido.
+EN: The curse is what nobody talks about.
+ES: La maldición es lo que nadie habla.
+EN: When AI generates code faster than your team can review it, you have a new problem.
+ES: Cuando la IA genera código más rápido de lo que tu equipo puede revisarlo, tienes un problema nuevo.
+EN: Fowler names it directly: an overconfidence problem.
+ES: Fowler lo nombra directamente: un problema de exceso de confianza.
+EN: You have more code than you can understand, absorb, or maintain.
+ES: Tienes más código del que puedes entender, absorber o mantener.
+EN: Production costs went down. Maintenance costs did not.
+ES: Los costos de producción bajaron. Los costos de mantenimiento no bajaron.
+EN: AI makes it easier to create code. It does not make it easier to own code.
+ES: La IA hace más fácil crear código. No hace más fácil ser dueño del código.
+EN: The bottleneck moves. It does not disappear.
+ES: El cuello de botella se mueve. No desaparece.
+EN: This is the lesson every infrastructure engineer learns eventually.
+ES: Esta es la lección que todo ingeniero de infraestructura aprende eventualmente.
+EN: Writing code is never the biggest cost. Owning code is.
+ES: Escribir código nunca es el costo más grande. Ser dueño del código sí lo es.
+EN: AI accelerated the cheap part and left the expensive part unchanged.
+ES: La IA aceleró la parte barata y dejó la parte cara sin cambios.
+EN: Here is something AI boosters do not like to admit.
+ES: Aquí hay algo que a los promotores de la IA no les gusta admitir.
+EN: For experienced engineers, using AI agents can feel like regression.
+ES: Para los ingenieros con experiencia, usar agentes de IA puede sentirse como retroceso.
+EN: They already know how to build software.
+ES: Ya saben cómo construir software.
+EN: They already have workflows that work.
+ES: Ya tienen flujos de trabajo que funcionan.
+EN: Now they must learn to decompose tasks differently and review unfamiliar generated code.
+ES: Ahora deben aprender a dividir tareas de forma diferente y revisar código generado que no conocen.
+EN: Fowler writes: that can feel slower, frustrating, and uncomfortably like regression.
+ES: Fowler escribe: eso puede sentirse más lento, frustrante e incómodamente como retroceso.
+EN: He says the discomfort is part of the transition.
+ES: Él dice que la incomodidad es parte de la transición.
+EN: Good leaders meet people where they are and help them move forward.
+ES: Los buenos líderes encuentran a las personas donde están y las ayudan a avanzar.
+EN: Here is a useful idea from Fowler: agent-readiness.
+ES: Aquí hay una idea útil de Fowler: la preparación para agentes.
+EN: It means your codebase is ready for AI to work on it.
+ES: Significa que tu base de código está lista para que la IA trabaje en ella.
+EN: AI works best when code has clear structure, good tests, and useful docs.
+ES: La IA funciona mejor cuando el código tiene estructura clara, buenas pruebas y documentación útil.
+EN: A messy codebase was always expensive for humans.
+ES: Una base de código desordenada siempre fue cara para los humanos.
+EN: With AI, that mess scales faster.
+ES: Con la IA, ese desorden crece más rápido.
+EN: Fowler's team invests in what he calls boring fundamentals.
+ES: El equipo de Fowler invierte en lo que él llama fundamentos aburridos.
+EN: Fast tests, clear commands, good documentation.
+ES: Pruebas rápidas, comandos claros, buena documentación.
+EN: They create files that explain how to work with their code.
+ES: Crean archivos que explican cómo trabajar con su código.
+EN: Here is the warning: if an AI cannot run the right test and see the result, it produces confident output that looks right but is wrong.
+ES: Aquí está la advertencia: si una IA no puede ejecutar la prueba correcta y ver el resultado, produce salida segura que parece correcta pero no lo es.
+EN: This connects to a pattern we have seen before.
+ES: Esto se conecta a un patrón que hemos visto antes.
+EN: Competitive firms automate more than is good for everyone.
+ES: Las empresas competitivas automatizan más de lo que es bueno para todos.
+EN: Each firm sees only its own costs, not the damage to the whole market.
+ES: Cada empresa ve solo sus propios costos, no el daño a todo el mercado.
+EN: Fowler sees the same problem at the team level.
+ES: Fowler ve el mismo problema a nivel de equipo.
+EN: When everything feels doable, the hard question changes.
+ES: Cuando todo se siente posible, la pregunta difícil cambia.
+EN: It is no longer how do we build enough.
+ES: Ya no es cómo construimos suficiente.
+EN: It is what do we choose to build.
+ES: Es qué elegimos construir.
+EN: Fowler's team switched to tracking the experience of using the product, not individual bugs.
+ES: El equipo de Fowler cambió a seguir la experiencia de usar el producto, no errores individuales.
+EN: When AI can fix bugs in bulk, tracking each one is outdated thinking.
+ES: Cuando la IA puede arreglar errores en masa, seguir cada uno es pensamiento antiguo.
+EN: The bottleneck moved from production capacity to judgment capacity.
+ES: El cuello de botella se movió de capacidad de producción a capacidad de criterio.
+EN: Fowler has a final point that cuts through the hype.
+ES: Fowler tiene un punto final que corta a través del bombo.
+EN: Without breakthroughs in memory and continuity, humans still hold the context.
+ES: Sin avances en memoria y continuidad, los humanos todavía tienen el contexto.
+EN: AI can write code, update docs, and explore large codebases.
+ES: La IA puede escribir código, actualizar documentos y explorar bases de código grandes.
+EN: It does not have the history of why decisions were made.
+ES: No tiene el historial de por qué se tomaron las decisiones.
+EN: It does not have the product memory or the team tradeoffs.
+ES: No tiene la memoria del producto ni los compromisos del equipo.
+EN: The work shifts to setting direction and judging output.
+ES: El trabajo cambia a dar dirección y juzgar el resultado.
+EN: AI accelerates the work. Engineers still own the result.
+ES: La IA acelera el trabajo. Los ingenieros todavía son responsables del resultado.
+EN: That is the whole story in seven words.
+ES: Esa es toda la historia en siete palabras.
+EN: The problem with getting faster is not that you fail more.
+ES: El problema con hacerse más rápido no es que falles más.
+EN: The problem is that you arrive at the wrong destination sooner.
+ES: El problema es que llegas al destino equivocado más rápido.
+EN: Fowler did not write a warning against AI.
+ES: Fowler no escribió una advertencia contra la IA.
+EN: He wrote a status report from inside a real team doing real work.
+ES: Él escribió un reporte de estado desde dentro de un equipo real haciendo trabajo real.
+EN: Use the speed. Build the judgment to match it.
+ES: Usa la velocidad. Construye el criterio para igualarla.
+EN: Or the acceleration becomes the problem.
+ES: O la aceleración se convierte en el problema.

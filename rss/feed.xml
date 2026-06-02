@@ -4,13 +4,32 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:11:46 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI Made Us Faster. That Was the Problem</title>
+      <description>David Fowler, a distinguished engineer at Microsoft leading the .NET Aspire team, published the most honest account yet of what AI-first engineering looks like inside a production team. His team produced what felt like six months of code in one week — and he calls it an overconfidence problem. Production got cheaper but maintenance did not. The bottleneck moved from production capacity to judgment capacity. Experienced engineers feel regression when adopting AI agents, not because the tools are bad but because rebuilding your workflow around a new toolchain feels like putting training wheels back on. Fowler introduces the concept of agent-readiness as codebase health: agents work best with clear structure, good tests, and enough context to verify their own work. Without breakthroughs in memory and continuity, human operators still carry the accumulated product context, architectural intent, and team tradeoffs. AI accelerates the work. Engineers still own the result.
+
+Links:
+https://www.linkedin.com/pulse/ai-made-us-faster-problem-david-fowler-mgnzc/
+https://github.com/dotnet/aspire
+https://devblogs.microsoft.com/aspire/author/davifowl/</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:22</itunes:duration>
+      <itunes:summary>David Fowler, a distinguished engineer at Microsoft leading the .NET Aspire team, published the most honest account yet of what AI-first engineering looks like inside a production team. His team produced what felt like six months of code in one week — and he calls it an overconfidence problem. Production got cheaper but maintenance did not. The bottleneck moved from production capacity to judgment capacity. Experienced engineers feel regression when adopting AI agents, not because the tools are bad but because rebuilding your workflow around a new toolchain feels like putting training wheels back on. Fowler introduces the concept of agent-readiness as codebase health: agents work best with clear structure, good tests, and enough context to verify their own work. Without breakthroughs in memory and continuity, human operators still carry the accumulated product context, architectural intent, and team tradeoffs. AI accelerates the work. Engineers still own the result.
+
+Links:
+https://www.linkedin.com/pulse/ai-made-us-faster-problem-david-fowler-mgnzc/
+https://github.com/dotnet/aspire
+https://devblogs.microsoft.com/aspire/author/davifowl/</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3" length="2623700" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3</guid>
+    </item>
     <item>
       <title>Build a System That Prompts Itself</title>
       <description>An Anthropic engineer said the quiet part out loud: you are not supposed to prompt Claude, you are supposed to build a system that prompts itself. The quote went viral because it named something most people were already doing wrong. The shift is from manual prompting to CLAUDE.md configuration files to fully autonomous agent loops where the system reads your git history, loads your project context, and runs until the task is done without you typing a word. Anthropic calls this context engineering — the discipline of designing the entire information environment an agent operates in. The March 2026 source code leak revealed KAIROS, an unreleased always-on daemon mode referenced 150 times in the codebase. When autonomous agents start writing their own prompts, discarding context they deem unimportant, and making decisions while you sleep, the question is not whether this is powerful. The question is who audits the prompts.
