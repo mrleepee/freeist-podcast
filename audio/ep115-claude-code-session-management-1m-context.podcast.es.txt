@@ -1,0 +1,52 @@
+EN: Most developers treat Claude like a group chat. They just keep typing until something breaks.
+ES: La mayoría de los desarrolladores usan Claude como un chat grupal. Solo siguen escribiendo hasta que algo falla.
+EN: Then they wonder why it starts making things up or forgets what it was doing.
+ES: Después se preguntan por qué empieza a inventar cosas o por qué olvida lo que hacía.
+EN: Thariq Shihipar from Anthropic's Claude Code team published a guide that got 3,400 likes in 24 hours.
+ES: Thariq Shihipar del equipo de Claude Code de Anthropic publicó una guía. Tuvo 3,400 likes en 24 horas.
+EN: His main point sounds strange. A one-million-token context window does not mean you should use all of it.
+ES: Su punto principal suena extraño. Una ventana de contexto de un millón de tokens no significa que la uses toda.
+EN: Let me explain why and how to keep your sessions clean.
+ES: Te explico por qué y cómo mantener tus sesiones limpias.
+EN: Every response from Claude gives you five choices.
+ES: Cada respuesta de Claude te da cinco opciones.
+EN: You can continue the conversation and keep everything.
+ES: Puedes continuar la conversación y guardar todo.
+EN: You can rewind with Esc Esc to go back to a previous point.
+ES: Puedes rebobinar con Esc Esc para volver a un punto anterior.
+EN: You can run /clear to start fresh with a new brief.
+ES: Puedes usar /clear para empezar de nuevo con un resumen nuevo.
+EN: You can run /compact so Claude summarizes the session.
+ES: Puedes usar /compact para que Claude resuma la sesión.
+EN: Or you can spin off a subagent to work in isolation.
+ES: O puedes lanzar un subagente para trabajar aislado.
+EN: The rewind habit changes everything. When Claude tries something and it fails, rewind instead of correcting.
+ES: El hábito de rebobinar cambia todo. Cuando Claude intenta algo y falla, rebobina en vez de corregir.
+EN: Say you run file reads, try approach A, it fails, then approach B, it fails, then approach C, it works.
+ES: Digamos que lees archivos, intentas el enfoque A, falla, luego el enfoque B, falla, luego el enfoque C, funciona.
+EN: Your context now has all the failures and corrections.
+ES: Tu contexto ahora tiene todos los intentos fallidos y las correcciones.
+EN: But if you rewind after the file reads and prompt fresh, Claude gets only the relevant information.
+ES: Pero si rebobinas después de leer los archivos y escribes de nuevo, Claude solo recibe la información relevante.
+EN: Before you rewind, write "summarize from here." Claude writes a quick note with what it learned. Then rewind and include that note in your new prompt.
+ES: Antes de rebobinar, escribe "resume desde aquí." Claude escribe una nota rápida con lo que aprendió. Luego rebobina e incluye esa nota en tu nuevo mensaje.
+EN: Two tools help you shed weight in long sessions.
+ES: Dos herramientas te ayudan a reducir peso en sesiones largas.
+EN: /compact asks Claude to decide what matters. It's fast but lossy.
+ES: /compact le pide a Claude que decida qué importa. Es rápido pero pierde información.
+EN: /clear wipes everything. You decide what matters before you start.
+ES: /clear borra todo. Tú decides qué importa antes de empezar.
+EN: Subagents are the most powerful tool. They get their own fresh context window.
+ES: Los subagentes son la herramienta más poderosa. Tienen su propia ventana de contexto nueva.
+EN: A subagent can read twenty files and hit dead ends. Only the final report comes back to you.
+ES: Un subagent puede leer veinte archivos y llegar a callejones sin salida. Solo el reporte final vuelve a ti.
+EN: Three practical techniques: keep a session journal file before /clear, open parallel sessions per feature, and encode rules in your CLAUDE.md file.
+ES: Tres técnicas prácticas: guarda un diario de sesión antes de /clear, abre sesiones paralelas por función, y escribe reglas en tu archivo CLAUDE.md.
+EN: The bottom line is simple. A clean context beats a long context every time.
+ES: La conclusión es simple. Un contexto limpio supera a uno largo siempre.
+EN: The one-million-token window is a safety margin, not an invitation to fill it.
+ES: La ventana de un millón de tokens es un margen de seguridad, no una invitación para llenarla.
+EN: Before you type your next message, ask yourself: should I continue, or should I rewind?
+ES: Antes de escribir tu siguiente mensaje, pregúntate: ¿continúo o rebobino?
+EN: That one second of thought is the difference between a clean session and frustration.
+ES: Ese segundo de pensamiento es la diferencia entre una sesión limpia y la frustración.
