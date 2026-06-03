@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:23:47 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -38,6 +38,25 @@ https://csrc.nist.gov/pubs/sp/800/207/final
 https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4157997" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>OpenHands — Open Source AI Software Engineer</title>
+      <description>OpenHands, originally called OpenDevin, launched from Carnegie Mellon research and has accumulated 75,000 GitHub stars, raised 18.8 million dollars, and become the open-source answer to autonomous coding agents. Unlike autocomplete tools, OpenHands runs agents that plan, act, observe, and reflect in a loop inside sandboxed Docker containers with real code editors, shells, browsers, and task planners. The Software Agent SDK is a composable Python framework that separates model intelligence from agent capability, letting you swap Claude for GPT for Llama without rewriting agent logic. Use cases include vulnerability remediation, COBOL-to-Java migration, incident triage, and PR review. The OpenHands Index, launched January 2026, is the first broad-coverage benchmark for agentic software engineering, revealing that context management is the key differentiator, not raw model size. Enterprise deployment runs on-premise or air-gapped with full audit trails. An AMD partnership brings local inference on Ryzen AI hardware. The honest limit: OpenHands excels at well-scoped, verifiable tasks and struggles with ambiguous requirements and deep domain knowledge. The community recommendation is autonomous agents for 80 percent of backend work, interactive IDE tools for debugging and refinement.
+
+Links:
+https://openhands.dev/
+https://arxiv.org/abs/2407.16741
+https://www.openhands.dev/blog/openhands-index</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:summary>OpenHands, originally called OpenDevin, launched from Carnegie Mellon research and has accumulated 75,000 GitHub stars, raised 18.8 million dollars, and become the open-source answer to autonomous coding agents. Unlike autocomplete tools, OpenHands runs agents that plan, act, observe, and reflect in a loop inside sandboxed Docker containers with real code editors, shells, browsers, and task planners. The Software Agent SDK is a composable Python framework that separates model intelligence from agent capability, letting you swap Claude for GPT for Llama without rewriting agent logic. Use cases include vulnerability remediation, COBOL-to-Java migration, incident triage, and PR review. The OpenHands Index, launched January 2026, is the first broad-coverage benchmark for agentic software engineering, revealing that context management is the key differentiator, not raw model size. Enterprise deployment runs on-premise or air-gapped with full audit trails. An AMD partnership brings local inference on Ryzen AI hardware. The honest limit: OpenHands excels at well-scoped, verifiable tasks and struggles with ambiguous requirements and deep domain knowledge. The community recommendation is autonomous agents for 80 percent of backend work, interactive IDE tools for debugging and refinement.
+
+Links:
+https://openhands.dev/
+https://arxiv.org/abs/2407.16741
+https://www.openhands.dev/blog/openhands-index</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3541581" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3</guid>
     </item>
     <item>
       <title>AI Made Us Faster. That Was the Problem</title>
@@ -74,7 +93,7 @@ Links:
 https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4823493" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4807581" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3</guid>
     </item>
     <item>

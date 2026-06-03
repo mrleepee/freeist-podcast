@@ -1,0 +1,19 @@
+{
+  "thesis": "The OpenHands-AMD partnership for local inference represents a concrete step toward AI sovereignty—running powerful autonomous coding agents on your own hardware, with your choice of model, outside the cloud API economy—making software autonomy a practical reality rather than a marketing claim.",
+  "hook": "Imagine a world where your AI coding assistant doesn't phone home to a server in California every time you ask it to refactor a function—where the entire inference happens on your machine, under your control, on hardware you bought. That world isn't hypothetical. It's sitting on a Ryzen AI laptop right now, and it's called OpenHands.",
+  "stakes": "Every time you delegate coding work to a cloud AI, you're renting someone else's brain at someone else's rates, with someone else's context window limits and someone else's data policies. The question isn't whether autonomous coding agents are coming—it's whether you'll be running them or just subscribing to them.",
+  "evidence_beats": [
+    3,
+    7,
+    9,
+    14,
+    17,
+    18,
+    19,
+    13
+  ],
+  "counterpoint": "OpenHands still struggles with ambiguous requirements, UI work, and tasks requiring deep domain knowledge—so local inference alone doesn't solve the fundamental hard problems of AI coding. And a community benchmark isn't a peer-reviewed study; the three-times cost variance and the 87% bug-fix claims need independent verification before you restructure your engineering team around them.",
+  "implication": "If you're evaluating AI coding tools, the AMD partnership signals that local, sovereign inference is crossing from proof-of-concept into production infrastructure. The question isn't which cloud API to use—it's whether you should be using a cloud API at all, or whether your next laptop's neural processing unit should be your backend server.",
+  "close": "So here's the practical ask: download OpenHands, point it at a model you already own, and give it a real task from your actual backlog—not a demo, not a blog post benchmark, a task that matters to you. If it works, you've just built a coding agent that costs you nothing per query and answers to no one but you. If it doesn't work, you'll know exactly where the current ceiling is—and that's worth more than any vendor's marketing page. Either way, you're no longer just a subscriber. You're an operator.",
+  "warnings": []
+}

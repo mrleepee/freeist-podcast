@@ -1,0 +1,178 @@
+[
+  {
+    "claim": "OpenHands was originally called OpenDevin",
+    "source_quote": "Originally called OpenDevin, the project launched from academic research at Carnegie Mellon",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "OpenHands has accumulated over 75,000 GitHub stars",
+    "source_quote": "has since accumulated over 75,000 GitHub stars",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "OpenHands raised 18.8 million dollars in venture funding",
+    "source_quote": "raised 18.8 million dollars in venture funding",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The project launched from academic research at Carnegie Mellon",
+    "source_quote": "the project launched from academic research at Carnegie Mellon",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The architecture paper was published at ICLR 2025",
+    "source_quote": "The paper describing this architecture was published at ICLR 2025",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A follow-up paper on the SDK redesign appeared on arXiv in late 2025",
+    "source_quote": "a follow-up paper on the SDK redesign appeared on arXiv in late 2025",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "OpenHands can run with Claude, GPT, Gemini, Llama, Mistral, or any model that supports function calling",
+    "source_quote": "You can run it with Claude, GPT, Gemini, Llama, Mistral, or any model that supports function calling",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The OpenHands Index was launched in January 2026",
+    "source_quote": "The OpenHands Index, launched in January 2026, is the project's own benchmark",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The OpenHands Index covers five task domains",
+    "source_quote": "the OpenHands Index covers five task domains",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The OpenHands Index evaluates accuracy, cost, and runtime",
+    "source_quote": "evaluates accuracy, cost, and runtime",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A community benchmark on Reddit showed a three-times cost difference depending on context window management",
+    "source_quote": "A community benchmark on Reddit showed that four coding agents using the same model had a three-times cost difference depending entirely on how they managed the context window",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Four coding agents were tested in the Reddit benchmark",
+    "source_quote": "four coding agents using the same model had a three-times cost difference",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "One customer reported OpenHands autonomously fixes 87 percent of bug tickets same-day",
+    "source_quote": "One customer reported that OpenHands autonomously fixes 87 percent of bug tickets same-day",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "A VP of Data Science at C3 was quoted about the solution",
+    "source_quote": "Another, a VP of Data Science at C3, noted it was the only solution that let them prompt an autonomous coding agent remotely at scale",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "AMD has partnered with OpenHands for integration with Lemonade Server for local inference on Ryzen AI hardware",
+    "source_quote": "AMD has partnered to integrate OpenHands with its Lemonade Server for local inference on Ryzen AI hardware",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The project has over 65,000-plus GitHub stars",
+    "source_quote": "The project's community of 65,000-plus GitHub stars",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The community recommends using autonomous agents for 80 percent of backend work",
+    "source_quote": "The community's own recommendation is to use autonomous agents like OpenHands for 80 percent of backend work",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The 18.8 million dollar raise values the company as serious infrastructure",
+    "source_quote": "The 18.8 million dollar raise values the company as a serious infrastructure play, not a weekend hackathon project",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "OpenHands struggles with ambiguous requirements, UI work, and tasks requiring deep domain knowledge",
+    "source_quote": "OpenHands excels at well-scoped, verifiable tasks... and struggles with ambiguous requirements, UI work, and tasks that require deep domain knowledge not present in the codebase",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The team demonstrated migrating legacy COBOL systems to Java",
+    "source_quote": "Code migration: the team has demonstrated migrating legacy COBOL systems to Java, with testing and validation built into the pipeline",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The agent operates in a plan, act, observe, reflect loop",
+    "source_quote": "OpenHands agents operate in a loop: plan, act, observe, reflect",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The agent interacts through four interfaces: code editor, shell/command line, web browser, and task planner",
+    "source_quote": "The agent does not just generate text — it interacts with a real environment through four interfaces: a code editor, a shell and command line, a web browser, and a task planner",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

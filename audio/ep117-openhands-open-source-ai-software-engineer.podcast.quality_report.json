@@ -1,0 +1,57 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "skipped: no audio file available",
+      "metrics": {}
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "2 uncovered: AMD, COBOL",
+      "metrics": {
+        "risky_count": 4,
+        "covered_count": 2,
+        "uncovered_count": 2,
+        "uncovered_tokens": [
+          "AMD",
+          "COBOL"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 36.7 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 545,
+        "filler_phrases": [],
+        "numbers": 20,
+        "numbers_per_1k": 36.7,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Few projects have accumulated seventy-five thousand GitHub stars within a few years and emerged from",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    },
+    "qa_exhausted": true
+  },
+  "blocking_failures": [
+    "pronunciation: 2 uncovered: AMD, COBOL"
+  ]
+}
