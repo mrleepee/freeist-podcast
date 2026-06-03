@@ -1,0 +1,162 @@
+[
+  {
+    "claim": "Vít Jedlička delivered his annual address on New Year's Day 2026",
+    "source_quote": "On New Year's Day 2026, Vít Jedlička delivered his annual address to Liberlanders and the broader freedom movement.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Forty million dollars is allocated for the Baranja region",
+    "source_quote": "What made this one different was the specific dollar figure attached to it: forty million dollars for the Baranja region.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland is located in the Baranja region between the Danube and Drava rivers",
+    "source_quote": "That is the strip of land between the Danube and the Drava rivers where Liberland sits",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland's territory is claimed by neither Serbia nor Croatia",
+    "source_quote": "claimed by neither Serbia nor Croatia",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Javier Milei holds Liberland citizenship",
+    "source_quote": "Javier Milei, who holds Liberland citizenship",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Javier Milei spent 2025 dismantling Argentina's economic apparatus from the presidency",
+    "source_quote": "spent the year dismantling Argentina's economic apparatus from the presidency",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Peter Mitsinka became Foreign Minister of the Czech Republic",
+    "source_quote": "Peter Mitsinka, another citizen, became Foreign Minister of the Czech Republic.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Somaliland was the first entity to recognize Liberland through a memorandum of understanding in 2017",
+    "source_quote": "Somaliland, the first entity to recognize Liberland through a memorandum of understanding back in 2017",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Somaliland gained its own international recognition",
+    "source_quote": "Somaliland, the first entity to recognize Liberland through a memorandum of understanding back in 2017, gained its own international recognition.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Justin Sun was re-elected as Prime Minister of Liberland",
+    "source_quote": "The most consequential announcement was Justin Sun's re-election as Prime Minister.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Justin Sun is the founder of Tron, one of the largest blockchain ecosystems by transaction volume",
+    "source_quote": "Sun is the founder of Tron, one of the largest blockchain ecosystems by transaction volume.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland Bank and Liberland Pay exist as centralized banking services",
+    "source_quote": "Liberland Bank and Liberland Pay are the centralized banking complements to this decentralized infrastructure.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The 2026 citizenship target is one million applicants",
+    "source_quote": "The citizenship target for 2026 is one million applicants.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "prediction"
+  },
+  {
+    "claim": "Liberland had received several hundred thousand applications at the time of the speech",
+    "source_quote": "At the time of the speech, Liberland had already received several hundred thousand applications from across the world.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Serbia and Croatia stand to benefit from Liberland's infrastructure development in Baranja",
+    "source_quote": "Both Serbia and Croatia stand to benefit from infrastructure development in a region that has been economically neglected",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The region has been economically neglected because of the territorial dispute",
+    "source_quote": "economically neglected precisely because of the territorial dispute that created Liberland in the first place",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Budget doubling is planned but Jedlička did not specify the current budget figure",
+    "source_quote": "The budget doubling is ambitious but opaque. Jedlička did not specify the current budget figure or the revenue sources behind the projection.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "One million applicants at $100 per application would generate $100 million in gross revenue",
+    "source_quote": "reaching one million applicants at, say, a hundred dollars per application would generate a hundred million dollars in gross revenue",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Liberland covers approximately seven square kilometers",
+    "source_quote": "That is nation-state scale for a territory of seven square kilometers.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland is characterized as a blockchain-native nation or micronation",
+    "source_quote": "A blockchain-native nation with a citizen who is also the president of Argentina, a prime minister who runs a major crypto network, and a forty million dollar regional investment plan is no longer a thought experiment. It is a startup with a constitution.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

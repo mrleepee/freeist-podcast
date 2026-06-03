@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:51:43 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -57,6 +57,25 @@ https://arxiv.org/abs/2407.16741
 https://www.openhands.dev/blog/openhands-index</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3529101" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Liberland 2026 Master Plan</title>
+      <description>Vít Jedlička delivered his 2026 New Year address with a concrete forty million dollar investment plan for the Baranja region surrounding Liberland. The speech covered three strategic pillars. First, legitimacy through citizens in power: Javier Milei governing Argentina, Peter Mitsinka as Czech Foreign Minister, and Somaliland gaining recognition after being first to recognize Liberland in 2017. Second, blockchain governance infrastructure: Justin Sun re-elected as Prime Minister, bringing Tron ecosystem resources, with 2026 priorities on blockchain bridges to centralized financial systems and DAO-based company registration. Third, financial services: Liberland Bank and Liberland Pay launching as centralized banking complements to the decentralized governance layer. The citizenship target is one million applicants. The budget is projected to double. The dual architecture — decentralized governance with centralized financial plumbing — mirrors the same pattern successful crypto exchanges use, applied to a nation-state with territorial sovereignty as its regulatory advantage. Whether Serbia and Croatia accept the economic partnership offer for Baranja is the open question.
+
+Links:
+https://en.wikipedia.org/wiki/Liberland
+https://liberland.org/en/
+https://tron.network/</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:34</itunes:duration>
+      <itunes:summary>Vít Jedlička delivered his 2026 New Year address with a concrete forty million dollar investment plan for the Baranja region surrounding Liberland. The speech covered three strategic pillars. First, legitimacy through citizens in power: Javier Milei governing Argentina, Peter Mitsinka as Czech Foreign Minister, and Somaliland gaining recognition after being first to recognize Liberland in 2017. Second, blockchain governance infrastructure: Justin Sun re-elected as Prime Minister, bringing Tron ecosystem resources, with 2026 priorities on blockchain bridges to centralized financial systems and DAO-based company registration. Third, financial services: Liberland Bank and Liberland Pay launching as centralized banking complements to the decentralized governance layer. The citizenship target is one million applicants. The budget is projected to double. The dual architecture — decentralized governance with centralized financial plumbing — mirrors the same pattern successful crypto exchanges use, applied to a nation-state with territorial sovereignty as its regulatory advantage. Whether Serbia and Croatia accept the economic partnership offer for Baranja is the open question.
+
+Links:
+https://en.wikipedia.org/wiki/Liberland
+https://liberland.org/en/
+https://tron.network/</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3" length="4263645" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3</guid>
     </item>
     <item>
       <title>AI Made Us Faster. That Was the Problem</title>
