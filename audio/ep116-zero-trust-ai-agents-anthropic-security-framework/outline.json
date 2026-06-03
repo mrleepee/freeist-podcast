@@ -1,0 +1,26 @@
+{
+  "thesis": "The first real-world AI security attacks are already here — tool poisoning, memory corruption, and adversarial context injection — and Anthropic's Zero Trust framework is the first honest map of a threat landscape that most developers are still pretending doesn't exist.",
+  "hook": "There's a malicious server running right now that looks like a normal email tool, has a legitimate-looking icon, and has been silently copying every email sent through it — and it was the first documented attack of its kind, not the last.",
+  "stakes": "If you're building with AI agents, you're not just writing software — you're granting a foreign process access to your inbox, your files, and your clients' data. The threat model has changed. The question is whether your defenses have.",
+  "evidence_beats": [
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "counterpoint": "Anthropic also wrote this framework, so of course they want you to take AI security seriously — they also want Claude Code adopted as the enterprise standard. The principles are sound, but so is the commercial interest behind them.",
+  "implication": "You don't need a federal mandate to take this seriously. If you run even one agent that touches sensitive data — a client file, a financial record, a medical intake — you're already in scope. The least agency principle isn't bureaucracy; it's consent applied to software: don't give your agent more power than the task requires, for longer than the session lasts.",
+  "close": "Señora Freedom doesn't trust easily, and neither should your code. Check your Claude Code session permissions right now — not next quarter, not after the audit. If your agent has broader access than it needs, that's not a configuration issue. That's a consent problem. Tighten it down, document why, and treat that configuration like you'd treat a password: with the assumption that someone, somewhere, is already trying to steal it.",
+  "warnings": []
+}

@@ -4,13 +4,41 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 14:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:29:23 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>History Taxation From Ancient Tribute Modern Certainty</title>
+      <description/>
+      <pubDate>Wed, 03 Jun 2026 06:55:10 +0000</pubDate>
+      <itunes:duration>12:52</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="9536133" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Zero Trust for AI Agents — Anthropic Security Framework</title>
+      <description>Anthropic published a 35-page security framework in May 2026 that applies Zero Trust principles to autonomous AI agents in the enterprise. The premise is blunt: perimeter-based security is dead, AI models have compressed exploit timelines from months to hours, and agents make every existing access control model look like a suggestion. The framework introduces least agency — a term from OWASP extending least privilege to restrict what each agent tool can do, how often, and where. It maps controls across three tiers (Foundation, Enterprise, Advanced) covering agent identity, access control, resource isolation, observability, behavioral monitoring, input validation, integrity, and recovery. The Foundation floor has been raised: static API keys are treated as already compromised, short-lived tokens and cryptographic identity are entry requirements. The threat landscape covers prompt injection, tool poisoning via MCP servers, tool chaining attacks, memory poisoning, and supply chain risks including malicious models. Implementation follows eight phases from requirements through supply chain management to defensive operations. Anthropic closes with Agentic SOAR — AI agents handling evidence collection and documentation while humans stay on containment decisions. The uncomfortable question the framework raises but does not answer: who sets the trust boundaries when agents decide how to interpret your instructions?
+
+Links:
+https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf
+https://csrc.nist.gov/pubs/sp/800/207/final
+https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:11</itunes:duration>
+      <itunes:summary>Anthropic published a 35-page security framework in May 2026 that applies Zero Trust principles to autonomous AI agents in the enterprise. The premise is blunt: perimeter-based security is dead, AI models have compressed exploit timelines from months to hours, and agents make every existing access control model look like a suggestion. The framework introduces least agency — a term from OWASP extending least privilege to restrict what each agent tool can do, how often, and where. It maps controls across three tiers (Foundation, Enterprise, Advanced) covering agent identity, access control, resource isolation, observability, behavioral monitoring, input validation, integrity, and recovery. The Foundation floor has been raised: static API keys are treated as already compromised, short-lived tokens and cryptographic identity are entry requirements. The threat landscape covers prompt injection, tool poisoning via MCP servers, tool chaining attacks, memory poisoning, and supply chain risks including malicious models. Implementation follows eight phases from requirements through supply chain management to defensive operations. Anthropic closes with Agentic SOAR — AI agents handling evidence collection and documentation while humans stay on containment decisions. The uncomfortable question the framework raises but does not answer: who sets the trust boundaries when agents decide how to interpret your instructions?
+
+Links:
+https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf
+https://csrc.nist.gov/pubs/sp/800/207/final
+https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="3122037" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3</guid>
+    </item>
     <item>
       <title>AI Made Us Faster. That Was the Problem</title>
       <description>David Fowler, a distinguished engineer at Microsoft leading the .NET Aspire team, published the most honest account yet of what AI-first engineering looks like inside a production team. His team produced what felt like six months of code in one week — and he calls it an overconfidence problem. Production got cheaper but maintenance did not. The bottleneck moved from production capacity to judgment capacity. Experienced engineers feel regression when adopting AI agents, not because the tools are bad but because rebuilding your workflow around a new toolchain feels like putting training wheels back on. Fowler introduces the concept of agent-readiness as codebase health: agents work best with clear structure, good tests, and enough context to verify their own work. Without breakthroughs in memory and continuity, human operators still carry the accumulated product context, architectural intent, and team tradeoffs. AI accelerates the work. Engineers still own the result.
@@ -107,15 +135,6 @@ https://tomwatsonofficial.substack.com/p/the-ai-layoff-trap-and-the-markets
 https://medium.com/@adnanmasood/the-competitive-trap-in-ai-workforce-reduction-prisoners-dilemma-of-the-machine-age-67998fa7aba2</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="3524228" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>History Taxation From Ancient Tribute Modern Certainty</title>
-      <description/>
-      <pubDate>Sun, 31 May 2026 14:50:11 +0000</pubDate>
-      <itunes:duration>13:10</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="6504212" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
     </item>
     <item>
       <title>The Unreasonable Effectiveness of HTML for AI Agents</title>

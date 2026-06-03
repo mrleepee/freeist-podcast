@@ -1,0 +1,98 @@
+EN: Picture this: your AI assistant books flights, sends emails, and accesses your customer database — all on its own, without stopping to ask.
+ES: Imagina esto: tu asistente de IA reserva vuelos, envía correos y accede a tu base de datos de clientes solo, sin preguntar.
+EN: That is not science fiction. That is the reality inside many companies today.
+ES: Eso no es ciencia ficción. Esa es la realidad dentro de muchas empresas hoy.
+EN: In May 2026, Anthropic published a thirty-five-page security framework addressing exactly this problem.
+ES: En mayo de 2026, Anthropic publicó un informe de treinta y cinco páginas sobre este problema exacto.
+EN: The premise is blunt: the old way of protecting systems — build a wall around everything — no longer works.
+ES: La idea es clara: la forma antigua de proteger sistemas — construir un muro alrededor de todo — ya no funciona.
+EN: AI models now find weaknesses in hours, not months. And agents — programs that act without asking permission at every step — make old security rules look like suggestions.
+ES: Los modelos de IA ahora encuentran debilidades en horas, no meses. Y los agentes — programas que actúan sin pedir permiso en cada paso — hacen que las reglas de seguridad antiguas parezcan sugerencias.
+EN: Anthropic calls this the Zero Trust approach.
+ES: Anthropic llama a esto el enfoque de Confianza Cero.
+EN: Zero Trust has three simple rules. Never trust automatically. Always check. And give each system only the minimum access it needs.
+ES: Confianza Cero tiene tres reglas simples. Nunca confíes automáticamente. Siempre verifica. Y dale a cada sistema solo el acceso mínimo que necesita.
+EN: Think of it like a hotel. The old model gave every guest a master key. Zero Trust gives each room its own lock and checks your ID at every door.
+ES: Piénsalo como un hotel. El modelo antiguo daba a cada huésped una llave maestra. Confianza Cero da a cada cuarto su propia cerradura y verifica tu identificación en cada puerta.
+EN: The framework describes three levels of security maturity: Foundation, Enterprise, and Advanced.
+ES: El informe describe tres niveles de madurez en seguridad: Básico, Empresarial y Avanzado.
+EN: Here is the uncomfortable truth: the Foundation level is not basic anymore.
+ES: Aquí está la verdad incómoda: el nivel Básico ya no es básico.
+EN: Short-lived tokens, cryptographic identity, and automated alerts are now minimum requirements.
+ES: Tokens de corta duración, identidad criptográfica y alertas automáticas son ahora requisitos mínimos.
+EN: Anthropic explicitly calls out static API keys and shared service accounts as already compromised.
+ES: Anthropic dice claramente que las claves API estáticas y las cuentas de servicio compartidas ya están comprometidas.
+EN: The framework introduces a concept called "least agency."
+ES: El informe introduce un concepto llamado "mínima agencia."
+EN: This means restricting not just what an agent can access, but what each of its tools can do, how often, and where.
+ES: Esto significa restringir no solo lo que un agente puede acceder, sino lo que cada una de sus herramientas puede hacer, con qué frecuencia y dónde.
+EN: A database tool gets read-only access. An email summarizer cannot send or delete messages.
+ES: Una herramienta de base de datos obtiene acceso solo de lectura. Un resumidor de correos no puede enviar ni borrar mensajes.
+EN: Every tool is a potential door for attackers, because agents can be tricked into using their own tools against you.
+ES: Cada herramienta es una puerta potencial para atacantes, porque los agentes pueden ser engañados para usar sus propias herramientas contra ti.
+EN: The threats Anthropic describes are not theoretical.
+ES: Las amenazas que Anthropic describe no son teóricas.
+EN: Prompt injection comes in two forms. Direct attacks craft inputs that override system instructions.
+ES: La inyección de prompts viene en dos formas. Los ataques directos crean entradas que cambian las instrucciones del sistema.
+EN: Indirect attacks hide malicious instructions inside websites or emails that agents process automatically.
+ES: Los ataques indirectos esconden instrucciones maliciosas dentro de páginas web o correos que los agentes procesan automáticamente.
+EN: Microsoft Research confirms that AI models cannot reliably tell the difference between information and commands.
+ES: Microsoft Research confirma que los modelos de IA no pueden distinguir confiablemente entre información y órdenes.
+EN: Tool poisoning compromises the interfaces agents use to connect to external services.
+ES: El envenenamiento de herramientas compromete las interfaces que los agentes usan para conectarse a servicios externos.
+EN: In one documented case, a fake email service secretly copied all sent messages.
+ES: En un caso documentado, un servicio falso de correo secretamente copió todos los mensajes enviados.
+EN: Tool chaining attacks combine legitimate tools in harmful sequences.
+ES: Los ataques de encadenamiento de herramientas combinan herramientas legítimas en secuencias dañinas.
+EN: A CRM tool plus an email tool equals data theft that neither tool would allow alone.
+ES: Una herramienta de CRM más una herramienta de correo igual a robo de datos que ninguna herramienta permitiría sola.
+EN: Memory poisoning corrupts how an agent thinks, long after the initial attack.
+ES: El envenenamiento de memoria corrompe cómo piensa un agente, mucho después del ataque inicial.
+EN: Anthropic proposes an eight-phase implementation workflow.
+ES: Anthropic propone un flujo de trabajo de ocho fases para implementar.
+EN: First, identify your regulatory requirements and business goals.
+ES: Primero, identifica tus requisitos regulatorios y metas de negocio.
+EN: Second, manage supply chain risks with software inventories and automated health checks.
+ES: Segundo, maneja riesgos de la cadena de suministro con inventarios de software y verificaciones automáticas de salud.
+EN: Third, define clear boundaries — what agents can do, what they cannot, and when to escalate to humans.
+ES: Tercero, define límites claros — qué pueden hacer los agentes, qué no, y cuándo escalar a humanos.
+EN: Fourth, defend against prompt injection with input isolation and classifier filters.
+ES: Cuarto, defiende contra inyección de prompts con aislamiento de entradas y filtros clasificadores.
+EN: Fifth, secure tool access with allow-lists, parameter validation, and sandboxed execution.
+ES: Quinto, asegura el acceso a herramientas con listas de permisos, validación de parámetros y ejecución en sandbox.
+EN: Sixth, protect credentials with per-agent identities, expiring tokens, and hardware-bound secrets.
+ES: Sexto, protege credenciales con identidades por agente, tokens que expiran y secretos ligados a hardware.
+EN: Seventh, safeguard agent memory with isolation, integrity checks, and retention policies.
+ES: Séptimo, protege la memoria del agente con aislamiento, verificaciones de integridad y políticas de retención.
+EN: Eighth, measure what actually matters — detection time, coverage, and behavioral conformance.
+ES: Octavo, mide lo que realmente importa — tiempo de detección, cobertura y conformidad de comportamiento.
+EN: The framework is notably self-referential.
+ES: El informe es notablemente autorreferencial.
+EN: Throughout, Anthropic shows how its own AI tool, Claude Code, already implements each control.
+ES: A lo largo del documento, Anthropic muestra cómo su propia herramienta de IA, Claude Code, ya implementa cada control.
+EN: Deny-by-default permissions. Sandboxed execution. OAuth 2.0 with automatic token refresh.
+ES: Permisos que niegan por defecto. Ejecución en sandbox. OAuth 2.0 con renovación automática de tokens.
+EN: Some see this as helpful reference architecture. Others see it as product placement.
+ES: Algunos ven esto como arquitectura de referencia útil. Otros lo ven como colocación de productos.
+EN: The technical specifics are real either way.
+ES: Los detalles técnicos son reales de cualquier forma.
+EN: Anthropic applies a consistent test: controls that rely on friction eventually fail.
+ES: Anthropic aplica una prueba consistente: los controles que dependen de fricción eventualmente fallan.
+EN: Rate limits, extra steps, and SMS-based verification break against attackers with unlimited patience and near-zero cost per attempt.
+ES: Límites de velocidad, pasos extra y verificación por SMS fallan contra atacantes con paciencia ilimitada y costo casi cero por intento.
+EN: The controls that survive use hardware-bound credentials, expiring tokens, and network paths that do not exist.
+ES: Los controles que sobreviven usan credenciales ligadas a hardware, tokens que expiran y caminos de red que no existen.
+EN: For healthcare, finance, and government, Zero Trust aligns with HIPAA, FINRA, GDPR, FedRAMP, and the EU AI Act.
+ES: Para salud, finanzas y gobierno, Confianza Cero se alinea con HIPAA, FINRA, GDPR, FedRAMP y el Acta de IA de la UE.
+EN: US federal agencies must adopt Zero Trust by 2027.
+ES: Las agencias federales de EE.UU. deben adoptar Confianza Cero para 2027.
+EN: Here is the question the framework raises but does not fully answer.
+ES: Aquí está la pregunta que el informe plantea pero no responde completamente.
+EN: Who sets the trust boundaries when the agents themselves decide how to interpret your instructions?
+ES: ¿Quién establece los límites de confianza cuando los agentes mismos deciden cómo interpretar tus instrucciones?
+EN: If the agent grades its own homework, who writes the rubric?
+ES: Si el agente califica su propia tarea, ¿quién escribe la guía?
+EN: Anthropic's answer: make trust boundaries explicit, cryptographic, and continuously verified.
+ES: La respuesta de Anthropic: haz los límites de confianza explícitos, criptográficos y verificados continuamente.
+EN: Whether that is sufficient when AI agents become sophisticated enough to negotiate around those boundaries — that is a question for the next edition.
+ES: Si eso es suficiente cuando los agentes de IA se vuelven lo suficientemente sofisticados para negociar alrededor de esos límites — esa es una pregunta para la próxima edición.

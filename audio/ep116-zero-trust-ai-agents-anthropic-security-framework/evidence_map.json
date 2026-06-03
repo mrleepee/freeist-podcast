@@ -1,0 +1,226 @@
+[
+  {
+    "claim": "In May 2026, Anthropic published a thirty-five-page security framework titled 'Zero Trust for AI Agents'",
+    "source_quote": "In May 2026, Anthropic published a thirty-five-page security framework titled 'Zero Trust for AI Agents.'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "AI models have compressed the gap between vulnerability discovery and exploitation from months to hours",
+    "source_quote": "AI models have compressed the gap between vulnerability discovery and exploitation from months to hours",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Zero Trust is based on three principles: never trust and always verify, assume breach has already occurred, and grant least privilege",
+    "source_quote": "Zero Trust replaces the old castle-and-moat model with three principles: never trust and always verify, assume breach has already occurred, and grant least privilege.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Foundation tier in the maturity model requires short-lived tokens, cryptographically rooted identity, and automated first-pass alert triage",
+    "source_quote": "Foundation is no longer what it used to be. Short-lived tokens, cryptographically rooted identity, and automated first-pass alert triage are now entry requirements, not aspirations.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Static API keys and shared service accounts are explicitly called out as already compromised in the framework",
+    "source_quote": "Static API keys and shared service accounts are explicitly called out as already compromised.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "'Least agency' is a term from OWASP that extends least privilege",
+    "source_quote": "The framework introduces 'least agency' — a term from OWASP that extends least privilege.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Least agency restricts what each agent tool can do, how often, and where",
+    "source_quote": "Where least privilege constrains what an agent can access, least agency restricts what each agent tool can do, how often, and where.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Microsoft Research confirms that LLMs cannot reliably distinguish between informational context and actionable instructions",
+    "source_quote": "Microsoft Research confirms that LLMs cannot reliably distinguish between informational context and actionable instructions.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The first documented in-the-wild malicious MCP server impersonated a legitimate email service and secretly copied all sent emails",
+    "source_quote": "Tool poisoning attacks compromise tool interfaces like MCP servers — the first documented in-the-wild malicious MCP server impersonated a legitimate email service and secretly copied all sent emails.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Memory poisoning persists across sessions, corrupting agent reasoning long after the initial injection",
+    "source_quote": "Memory poisoning persists across sessions, corrupting agent reasoning long after the initial injection.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Anthropic's implementation workflow has eight phases",
+    "source_quote": "Anthropic's implementation workflow has eight phases.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements deny-by-default permissions",
+    "source_quote": "Anthropic inserts 'pro-tips' showing how Claude Code already implements each control: deny-by-default permissions",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements sandboxed execution with OS-level isolation",
+    "source_quote": "sandboxed execution with OS-level isolation",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements OAuth 2.0 with automatic token refresh for MCP connections",
+    "source_quote": "OAuth 2.0 with automatic token refresh for MCP connections",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements OpenTelemetry metrics for audit trails",
+    "source_quote": "OpenTelemetry metrics for audit trails",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements session-scoped permissions that expire when the session ends",
+    "source_quote": "session-scoped permissions that expire when the session ends",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code implements managed settings that enforce organization-wide policies",
+    "source_quote": "managed settings that enforce organization-wide policies",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Anthropic introduces Agentic SOAR — Security Orchestration, Automation, and Response",
+    "source_quote": "Anthropic introduces Agentic SOAR — Security Orchestration, Automation, and Response — where AI agents handle evidence collection, enrichment, and documentation",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "US federal agencies must adopt Zero Trust by 2027",
+    "source_quote": "US federal agencies must adopt Zero Trust by 2027.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Zero Trust aligns with and enhances HIPAA, FINRA, GDPR, FedRAMP, and EU AI Act for regulated industries",
+    "source_quote": "For regulated industries — healthcare, finance, government — Zero Trust aligns with and enhances HIPAA, FINRA, GDPR, FedRAMP, and the EU AI Act.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The threat landscape Anthropic describes is genuinely disturbing",
+    "source_quote": "The threat landscape Anthropic describes is genuinely disturbing.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "low",
+    "type": "opinion"
+  },
+  {
+    "claim": "Controls that rely on friction — rate limits, extra pivot hops, non-standard ports, SMS-based MFA — degrade against adversaries with unlimited patience and near-zero per-attempt cost",
+    "source_quote": "Controls that rely on friction — rate limits, extra pivot hops, non-standard ports, SMS-based MFA — degrade against adversaries with unlimited patience and near-zero per-attempt cost.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The controls that survive are hardware-bound credentials, expiring tokens, cryptographic identity, and network paths that do not exist rather than paths that are merely inconvenient",
+    "source_quote": "The controls that survive are hardware-bound credentials, expiring tokens, cryptographic identity, and network paths that do not exist rather than paths that are merely inconvenient.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The framework is notably self-referential, inserting Claude Code pro-tips throughout",
+    "source_quote": "The framework is notably self-referential. Throughout, Anthropic inserts 'pro-tips' showing how Claude Code already implements each control",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Prompt injection comes in two forms: direct and indirect",
+    "source_quote": "Prompt injection comes in two forms: direct, where attackers craft inputs that override system instructions, and indirect, where malicious instructions are embedded in web pages or emails that agents process.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Tool chaining attacks trick agents into combining legitimate tools in harmful sequences",
+    "source_quote": "Tool chaining attacks trick agents into combining legitimate tools in harmful sequences: a CRM tool plus an email tool equals data exfiltration that neither tool would expose alone.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The three-tier maturity model includes Foundation, Enterprise, and Advanced levels",
+    "source_quote": "Anthropic then maps these principles onto agentic systems across a three-tier maturity model: Foundation, Enterprise, and Advanced.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The framework is the most detailed vendor-authored guide yet on deploying autonomous AI agents inside enterprises",
+    "source_quote": "It is the most detailed vendor-authored guide yet on how to deploy autonomous AI agents inside enterprises",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "opinion"
+  }
+]
