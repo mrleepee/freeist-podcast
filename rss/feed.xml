@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:48:02 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -36,7 +36,7 @@ Links:
 https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf
 https://csrc.nist.gov/pubs/sp/800/207/final
 https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4184877" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4157997" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3</guid>
     </item>
     <item>
@@ -67,14 +67,14 @@ https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:44</itunes:duration>
+      <itunes:duration>05:31</itunes:duration>
       <itunes:summary>Thariq Shihipar from Anthropic's Claude Code team published the definitive guide to session management with a 1 million token context window — and the core insight is counterintuitive: having more context does not mean you should use it. Context rot starts degrading model performance well before you hit the limit, with accuracy dropping at just 25 percent of the window. The playbook gives you five moves after every turn: continue, rewind with Esc Esc to drop failed attempts, compact with a hint to shed weight mid-task, clear for a fresh session, and subagents for isolated work that only returns conclusions. The rewind habit is described as the number one pro move: instead of correcting a failed approach, jump back to before it happened and redirect with what you learned. Compact proactively at 50 percent, not reactively at 90, because the model is at its least intelligent when autocompact fires under a bloated context. Subagents are the most underrated tool: they get their own clean context window, do all the messy exploration, and only send back the final result. A clean context beats a long context every time.
 
 Links:
 https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="3390068" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4823493" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3</guid>
     </item>
     <item>
