@@ -1,0 +1,23 @@
+{
+  "thesis": "Git succeeded not because corporations or governments mandated it, but because it was built on principles that respected how developers actually work — and that decentralized, voluntary model is exactly why it's now the backbone of collaborative software everywhere.",
+  "hook": "A Finnish engineer lost access to a proprietary tool on a Tuesday, spent two weeks writing code over a weekend, and accidentally created the system that now manages more than twenty-two thousand files, thousands of contributors, and arguably the entire open-source ecosystem — without a single meeting, a single marketing budget, or approval from anyone.",
+  "stakes": "If you write code, manage a team, or use software built by others, you're trusting a system every single day that nobody designed, funded, or regulated into existence. Understanding why Git won reveals something uncomfortable: the most resilient infrastructure is often built by people solving their own problems, not by institutions solving yours.",
+  "evidence_beats": [
+    3,
+    4,
+    13,
+    14,
+    15,
+    16,
+    6,
+    9
+  ],
+  "counterpoint": "Critics might argue that Git's dominance today owes just as much to GitHub and corporate investment as to its original design — that Git succeeded partly because companies adopted it, not entirely in spite of them.",
+  "implication": "The lesson isn't that Git is perfect — it's that it was built for users, not markets, and that showed. If you want infrastructure you can trust, look for the tools people built for themselves first.",
+  "close": "Git was never trying to be the answer to everything. It was trying to solve one person's actual problem — a version control system that didn't lie about what was happening to his code. And that honesty, that refusal to abstract away the complexity, is what made twenty-two thousand files and thousands of strangers trustworthy enough to merge into one kernel. So the next time someone tells you the only way to build something reliable is with institutional backing, remember: the entire Linux kernel runs on two weeks of weekend coding and a deep contempt for lies. What are you waiting for?",
+  "warnings": [
+    "thin evidence: only 16 claims available",
+    "medium confidence on several key claims including Git build time and design principles",
+    "secondary source reliability throughout — primary source material from Torvalds not directly quoted"
+  ]
+}

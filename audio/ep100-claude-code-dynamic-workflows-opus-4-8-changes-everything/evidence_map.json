@@ -1,0 +1,210 @@
+[
+  {
+    "claim": "Opus 4.8 includes dynamic workflows feature",
+    "source_quote": "Opus four point eight dropped with a feature that moves Claude Code from something that answers your questions to something that runs entire operations without you watching. Dynamic workflows landed this week",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A dynamic workflow is a JavaScript script executed by the Claude Code runtime",
+    "source_quote": "A dynamic workflow is a JavaScript script that the Claude Code runtime executes in the background while your session stays responsive",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "You can run up to 16 concurrent agents",
+    "source_quote": "You can run up to sixteen concurrent agents and up to one thousand total per run",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "You can run up to 1000 total agents per run",
+    "source_quote": "You can run up to sixteen concurrent agents and up to one thousand total per run. One thousand. That is not a handful of helpers on a task. That is a department.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Scripts are readable, auditable, and repeatable",
+    "source_quote": "The script is readable, auditable, and repeatable. You are trusting a plan you can inspect before it runs, not Claude's in-the-moment judgment.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Independent agents can adversarially review each other's findings",
+    "source_quote": "Independent agents can adversarially review each other's findings before they are reported. You can draft a plan from several angles and weigh them against each other.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Triggering a workflow by including the word 'workflow' in a prompt",
+    "source_quote": "include the word 'workflow' anywhere in your prompt and Claude writes a workflow script instead of working turn-by-turn",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The 'effort ultracode' directive automatically plans a workflow",
+    "source_quote": "set a directive called 'effort ultracode' and Claude automatically plans a workflow for every substantive task in the session",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Deep research is the first bundled workflow",
+    "source_quote": "The deep research feature, which is the first bundled workflow, fans out web searches across several angles, fetches and cross-checks sources, votes on each claim, and returns a cited report with claims that did not survive cross-checking filtered out.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Deep research filters out claims that did not survive cross-checking",
+    "source_quote": "returns a cited report with claims that did not survive cross-checking filtered out. That is a research assistant that cannot fudge the sources.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Saved workflows appear in autocomplete alongside bundled ones",
+    "source_quote": "When a workflow does exactly what you want, you press the save key in the workflows view and it saves as a command. Saved workflows appear in the autocomplete alongside the bundled ones.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Workflows can be saved to .claude/workflows folder for team sharing",
+    "source_quote": "You can save to a dot-claude slash workflows folder in your project for team sharing",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Workflows can be saved to workflows folder in home directory for personal use",
+    "source_quote": "or to a workflows folder in your home directory for personal use",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Interrupted runs can be resumed within the same session",
+    "source_quote": "And if you stop a run midway through, you can resume it within the same session. Agents that already completed return their cached results. The rest run live.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Completed agents return cached results when resuming",
+    "source_quote": "Agents that already completed return their cached results. The rest run live.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "You cannot provide input mid-run",
+    "source_quote": "You cannot provide input mid-run — only agent permission prompts can pause execution.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Only agent permission prompts can pause execution",
+    "source_quote": "only agent permission prompts can pause execution",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The workflow script itself has no direct filesystem or shell access",
+    "source_quote": "The script itself has no direct filesystem or shell access. Agents do the reading, writing, and command execution.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Agents do the reading, writing, and command execution",
+    "source_quote": "Agents do the reading, writing, and command execution.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Resume only works within the same Claude Code session",
+    "source_quote": "And resume only works within the same Claude Code session — exit and the next session starts fresh.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Runs count toward plan usage and can use significantly more tokens",
+    "source_quote": "Runs count toward your plan's usage and can use significantly more tokens.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code is moving toward autonomous operation",
+    "source_quote": "Combined with ultracode mode, Claude Code is moving toward autonomous operation where you describe the outcome and the system figures out the plan, writes the script, and executes it. That is not a feature update. That is a different product category.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Dynamic workflows represent a fundamental shift in how AI assistance is coordinated at scale",
+    "source_quote": "Dynamic workflows landed this week, and they represent a fundamental shift in how you coordinate A I assistance at scale.",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "With subagents and skills, Claude is the orchestrator and decides turn-by-turn what to spawn next",
+    "source_quote": "With subagents and skills, Claude is the orchestrator. It decides turn-by-turn what to spawn next, and every result lands in Claude's context window.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "A workflow script holds the loop, branching logic, and intermediate results in variables",
+    "source_quote": "A workflow moves the plan into code. The script holds the loop, the branching logic, and the intermediate results in variables. Claude's context only ever sees the final answer. That is a fundamentally different architecture.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Claude Code is moving from a conversational assistant to a batch orchestration engine",
+    "source_quote": "This moves Claude Code from a conversational assistant to a batch orchestration engine. Anthropic is betting that the next leap in developer productivity is not a smarter single model but better coordination of many agents.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

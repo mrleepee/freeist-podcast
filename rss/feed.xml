@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 13:58:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 15:17:10 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -272,27 +272,27 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <title>Claude Code Dynamic Workflows: Opus 4.8 Changes Everything</title>
       <description>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</description>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:37</itunes:duration>
+      <itunes:duration>05:03</itunes:duration>
       <itunes:summary>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="2219564" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="4426341" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3</guid>
     </item>
     <item>
       <title>Linus Torvalds: Linux, Git, and a Tech Talk at Google</title>
       <description>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>07:54</itunes:duration>
+      <itunes:duration>05:17</itunes:duration>
       <itunes:summary>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="3762092" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="4631637" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3</guid>
     </item>
     <item>
       <title>Your AI Agent Dies the Second You Close the Terminal</title>
       <description>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>03:18</itunes:duration>
+      <itunes:duration>03:36</itunes:duration>
       <itunes:summary>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="1573316" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="3253533" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3</guid>
     </item>
     <item>

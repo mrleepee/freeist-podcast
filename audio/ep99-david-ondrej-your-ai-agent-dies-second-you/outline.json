@@ -1,0 +1,19 @@
+{
+  "thesis": "tmux is sovereignty infrastructure—free, self-hosted, and unglamorous in exactly the way that makes it resilient against platform lock-in.",
+  "hook": "A tool has existed on every Linux server for fifteen years that keeps your work alive through disconnections, enables agents to read each other's panes, and costs less than a streaming subscription. Nobody talks about it.",
+  "stakes": "While you're paying monthly for cloud IDEs and SaaS collaboration tools, the infrastructure for resilient, self-hosted development work sits largely untouched. Every subscription is a dependency; every dependency is a point where someone else decides your terms of service.",
+  "evidence_beats": [
+    0,
+    1,
+    9,
+    11,
+    14,
+    15
+  ],
+  "counterpoint": "tmux requires comfort with the terminal and basic server administration—a real barrier for developers who expect GUI-based workflows and managed services.",
+  "implication": "The barrier to entry is five minutes of terminology and a cheap VPS. After that, you own the infrastructure. Your sessions don't disappear when your laptop closes. Your agents don't get deplatformed.",
+  "close": "Señora Freedom taught us that sovereignty is a practice, not a status. You don't get it by signing up for the right SaaS. You build it with tools that are already on the server, already free, already ignored. Tonight, open a terminal, SSH into a five-dollar VPS, and run tmux new -s practice. Close your laptop. Leave for work. Come back. Your session will be waiting. That's what infrastructure feels like when it belongs to you.",
+  "warnings": [
+    "thin evidence: only 16 claims available"
+  ]
+}

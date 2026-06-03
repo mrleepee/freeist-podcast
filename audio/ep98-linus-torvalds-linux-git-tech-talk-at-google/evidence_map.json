@@ -1,0 +1,130 @@
+[
+  {
+    "claim": "Linus Torvalds is a Finnish software engineer who wrote the Linux kernel in 1991",
+    "source_quote": "He's the Finnish software engineer who, in nineteen ninety-one, wrote the kernel that now runs Android phones, supercomputers, servers across the globe, and arguably the entire internet's infrastructure.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "In 2007, Linus Torvalds lost access to BitKeeper",
+    "source_quote": "in two thousand seven, when he found himself suddenly without access to BitKeeper — the proprietary source code management tool he'd been relying on",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Linus Torvalds built Git in two weeks",
+    "source_quote": "he built his own replacement in two weeks",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Git emerged from practical necessity and dissatisfaction with available alternatives",
+    "source_quote": "Git emerged not from academic theorizing or corporate planning, but from raw, practical necessity and a deep dissatisfaction with every alternative available.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Linus Torvalds publicly expressed contempt for CVS and Subversion",
+    "source_quote": "When asked about C V S and Subversion, his contempt was immediate and public. 'C V S done right' was, in his view, an impossible slogan — because the foundation itself was flawed.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Linus Torvalds spent ten years using tarballs and patches for code management",
+    "source_quote": "He had spent ten years using tarballs and patches, which sounds archaic until you realise that approach at least had one virtue: it didn't lie to you about what was happening to your code.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Creating a new branch in Git requires approximately 41 bytes of disk space",
+    "source_quote": "Creating a new branch requires about forty-one bytes of disk space — essentially nothing.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The Linux kernel has over 22,000 files",
+    "source_quote": "The Linux kernel, with over twenty-two thousand files and contributions from thousands of developers, averages four and a half merges per day.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The Linux kernel averages 4.5 merges per day",
+    "source_quote": "The Linux kernel, with over twenty-two thousand files and contributions from thousands of developers, averages four and a half merges per day.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Linus Torvalds trusts between 5 and 15 specific people in his network of trust model",
+    "source_quote": "He doesn't trust everyone — he trusts five to fifteen specific people.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Git can diff the entire Linux kernel in under one second on a five-year-old laptop",
+    "source_quote": "Git can diff the entire Linux kernel — every single file — in under a second on a five-year-old laptop.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Git uses SHA-1 hashing for integrity verification, not cryptography",
+    "source_quote": "Git uses SHA one hashing for integrity, not cryptography. It's not trying to keep your code secret from adversaries. It's trying to guarantee that your data hasn't been quietly corrupted.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Git tracks content, not individual files",
+    "source_quote": "Git tracks content, not files. It doesn't care about individual files. It cares about the entire state of the project at any given moment.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Every version of a codebase in Git is identified by a SHA-1 hash representing the entire project state",
+    "source_quote": "Every version of your codebase is identified by a SHA one hash — essentially a digital fingerprint — and that fingerprint represents everything, everywhere, all at once.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Git succeeded because it was designed according to principles that made sense",
+    "source_quote": "Git didn't succeed because it had corporate backing or marketing budgets or institutional adoption. It succeeded because it was designed according to principles that made sense",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "opinion"
+  },
+  {
+    "claim": "The kernel grew to 22,000 files and thousands of contributors because of Git's distributed nature",
+    "source_quote": "The kernel grew to twenty-two thousand files and thousands of contributors not despite Git's distributed nature, but because of it.",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  }
+]

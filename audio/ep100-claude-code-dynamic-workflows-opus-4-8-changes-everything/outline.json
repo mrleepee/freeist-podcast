@@ -1,0 +1,17 @@
+{
+  "thesis": "Claude Code's new dynamic workflows aren't magic — they're auditable automation that forces you to think critically about what you're running.",
+  "hook": "One thousand agents. That is not a handful of helpers on a task. That is a department.",
+  "stakes": "If you've been treating AI as an oracle that you trust on faith, this feature changes the rules. Scripts are readable before they run. Independent agents can challenge each other's conclusions. Claims that don't survive cross-checking get filtered out. You can inspect the plan, question the logic, and reject the output — before a single line of code executes on your behalf.",
+  "evidence_beats": [
+    4,
+    5,
+    8,
+    9,
+    17,
+    18
+  ],
+  "counterpoint": "The limitation is real: you cannot provide input mid-run, and resume only works within the same session. If you exit, the next session starts fresh. This is a closed loop, not an open-ended assistant — you must decide what you're automating before you start.",
+  "implication": "You now have a research infrastructure that can replace a junior analyst, an auditor, and a fact-checker simultaneously. The question is whether you know enough about your own workflow to write the script — or whether you're ready to audit someone else's.",
+  "close": "Run 'deep research' on your next consequential decision and watch the script fan out across angles you didn't consider. When it returns, notice which claims survived and which didn't. That filtered silence is the machine doing the skepticism you should have done yourself. This is not artificial intelligence replacing your judgment — it's auditable automation raising the bar for both.",
+  "warnings": []
+}
