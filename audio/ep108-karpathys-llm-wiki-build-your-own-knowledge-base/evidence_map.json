@@ -1,0 +1,122 @@
+[
+  {
+    "claim": "Andrej Karpathy published a markdown file called LLM Wiki on GitHub Gist in April 2026",
+    "source_quote": "In April twenty twenty-six, Andrej Karpathy published a single markdown file on GitHub Gist. No product launch. No startup announcement. Just one file called LLM Wiki, dot M D.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The LLM Wiki pattern uses a compilation-first architecture instead of retrieval-first",
+    "source_quote": "stop retrieving your knowledge every single time you need it, and start compiling it once instead",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The knowledge management system has three layers: raw sources, wiki, and schema",
+    "source_quote": "The architecture has three clean layers. Layer one is your raw sources, your curated collection of articles, papers, and notes. Immutable. The AI reads them but never touches the originals. Layer two is the wiki itself, a directory of markdown files the AI maintains completely. Layer three is the schema, a configuration file that turns a generic AI agent into a disciplined wiki maintainer.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "During ingest, one article touches ten to fifteen related pages",
+    "source_quote": "Ingest: you drop a source into the raw folder, the AI reads it, writes a summary page, and touches ten to fifteen related pages, updating cross-links, flagging contradictions.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Vannevar Bush published the essay As We May Think in 1945 in The Atlantic",
+    "source_quote": "In nineteen forty-five, Vannevar Bush published an essay called As We May Think in The Atlantic.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Bush proposed the Memex, a personal curated knowledge store",
+    "source_quote": "He proposed the Memex, a personal, curated knowledge store where the connections between documents are as valuable as the documents themselves.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The GBrain system indexes 146,000 pages, 25,000 people, and 5,000 companies",
+    "source_quote": "the GBrain system developed by Garry Tan, which indexes one hundred forty-six thousand pages, twenty-five thousand people, and five thousand companies",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The knowledge base runs locally on the user's machine with no cloud dependency",
+    "source_quote": "Your knowledge base lives on your machine. No cloud dependency. No vendor lock-in. Your data stays yours.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The knowledge base uses Obsidian as the IDE and markdown files as the wiki format",
+    "source_quote": "As Karpathy put it: Obsidian is the IDE, the LLM is the programmer, the wiki is the codebase.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The most effective personal knowledge systems are moving from retrieval-first to compilation-first architectures",
+    "source_quote": "The convergence is not coincidence. The most effective personal knowledge systems are moving from retrieval-first to compilation-first architectures.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "If an AI provider disappears, users can recompile their wiki with a different provider",
+    "source_quote": "If your AI provider disappears tomorrow, you still have the wiki. You can recompile it with a different provider.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "The lint operation audits for contradictions, orphan pages, and missing concept pages",
+    "source_quote": "Lint: periodically the AI audits the whole wiki for contradictions, orphan pages with no inbound links, and concepts mentioned but missing their own page.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The schema defines page structures, ingestion workflows, and formatting conventions",
+    "source_quote": "It defines page structures, ingestion workflows, and formatting conventions.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Garry Tan developed the GBrain system",
+    "source_quote": "I covered a similar system in episode one oh one, the GBrain system developed by Garry Tan",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Hermes Agent's LLM Wiki skill applies the pattern with Obsidian as the viewer",
+    "source_quote": "In episode thirty-seven, the Hermes Agent's LLM Wiki skill applies the identical pattern with Obsidian as the viewer.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

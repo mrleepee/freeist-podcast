@@ -1,0 +1,18 @@
+{
+  "thesis": "The LLM Wiki pattern represents a sovereignty move — shifting from renting your knowledge in someone else's cloud to owning a portable, recompilable second brain on your own machine.",
+  "hook": "In April 2026, Andrej Karpathy published a single markdown file to GitHub Gist. No product launch. No startup announcement. Just one file called LLM Wiki, dot MD.",
+  "stakes": "If your second brain lives in someone else's servers, you don't own your second brain. You rent it, at the pleasure of whoever controls those servers — and that vendor can change terms, go under, or get acquired tomorrow.",
+  "evidence_beats": [
+    1,
+    2,
+    3,
+    9,
+    12,
+    11,
+    13
+  ],
+  "counterpoint": "Local-first means local backups, local compute costs, and local maintenance burden. It's more work than signing up for Notion.",
+  "implication": "The practical implication: your thinking lives in plain text files you control, not in a database owned by a startup that might pivot, get acquired, or raise prices when you're too dependent to leave.",
+  "close": "I've started running Obsidian and compiling my own wiki. My data is in markdown files on my machine, readable by any text editor, portable to any AI provider. If OpenAI disappears tomorrow, my second brain keeps working. If Obsidian goes away, my pages are just files. This is what sovereignty looks like in practice — not a flag or a philosophy, but a folder on your hard drive that answers only to you.",
+  "warnings": []
+}

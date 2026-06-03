@@ -1,0 +1,17 @@
+{
+  "thesis": "The industry is selling you on massive context windows, but the real skill is knowing when to start over — and the data proves it",
+  "hook": "Your Claude Code session has a million-token context window. Here's the problem: research shows accuracy starts dropping at just twenty-five percent of that limit — well before you'd ever feel like you're running out of room",
+  "stakes": "Most users are treating their context window like a hard drive they can keep filling, when they're actually sliding into what practitioners call 'context rot' — where the model's attention fragments and older content starts competing with what matters right now",
+  "evidence_beats": [
+    3,
+    4,
+    5,
+    8,
+    9,
+    15
+  ],
+  "counterpoint": "A clean context does require intentional effort — rewind, compact, or clear — and some users prefer to work in longer sessions for continuity, accepting the quality trade-off",
+  "implication": "The five tools at your disposal after every response (rewind, compact, clear, subagents, and the discard button) aren't for emergencies — they're the discipline that separates people who love Claude Code from people who think it's unreliable",
+  "close": "Thariq Shihipar of Anthropic's Claude Code team calls rewind the number one professional habit, and he's right. A clean context beats a long one every single time. Press Escape twice, rewind to the clean version, and keep going — that is the actual skill, and it has nothing to do with how big your window is",
+  "warnings": []
+}

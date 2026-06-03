@@ -1,0 +1,130 @@
+[
+  {
+    "claim": "Claude Code can hold about a million tokens in its working memory",
+    "source_quote": "Claude Code can hold about a million tokens in its working memory at once — every instruction, every file it has read, every tool call and its output, all of it sitting there for the model to reference.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Context rot causes model performance to decline as session grows longer",
+    "source_quote": "This degradation has a name: context rot. As your session grows longer, the model's performance quietly declines. Attention gets spread across more tokens. Older, irrelevant content starts to distract from what you are actually working on right now.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Accuracy degradation begins before hitting the context limit",
+    "source_quote": "Research across leading models shows this starts well before you hit the limit.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Some benchmarks show accuracy dropping at 25% of context window",
+    "source_quote": "Some benchmarks show accuracy dropping at just twenty five percent of the context window.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "statistic"
+  },
+  {
+    "claim": "Practical threshold for experienced users is 50-60% of context",
+    "source_quote": "The practical threshold most experienced users have settled on is somewhere between fifty and sixty percent — once you pass that, quality starts slipping.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Session management is the single biggest factor separating satisfied from dissatisfied Claude Code users",
+    "source_quote": "And according to Anthropic's own team, it is the single biggest factor separating people who love Claude Code from people who think it is unreliable.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "There are five options for managing context after each response",
+    "source_quote": "After every response Claude gives you, you have five options for managing what comes next.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Rewind is activated by pressing Escape twice",
+    "source_quote": "The most powerful is called rewind — you press Escape twice and jump back to a previous message, discarding everything that came after.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Thariq Shihipar is a member of Anthropic's Claude Code team",
+    "source_quote": "Thariq Shihipar, a member of Anthropic's Claude Code team, calls this the number one professional habit",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Thariq Shihipar calls rewind the number one professional habit",
+    "source_quote": "Thariq Shihipar, a member of Anthropic's Claude Code team, calls this the number one professional habit, and I think he is right.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Compact feature summarises history and replaces full history",
+    "source_quote": "Compact asks Claude to summarise everything so far and replace the full history with that summary — quick and automatic, though it is lossy, meaning you are trusting the model to decide what mattered.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Compact is lossy (information is lost in summarisation)",
+    "source_quote": "Compact asks Claude to summarise everything so far and replace the full history with that summary — quick and automatic, though it is lossy, meaning you are trusting the model to decide what mattered.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Clear wipes everything in the session",
+    "source_quote": "Then there is clear, which wipes everything — but you write down what matters first, creating a fresh session with exactly the context you decided was relevant.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Subagents get their own fresh context window and work in isolation",
+    "source_quote": "Subagents are probably the most underrated tool. When Claude spawns a subagent, it gets its own fresh context window, does all its work in isolation, and only sends the final result back to you.",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Proactive compact at 50% yields better stability and fewer hallucinations",
+    "source_quote": "Multiple practitioners report better stability and fewer hallucinations when they stay ahead of context rot rather than waiting for the model to start struggling under the weight of it all.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "fact"
+  },
+  {
+    "claim": "A clean context beats a long context",
+    "source_quote": "It was never a slot machine. It is a safety margin — and a clean context beats a long one every single time.",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]
