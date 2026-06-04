@@ -1,0 +1,97 @@
+{
+  "claims": [
+    {
+      "claim": "Jack Dorsey, the chief executive, had predicted this would happen across the industry within a year, and he was right.",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "The evidence map states Dorsey predicted the majority of companies would reach the same conclusion about AI making roles unnecessary, but the script distorts this into a prediction about mass layoffs 'across the industry' and asserts 'he was right' as fact."
+    },
+    {
+      "claim": "But here is what nobody is asking: was that a failure of corporate judgment, or was it the market working exactly as designed?",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This framing implies the paper concludes the Block layoffs were the market working as designed, but the evidence map does not support this specific characterization of the Block event."
+    },
+    {
+      "claim": "Twenty competitors push even further into the red.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The evidence map confirms the wedge grows with more competitors and mentions ten competitors, but the specific claim about twenty competitors is not supported by the provided evidence."
+    },
+    {
+      "claim": "AI was explicitly cited as the reason.",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "The evidence map states AI was 'cited as a primary driver in more than half the cases,' but the script alters this to 'explicitly cited as the reason,' which is a stronger and less nuanced claim."
+    },
+    {
+      "claim": "Cognition's tool called Devin, deployed at Goldman Sachs and at Infosys, allows a single senior engineer to do the work of a five-person team.",
+      "confidence": "high",
+      "type": "name",
+      "reason": "The evidence map refers to 'Cognition's Devin' as a proper noun, while the script awkwardly rephrases it as 'Cognition's tool called Devin,' but the factual substance remains intact."
+    },
+    {
+      "claim": "because being the last to automate means absorbing the full demand destruction that the others caused.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This specific explanation for why firms automate first is not found in the evidence map. The map states automation is a dominant strategy, but does not describe 'being the last to automate' as the reason."
+    },
+    {
+      "claim": "The Nash equilibrium — the stable outcome that nobody can profitably deviate from — gives every firm lower profit than cooperation would have.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map states the Nash equilibrium gives lower profit than 'mutual restraint,' but the script replaces this with 'cooperation,' which subtly changes the game-theoretic meaning."
+    },
+    {
+      "claim": "Only a level of coordination that antitrust law currently forbids might fix it.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This claim about antitrust law is not found anywhere in the evidence map. It is an external assertion introduced by the script."
+    },
+    {
+      "claim": "That is not a prediction about the future. That is a description of the present vulnerability, and the competitive dynamics described in this paper apply regardless of how capable the technology becomes.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map does not contain these assertions about the present vs. the future or that the dynamics apply regardless of capability."
+    },
+    {
+      "claim": "So what does this mean for you personally, if your livelihood depends on skills that a machine can now replicate?",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This is narrative framing and personal advice not found in the evidence map."
+    },
+    {
+      "claim": "Retrain if you want. The model shows that helps only if the economy absorbs you at higher wages than you lost, and the evidence from every previous wave of automation suggests it will not.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map states retraining cannot eliminate the wedge unless workers are reabsorbed at higher wages, but the script adds 'every previous wave of automation suggests it will not,' which is an extrapolation beyond the provided evidence."
+    },
+    {
+      "claim": "The market is not asking your permission. It is not consulting your preferences. It is simply following the math, and the math says that in a competitive sector, every firm has an incentive to replace you before the next firm does.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This dramatic personification of the market and the specific claim about replacing workers 'before the next firm does' is narrative embellishment not supported by the evidence map."
+    },
+    {
+      "claim": "Jack Dorsey did not announce layoffs at Block. He published a game-theoretic prediction, and the market confirmed it.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map states Block cut nearly half its workforce and Dorsey stated AI made roles unnecessary. The script's claim that he 'published a game-theoretic prediction' is a misleading reframing of what was actually a layoff announcement."
+    },
+    {
+      "claim": "The question is not whether this is sad or fair. The question is whether an economy that values your replacement more than your employment is the economy we want to keep building.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This is editorial commentary not found in the evidence map."
+    },
+    {
+      "claim": "The market has answered that question clearly. The market always does.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "This is editorial commentary not found in the evidence map."
+    }
+  ],
+  "high_confidence": 15,
+  "threshold": 3,
+  "passed": false
+}

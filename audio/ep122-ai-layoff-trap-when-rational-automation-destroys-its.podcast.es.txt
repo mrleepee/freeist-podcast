@@ -1,0 +1,86 @@
+EN: Imagine you run a company. You can replace your workers with machines. You save money. But what happens if every company does the same thing?
+ES: Imagina que manejas una empresa. Puedes reemplazar a tus trabajadores con máquinas. Ahorras dinero. ¿Pero qué pasa si cada empresa hace lo mismo?
+EN: Two economists from top universities just proved a disturbing truth: the market has no brake on AI layoffs.
+ES: Dos economistas de universidades importantes acaban de probar una verdad preocupante: el mercado no tiene freno para los despidos por IA.
+EN: Brett Hemenway Falk from Penn and Gerry Tsoukalas from Boston University published a paper in March 2026 called "The AI Layoff Trap."
+ES: Brett Hemenway Falk de Penn y Gerry Tsouklatas de la Universidad de Boston publicaron un documento en marzo de 2026 llamado "La Trampa del Despido por IA."
+EN: They used game theory to show that rational companies, competing against each other, will automate too much.
+ES: Usaron teoría de juegos para mostrar que empresas racionales, compitiendo entre sí, van a automatizar demasiado.
+EN: Here is the core problem they identified: when a company fires workers to save money, those workers lose their wages.
+ES: Aquí está el problema central que identificaron: cuando una empresa despide trabajadores para ahorrar dinero, esos trabajadores pierden sus salarios.
+EN: When workers lose wages, they spend less money. They buy fewer shoes, fewer meals, fewer subscriptions.
+ES: Cuando los trabajadores pierden salarios, gastan menos dinero. Compran menos zapatos, menos comidas, menos suscripciones.
+EN: That lost spending does not just hurt the company that fired them. It hurts every company in the economy.
+ES: Ese gasto perdido no solo daña a la empresa que los despidió. Daña a cada empresa en la economía.
+EN: Each company captures the full benefit of replacing workers with AI. But each company only bears a small fraction of the cost.
+ES: Cada empresa captura el beneficio completo de reemplazar trabajadores con IA. Pero cada empresa solo paga una pequeña fracción del costo.
+EN: This is what economists call an externality. The damage spreads beyond the action.
+ES: Esto es lo que los economistas llaman una externalidad. El daño se extiende más allá de la acción.
+EN: The result is a prisoner's dilemma. Every company makes the locally rational choice. But everyone ends up worse off.
+ES: El resultado es un dilema del prisionero. Cada empresa toma la decisión racional local. Pero todos terminan peor.
+EN: The math is precise. In a market with ten competitors, each company bears only ten percent of the damage its own layoffs cause.
+ES: La matemática es precisa. En un mercado con diez competidores, cada empresa paga solo diez por ciento del daño que causan sus propios despidos.
+EN: Ninety percent of that damage lands on other companies. On competitors. On suppliers. On the whole economy.
+ES: El noventa por ciento de ese daño cae sobre otras empresas. Sobre competidores. Sobre proveedores. Sobre toda la economía.
+EN: Real companies are already falling into this trap. Block, led by Jack Dorsey, cut nearly half its workforce in February 2026.
+ES: Empresas reales ya están cayendo en esta trampa. Block, dirigida por Jack Dorsey, cortó casi la mitad de su fuerza laboral en febrero de 2026.
+EN: Dorsey said AI made many of those jobs unnecessary. He predicted most companies would reach the same conclusion within a year.
+ES: Dorsey dijo que la IA hizo innecesarios muchos de esos trabajos. Predijo que la mayoría de las empresas llegarían a la misma conclusión en un año.
+EN: Over 100,000 tech workers lost their jobs in 2025. AI was cited as a primary driver in more than half the cases.
+ES: Más de 100,000 trabajadores tecnológicos perdieron sus empleos en 2025. La IA fue citada como causa principal en más de la mitad de los casos.
+EN: Salesforce replaced 4,000 customer service agents with AI. One engineer using AI tools now does the work of five people.
+ES: Salesforce reemplazó 4,000 agentes de servicio al cliente con IA. Un ingeniero usando herramientas de IA ahora hace el trabajo de cinco personas.
+EN: About 80 percent of US workers have jobs with tasks that AI can do, according to research from 2024.
+ES: Cerca del 80 por ciento de los trabajadores estadounidenses tienen trabajos con tareas que la IA puede hacer, según investigaciones de 2024.
+EN: The paper shows that with common numbers, companies automate at twice the efficient rate. The problem is not small. It is structural.
+ES: El documento muestra que con números comunes, las empresas automatizan al doble de la tasa eficiente. El problema no es pequeño. Es estructural.
+EN: The economists tested six possible fixes. None of them work except one.
+ES: Los economistas probaron seis posibles soluciones. Ninguna funciona excepto una.
+EN: Retraining and upskilling help, but cannot fix the core problem. Displaced workers rarely find jobs that pay as well as what they lost.
+ES: Reentrenamiento y capacitación ayudan, pero no pueden resolver el problema central. Trabajadores desplazados rara vez encuentran trabajos que pagan tan bien como lo que perdieron.
+EN: Universal basic income cushions living standards. But it does not change a single company's incentive to automate.
+ES: El ingreso básico universal protege el nivel de vida. Pero no cambia el incentivo de ninguna empresa para automatizar.
+EN: Taxing robot profits does not work either. The equilibrium automation rate stays the same.
+ES: Gravar las ganancias de los robots tampoco funciona. La tasa de automatización de equilibrio se mantiene igual.
+EN: Giving workers ownership stakes reduces the problem but cannot eliminate it. Workers never spend 100 percent of their profits in the same sector.
+ES: Dar a los trabajadores acciones reduce el problema pero no puede eliminarlo. Los trabajadores nunca gastan el 100 por ciento de sus ganancias en el mismo sector.
+EN: Voluntary agreements between companies cannot fix this. The paper proves that even if every company agrees to restrain, each one still benefits from cheating.
+ES: Acuerdos voluntarios entre empresas no pueden resolver esto. El documento prueba que aunque cada empresa acepta contenerse, cada una todavía se beneficia de hacer trampa.
+EN: Only one solution works: a tax on automation, set equal to the unpriced damage each layoff causes.
+ES: Solo una solución funciona: un impuesto a la automatización, igual al daño no precio que cada despido causa.
+EN: This is called a Pigouvian tax, named after economist Arthur Pigou. It makes companies pay the full cost of their actions.
+ES: Esto se llama un impuesto pigouviano, nombrado por el economista Arthur Pigou. Hace que las empresas paguen el costo completo de sus acciones.
+EN: Revenue from this tax can fund retraining programs. That raises the income replacement rate over time.
+ES: Los ingresos de este impuesto pueden financiar programas de reentrenamiento. Eso sube la tasa de reemplazo de ingreso con el tiempo.
+EN: Here is the cruel irony: better AI makes this problem worse, not better.
+ES: Aquí está la ironía cruel: mejor IA hace este problema peor, no mejor.
+EN: When AI is more productive, not just cheaper, each company sees a market share gain from automating.
+ES: Cuando la IA es más productiva, no solo más barata, cada empresa ve una ganancia de participación de mercado al automatizar.
+EN: At the balanced equilibrium, these gains cancel out. Companies automate more, but nobody gains a real advantage.
+ES: En el equilibrio balanceado, estas ganancias se cancelan. Las empresas automatizan más, pero nadie gana una ventaja real.
+EN: Better AI just amplifies the distortion. The problem grows with every improvement.
+ES: Mejor IA solo amplifica la distorsión. El problema crece con cada mejora.
+EN: Some argue displaced workers will become entrepreneurs. They will work across multiple projects. This is the mesh economy vision.
+ES: Algunos argumentan que trabajadores desplazados se volverán emprendedores. Trabajarán en múltiples proyectos. Esta es la visión de la economía de malla.
+EN: But every historical displacement episode shows the same pattern: workers never fully recover their prior income.
+ES: Pero cada episodio histórico de desplazamiento muestra el mismo patrón: los trabajadores nunca recuperan completamente su ingreso previo.
+EN: The income replacement rate stays below one. Spending power never returns to baseline.
+ES: La tasa de reemplazo de ingreso se mantiene debajo de uno. El poder de compra nunca regresa al nivel anterior.
+EN: There is a consent problem here that the economists do not address. Workers did not agree to lose their jobs.
+ES: Hay un problema de consentimiento aquí que los economistas no abordan. Los trabajadores no aceptaron perder sus empleos.
+EN: The market does not self-correct because no individual actor has the incentive to stop.
+ES: El mercado no se autocorrige porque ningún actor individual tiene el incentivo de parar.
+EN: Dario Amodei, CEO of Anthropic, warned that AI-driven displacement will be unusually painful and much faster than previous technological shocks.
+ES: Dario Amodei, CEO de Anthropic, advirtió que el desplazamiento impulsado por IA será inusualmente doloroso y mucho más rápido que shocks tecnológicos anteriores.
+EN: If income replacement stays incomplete, the model shows where the damage is worst: not in dominant tech firms, but in fragmented industries deploying capable AI.
+ES: Si el reemplazo de ingreso permanece incompleto, el modelo muestra dónde el daño es peor: no en empresas tecnológicas dominantes, sino en industrias fragmentadas que usan IA capaz.
+EN: The paper is not anti-AI. Many firms are building tools that will improve lives and unlock advances that seem miraculous.
+ES: El documento no es anti-IA. Muchas empresas están construyendo herramientas que mejorarán vidas y desbloquearán avances que parecen milagrosos.
+EN: The warning is about market logic taking a transformative technology and driving it toward a destructive outcome.
+ES: La advertencia es sobre la lógica del mercado tomando una tecnología transformadora y conduciéndola hacia un resultado destructivo.
+EN: A technology that saves labor by deleting labor income may look brilliant on a spreadsheet and ruinous in society.
+ES: Una tecnología que ahorra trabajo al borrar el ingreso del trabajo puede verse brillante en una hoja de cálculo y destructiva en la sociedad.
+EN: Capitalism, in a fit of locally rational enthusiasm, may use the machines to wound itself.
+ES: El capitalismo, en un arranque de entusiasmo racional local, puede usar las máquinas para herirse a sí mismo.
+EN: And the math says it will not stop on its own.
+ES: Y la matemática dice que no parará por sí solo.

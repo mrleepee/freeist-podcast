@@ -1,0 +1,242 @@
+[
+  {
+    "claim": "Liberland has no income tax, no corporate tax, and no VAT",
+    "source_quote": "Liberland has no income tax. No corporate tax. No VAT. The state funds itself entirely through voluntary contributions",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Citizens buy 'merits' that represent actual ownership shares in the country",
+    "source_quote": "Citizens buy 'merits' that represent actual ownership shares in the country",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ten thousand dollars gets you five thousand merits",
+    "source_quote": "Ten thousand dollars gets you five thousand merits",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Eight hundred thousand citizenship applications",
+    "source_quote": "Eight hundred thousand citizenship applications",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Thirty-five thousand Americans",
+    "source_quote": "Thirty-five thousand Americans",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Sixty thousand Turks",
+    "source_quote": "Sixty thousand Turks",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Justin Sun, founder of Tron, became a citizen",
+    "source_quote": "Justin Sun, founder of Tron, became a citizen",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Borders are limits on the power of government",
+    "source_quote": "Borders, he says, are not just arbitrary lines. They are limits on the power of government",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Snowden fled to Russia because he had nowhere else to go",
+    "source_quote": "Snowden fled to Russia because he had nowhere else to go",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Acton quote: 'Power corrupts, and ultimate power corrupts ultimately'",
+    "source_quote": "'Power corrupts, and ultimate power corrupts ultimately,' Jedlicka says, quoting Acton",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The EU has six hundred thousand pages of regulation",
+    "source_quote": "The EU with its six hundred thousand pages of regulation",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The Club of Rome stated their goal was to create a shared crisis to unite humanity",
+    "source_quote": "he cites the Club of Rome directly, pointing out that they stated their goal was to create a shared crisis to unite humanity",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "fact"
+  },
+  {
+    "claim": "The Club of Rome stated the problem was never the climate but humans themselves",
+    "source_quote": "the problem was never the climate but humans themselves",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland is building AI advisors for citizens and congressmen",
+    "source_quote": "Liberland is already building this. AI advisors for citizens and congressmen",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland has a mobile app that tells citizens what legislation is being proposed",
+    "source_quote": "A mobile app that tells you what legislation is being proposed, how to vote, what opportunities exist",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland's constitution is written as a smart contract on a blockchain",
+    "source_quote": "The constitution itself is written as a smart contract — elections happen every three months on a blockchain",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Elections happen every three months on a blockchain",
+    "source_quote": "elections happen every three months on a blockchain, and nobody can change that without a vote",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland has two hundred percent economic growth last year",
+    "source_quote": "Two hundred percent economic growth last year",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Liberland has a diaspora network of villages and resorts on every continent",
+    "source_quote": "A diaspora network of villages and resorts on every continent where citizens can live, work, and conduct business under Liberland's legal framework",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland has a partnership with Paraguay offering tax residency",
+    "source_quote": "A partnership with Paraguay offering tax residency",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland Congress has seven people, including Justin Sun",
+    "source_quote": "Congress — seven people, including Justin Sun — proposes laws",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland has three institutions that can strike down laws: constitutional court, public veto, House of Lords",
+    "source_quote": "there are three institutions that can strike down laws: the constitutional court, a public veto similar to Switzerland's system, and the House of Lords",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The House of Lords is inspired by Dubai's model of long-term stewardship",
+    "source_quote": "a monarchical element that Jedlicka says is inspired by Dubai's model of long-term stewardship",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Switzerland is a mixed bag of languages, ethnicities, and cultures",
+    "source_quote": "Switzerland is a mixed bag of languages, ethnicities, and cultures",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Switzerland shares a deep suspicion of centralized power",
+    "source_quote": "they share a deep suspicion of centralized power",
+    "timestamp": "para:16",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Singapore, Hong Kong, Dubai built prosperity through free trade, low taxes, and minimal regulation",
+    "source_quote": "Singapore, Hong Kong, Dubai — all built prosperity through free trade, low taxes, and minimal regulation. Not through welfare states",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Liberland has seven square kilometers of flood-prone land between Croatia and Serbia",
+    "source_quote": "Seven square kilometers of flood-prone land between Croatia and Serbia",
+    "timestamp": "para:19",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Liberland has a few dozen residents",
+    "source_quote": "A few dozen residents",
+    "timestamp": "para:19",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Liberland has a blockchain constitution",
+    "source_quote": "A blockchain constitution",
+    "timestamp": "para:19",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Jedlicka's thesis was on the dangers of global government",
+    "source_quote": "His university thesis was on the dangers of global government",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

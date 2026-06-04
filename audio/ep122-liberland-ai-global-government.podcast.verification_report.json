@@ -1,0 +1,97 @@
+{
+  "claims": [
+    {
+      "claim": "Eight hundred thousand people have applied for citizenship",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "thirty-five thousand Americans",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "sixty thousand Turks",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "buy merits, and those merits represent actual ownership shares in the country",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:4)"
+    },
+    {
+      "claim": "Ten thousand dollars purchases five thousand merits",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:4)"
+    },
+    {
+      "claim": "no income tax, no corporate tax, and no value added tax",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:4)"
+    },
+    {
+      "claim": "constitution written as a smart contract on a blockchain",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "Elections happen every three months, also on a blockchain",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "mobile application that tells them precisely what legislation is being proposed",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "Liberland is building AI advisors for both citizens and elected representatives",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "diaspora network of villages and resorts on every continent",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:14)"
+    },
+    {
+      "claim": "partnership with Paraguay offering tax residency",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map (para:14)"
+    },
+    {
+      "claim": "two hundred percent economic growth in the past year",
+      "confidence": "medium",
+      "type": "number",
+      "reason": "Evidence map shows medium confidence for this statistic (para:14)"
+    },
+    {
+      "claim": "Justin Sun, founder of Tron, became a citizen",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "disputed territory between Serbia and Croatia along the Danube",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Supported by evidence map reference to land between Croatia and Serbia (para:19)"
+    }
+  ],
+  "high_confidence": 14,
+  "threshold": 3,
+  "passed": false
+}

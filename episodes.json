@@ -522,5 +522,25 @@
     "title": "Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months",
     "description": "Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel \u2014 viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/",
     "date": "2026-06-04"
+  },
+  "ep122-history-taxation-from-ancient-tribute-modern-certainty": {
+    "title": "The History of Taxation: From Ancient Tribute to Modern Certainty (re-produced)",
+    "description": "Re-produced with full source material (previously truncated at 8000 chars). A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation",
+    "date": "2026-06-04"
+  },
+  "ep122-ai-layoff-trap-when-rational-automation-destroys-its": {
+    "title": "The AI Layoff Trap: When Rational Automation Destroys Its Own Market (re-produced)",
+    "description": "Re-produced with full source material. How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business",
+    "date": "2026-06-04"
+  },
+  "ep122-uganda-real-estate-investment-foreigners": {
+    "title": "Uganda Real Estate Investment for Foreigners (re-produced)",
+    "description": "Re-produced with full source material. The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda",
+    "date": "2026-06-04"
+  },
+  "ep122-liberland-ai-global-government": {
+    "title": "Liberland, AI and Global Government (re-produced)",
+    "description": "Re-produced with full source material. How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland",
+    "date": "2026-06-04"
   }
 }

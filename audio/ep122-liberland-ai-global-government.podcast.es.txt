@@ -1,0 +1,138 @@
+EN: Imagine a country where nobody pays taxes.
+ES: Imagina un país donde nadie paga impuestos.
+EN: Where an AI might run for office someday.
+ES: Donde una inteligencia artificial podría gobernar algún día.
+EN: And where the biggest threat is one world government with no place left to run.
+ES: Y donde la amenaza más grande es un gobierno mundial sin ningún lugar adónde huir.
+EN: That place exists. It's called Liberland.
+ES: Ese lugar existe. Se llama Liberland.
+EN: Vit Jedlicka is president of a country most maps don't show.
+ES: Vit Jedlicka es presidente de un país que la mayoría de mapas no muestran.
+EN: Seven square kilometers between Croatia and Serbia, mostly underwater.
+ES: Siete kilómetros cuadrados entre Croacia y Serbia, la mayoría bajo el agua.
+EN: But eight hundred thousand people want to be citizens anyway.
+ES: Pero ochocientas mil personas quieren ser ciudadanos de todas formas.
+EN: That number made me pay attention.
+ES: Ese número me hizo prestar atención.
+EN: Here's why Liberland matters, win or lose.
+ES: Aquí está el porqué Liberland importa, gane o pierda.
+EN: Let's start with the money.
+ES: Empecemos con el dinero.
+EN: No income tax. No corporate tax. No VAT.
+ES: Sin impuesto sobre la renta. Sin impuesto corporativo. Sin IVA.
+EN: The state funds itself through voluntary contributions.
+ES: El estado se financia a través de contribuciones voluntarias.
+EN: Citizens buy merits. Think of them like ownership shares.
+ES: Los ciudadanos compran méritos. Piénsalos como acciones de propiedad.
+EN: Ten thousand dollars gets you five thousand merits.
+ES: Diez mil dólares te dan cinco mil méritos.
+EN: Or you earn them by contributing time or skills.
+ES: O los ganas contribuyendo con tiempo o habilidades.
+EN: Here's the radical part. If you don't like how the country is run, you keep your merits.
+ES: Aquí está la parte radical. Si no te gusta cómo funciona el país, te quedas con tus méritos.
+EN: You can sell them. You can leave.
+ES: Puedes venderlos. Puedes irte.
+EN: No exit tax. No capital flight laws. No permission required.
+ES: Sin impuesto de salida. Sin leyes de fuga de capitales. Sin permiso necesario.
+EN: Compare that to the United States, where leaving costs two hundred million people millions in exit taxes.
+ES: Compáralo con Estados Unidos, donde irse les cuesta a doscientos millones de personas millones en impuestos de salida.
+EN: Justin Sun, founder of Tron, became a citizen.
+ES: Justin Sun, fundador de Tron, se convirtió en ciudadano.
+EN: Overnight, Liberland became one of the wealthiest nations per capita on earth.
+ES: De la noche a la mañana, Liberland se convirtió en una de las naciones más ricas per cápita del mundo.
+EN: Now, here's the uncomfortable part of the Liberland pitch.
+ES: Ahora, aquí está la parte incómoda del argumento de Liberland.
+EN: Jedlicka's university thesis was about the dangers of global government.
+ES: La tesis universitaria de Jedlicka era sobre los peligros del gobierno global.
+EN: His argument is simple. Borders are limits on power.
+ES: Su argumento es simple. Las fronteras son límites al poder.
+EN: When your government becomes tyrannical, you need somewhere to run.
+ES: Cuando tu gobierno se vuelve tiránico, necesitas algún lugar adónde huir.
+EN: Edward Snowden fled to Russia because he had nowhere else to go.
+ES: Edward Snowden huyó a Rusia porque no tenía ningún otro lugar adónde ir.
+EN: If there were a global government, there would be no Russia.
+ES: Si hubiera un gobierno global, no habría ninguna Rusia.
+EN: No escape valve. No jurisdiction to opt out of.
+ES: Sin válvula de escape. Sin jurisdicción de la cual salirse.
+EN: Power corrupts. Ultimate power corrupts ultimately.
+ES: El poder corrompe. El poder absoluto corrompe absolutamente.
+EN: Every empire in history that achieved dominance became corrupt.
+ES: Cada imperio en la historia que logró dominio se volvió corrupto.
+EN: Why would a global government be different?
+ES: Por qué sería diferente un gobierno global?
+EN: Jedlicka sees it happening now. The EU has six hundred thousand pages of regulation.
+ES: Jedlicka lo ve sucediendo ahora. La UE tiene seiscientas mil páginas de regulación.
+EN: Climate policy is becoming a framework for global governance.
+ES: La política climática se está convirtiendo en un marco para el gobierno global.
+EN: He cites the Club of Rome directly.
+ES: Cita al Club de Roma directamente.
+EN: They said their goal was to create a shared crisis to unite humanity.
+ES: Dijeron que su meta era crear una crisis compartida para unir a la humanidad.
+EN: The problem, in their view, was never the climate.
+ES: El problema, en su vista, nunca fue el clima.
+EN: It was humans themselves.
+ES: Fueron los humanos mismos.
+EN: Whether you agree with his climate skepticism or not, the structural point stands.
+ES: Si estás de acuerdo con su escepticismo climático o no, el punto estructural se mantiene.
+EN: Centralized power without competition breeds tyranny.
+ES: El poder centralizado sin competencia genera tiranía.
+EN: Now here's where it gets interesting. Jedlicka wants AI to hold governance shares.
+ES: Ahora aquí es donde se pone interesante. Jedlicka quiere que la IA tenga acciones de gobierno.
+EN: Not to replace citizens. To represent them.
+ES: No para reemplazar a los ciudadanos. Para representarlos.
+EN: Picture an AI trained on your values, your decisions, your entire digital life.
+ES: Imagina una IA entrenada con tus valores, tus decisiones, toda tu vida digital.
+EN: That AI could vote on legislation that affects you.
+ES: Esa IA podría votar sobre legislación que te afecta.
+EN: It could not be bribed. It could not forget. It could not sleep with lobbyists.
+ES: No podría ser sobornada. No podría olvidar. No podría dormir con lobistas.
+EN: Liberland is already building this. A mobile app shows citizens proposed laws.
+ES: Liberland ya está construyendo esto. Una aplicación móvil muestra a los ciudadanos las leyes propuestas.
+EN: Elections happen every three months on a blockchain.
+ES: Las elecciones pasan cada tres meses en una cadena de bloques.
+EN: Nobody can change the constitution without a vote.
+ES: Nadie puede cambiar la constitución sin una votación.
+EN: But Jedlicka draws a line. AI should advise, not command.
+ES: Pero Jedlicka traza una línea. La IA debe asesorar, no ordenar.
+EN: The moment it crosses that line, it becomes just another tyrant.
+ES: El momento que cruza esa línea, se convierte en solo otro tirano.
+EN: The core insight Jedlicka keeps returning to is competition.
+ES: La idea central que Jedlicka sigue repitiendo es la competencia.
+EN: Just as business monopolies produce bad products, governance monopolies produce bad laws.
+ES: Así como los monopolios de negocios producen malos productos, los monopolios de gobierno producen malas leyes.
+EN: He wants a world of a thousand Liechtensteins, not one European Union.
+ES: Quiere un mundo de mil Liechtensteins, no una Unión Europea.
+EN: More jurisdictions means more pressure on governments to serve citizens.
+ES: Más jurisdicciones significa más presión sobre los gobiernos para servir a los ciudadanos.
+EN: Is it naive? Maybe.
+ES: Es naive? Tal vez.
+EN: But Liberland is proving the model works. Two hundred percent economic growth last year.
+ES: Pero Liberland está probando que el modelo funciona. Doscientos por ciento de crecimiento económico el año pasado.
+EN: Diaspora villages on every continent where citizens live under Liberland's legal framework.
+ES: Aldeas de diáspora en cada continente donde los ciudadanos viven bajo el marco legal de Liberland.
+EN: The experiment is tiny. The idea is massive.
+ES: El experimento es pequeño. La idea es enorme.
+EN: Here's the uncomfortable question nobody asks.
+ES: Aquí está la pregunta incómoda que nadie hace.
+EN: What about people born into poverty? What about the grandmother who sells her wedding jewelry so a child can go to school?
+ES: Qué pasa con las personas nacidas en pobreza? Qué pasa con la abuela que vende sus joyas de boda para que un niño pueda ir a la escuela?
+EN: Jedlicka's answer is about personal responsibility. He doesn't address unequal starting lines.
+ES: La respuesta de Jedlicka es sobre responsabilidad personal. No aborda las líneas de salida desiguales.
+EN: But his broader point holds. The countries that reduced poverty most did it through economic freedom.
+ES: Pero su punto más amplio se mantiene. Los países que más redujeron la pobreza lo hicieron a través de la libertad económica.
+EN: Singapore. Hong Kong. Dubai. Low taxes. Minimal regulation.
+ES: Singapur. Hong Kong. Dubái. Impuestos bajos. Regulación mínima.
+EN: Not welfare states. Free markets.
+ES: No estados de bienestar. Mercados libres.
+EN: The question isn't whether Liberland succeeds as a territory.
+ES: La pregunta no es si Liberland tiene éxito como territorio.
+EN: The question is whether the idea spreads before the cage is built.
+ES: La pregunta es si la idea se extiende antes de que la jaula esté construida.
+EN: Because once that global government cage is complete, there really is nowhere left to run.
+ES: Porque una vez que esa jaula de gobierno global esté completa, realmente no quedará ningún lugar adónde huir.
+EN: And that, my friends, is why I keep watching Liberland.
+ES: Y eso, amigos míos, es por qué sigo observando a Liberland.
+EN: Not because I think they'll win.
+ES: No porque piense que van a ganar.
+EN: Because they're asking the right question at the right time.
+ES: Porque están haciendo la pregunta correcta en el momento correcto.

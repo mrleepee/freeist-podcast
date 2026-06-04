@@ -1,0 +1,322 @@
+[
+  {
+    "claim": "Two economists, Brett Hemenway Falk from the University of Pennsylvania and Gerry Tsoukalas from Boston University, published a paper on AI-driven layoffs.",
+    "source_quote": "Brett Hemenway Falk at the University of Pennsylvania and Gerry Tsoukalas at Boston University published a 53-page paper on arXiv in March 2026 called 'The AI Layoff Trap.'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper is 53 pages long and was published on arXiv in March 2026.",
+    "source_quote": "They published a 53-page paper on arXiv in March 2026 called 'The AI Layoff Trap.'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Block cut nearly half its 10,000-person workforce in February 2026.",
+    "source_quote": "Block cut nearly half its 10,000-person workforce in February 2026, with CEO Jack Dorsey stating that AI had made many of those roles unnecessary and that within a year, the majority of companies would reach the same conclusion.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Jack Dorsey stated that within a year, the majority of companies would reach the same conclusion about AI making roles unnecessary.",
+    "source_quote": "CEO Jack Dorsey stating that AI had made many of those roles unnecessary and that within a year, the majority of companies would reach the same conclusion.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Over 100,000 tech workers were laid off in 2025, with AI cited as a primary driver in more than half the cases.",
+    "source_quote": "Over 100,000 tech workers were laid off in 2025, with AI cited as a primary driver in more than half the cases.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Salesforce replaced 4,000 customer-support agents with agentic AI.",
+    "source_quote": "Salesforce replaced 4,000 customer-support agents with agentic AI.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cognition's Devin, deployed at Goldman Sachs and Infosys, enables one senior engineer to do the work of a five-person team.",
+    "source_quote": "Cognition's Devin, deployed at Goldman Sachs and Infosys, enables one senior engineer to do the work of a five-person team.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Roughly 80 percent of US workers hold jobs with tasks susceptible to automation by large language models.",
+    "source_quote": "Roughly 80 percent of US workers hold jobs with tasks susceptible to automation by large language models, according to Eloundou et al. 2024.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The over-automation wedge equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N), divided by the integration friction parameter k.",
+    "source_quote": "The over-automation wedge, as the authors call it, equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N), divided by the integration friction parameter k.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Each firm bears only 1/N of the demand destruction its own layoffs cause when there are N firms in a sector.",
+    "source_quote": "Under competitive pricing, if there are N firms in a sector, each firm bears only 1/N of the demand destruction its own layoffs cause.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The over-automation wedge is strictly increasing in N, meaning more competition means more over-automation.",
+    "source_quote": "This wedge is strictly increasing in N. More competition means more over-automation, not less.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A monopolist fully internalizes the externality while a market with ten competitors barely internalizes it at all.",
+    "source_quote": "A monopolist fully internalizes the externality. A market with ten competitors barely internalizes it at all.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "If the number of firms exceeds a critical threshold, full automation becomes strictly dominant for every firm (Corollary 1).",
+    "source_quote": "Corollary 1 in the paper states this with clinical precision: if the number of firms exceeds a critical threshold, full automation becomes strictly dominant for every firm.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "If the cost saving is less than the demand loss per task, the cooperative optimum is zero automation.",
+    "source_quote": "Yet if the cost saving is less than the demand loss per task, the cooperative optimum is zero automation.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Nash equilibrium gives every firm lower profit than mutual restraint would have.",
+    "source_quote": "The Nash equilibrium gives every firm lower profit than mutual restraint would have.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Total deadweight loss equals N times L times (the demand loss minus the cost saving).",
+    "source_quote": "Total deadweight loss equals N times L times (the demand loss minus the cost saving).",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The paper proves that communication cannot fix the externality; it is a structural feature of competitive markets deploying a cost-saving technology.",
+    "source_quote": "Communication cannot fix this. The paper explicitly proves that even if all firms acknowledge that collective restraint would raise profits, each firm's individually optimal action remains unchanged. Non-binding agreements are cheap talk. The externality is not a coordination failure that conversation can resolve. It is a structural feature of competitive markets deploying a cost-saving technology.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Upskilling and retraining cannot eliminate the automation wedge unless displaced workers are reabsorbed at higher wages than they lost, which has zero empirical precedent.",
+    "source_quote": "Upskilling and retraining narrow the wedge by raising the income-replacement rate eta, but cannot eliminate it unless displaced workers are reabsorbed at higher wages than they lost — a condition with zero empirical precedent in displacement episodes.",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "UBI raises the profit floor but does not change a firm's incentive to automate because it changes payoff levels, not payoff differences.",
+    "source_quote": "Universal basic income raises the profit floor and cushions living standards but does not change a single firm's incentive to automate. UBI changes payoff levels, not payoff differences. In game-theoretic terms, it is irrelevant to the strategic calculation.",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Capital income taxes are a non-starter because a proportional tax on profits cancels from the first-order condition, leaving the equilibrium automation rate unchanged.",
+    "source_quote": "Capital income taxes are a non-starter. A proportional tax on profits scales the entire profit function by (1 minus t), which cancels from the first-order condition. The equilibrium automation rate is unchanged.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Worker equity participation reduces but cannot close the wedge because even full profit-sharing leaves a positive wedge whenever workers spend less than 100 percent of shared profits in the sector.",
+    "source_quote": "Worker equity participation, through ESOPs or co-determination mandates, reduces the wedge but cannot close it. The paper proves that even full profit-sharing leaves a positive wedge whenever workers spend less than 100 percent of shared profits in the sector.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Voluntary profit-sharing will not arise because each firm's cost of sharing exceeds its 1/N share of the demand benefit.",
+    "source_quote": "And voluntary profit-sharing will not arise: each firm's cost of sharing exceeds its 1/N share of the demand benefit, so sharing zero is a dominant strategy.",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Coasian bargaining fails for four reasons: automation is a dominant strategy (no voluntary agreement is self-enforcing), the externality is multilateral and diffuse, the automation rate is not contractible, and decisions involve large substantially irreversible sunk costs.",
+    "source_quote": "Coasian bargaining — the idea that firms could negotiate among themselves — fails for four reasons. Automation is a dominant strategy, so no voluntary agreement is self-enforcing. The externality is multilateral and diffuse. The automation rate is not contractible between firms. And the decisions involve large sunk costs that are substantially irreversible.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Coase acknowledged that private bargaining breaks down in large-numbers settings.",
+    "source_quote": "As Coase himself acknowledged, private bargaining breaks down in large-numbers settings.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The optimal Pigouvian automation tax equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N).",
+    "source_quote": "The optimal rate equals lambda times (1 minus eta) times w, multiplied by (1 minus 1/N). For large N, this approximates lambda times (1 minus eta) times w.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The welfare loss is quadratic in the wedge, so even an imprecisely targeted tax yields a first-order gain.",
+    "source_quote": "The paper notes that because the welfare loss is quadratic in the wedge, even an imprecisely targeted tax yields a first-order gain.",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Proposition 6 identifies a Red Queen effect where better AI amplifies the problem rather than resolving it.",
+    "source_quote": "Proposition 6 in the paper contains what the authors call a Red Queen effect. When AI is not just cheaper than human workers but also more productive — producing more output per task — each firm perceives a market-share gain from automating beyond rivals.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Wage flexibility changes when the problem activates but not whether it exists.",
+    "source_quote": "Lower wages narrow the cost saving from automation and discourage further displacement. But the paper proves this raises the threshold at which the externality activates without closing the wedge once it does. Wage flexibility changes when the problem bites, not whether it exists.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The strongest self-correcting scenario (wages falling to near AI cost) is a Pyrrhic victory where workers who keep their jobs earn little more than the machines.",
+    "source_quote": "The strongest self-correcting scenario — wages falling to near the AI cost — is a Pyrrhic victory: workers who keep their jobs earn little more than the machines that would replace them.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Free entry makes over-automation worse by fragmenting the market further, increasing the number of competitors.",
+    "source_quote": "Free entry makes it worse still. New firms fragment the market further, and since the wedge is increasing in the number of competitors, more firms means more over-automation.",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "UBI can paradoxically widen the externality by attracting new entrants through higher baseline profits.",
+    "source_quote": "UBI can paradoxically widen the externality by attracting new entrants through higher baseline profits.",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A counter-thesis titled 'Beyond the AI Layoff Trap: A Dynamic Counter-Thesis on Displacement, Entrepreneurship, and the Mesh Economy' appeared on SSRN in April 2026.",
+    "source_quote": "A counter-thesis appeared on SSRN in April 2026 titled 'Beyond the AI Layoff Trap: A Dynamic Counter-Thesis on Displacement, Entrepreneurship, and the Mesh Economy.' The 23-page paper challenges the original's static framing.",
+    "timestamp": "para:16",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The counter-thesis proposes a mesh economy where displaced workers become multi-stream economic participants through freelancing, entrepreneurship, and portfolio careers.",
+    "source_quote": "proposing that displaced workers can be structurally transformed from single-employer dependents into multi-stream economic participants — what the authors call the mesh economy.",
+    "timestamp": "para:16",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Every historical displacement episode has produced an income-replacement rate well below 1.",
+    "source_quote": "The over-automation wedge persists as long as the income-replacement rate is less than 1 — meaning displaced workers do not fully recover their prior spending power. The mesh economy is a compelling vision, but every historical displacement episode has produced an income-replacement rate well below 1.",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Jacobson, LaLonde, and Sullivan documented that displaced workers suffer large, persistent earnings losses in 1993.",
+    "source_quote": "Displaced workers suffer large, persistent earnings losses, as documented by Jacobson, LaLonde, and Sullivan in 1993.",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Dario Amodei, CEO of Anthropic, warned that AI-driven displacement will be 'unusually painful,' 'much broader,' and 'much faster' than previous technological shocks.",
+    "source_quote": "Dario Amodei, CEO of Anthropic, has warned that AI-driven displacement will be 'unusually painful,' 'much broader,' and 'much faster' than previous technological shocks.",
+    "timestamp": "para:20",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The problem is most severe in fragmented industries deploying the most capable AI, not in dominant technology firms.",
+    "source_quote": "If that assessment is correct and income replacement remains incomplete, the model points to where the problem is most severe: not dominant technology firms but fragmented industries deploying the most capable AI.",
+    "timestamp": "para:20",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Tom Watson, former UK minister, wrote a Substack analysis about the AI Layoff Trap.",
+    "source_quote": "Tom Watson, the former UK minister, captured the irony in his Substack analysis: we can model the trap, publish the paper, nod gravely at the findings, and still march toward the cliff in excellent order, congratulating ourselves on our agility.",
+    "timestamp": "para:19",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "For illustrative parameters with AI cost at 30 percent of wages, workers spending 50 percent of income in the sector, 30 percent income replacement, firms automate at twice the cooperatively efficient rate.",
+    "source_quote": "For illustrative parameters in the paper — AI cost at 30 percent of wages, workers spending 50 percent of income in the sector, 30 percent income replacement, and many competitors — firms automate at twice the cooperatively efficient rate.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The paper is available at arxiv.org/abs/2603.20617.",
+    "source_quote": "https://arxiv.org/abs/2603.20617",
+    "timestamp": "para:21",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

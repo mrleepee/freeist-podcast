@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:07:38 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -17,8 +17,44 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>05:16</itunes:duration>
       <itunes:summary>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3" length="4823925" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3" length="4838205" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The AI Layoff Trap: When Rational Automation Destroys Its Own Market (re-produced)</title>
+      <description>Re-produced with full source material. How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>06:11</itunes:duration>
+      <itunes:summary>Re-produced with full source material. How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="5602293" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>The History of Taxation: From Ancient Tribute to Modern Certainty (re-produced)</title>
+      <description>Re-produced with full source material (previously truncated at 8000 chars). A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:17</itunes:duration>
+      <itunes:summary>Re-produced with full source material (previously truncated at 8000 chars). A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="4847901" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Liberland, AI and Global Government (re-produced)</title>
+      <description>Re-produced with full source material. How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>06:28</itunes:duration>
+      <itunes:summary>Re-produced with full source material. How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-liberland-ai-global-government.podcast.mp3" length="5884293" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-liberland-ai-global-government.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Uganda Real Estate Investment for Foreigners (re-produced)</title>
+      <description>Re-produced with full source material. The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:summary>Re-produced with full source material. The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-uganda-real-estate-investment-foreigners.podcast.mp3" length="4844085" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-uganda-real-estate-investment-foreigners.podcast.mp3</guid>
     </item>
     <item>
       <title>Introducing Gemma 4 12B Unified Encoder Free Multimodal</title>
@@ -63,7 +99,7 @@ Links:
 https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf
 https://csrc.nist.gov/pubs/sp/800/207/final
 https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4157997" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4166733" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3</guid>
     </item>
     <item>
@@ -82,7 +118,7 @@ Links:
 https://openhands.dev/
 https://arxiv.org/abs/2407.16741
 https://www.openhands.dev/blog/openhands-index</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3529101" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3529029" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3</guid>
     </item>
     <item>
@@ -101,7 +137,7 @@ Links:
 https://en.wikipedia.org/wiki/Liberland
 https://liberland.org/en/
 https://tron.network/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3" length="4263645" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3" length="4277349" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3</guid>
     </item>
     <item>
@@ -120,7 +156,7 @@ Links:
 https://www.linkedin.com/pulse/ai-made-us-faster-problem-david-fowler-mgnzc/
 https://github.com/dotnet/aspire
 https://devblogs.microsoft.com/aspire/author/davifowl/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3" length="4562493" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3" length="4571541" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3</guid>
     </item>
     <item>
@@ -139,7 +175,7 @@ Links:
 https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4788981" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4793853" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3</guid>
     </item>
     <item>
@@ -158,7 +194,7 @@ Links:
 https://x.com/eng_khairallah1/status/2061097347749441902
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 https://code.claude.com/docs/en/agent-sdk/agent-loop</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="4860957" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="4861509" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3</guid>
     </item>
     <item>
@@ -177,29 +213,8 @@ Links:
 https://www.lemonde.fr/en/opinion/article/2022/05/23/we-must-protect-the-first-1-000-days-of-a-child-s-life-and-develop-perinatal-care_5984413_23.html
 https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
 https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="3299973" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="3301605" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The AI Layoff Trap: When Rational Automation Destroys Its Own Market</title>
-      <description>Two economists from Wharton and Boston University published a 53-page game-theoretic proof that competitive firms will automate their workforce beyond what is collectively optimal, creating a deadweight loss that harms both workers and firm owners. Brett Hemenway Falk and Gerry Tsoukalas show that when a firm replaces workers with AI, it pockets the cost saving but only bears a fraction of the demand destruction — the rest lands on competitors. The resulting Prisoner's Dilemma means no firm can afford to hold back even though all firms end up worse off. Block cut nearly half its 10,000-person workforce. Salesforce replaced 4,000 agents with AI. Over 100,000 tech workers were laid off in 2025 with AI as a primary driver. The paper evaluates six policy instruments — upskilling, UBI, capital taxes, worker equity, Coasian bargaining, and a Pigouvian automation tax — and finds only the last one fully corrects the distortion. A follow-up paper on SSRN proposes a mesh economy counter-thesis but the original authors already anticipated the gap: every historical displacement episode has left workers with persistent earnings losses. The consent problem is structural: workers did not consent to being laid off, and the market does not self-correct because no individual actor has the incentive to stop.
-
-Links:
-https://arxiv.org/abs/2603.20617
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576198
-https://tomwatsonofficial.substack.com/p/the-ai-layoff-trap-and-the-markets
-https://medium.com/@adnanmasood/the-competitive-trap-in-ai-workforce-reduction-prisoners-dilemma-of-the-machine-age-67998fa7aba2</description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:15</itunes:duration>
-      <itunes:summary>Two economists from Wharton and Boston University published a 53-page game-theoretic proof that competitive firms will automate their workforce beyond what is collectively optimal, creating a deadweight loss that harms both workers and firm owners. Brett Hemenway Falk and Gerry Tsoukalas show that when a firm replaces workers with AI, it pockets the cost saving but only bears a fraction of the demand destruction — the rest lands on competitors. The resulting Prisoner's Dilemma means no firm can afford to hold back even though all firms end up worse off. Block cut nearly half its 10,000-person workforce. Salesforce replaced 4,000 agents with AI. Over 100,000 tech workers were laid off in 2025 with AI as a primary driver. The paper evaluates six policy instruments — upskilling, UBI, capital taxes, worker equity, Coasian bargaining, and a Pigouvian automation tax — and finds only the last one fully corrects the distortion. A follow-up paper on SSRN proposes a mesh economy counter-thesis but the original authors already anticipated the gap: every historical displacement episode has left workers with persistent earnings losses. The consent problem is structural: workers did not consent to being laid off, and the market does not self-correct because no individual actor has the incentive to stop.
-
-Links:
-https://arxiv.org/abs/2603.20617
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576198
-https://tomwatsonofficial.substack.com/p/the-ai-layoff-trap-and-the-markets
-https://medium.com/@adnanmasood/the-competitive-trap-in-ai-workforce-reduction-prisoners-dilemma-of-the-machine-age-67998fa7aba2</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="4593669" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep113-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3</guid>
     </item>
     <item>
       <title>The Unreasonable Effectiveness of HTML for AI Agents</title>
@@ -221,44 +236,6 @@ https://thariqs.github.io/html-effectiveness/</itunes:summary>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep103-unreasonable-effectiveness-html-ai-agents.podcast.mp3</guid>
     </item>
     <item>
-      <title>Uganda Real Estate Investment for Foreigners</title>
-      <description>Uganda offers 7 to 9 percent gross rental yields in Kampala's mid-market suburbs with entry prices around 70 to 95 thousand US dollars — but foreigners cannot own freehold land, only leasehold up to 99 years. Title fraud is endemic, the market is illiquid, and President Museveni has been in power since 1986 with no succession plan. After rental income tax at 12 percent of gross with no expense deductions, property management, maintenance, and vacancy, your net yield drops to 4 to 6 percent in shillings. Subtract currency drift and you land at 5 to 9 percent net in dollars on a good day — roughly what Ugandan treasury bonds pay without any of the headaches. The play is condominium units with clean registered titles, all-cash, sized small, with the exit planned at entry. The demographics are undeniable. The government's hand is heavy.
-
-Links:
-https://juruga.org/constitution/article/237/land-ownership
-https://ulii.org/akn/ug/act/2001/4/eng@2001-02-23/source
-https://www.ugandainvest.go.ug/</description>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>06:12</itunes:duration>
-      <itunes:summary>Uganda offers 7 to 9 percent gross rental yields in Kampala's mid-market suburbs with entry prices around 70 to 95 thousand US dollars — but foreigners cannot own freehold land, only leasehold up to 99 years. Title fraud is endemic, the market is illiquid, and President Museveni has been in power since 1986 with no succession plan. After rental income tax at 12 percent of gross with no expense deductions, property management, maintenance, and vacancy, your net yield drops to 4 to 6 percent in shillings. Subtract currency drift and you land at 5 to 9 percent net in dollars on a good day — roughly what Ugandan treasury bonds pay without any of the headaches. The play is condominium units with clean registered titles, all-cash, sized small, with the exit planned at entry. The demographics are undeniable. The government's hand is heavy.
-
-Links:
-https://juruga.org/constitution/article/237/land-ownership
-https://ulii.org/akn/ug/act/2001/4/eng@2001-02-23/source
-https://www.ugandainvest.go.ug/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep104-uganda-real-estate-investment-foreigners.podcast.mp3" length="3211148" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep104-uganda-real-estate-investment-foreigners.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>The History of Taxation: From Ancient Tribute to Modern Certainty</title>
-      <description>Taxation may be the second-oldest profession — and it has always worked the same way. From Egyptian grain tributes assessed by the scribe of the treasury around 3000 BCE, through Roman tax farmers called publicani who bid at auction for the right to extract whatever they could from provincials, to Magna Carta Clause 12 in 1215 which established no tax without common counsel — extracted at sword-point from King John, not granted by legal philosophy. William Pitt the Younger introduced British income tax in 1799 at 10 percent on incomes above 200 pounds, promised it was temporary, and it was repealed after Waterloo. Robert Peel brought it back in 1842 and it has never left. The US 16th Amendment in 1913 started at 1 percent on incomes above $3,000 with a top rate of 7 percent. By 1918 the top rate hit 77 percent. The Spanish-American War telephone tax of 1898 lasted 108 years. The window tax of 1696 made people brick up their windows for 150 years. Every major tax was sold as temporary. Every one became permanent. The pattern: crisis creates urgency, the tax is introduced with sunset promises, the crisis passes, the revenue proves too convenient, and the sunset clause quietly fails. Legality and legitimacy are not the same thing. The history of taxation is not a history of consent — it is a history of expedience becoming permanent.
-
-Links:
-https://en.wikipedia.org/wiki/Tax
-https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/incometax/
-https://www.archives.gov/milestone-documents/16th-amendment</description>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>13:30</itunes:duration>
-      <itunes:summary>Taxation may be the second-oldest profession — and it has always worked the same way. From Egyptian grain tributes assessed by the scribe of the treasury around 3000 BCE, through Roman tax farmers called publicani who bid at auction for the right to extract whatever they could from provincials, to Magna Carta Clause 12 in 1215 which established no tax without common counsel — extracted at sword-point from King John, not granted by legal philosophy. William Pitt the Younger introduced British income tax in 1799 at 10 percent on incomes above 200 pounds, promised it was temporary, and it was repealed after Waterloo. Robert Peel brought it back in 1842 and it has never left. The US 16th Amendment in 1913 started at 1 percent on incomes above $3,000 with a top rate of 7 percent. By 1918 the top rate hit 77 percent. The Spanish-American War telephone tax of 1898 lasted 108 years. The window tax of 1696 made people brick up their windows for 150 years. Every major tax was sold as temporary. Every one became permanent. The pattern: crisis creates urgency, the tax is introduced with sunset promises, the crisis passes, the revenue proves too convenient, and the sunset clause quietly fails. Legality and legitimacy are not the same thing. The history of taxation is not a history of consent — it is a history of expedience becoming permanent.
-
-Links:
-https://en.wikipedia.org/wiki/Tax
-https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/incometax/
-https://www.archives.gov/milestone-documents/16th-amendment</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep107-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="11489469" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep107-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Karpathy's LLM Wiki: Build Your Own Knowledge Base</title>
       <description>Andrej Karpathy published a single GitHub Gist called llm-wiki.md that reframes personal knowledge management using the oldest trick in software engineering: compilation. Your raw sources are source code, the wiki is the compiled binary, and the AI is the compiler. The three-layer architecture keeps raw sources immutable at the bottom, an AI-owned wiki of entity pages, concept pages, and cross-links in the middle, and a schema file like CLAUDE.md at the top that turns a generic agent into a disciplined wiki maintainer. Three operations power the whole thing: ingest drops a source and the AI updates 10 to 15 pages at once, query reads the pre-synthesised wiki instead of raw documents, and lint audits for contradictions, orphans, and stale data. Knowledge compounds over time rather than starting from scratch on every query. The pattern echoes Garry Tan's GBrain system indexing 146,000 pages and the Hermes agent's own llm-wiki skill with Obsidian. The deeper lineage goes back to Vannevar Bush's 1945 Memex vision — a personal knowledge store where connections between documents matter as much as the documents themselves. The bookkeeping that killed every previous wiki is exactly what AI automates. Your knowledge stays on your machine, in markdown, with no cloud dependency and no vendor lock-in.
 
@@ -274,7 +251,7 @@ Links:
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 https://x.com/karpathy/status/2040470801506541998
 https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3" length="4708797" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3" length="4713525" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3</guid>
     </item>
     <item>
@@ -293,7 +270,7 @@ Links:
 https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
 https://modelcontextprotocol.io/specification/2025-11-25
 https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intelligence-future-investment-management</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3" length="3632181" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3" length="3636693" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3</guid>
     </item>
     <item>
@@ -306,21 +283,12 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep101-gbrain-garry-tan-ai-knowledge-system.podcast.mp3</guid>
     </item>
     <item>
-      <title>Liberland, AI and Global Government</title>
-      <description>Vit Jedlicka warns that global government is the most dangerous concept humanity is playing with — borders are not just arbitrary lines but limits on power. Liberland funds itself through voluntary merit purchases instead of taxes, runs elections every three months on blockchain, and plans to let AI agents hold governance shares. Eight hundred thousand citizenship applications, Justin Sun as a citizen, and a diaspora network spanning every continent. The question is not whether Liberland succeeds but whether the idea spreads fast enough before the global bureaucrats finish building their cage.</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>06:02</itunes:duration>
-      <itunes:summary>Vit Jedlicka warns that global government is the most dangerous concept humanity is playing with — borders are not just arbitrary lines but limits on power. Liberland funds itself through voluntary merit purchases instead of taxes, runs elections every three months on blockchain, and plans to let AI agents hold governance shares. Eight hundred thousand citizenship applications, Justin Sun as a citizen, and a diaspora network spanning every continent. The question is not whether Liberland succeeds but whether the idea spreads fast enough before the global bureaucrats finish building their cage.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep102-liberland-ai-global-government.podcast.mp3" length="3088532" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep102-liberland-ai-global-government.podcast.mp3</guid>
-    </item>
-    <item>
       <title>Claude Code Dynamic Workflows: Opus 4.8 Changes Everything</title>
       <description>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</description>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <itunes:duration>05:03</itunes:duration>
       <itunes:summary>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="4426341" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="4432149" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3</guid>
     </item>
     <item>
@@ -329,7 +297,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <itunes:duration>05:17</itunes:duration>
       <itunes:summary>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="4631637" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="4642437" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3</guid>
     </item>
     <item>
@@ -338,7 +306,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <itunes:duration>03:36</itunes:duration>
       <itunes:summary>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="3253533" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="3252165" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3</guid>
     </item>
     <item>

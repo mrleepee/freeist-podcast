@@ -1,0 +1,378 @@
+[
+  {
+    "claim": "Uganda has a population of nearly 50 million people",
+    "source_quote": "A country of nearly 50 million people",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Kampala is urbanising at over 5% a year",
+    "source_quote": "A capital city urbanising at over 5% a year",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Rental yields in Kampala's mid-market suburbs run 7 to 9 percent gross",
+    "source_quote": "rental yields in Kampala's mid-market suburbs run 7 to 9 percent gross",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "A two-bedroom apartment in Kira or Najjera costs roughly 70 to 95 thousand US dollars",
+    "source_quote": "A decent two-bedroom apartment in a suburban area like Kira or Najjera costs you roughly 70 to 95 thousand US dollars",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Foreigners cannot own freehold land in Uganda under the 1995 Constitution",
+    "source_quote": "Foreigners cannot own freehold land in Uganda. Full stop. The 1995 Constitution, Article 237, reserves freehold, mailo, and customary tenure for Ugandan citizens only",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A leasehold can be granted for up to 99 years",
+    "source_quote": "What you can get is a leasehold — up to 99 years",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Condominium Property Act was passed in 2001",
+    "source_quote": "The cleanest path is a condominium unit under the Condominium Property Act of 2001",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Title fraud is endemic in Uganda",
+    "source_quote": "Title fraud is endemic. Fake titles, forged documents, the same plot sold to multiple buyers — concentrated in exactly the fast-growing areas a foreign investor would target",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The land registry computerisation has been glacial",
+    "source_quote": "The land registry's computerisation has been glacial, hampered by missing survey data and corruption",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Stamp duty is 1 percent on transfer",
+    "source_quote": "Stamp duty: 1 percent on transfer",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Rental income tax is 12 percent of gross annual rent",
+    "source_quote": "Rental income tax: 12 percent of gross annual rent above a threshold, and here's the kicker — individuals cannot deduct expenses",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Capital gains tax on investment property is 30 percent of the gain",
+    "source_quote": "Capital gains tax sits at 30 percent of the gain when you sell an investment property",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Buyer must withhold 6 percent of gross purchase price as advance tax on seller",
+    "source_quote": "If you're buying from a company or a landlord in the rental business, the buyer must withhold 6 percent of the gross purchase price as an advance tax on the seller",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Uganda asserts the right to tax worldwide income of tax residents",
+    "source_quote": "If you spend enough time in Uganda to be deemed tax resident, Uganda asserts the right to tax your worldwide income. Every dollar, everywhere",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Uganda Revenue Authority has been actively pursuing diaspora and high-net-worth individuals over undeclared offshore income",
+    "source_quote": "The Uganda Revenue Authority has recently been actively pursuing diaspora and high-net-worth individuals over undeclared offshore income",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Property management costs about 8 percent of rent",
+    "source_quote": "Subtract property management at about 8 percent — and this is not optional for an overseas owner",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Vacancy allowance of about 8 percent is realistic for mid-market",
+    "source_quote": "Subtract a vacancy allowance of about 8 percent, which is realistic for mid-market",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Net yield is roughly 4 to 6 percent in shillings",
+    "source_quote": "What you're left with is a net yield of roughly 4 to 6 percent",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Shilling depreciates at historically low single digits per year against the dollar",
+    "source_quote": "account for the shilling's slow, quiet depreciation — historically low single digits per year against the dollar",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Net dollar return lands somewhere in the range of 5 to 9 percent per year in a good outcome",
+    "source_quote": "Your net dollar return lands somewhere in the range of 5 to 9 percent per year in a good outcome",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Ugandan treasury bonds have offered coupons in the mid-teens — 14 to 16 percent in shillings",
+    "source_quote": "Ugandan treasury bonds have offered coupons in the mid-teens — 14 to 16 percent — in shillings",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Treasury bonds have outperformed residential rental property over long horizons once honestly accounting for taxes, management drag, vacancy, and illiquidity",
+    "source_quote": "Local analysts repeatedly find that treasury bonds have outperformed residential rental property over long horizons once you honestly account for taxes, management drag, vacancy, and illiquidity",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "President Museveni won a seventh term in January 2026 with 71.65 percent of the vote",
+    "source_quote": "President Museveni won a seventh term in January 2026 with 71.65 percent of the vote",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Museveni has been in power for nearly four decades",
+    "source_quote": "extending nearly four decades in power",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The election drew international criticism including pre-vote internet blackout, violence, arrests of opposition figures, and intimidation",
+    "source_quote": "The election drew international criticism: pre-vote internet blackout, violence, arrests of opposition figures, intimidation",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Constitutional term and age limits have been removed",
+    "source_quote": "Constitutional term and age limits have been removed",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Museveni is 81 years old",
+    "source_quote": "Museveni is 81 years old",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "There is no transparent, institutionalised plan for succession",
+    "source_quote": "there is no transparent, institutionalised plan for succession",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "First oil is targeted for the second half of 2026",
+    "source_quote": "First oil is targeted for the second half of 2026",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "prediction"
+  },
+  {
+    "claim": "The East African Crude Oil Pipeline costs roughly 5 billion dollars",
+    "source_quote": "The East African Crude Oil Pipeline — roughly 5 billion dollars",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The East African Crude Oil Pipeline is 1,443 kilometres long",
+    "source_quote": "1,443 kilometres",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The pipeline was about 75 percent complete by late 2025",
+    "source_quote": "was about 75 percent complete by late 2025",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "More than 3.3 billion dollars had already been invested in the pipeline",
+    "source_quote": "More than 3.3 billion dollars had already been invested",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Peak pipeline capacity is about 246,000 barrels per day",
+    "source_quote": "Peak pipeline capacity is about 246,000 barrels per day",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "IEEFA has warned that oil investments could prove value-destructive on a whole-life basis if global energy transition accelerates",
+    "source_quote": "If global energy transition accelerates, the IEEFA has warned that these investments could prove value-destructive on a whole-life basis",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Public debt is above 52 percent of GDP",
+    "source_quote": "public debt is above 52 percent of GDP",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The budget deficit widened to 6 percent",
+    "source_quote": "the budget deficit widened to 6 percent",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Local-currency mortgage rates run 18 to 24 percent",
+    "source_quote": "Local-currency mortgage rates run 18 to 24 percent",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "USD-denominated loans run 10 to 14 percent",
+    "source_quote": "USD-denominated loans run 10 to 14 percent",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Budget 8 to 10 percent of rent for management",
+    "source_quote": "Budget 8 to 10 percent of rent for management",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "A standby generator can add 15 to 25 percent to achievable rent",
+    "source_quote": "a generator can add 15 to 25 percent to achievable rent",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Mid-market suburban areas recommended include Kira, Najjera, Naalya, Bukoto, Ntinda, Kisaasi, Kyanja",
+    "source_quote": "target the mid-market suburban belt — Kira, Najjera, Naalya, Bukoto, Ntinda, Kisaasi, Kyanja",
+    "timestamp": "para:16",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Industrial and logistics assets are the strongest current asset class by fundamentals",
+    "source_quote": "Industrial and logistics assets are the strongest current asset class by fundamentals, if you can access them",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Assume it takes a year or more to exit the property",
+    "source_quote": "Plan the exit at entry — assume it takes a year or more",
+    "timestamp": "para:21",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Knight Frank reports a widening bid-ask gap and rising distressed listings",
+    "source_quote": "Knight Frank reports a widening bid-ask gap and rising distressed listings",
+    "timestamp": "para:21",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Forced sales attract steep discounts",
+    "source_quote": "Forced sales attract steep discounts",
+    "timestamp": "para:21",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Two critical signals to watch are the late-2026 first-oil milestone and any sign of movement on political succession",
+    "source_quote": "watch two signals above all others: the late-2026 first-oil milestone, and any sign of movement on political succession",
+    "timestamp": "para:22",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  }
+]

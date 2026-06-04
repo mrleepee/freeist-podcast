@@ -1,0 +1,21 @@
+{
+  "thesis": "Competitive market structure mathematically guarantees over-automation regardless of policy interventions, making the AI-driven layoffs we witnessed in 2025 not a failure of the system but its logical outcome.",
+  "hook": "Jack Dorsey didn't announce layoffs at Block — he published a game-theoretic prediction. In February 2026, his company cut nearly half its 10,000-person workforce, and Dorsey said the majority of companies would reach the same conclusion within a year. The uncomfortable part: he was right, not because he's prescient, but because the math demands it.",
+  "stakes": "Over 100,000 tech workers were laid off in 2025 with AI cited as a primary driver in over half the cases. But those aren't data points — they're the opening moves in an economic trap that gets harder to escape the more companies pile in.",
+  "evidence_beats": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    17,
+    18,
+    19,
+    20
+  ],
+  "counterpoint": "The model is a simplified abstraction — real markets have integration friction, contractual obligations, and reputational concerns that slow adoption. Critics also point to historical automation episodes creating net positive employment over time.",
+  "implication": "Every worker in a competitive sector is exposed to a structural trap, not a personal misfortune. Retrain all you want — the model shows that helps only if displaced workers get reabsorbed at higher wages, which has zero historical precedent.",
+  "close": "The paper's most devastating finding isn't the math — it's the solution space. UBI doesn't work. Taxes don't work. Retraining doesn't work. Even if every company agreed collective restraint would save all of them, each one would still automate first, because in a competitive market, being the last to automate means absorbing the full demand destruction. That's not irrational behavior by greedy CEOs. That's the market telling you exactly what it values. And right now, it's valuing your replacement.",
+  "warnings": []
+}

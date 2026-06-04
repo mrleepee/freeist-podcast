@@ -1,0 +1,145 @@
+{
+  "claims": [
+    {
+      "claim": "Seven to nine percent gross rental yields in Kampala",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map states 7 to 9 percent, but script rounds down to 7, omitting the upper bound of 9."
+    },
+    {
+      "claim": "growing at over five percent a year",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map specifies 'urbanising at over 5% a year', but the script vaguely claims the city is 'growing' at this rate, conflating urbanization rate with general growth."
+    },
+    {
+      "claim": "Uganda's population sits near fifty million",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('nearly 50 million people')."
+    },
+    {
+      "claim": "A two bedroom apartment in Kira or Najjera typically costs between seventy and ninety-five thousand dollars",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('70 to 95 thousand US dollars')."
+    },
+    {
+      "claim": "a seven to nine percent gross return",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('7 to 9 percent gross')."
+    },
+    {
+      "claim": "Under the nineteen ninety-five Constitution, foreigners cannot hold freehold title to land in Uganda.",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Supported by evidence map ('The 1995 Constitution, Article 237')."
+    },
+    {
+      "claim": "The law does allow a leasehold of up to ninety-nine years",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('leasehold — up to 99 years')."
+    },
+    {
+      "claim": "the Condominium Property Act of two thousand one",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Supported by evidence map ('Condominium Property Act of 2001')."
+    },
+    {
+      "claim": "title fraud is endemic",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Supported by evidence map ('Title fraud is endemic')."
+    },
+    {
+      "claim": "the land registry's computerisation has moved at a glacial pace.",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Supported by evidence map ('land registry's computerisation has been glacial')."
+    },
+    {
+      "claim": "Stamp duty is one percent of the purchase price",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('Stamp duty: 1 percent on transfer')."
+    },
+    {
+      "claim": "as a buyer you must withhold six percent of the gross price as an advance tax on the seller.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('buyer must withhold 6 percent of the gross purchase price')."
+    },
+    {
+      "claim": "professional property management typically eats eight percent of the rent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('property management at about 8 percent')."
+    },
+    {
+      "claim": "a realistic vacancy allowance for mid market units is another eight percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('vacancy allowance of about 8 percent')."
+    },
+    {
+      "claim": "On a gross rent of eight hundred dollars a month, those two costs alone cut your gross yield by more than one-sixth before the tax man arrives.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The specific '$800 a month' figure and the 'one-sixth' calculation are introduced in the script and are completely absent from the evidence map."
+    },
+    {
+      "claim": "The Uganda Revenue Authority levies a rental income tax of twelve percent on gross annual rent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('Rental income tax: 12 percent of gross annual rent')."
+    },
+    {
+      "claim": "if you sell, a capital gains tax of thirty percent applies to the profit.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('Capital gains tax sits at 30 percent of the gain')."
+    },
+    {
+      "claim": "Uganda also asserts the right to tax its residents on worldwide income",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Supported by evidence map ('Uganda asserts the right to tax your worldwide income')."
+    },
+    {
+      "claim": "The Revenue Authority has been actively pursuing diaspora owners and high net worth individuals for undeclared offshore income",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Supported by evidence map ('Uganda Revenue Authority has recently been actively pursuing diaspora and high-net-worth individuals over undeclared offshore income')."
+    },
+    {
+      "claim": "Seven to nine percent gross yields collapse to roughly four to six percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('net yield of roughly 4 to 6 percent')."
+    },
+    {
+      "claim": "the net dollar return lands between five and nine percent per year in a good outcome",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('net dollar return lands somewhere in the range of 5 to 9 percent per year in a good outcome')."
+    },
+    {
+      "claim": "the shilling's gradual depreciation, which runs at historically low single digits each year.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map ('shilling's slow, quiet depreciation — historically low single digits per year')."
+    },
+    {
+      "claim": "yields hover around three or four percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The claim regarding developed market yields is an unverified comparison introduced in the script and not found in the evidence map."
+    }
+  ],
+  "high_confidence": 23,
+  "threshold": 3,
+  "passed": false
+}

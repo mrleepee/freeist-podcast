@@ -1,0 +1,474 @@
+[
+  {
+    "claim": "Taxation began around 3000 BCE in Egypt",
+    "source_quote": "Around 3000 BCE, the pharaohs of Egypt established what may be the first known tax system.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Egyptian tax rate was typically around 20 percent of grain production",
+    "source_quote": "The state assessed how much grain your land could produce, took a cut — typically around 20 percent",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "The sesh per hedj was the Egyptian official responsible for recording tax assessments",
+    "source_quote": "The 'scribe of the treasury,' or sesh per hedj, was the official responsible for recording these assessments",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Failure to pay taxes in Egypt meant corporal punishment",
+    "source_quote": "Failure to pay meant corporal punishment.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Tomb reliefs at Saqqara depict tax officials beating farmers who fell behind",
+    "source_quote": "Tomb reliefs at Saqqara depict tax officials beating farmers who fell behind.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Herodotus noted Persian conquest of Egypt improved tax administration",
+    "source_quote": "Herodotus, writing in the fifth century BCE, noted that the Persian conquest of Egypt around 525 BCE actually improved tax administration.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Persians imposed 700 talents of silver annually from Egypt",
+    "source_quote": "The Persians introduced a systematic census and fixed tribute amounts — 700 talents of silver annually from Egypt alone",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Persians also demanded the produce of the fish markets of Lake Moeris",
+    "source_quote": "plus the produce of the fish markets of Lake Moeris.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The Romans copied the Persian tax model",
+    "source_quote": "The Romans would later copy this model and scale it across three continents.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Roman tributum was originally a temporary wealth tax",
+    "source_quote": "The tributum was originally a wealth tax levied on Roman citizens to fund wars — and here's the key detail: it was explicitly temporary.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "By the second century BCE, Rome had tax farming through publicani",
+    "source_quote": "By the second century BCE, Rome had shifted to a system that would make modern private equity firms blush: tax farming.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Publicani were private contractors who bid for the right to collect taxes",
+    "source_quote": "The publicani were private contractors who bid at auction for the right to collect taxes in a province.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cicero was governor of Cilicia in 51-50 BCE",
+    "source_quote": "Cicero, when he was governor of Cilicia in 51-50 BCE, wrote extensively about the abuses of the publicani.",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cicero described tax collectors who 'extract from the provincials not merely money but their blood'",
+    "source_quote": "In his letters to Atticus, he described tax collectors who 'extract from the provincials not merely money but their blood.'",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Augustus reformed the system around 27 BCE",
+    "source_quote": "When Augustus reformed the system around 27 BCE, replacing tax farmers with direct imperial officials",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Augustus reformed because publicani had become so rapacious that provinces were revolting and revenues were declining",
+    "source_quote": "He did it because the publicani had become so rapacious that provinces were revolting and revenues were actually declining.",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Danegeld was first levied in 991 CE",
+    "source_quote": "Danegeld — literally 'Danish money' — was a land tax first levied in 991 CE",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "First Danegeld payment was 10,000 pounds of silver",
+    "source_quote": "King Aethelred the Unready's government collected 10,000 pounds of silver in the first payment.",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "By 1018, the Danegeld reached 82,500 pounds",
+    "source_quote": "By 1018, the Danegeld reached 82,500 pounds.",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Scutage was introduced by Henry I around 1100",
+    "source_quote": "Scutage, introduced by Henry I around 1100, which let knights pay cash instead of providing military service.",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Magna Carta Clause 12 was established in 1215",
+    "source_quote": "The breaking point came in 1215. Magna Carta's Clause 12 — still one of the most consequential sentences in the history of government — stated: 'No scutage or aid may be levied in our kingdom without its general consent.'",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Clause 12 was extracted because barons had captured London and were about to depose King John",
+    "source_quote": "King John didn't agree to this because he believed in democracy. He agreed because his barons had captured London and were about to depose him. Clause 12 was extracted at sword-point.",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "English Bill of Rights Article 4 was declared in 1689",
+    "source_quote": "This principle was reinforced in 1689. The English Bill of Rights, Article 4, declared: 'That levying money for or to the use of the Crown by pretence of prerogative, without grant of Parliament, is illegal.'",
+    "timestamp": "para:15",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Charles I lost his head in 1649",
+    "source_quote": "Charles I literally losing his head over it in 1649.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Window tax was introduced in 1696 under William III",
+    "source_quote": "And then there's the window tax of 1696. Under William III, Britain introduced a tax based on the number of windows in your house.",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Window tax: six windows or fewer exempt, ten to nineteen windows four shillings, twenty or more eight shillings",
+    "source_quote": "Six windows or fewer: exempt. Ten to nineteen windows: four shillings. Twenty or more: eight shillings.",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Window tax persisted for over 150 years and was finally repealed in 1851",
+    "source_quote": "The tax persisted for over 150 years, finally repealed in 1851",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Window tax was repealed because it was reducing property values and lack of ventilation caused disease",
+    "source_quote": "not because anyone decided it was unjust but because it was reducing property values and the medical profession had begun arguing that lack of ventilation caused disease.",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "William Pitt the Younger introduced the first British income tax in 1799",
+    "source_quote": "William Pitt the Younger introduced the first British income tax in 1799 to fund the Napoleonic Wars.",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Initial British income tax rate was 10% on incomes above 200 pounds",
+    "source_quote": "It was explicitly temporary. The rate was 10 percent on incomes above 200 pounds, with lower bands down to 60 pounds.",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Pitt promised income tax would end when the war ended; it was repealed in 1816",
+    "source_quote": "Pitt promised it would end when the war ended. It was repealed in 1816, a year after Waterloo — one of the rare instances where a 'temporary' war tax was actually temporary.",
+    "timestamp": "para:18",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Robert Peel brought income tax back in 1842",
+    "source_quote": "But Robert Peel brought it back in 1842 to plug a budget deficit.",
+    "timestamp": "para:19",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The 1842 income tax rate was 3.2% on incomes above 150 pounds",
+    "source_quote": "The rate was lower — 3.2 percent on incomes above 150 pounds",
+    "timestamp": "para:19",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The 1842 income tax has never been repealed",
+    "source_quote": "It has never been repealed since.",
+    "timestamp": "para:19",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "US first federal income tax was introduced in 1861",
+    "source_quote": "The United States followed a similar trajectory. The first federal income tax was introduced in 1861 to fund the Civil War",
+    "timestamp": "para:20",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "1861 US income tax was 3% on incomes above $800",
+    "source_quote": "3 percent on incomes above $800.",
+    "timestamp": "para:20",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "1861 US income tax was repealed in 1872",
+    "source_quote": "It was repealed in 1872.",
+    "timestamp": "para:20",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A flat tax was briefly reinstated in 1894 but struck down by Supreme Court in Pollock v. Farmers' Loan and Trust Co. (1895)",
+    "source_quote": "A flat tax was briefly reinstated in 1894 but struck down by the Supreme Court in Pollock v. Farmers' Loan and Trust Co. (1895) as unconstitutional",
+    "timestamp": "para:20",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The 16th Amendment was ratified in 1913",
+    "source_quote": "This constitutional roadblock was removed by the 16th Amendment, ratified in 1913",
+    "timestamp": "para:21",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "16th Amendment authorized Congress to lay and collect taxes on incomes without apportionment among states",
+    "source_quote": "'The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States.'",
+    "timestamp": "para:21",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "1913 income tax initial rate was 1% on incomes above $3,000, top rate 7% on incomes above $500,000",
+    "source_quote": "The initial rate was 1 percent on incomes above $3,000, with a top rate of 7 percent on incomes above $500,000.",
+    "timestamp": "para:21",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Fewer than 2% of households paid the initial 1913 income tax",
+    "source_quote": "Fewer than 2 percent of households paid it.",
+    "timestamp": "para:21",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "By 1918, the top marginal income tax rate hit 77%",
+    "source_quote": "Then came World War I. By 1918, the top marginal rate hit 77 percent.",
+    "timestamp": "para:22",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The Revenue Act of 1918 was supposed to be a war measure but did not end when the war ended",
+    "source_quote": "The Revenue Act of 1918 was supposed to be a war measure. The war ended in November 1918. The tax did not.",
+    "timestamp": "para:22",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Top income tax rate fell to 24% by 1929 under Andrew Mellon",
+    "source_quote": "Rates came down in the 1920s under Treasury Secretary Andrew Mellon — the top rate fell to 24 percent by 1929",
+    "timestamp": "para:22",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Revenue Act of 1942 increased the number of Americans paying income tax from 13 million to 50 million",
+    "source_quote": "World War II completed the transformation. The Revenue Act of 1942 increased the number of Americans paying income tax from 13 million to 50 million.",
+    "timestamp": "para:23",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Withholding was introduced in 1943",
+    "source_quote": "Withholding was introduced in 1943 — the government no longer had to wait for you to pay; it took the money before you ever saw it.",
+    "timestamp": "para:23",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Spanish-American War of 1898 prompted a federal excise tax on telephone service lasting 108 years",
+    "source_quote": "The Spanish-American War of 1898 prompted a federal excise tax on telephone service. The war lasted four months. The telephone tax lasted 108 years, finally repealed in 2006.",
+    "timestamp": "para:25",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Air passenger duty introduced in 1994 now raises over 4 billion pounds annually",
+    "source_quote": "Air passenger duty, introduced in 1994 as an environmental measure, was supposed to be revenue-neutral. It now raises over 4 billion pounds annually.",
+    "timestamp": "para:27",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Insurance premium tax was introduced at 2.5% in 1997 and now stands at 12%",
+    "source_quote": "The insurance premium tax, introduced at 2.5 percent in 1997, now stands at 12 percent for most policies.",
+    "timestamp": "para:27",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Magna Carta established in 1215 that taxation required consent",
+    "source_quote": "The Magna Carta established in 1215 that taxation required consent.",
+    "timestamp": "para:29",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "English Bill of Rights reaffirmed consent principle in 1689",
+    "source_quote": "The English Bill of Rights reaffirmed this in 1689.",
+    "timestamp": "para:29",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Stamp Act of 1765 imposed duties ranging from 2 shillings on legal documents to 10 shillings on playing cards",
+    "source_quote": "The Stamp Act of 1765 imposed duties ranging from 2 shillings on legal documents to 10 shillings on playing cards.",
+    "timestamp": "para:30",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Townshend Acts of 1767 placed duties on glass, lead, paint, paper, and tea",
+    "source_quote": "The Townshend Acts of 1767 placed duties on glass, lead, paint, paper, and tea.",
+    "timestamp": "para:30",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Total additional tax burden on American colonies was estimated at roughly 1 to 2% of income",
+    "source_quote": "The total additional tax burden on the American colonies was estimated at roughly 1 to 2 percent of income.",
+    "timestamp": "para:30",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "In Britain itself, taxpayers were bearing effective rates of 20 to 30%",
+    "source_quote": "In Britain itself, taxpayers were bearing effective rates of 20 to 30 percent.",
+    "timestamp": "para:30",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "16th Amendment was ratified by 36 of the then-48 states",
+    "source_quote": "The 16th Amendment was ratified by the states — 36 of the then-48 states approved it.",
+    "timestamp": "para:33",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Viktor pointed out that withholding was the single most important innovation in tax compliance",
+    "source_quote": "Viktor previously pointed out that withholding was the single most important innovation in tax compliance. He's right.",
+    "timestamp": "para:23",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "opinion"
+  },
+  {
+    "claim": "Stamp duties introduced in 1694 to fund war against France persisted for 332 years",
+    "source_quote": "Stamp duties, introduced in 1694 to fund the war against France, were also temporary. The UK still collects stamp duty on property transactions and share purchases in 2026. That's 332 years of 'temporary.'",
+    "timestamp": "para:26",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]

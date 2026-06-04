@@ -1,0 +1,90 @@
+EN: You probably think taxes are a modern invention. You're wrong.
+ES: Probablemente piensas que los impuestos son algo moderno. Estás equivocado.
+EN: Taxes have existed for five thousand years — and they've always worked the same way.
+ES: Los impuestos han existido por cinco mil años — y siempre han funcionado igual.
+EN: Around 3000 BCE, Egyptian pharaohs created the first known tax system.
+ES: Alrededor del año 3000 antes de Cristo, los faraones egipcios crearon el primer sistema de impuestos.
+EN: The state decided how much grain your land could produce and took about 20 percent.
+ES: El estado decidía cuánta comida podía producir tu tierra y tomaba cerca del veinte por ciento.
+EN: If you didn't pay, you received physical punishment.
+ES: Si no pagabas, recibías castigos físicos.
+EN: The Romans took taxation to a new level entirely.
+ES: Los romanos llevaron la tributación a un nivel completamente nuevo.
+EN: They invented tax farming — private contractors who bid for the right to collect taxes in provinces.
+ES: Inventaron la recolección de impuestos por contrato — empresarios privados que pagaban por el derecho de cobrar impuestos en las provincias.
+EN: These contractors paid Rome upfront and kept whatever extra they extracted from the people.
+ES: Estos contratistas pagaban a Roma por adelantado y se quedaban con lo que podían sacarles a las personas.
+EN: Augustus reformed this system in 27 BCE because the contractors had become so greedy that provinces were revolting.
+ES: Augusto reformó este sistema en el año 27 antes de Cristo porque los contratistas se habían vuelto tan codiciosos que las provincias se sublevaban.
+EN: Medieval kings invented new names for old tricks.
+ES: Los reyes medievales inventaron nuevos nombres para trucos viejos.
+EN: The Danegeld was a tax to pay Viking raiders — introduced in 991 CE.
+ES: El Danegeld fue un impuesto para pagar a los saqueadores vikingos — introducido en el año 991 después de Cristo.
+EN: The Vikings kept demanding more money, so the tax kept growing.
+ES: Los vikingos seguían exigiendo más dinero, así que el impuesto seguía creciendo.
+EN: It persisted long after the Viking threat ended because no king voluntarily gives up revenue.
+ES: Persistió mucho después de que terminó la amenaza vikinga porque ningún rey renuncia voluntariamente a sus ingresos.
+EN: Then came the window tax in Britain in 1696.
+ES: Luego llegó el impuesto a las ventanas en Gran Bretaña en 1696.
+EN: More windows meant higher taxes, so people bricked up their windows.
+ES: Más ventanas significaba impuestos más altos, así que la gente tapió sus ventanas.
+EN: You can still see the bricked-up spaces in buildings across England today.
+ES: Todavía puedes ver los espacios tapados en edificios por toda Inglaterra hoy.
+EN: The tax lasted 155 years — not because anyone decided it was unjust, but because it reduced property values.
+ES: El impuesto duró 155 años — no porque alguien decidiera que era injusto, sino porque reducía el valor de las propiedades.
+EN: William Pitt introduced Britain's first income tax in 1799 to fight Napoleon.
+ES: William Pitt introdujo el primer impuesto sobre la renta de Gran Bretaña en 1799 para pelear contra Napoleón.
+EN: He promised it would end when the war ended.
+ES: Prometió que terminaría cuando la guerra terminara.
+EN: Robert Peel brought it back in 1842 to fix a budget deficit.
+ES: Robert Peel lo trajo de vuelta en 1842 para arreglar un déficit presupuestario.
+EN: It has never been repealed since.
+ES: Nunca ha sido derogado desde entonces.
+EN: Every British chancellor who has called a tax "temporary" since 1842 has been lying.
+ES: Cada ministro de finanzas británico que ha llamado "temporal" a un impuesto desde 1842 ha mentido.
+EN: The United States followed the same pattern.
+ES: Estados Unidos siguió el mismo patrón.
+EN: The first federal income tax appeared in 1861 to fund the Civil War.
+ES: El primer impuesto federal sobre la renta apareció en 1861 para financiar la Guerra Civil.
+EN: It was repealed in 1872.
+ES: Fue derogado en 1872.
+EN: The 16th Amendment brought it back in 1913, authorising a 1 percent tax on incomes above three thousand dollars.
+ES: la Enmienda 16 lo trajo de vuelta en 1913, autorizando un impuesto del uno por ciento sobre ingresos superiores a tres mil dólares.
+EN: Then World War I arrived, and the top rate hit 77 percent by 1918.
+ES: Luego llegó la Primera Guerra Mundial, y la tasa máxima llegó al setenta y siete por ciento en 1918.
+EN: The war ended in November 1918. The tax did not.
+ES: La guerra terminó en noviembre de 1918. El impuesto no.
+EN: In 1943, the government introduced withholding — taking your tax money before you ever received your paycheck.
+ES: En 1943, el gobierno introdujo la retención — tomando tu dinero de impuestos antes de que recibieras tu cheque de pago.
+EN: That changed everything. You can't miss what you never had.
+ES: Eso lo cambió todo. No puedes extrañar lo que nunca tuviste.
+EN: The pattern is relentless and predictable.
+ES: El patrón es implacable y predecible.
+EN: The Spanish-American War of 1898 lasted four months.
+ES: La Guerra Hispanoamericana de 1898 duró cuatro meses.
+EN: It prompted a federal tax on telephone service that lasted 108 years.
+ES: Provocó un impuesto federal sobre el servicio telefónico que duró 108 años.
+EN: Every American paid for a war that ended before they were born.
+ES: Cada estadounidense pagó por una guerra que terminó antes de que nacieran.
+EN: The 1765 Stamp Act triggered the American Revolution with duties of just a few shillings.
+ES: El Acta de Sellos de 1765 provocó la Revolución Americana con aranceles de solo unos pocos chelines.
+EN: The actual tax burden was light — far lower than what British citizens paid.
+ES: La carga impositiva real era ligera — mucho menor que lo que pagaban los ciudadanos británicos.
+EN: The colonies revolted over the principle: no representation without taxation.
+ES: Las colonias se rebelaron por el principio: sin representación no hay tributación.
+EN: Two centuries later, most developed countries tax 20 to 50 percent of income.
+ES: Dos siglos después, la mayoría de los países desarrollados gravan entre el veinte y el cincuenta por ciento de los ingresos.
+EN: The consent mechanism is a vote every four or five years between parties that both support the system.
+ES: El mecanismo de consentimiento es una votación cada cuatro o cinco años entre partidos que ambos apoyan el sistema.
+EN: Every major tax was sold as temporary. Every one became permanent.
+ES: Cada impuesto importante se vendió como temporal. Cada uno se volvió permanente.
+EN: The mechanism never changes: a crisis creates urgency, the tax appears with sunset promises, the crisis ends, the revenue proves too useful, and the sunset quietly fails.
+ES: El mecanismo nunca cambia: una crisis crea urgencia, aparece el impuesto con promesas de expiración, la crisis termina, los ingresos prueban ser demasiado útiles, y la expiración falla silenciosamente.
+EN: Then a new crisis arrives and the baseline rises.
+ES: Luego llega una nueva crisis y la línea base sube.
+EN: Taxation isn't theft — theft at least admits it's illegal.
+ES: La tributación no es robo — el robo al menos admite que es ilegal.
+EN: Taxation wraps extraction in law, constitutionalises it, expands it until the original purpose is forgotten, and then asks for your gratitude.
+ES: La tributación envuelve la extracción en ley, la constitucionaliza, la expande hasta que el propósito original se olvida, y luego pide tu gratitud.
+EN: It isn't natural. It's just old.
+ES: No es natural. Solo es antiguo.

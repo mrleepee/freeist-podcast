@@ -1,0 +1,199 @@
+{
+  "claims": [
+    {
+      "claim": "Egyptian pharaohs began collecting a twentieth of every grain harvest",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map says 'typically around 20 percent' (a statistic), not that this was the established starting rate; script presents it as definitive"
+    },
+    {
+      "claim": "They called it a temporary emergency measure to fund pyramid construction",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map supports the claim that Egyptians called taxation temporary or that it funded pyramid construction"
+    },
+    {
+      "claim": "it never went away",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial claim not supported by any evidence in the map"
+    },
+    {
+      "claim": "he came with a reed stick",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map mentions sesh per hedj carrying a reed stick"
+    },
+    {
+      "claim": "Herodotus noted this without much surprise",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map confirms Herodotus noted Persian improvement but says nothing about his emotional reaction or lack of surprise"
+    },
+    {
+      "claim": "Empires learned fast when money was at stake",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial generalization not supported by evidence map"
+    },
+    {
+      "claim": "They had conquered the territory, and they intended to profit from it",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Attribution of intent not supported by evidence map"
+    },
+    {
+      "claim": "The word temporary did a lot of heavy lifting",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial commentary not supported by evidence map"
+    },
+    {
+      "claim": "They paid the state an agreed sum upfront, then extracted whatever they could from the local population. The margin was theirs.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says publicani 'bid at auction for the right to collect taxes' but does not describe the upfront payment and margin extraction mechanism"
+    },
+    {
+      "claim": "That is a direct quote",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map attributes the quote to Cicero's letters to Atticus, but the script omits this source attribution while still calling it a direct quote"
+    },
+    {
+      "claim": "Not their money. Their blood.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Script adds interpretive emphasis not present in the evidence map's version of the quote"
+    },
+    {
+      "claim": "The contractors had optimised themselves into a crisis",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Modern framing/interpretation not supported by evidence map"
+    },
+    {
+      "claim": "He replaced the rapacious publicani with a permanent imperial bureaucracy",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says 'direct imperial officials' but does not describe it as a 'permanent imperial bureaucracy'"
+    },
+    {
+      "claim": "The language changed. The extraction did not. Something cleaner replaced something brutal, and the take remained.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial interpretation not supported by evidence map"
+    },
+    {
+      "claim": "Viking raids had become unbearable",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map describes the severity of Viking raids"
+    },
+    {
+      "claim": "King Ethelred needed money to buy peace",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map does not attribute this motivation to King Aethelred"
+    },
+    {
+      "claim": "He levied the Danegeld, a tax on land, to raise silver for tribute",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map confirms Danegeld was a land tax first levied in 991 CE but does not state it was specifically to raise silver for tribute"
+    },
+    {
+      "claim": "Temporary, of course. A crisis response.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map describes Danegeld as temporary or a crisis response"
+    },
+    {
+      "claim": "It had become a permanent line item in English fiscal life",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map describes Danegeld becoming permanent"
+    },
+    {
+      "claim": "monetising the obligation to provide military service",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says scutage 'let knights pay cash instead of providing military service' but does not use the word 'monetising'"
+    },
+    {
+      "claim": "Emergency measure, permanent fixture, next generation inherits the bill",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Pattern claim not supported by evidence map"
+    },
+    {
+      "claim": "The structure has not changed in five thousand years",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Broad historical claim not supported by evidence map"
+    },
+    {
+      "claim": "A crisis arrives. The state needs money. It promises the measure is temporary. The crisis passes, the money stays, and the next crisis provides the template for the next temporary measure.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Generalized pattern claim not supported by evidence map"
+    },
+    {
+      "claim": "Egyptian officials beat farmers who could not pay",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says tomb reliefs depict officials beating farmers 'who fell behind' — script changes this to 'could not pay,' implying inability rather than delinquency"
+    },
+    {
+      "claim": "Roman collectors extracted blood from provincials",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "Treats Cicero's metaphorical quote as literal historical description"
+    },
+    {
+      "claim": "the Danegeld ate into English land until the silver ran out or the patience did",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Poetic interpretation not supported by evidence map"
+    },
+    {
+      "claim": "Every time the system became so brutal that people chose revolt over compliance, revenue collapsed, and the state rebuilt it with better marketing",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Sweeping generalization not supported by evidence map; only one example (Roman publicani) mentioned in evidence"
+    },
+    {
+      "claim": "Your grain, your silver, your attention. That is what they are asking for when they call something temporary.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial commentary not supported by evidence map"
+    },
+    {
+      "claim": "The pharaohs needed your grain to build monuments to their own glory",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map does not state grain taxes funded monuments or pharaohs' glory"
+    },
+    {
+      "claim": "The Romans needed your blood to sustain an empire that was never yours",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Editorial interpretation mixing metaphorical quote with political commentary"
+    },
+    {
+      "claim": "The Danegeld needed your silver to fund wars you did not choose",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map does not characterize Danegeld as funding wars; it describes it as tribute payment"
+    },
+    {
+      "claim": "Five thousand years of receipts say it will not be temporary",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Concluding editorial claim not supported by evidence map"
+    }
+  ],
+  "high_confidence": 26,
+  "threshold": 3,
+  "passed": false
+}

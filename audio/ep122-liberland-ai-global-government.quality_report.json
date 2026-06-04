@@ -1,13 +1,13 @@
 {
-  "passed": false,
-  "publish_blocked": true,
+  "passed": true,
+  "publish_blocked": false,
   "checks": {
     "loudness": {
-      "passed": false,
-      "reason": "LUFS=-21.6 (target -17.0 to -15.0); TP=-0.6 (max -1.0)",
+      "passed": true,
+      "reason": "LUFS=-15.9 TP=-1.4",
       "metrics": {
-        "integrated_lufs": -21.6,
-        "true_peak_dbfs": -0.6
+        "integrated_lufs": -15.9,
+        "true_peak_dbfs": -1.4
       }
     },
     "pronunciation": {
@@ -18,15 +18,15 @@
       }
     },
     "substance": {
-      "passed": false,
-      "reason": "only 0.5 numbers/1k words (need \u22656)",
+      "passed": true,
+      "reason": "no filler, 24.2 numbers/1k, 1.2 sources/1k",
       "metrics": {
-        "word_count": 2097,
+        "word_count": 827,
         "filler_phrases": [],
-        "numbers": 1,
-        "numbers_per_1k": 0.5,
+        "numbers": 20,
+        "numbers_per_1k": 24.2,
         "named_sources": 1,
-        "sources_per_1k": 0.5
+        "sources_per_1k": 1.2
       }
     },
     "structure": {
@@ -34,7 +34,7 @@
       "reason": "hook present, ending clean",
       "metrics": {
         "has_hook": true,
-        "opening": "Imagine being told, five thousand years ago, that if you did not hand over a fifth of every bushel y",
+        "opening": "Eight hundred thousand people have applied for citizenship in a country that technically does not ex",
         "ending_clean": true,
         "ending_denied_phrases": []
       }
@@ -47,8 +47,5 @@
       }
     }
   },
-  "blocking_failures": [
-    "loudness: LUFS=-21.6 (target -17.0 to -15.0); TP=-0.6 (max -1.0)",
-    "substance: only 0.5 numbers/1k words (need \u22656)"
-  ]
+  "blocking_failures": []
 }
