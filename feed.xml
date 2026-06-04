@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:35:49 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -12,48 +12,57 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <item>
+      <title>Izmir Neighborhood Guide Where Actually Buy</title>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 12:34:13 +0000</pubDate>
+      <itunes:duration>05:27</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep123-izmir-neighborhood-guide-where-actually-buy.podcast.mp3" length="4771053" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep123-izmir-neighborhood-guide-where-actually-buy.podcast.mp3</guid>
+    </item>
+    <item>
       <title>Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months</title>
       <description>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:16</itunes:duration>
+      <itunes:duration>04:45</itunes:duration>
       <itunes:summary>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3" length="4838205" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3" length="4179861" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3</guid>
     </item>
     <item>
-      <title>The AI Layoff Trap: When Rational Automation Destroys Its Own Market (re-produced)</title>
-      <description>Re-produced with full source material. How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</description>
+      <title>The AI Layoff Trap: When Rational Automation Destroys Its Own Market</title>
+      <description>How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>06:11</itunes:duration>
-      <itunes:summary>Re-produced with full source material. How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="5602293" type="audio/mpeg"/>
+      <itunes:duration>05:40</itunes:duration>
+      <itunes:summary>How the race to automate creates a Nash equilibrium where every company must lay off workers to stay competitive, even as the market of consumers those workers support shrinks. Links: https://x.com/i/status/2061491256107159736 | https://hbr.org/topic/subject/ai-and-business</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3" length="4946637" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-ai-layoff-trap-when-rational-automation-destroys-its.podcast.mp3</guid>
     </item>
     <item>
-      <title>The History of Taxation: From Ancient Tribute to Modern Certainty (re-produced)</title>
-      <description>Re-produced with full source material (previously truncated at 8000 chars). A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</description>
+      <title>The History of Taxation: From Ancient Tribute to Modern Certainty</title>
+      <description>A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:17</itunes:duration>
-      <itunes:summary>Re-produced with full source material (previously truncated at 8000 chars). A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="4847901" type="audio/mpeg"/>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:summary>A sweeping history of how taxation evolved from ancient tribute and religious tithes to the modern certainty of withholding systems. Links: https://en.wikipedia.org/wiki/History_of_taxation | https://www.britannica.com/topic/taxation</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3" length="4192413" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3</guid>
     </item>
     <item>
-      <title>Liberland, AI and Global Government (re-produced)</title>
-      <description>Re-produced with full source material. How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</description>
+      <title>Liberland, AI and Global Government</title>
+      <description>How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>06:28</itunes:duration>
-      <itunes:summary>Re-produced with full source material. How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-liberland-ai-global-government.podcast.mp3" length="5884293" type="audio/mpeg"/>
+      <itunes:duration>05:57</itunes:duration>
+      <itunes:summary>How AI and blockchain governance models intersect with Liberland's vision of a decentralized global government. Links: https://liberland.org | https://en.wikipedia.org/wiki/Liberland</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-liberland-ai-global-government.podcast.mp3" length="5224437" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-liberland-ai-global-government.podcast.mp3</guid>
     </item>
     <item>
-      <title>Uganda Real Estate Investment for Foreigners (re-produced)</title>
-      <description>Re-produced with full source material. The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</description>
+      <title>Uganda Real Estate Investment for Foreigners</title>
+      <description>The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:13</itunes:duration>
-      <itunes:summary>Re-produced with full source material. The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-uganda-real-estate-investment-foreigners.podcast.mp3" length="4844085" type="audio/mpeg"/>
+      <itunes:duration>04:43</itunes:duration>
+      <itunes:summary>The real numbers behind Ugandan real estate investment for foreigners: leasehold structures, tax implications, currency risk, and why 7-9% gross yields collapse to 4-5% net. Links: https://www.ugandainvest.go.ug | https://en.wikipedia.org/wiki/Economy_of_Uganda</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep122-uganda-real-estate-investment-foreigners.podcast.mp3" length="4185381" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep122-uganda-real-estate-investment-foreigners.podcast.mp3</guid>
     </item>
     <item>
@@ -92,14 +101,14 @@ https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dad
 https://csrc.nist.gov/pubs/sp/800/207/final
 https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:42</itunes:duration>
+      <itunes:duration>04:11</itunes:duration>
       <itunes:summary>Anthropic published a 35-page security framework in May 2026 that applies Zero Trust principles to autonomous AI agents in the enterprise. The premise is blunt: perimeter-based security is dead, AI models have compressed exploit timelines from months to hours, and agents make every existing access control model look like a suggestion. The framework introduces least agency — a term from OWASP extending least privilege to restrict what each agent tool can do, how often, and where. It maps controls across three tiers (Foundation, Enterprise, Advanced) covering agent identity, access control, resource isolation, observability, behavioral monitoring, input validation, integrity, and recovery. The Foundation floor has been raised: static API keys are treated as already compromised, short-lived tokens and cryptographic identity are entry requirements. The threat landscape covers prompt injection, tool poisoning via MCP servers, tool chaining attacks, memory poisoning, and supply chain risks including malicious models. Implementation follows eight phases from requirements through supply chain management to defensive operations. Anthropic closes with Agentic SOAR — AI agents handling evidence collection and documentation while humans stay on containment decisions. The uncomfortable question the framework raises but does not answer: who sets the trust boundaries when agents decide how to interpret your instructions?
 
 Links:
 https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a1611a04085d7cd3dadc924_Claude-eBook-Zero-Trust-for-AI-Agents-05182026.pdf
 https://csrc.nist.gov/pubs/sp/800/207/final
 https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="4166733" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3" length="3735357" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep116-zero-trust-ai-agents-anthropic-security-framework.podcast.mp3</guid>
     </item>
     <item>
@@ -111,14 +120,14 @@ https://openhands.dev/
 https://arxiv.org/abs/2407.16741
 https://www.openhands.dev/blog/openhands-index</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>03:56</itunes:duration>
+      <itunes:duration>03:25</itunes:duration>
       <itunes:summary>OpenHands, originally called OpenDevin, launched from Carnegie Mellon research and has accumulated 75,000 GitHub stars, raised 18.8 million dollars, and become the open-source answer to autonomous coding agents. Unlike autocomplete tools, OpenHands runs agents that plan, act, observe, and reflect in a loop inside sandboxed Docker containers with real code editors, shells, browsers, and task planners. The Software Agent SDK is a composable Python framework that separates model intelligence from agent capability, letting you swap Claude for GPT for Llama without rewriting agent logic. Use cases include vulnerability remediation, COBOL-to-Java migration, incident triage, and PR review. The OpenHands Index, launched January 2026, is the first broad-coverage benchmark for agentic software engineering, revealing that context management is the key differentiator, not raw model size. Enterprise deployment runs on-premise or air-gapped with full audit trails. An AMD partnership brings local inference on Ryzen AI hardware. The honest limit: OpenHands excels at well-scoped, verifiable tasks and struggles with ambiguous requirements and deep domain knowledge. The community recommendation is autonomous agents for 80 percent of backend work, interactive IDE tools for debugging and refinement.
 
 Links:
 https://openhands.dev/
 https://arxiv.org/abs/2407.16741
 https://www.openhands.dev/blog/openhands-index</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3529029" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3" length="3121557" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3</guid>
     </item>
     <item>
@@ -130,14 +139,14 @@ https://en.wikipedia.org/wiki/Liberland
 https://liberland.org/en/
 https://tron.network/</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:34</itunes:duration>
+      <itunes:duration>04:04</itunes:duration>
       <itunes:summary>Vít Jedlička delivered his 2026 New Year address with a concrete forty million dollar investment plan for the Baranja region surrounding Liberland. The speech covered three strategic pillars. First, legitimacy through citizens in power: Javier Milei governing Argentina, Peter Mitsinka as Czech Foreign Minister, and Somaliland gaining recognition after being first to recognize Liberland in 2017. Second, blockchain governance infrastructure: Justin Sun re-elected as Prime Minister, bringing Tron ecosystem resources, with 2026 priorities on blockchain bridges to centralized financial systems and DAO-based company registration. Third, financial services: Liberland Bank and Liberland Pay launching as centralized banking complements to the decentralized governance layer. The citizenship target is one million applicants. The budget is projected to double. The dual architecture — decentralized governance with centralized financial plumbing — mirrors the same pattern successful crypto exchanges use, applied to a nation-state with territorial sovereignty as its regulatory advantage. Whether Serbia and Croatia accept the economic partnership offer for Baranja is the open question.
 
 Links:
 https://en.wikipedia.org/wiki/Liberland
 https://liberland.org/en/
 https://tron.network/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3" length="4277349" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3" length="3618117" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3</guid>
     </item>
     <item>
@@ -149,14 +158,14 @@ https://www.linkedin.com/pulse/ai-made-us-faster-problem-david-fowler-mgnzc/
 https://github.com/dotnet/aspire
 https://devblogs.microsoft.com/aspire/author/davifowl/</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:11</itunes:duration>
+      <itunes:duration>04:40</itunes:duration>
       <itunes:summary>David Fowler, a distinguished engineer at Microsoft leading the .NET Aspire team, published the most honest account yet of what AI-first engineering looks like inside a production team. His team produced what felt like six months of code in one week — and he calls it an overconfidence problem. Production got cheaper but maintenance did not. The bottleneck moved from production capacity to judgment capacity. Experienced engineers feel regression when adopting AI agents, not because the tools are bad but because rebuilding your workflow around a new toolchain feels like putting training wheels back on. Fowler introduces the concept of agent-readiness as codebase health: agents work best with clear structure, good tests, and enough context to verify their own work. Without breakthroughs in memory and continuity, human operators still carry the accumulated product context, architectural intent, and team tradeoffs. AI accelerates the work. Engineers still own the result.
 
 Links:
 https://www.linkedin.com/pulse/ai-made-us-faster-problem-david-fowler-mgnzc/
 https://github.com/dotnet/aspire
 https://devblogs.microsoft.com/aspire/author/davifowl/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3" length="4571541" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3" length="4148013" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep114-ai-made-us-faster-that-was-problem.podcast.mp3</guid>
     </item>
     <item>
@@ -168,14 +177,14 @@ https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:31</itunes:duration>
+      <itunes:duration>05:00</itunes:duration>
       <itunes:summary>Thariq Shihipar from Anthropic's Claude Code team published the definitive guide to session management with a 1 million token context window — and the core insight is counterintuitive: having more context does not mean you should use it. Context rot starts degrading model performance well before you hit the limit, with accuracy dropping at just 25 percent of the window. The playbook gives you five moves after every turn: continue, rewind with Esc Esc to drop failed attempts, compact with a hint to shed weight mid-task, clear for a fresh session, and subagents for isolated work that only returns conclusions. The rewind habit is described as the number one pro move: instead of correcting a failed approach, jump back to before it happened and redirect with what you learned. Compact proactively at 50 percent, not reactively at 90, because the model is at its least intelligent when autocompact fires under a bloated context. Subagents are the most underrated tool: they get their own clean context window, do all the messy exploration, and only send back the final result. A clean context beats a long context every time.
 
 Links:
 https://x.com/trq212/status/2044548257058328723
 https://code.claude.com/docs/en/best-practices
 https://findskill.ai/blog/claude-code-session-management-guide/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4793853" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3" length="4369221" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep115-claude-code-session-management-1m-context.podcast.mp3</guid>
     </item>
     <item>
@@ -187,14 +196,14 @@ https://x.com/eng_khairallah1/status/2061097347749441902
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 https://code.claude.com/docs/en/agent-sdk/agent-loop</description>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:32</itunes:duration>
+      <itunes:duration>05:01</itunes:duration>
       <itunes:summary>An Anthropic engineer said the quiet part out loud: you are not supposed to prompt Claude, you are supposed to build a system that prompts itself. The quote went viral because it named something most people were already doing wrong. The shift is from manual prompting to CLAUDE.md configuration files to fully autonomous agent loops where the system reads your git history, loads your project context, and runs until the task is done without you typing a word. Anthropic calls this context engineering — the discipline of designing the entire information environment an agent operates in. The March 2026 source code leak revealed KAIROS, an unreleased always-on daemon mode referenced 150 times in the codebase. When autonomous agents start writing their own prompts, discarding context they deem unimportant, and making decisions while you sleep, the question is not whether this is powerful. The question is who audits the prompts.
 
 Links:
 https://x.com/eng_khairallah1/status/2061097347749441902
 https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 https://code.claude.com/docs/en/agent-sdk/agent-loop</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="4861509" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3" length="4450365" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep111-build-system-that-prompts-itself.podcast.mp3</guid>
     </item>
     <item>
@@ -206,14 +215,14 @@ https://www.lemonde.fr/en/opinion/article/2022/05/23/we-must-protect-the-first-1
 https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
 https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</description>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>03:40</itunes:duration>
+      <itunes:duration>03:09</itunes:duration>
       <itunes:summary>Boris Cyrulnik, the French neuropsychiatrist who coined the term resilience, delivers a sweeping analysis of modern civilization and its unintended consequences. He draws a key distinction between culture (stable institutions like law, architecture, and marriage) and civilization (the shifting conventions of language, rituals, and social norms). The first 1,000 days of a child's life fundamentally structure temperament — modern neuroimaging shows that sensory and verbal deprivation in infants causes measurable prefrontal lobe atrophy, particularly in boys, crippling their ability to regulate impulses. Every civilizational advance carries secondary effects: screens multiply depression risk fourfold, scheduled C-sections deny babies beneficial microbiome exposure, and women's liberation paradoxically dissolves the family structures that once provided stability. Cyrulnik warns of an empathy crisis driven by personal-development culture's egocentrism and proposes art, literature, and Finnish-style education reform as antidotes. A profound meditation on what we gain and what we lose with every step forward.
 
 Links:
 https://www.lemonde.fr/en/opinion/article/2022/05/23/we-must-protect-the-first-1-000-days-of-a-child-s-life-and-develop-perinatal-care_5984413_23.html
 https://www.penguinrandomhouse.com/books/307171/resilience-by-boris-cyrulnik/
 https://www.som360.org/en/monografico/adolescent-well-being/blog/importance-fostering-resilience-early-years-life</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="3301605" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3" length="2882973" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep112-boris-cyrulnik-civilization-resilience-child-development.podcast.mp3</guid>
     </item>
     <item>
@@ -244,14 +253,14 @@ https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 https://x.com/karpathy/status/2040470801506541998
 https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</description>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:22</itunes:duration>
+      <itunes:duration>04:51</itunes:duration>
       <itunes:summary>Andrej Karpathy published a single GitHub Gist called llm-wiki.md that reframes personal knowledge management using the oldest trick in software engineering: compilation. Your raw sources are source code, the wiki is the compiled binary, and the AI is the compiler. The three-layer architecture keeps raw sources immutable at the bottom, an AI-owned wiki of entity pages, concept pages, and cross-links in the middle, and a schema file like CLAUDE.md at the top that turns a generic agent into a disciplined wiki maintainer. Three operations power the whole thing: ingest drops a source and the AI updates 10 to 15 pages at once, query reads the pre-synthesised wiki instead of raw documents, and lint audits for contradictions, orphans, and stale data. Knowledge compounds over time rather than starting from scratch on every query. The pattern echoes Garry Tan's GBrain system indexing 146,000 pages and the Hermes agent's own llm-wiki skill with Obsidian. The deeper lineage goes back to Vannevar Bush's 1945 Memex vision — a personal knowledge store where connections between documents matter as much as the documents themselves. The bookkeeping that killed every previous wiki is exactly what AI automates. Your knowledge stays on your machine, in markdown, with no cloud dependency and no vendor lock-in.
 
 Links:
 https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 https://x.com/karpathy/status/2040470801506541998
 https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3" length="4713525" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3" length="4290261" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep108-karpathys-llm-wiki-build-your-own-knowledge-base.podcast.mp3</guid>
     </item>
     <item>
@@ -263,14 +272,14 @@ https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
 https://modelcontextprotocol.io/specification/2025-11-25
 https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intelligence-future-investment-management</description>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>04:04</itunes:duration>
+      <itunes:duration>03:33</itunes:duration>
       <itunes:summary>Robinhood became the first major retail broker to open its platform to AI agents, rolling out an MCP server built on the Model Context Protocol — an open standard that lets any compatible agent read your portfolio, execute trades, rebalance allocations, and move cash between accounts using natural language instructions. The architecture raises uncomfortable questions: Robinhood profits from order flow and margin lending, meaning an active AI agent generates revenue with every trade it executes on your behalf. Guardrails like transaction limits address risk but not consent. With Visa, Mastercard, and other financial giants exploring similar MCP integrations, most financial transactions could be agent-initiated within five years. The real question is not whether your agent can do this, but who wrote the instructions it follows and whether you read them before signing up.
 
 Links:
 https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
 https://modelcontextprotocol.io/specification/2025-11-25
 https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intelligence-future-investment-management</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3" length="3636693" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3" length="3218949" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep110-robinhood-now-open-agents.podcast.mp3</guid>
     </item>
     <item>
@@ -286,27 +295,27 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <title>Claude Code Dynamic Workflows: Opus 4.8 Changes Everything</title>
       <description>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</description>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:03</itunes:duration>
+      <itunes:duration>04:32</itunes:duration>
       <itunes:summary>Anthropic released Opus 4.8 with dynamic workflows — a JavaScript-based orchestration layer that coordinates up to 1,000 subagents in a single run. The plan moves into code: scripts are readable, auditable, rerunnable, and shareable as commands. Covers ultracode mode, /deep-research, adversarial review patterns, and why this shifts Claude Code from a chat assistant to a batch orchestration engine.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="4432149" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3" length="4014309" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep100-claude-code-dynamic-workflows-opus-4-8-changes-everything.podcast.mp3</guid>
     </item>
     <item>
       <title>Linus Torvalds: Linux, Git, and a Tech Talk at Google</title>
       <description>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>05:17</itunes:duration>
+      <itunes:duration>04:47</itunes:duration>
       <itunes:summary>The story of how Linus Torvalds created Linux in 1991 and then Git in just two weeks when he lost access to BitKeeper. A look at the philosophy behind two of the most important pieces of software ever written and why Torvalds believes open source beats corporate planning.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="4642437" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3" length="4219029" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep98-linus-torvalds-linux-git-tech-talk-at-google.podcast.mp3</guid>
     </item>
     <item>
       <title>Your AI Agent Dies the Second You Close the Terminal</title>
       <description>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>03:36</itunes:duration>
+      <itunes:duration>03:05</itunes:duration>
       <itunes:summary>The problem every AI engineer hits: you spend hours on an agent workflow, your laptop dies, and the session is gone. The solution has been sitting in Linux for fifteen years. A practical look at tmux and why persistent terminal sessions are the unsung infrastructure of AI development.</itunes:summary>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="3252165" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3" length="2829813" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep99-david-ondrej-your-ai-agent-dies-second-you.podcast.mp3</guid>
     </item>
     <item>

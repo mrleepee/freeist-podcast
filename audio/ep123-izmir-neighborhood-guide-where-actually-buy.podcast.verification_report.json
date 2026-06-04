@@ -1,0 +1,133 @@
+{
+  "claims": [
+    {
+      "claim": "Izmir is Turkey's third-largest city",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:1)"
+    },
+    {
+      "claim": "minimum property purchase of four hundred thousand United States dollars",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:3)"
+    },
+    {
+      "claim": "held for three years",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:3)"
+    },
+    {
+      "claim": "prices between two thousand five hundred and four thousand five hundred United States dollars per square metre",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "Gross rental yields of four to six percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "streets that matter are Alaybey, Bostanlı, and Cemal Gürsel",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:5)"
+    },
+    {
+      "claim": "prices twenty to thirty percent below it",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:7)"
+    },
+    {
+      "claim": "one thousand eight hundred and three thousand United States dollars",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:7)"
+    },
+    {
+      "claim": "rental yields of five to seven percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:7)"
+    },
+    {
+      "claim": "direct metro connectivity to the city centre",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:7)"
+    },
+    {
+      "claim": "Ege University, which is Izmir's largest university",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:7)"
+    },
+    {
+      "claim": "three thousand five hundred to five thousand United States dollars per square metre",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:9)"
+    },
+    {
+      "claim": "under two thousand dollars per square metre",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:9)"
+    },
+    {
+      "claim": "annual appreciation of fifteen to twenty percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "two thousand five hundred to four thousand United States dollars per square metre",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:11)"
+    },
+    {
+      "claim": "under one thousand five hundred United States dollars per square metre",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:13)"
+    },
+    {
+      "claim": "cittaslow designation, which is the international slow city accreditation",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:13)"
+    },
+    {
+      "claim": "Budget eight to ten percent above the purchase price",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:17)"
+    },
+    {
+      "claim": "Title deed transfer tax alone is four percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by evidence map (para:17)"
+    },
+    {
+      "claim": "Post-2000 buildings in Turkey are required to carry earthquake insurance through a scheme known as DASK",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by evidence map (para:15)"
+    },
+    {
+      "claim": "Bayraklı is also the district most directly associated with the fault line geometry",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map states Izmir sits on a fault line (para:15) but does not specifically link Bayraklı to fault line geometry"
+    }
+  ],
+  "high_confidence": 20,
+  "threshold": 3,
+  "passed": false
+}

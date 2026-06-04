@@ -1,0 +1,258 @@
+[
+  {
+    "claim": "Izmir is Turkey's third-largest city",
+    "source_quote": "Izmir, Turkey's third-largest city, has become one of the most attractive destinations for foreign real estate investors seeking Turkish citizenship by investment.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Turkey's CBI programme requires minimum property purchase of $400,000 USD held for three years",
+    "source_quote": "Turkey's citizenship-by-investment programme requires a minimum property purchase of $400,000 USD, held for three years.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Karşıyaka property prices range from $2,500 to $4,500 per square meter",
+    "source_quote": "Property prices here range from $2,500 to $4,500 per square meter depending on proximity to the waterfront and building age.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Karşıyaka gross rental yields of 4-6% are achievable",
+    "source_quote": "The rental market is active, with gross yields of 4-6% achievable in established buildings.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Key streets in Karşıyaka are Alaybey, Bostanlı, and Cemal Gürsel",
+    "source_quote": "Key streets to focus on: Alaybey and Bostanlı areas for waterfront proximity, Cemal Gürsel for quieter residential streets.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Bornova property prices are 20-30% below Karşıyaka",
+    "source_quote": "Property prices are 20-30% below Karşıyaka, making it the strongest value play for investors who prioritize square footage and rental yield over prestige.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Bornova property prices range from $1,800 to $3,000 per square meter",
+    "source_quote": "Prices range from $1,800 to $3,000 per square meter.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Bornova gross rental yields are 5-7%",
+    "source_quote": "Gross rental yields tend to be 5-7%, higher than Karşıyaka because purchase prices are lower while rents are only marginally so.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Ege University is Izmir's largest university",
+    "source_quote": "It has the city's largest university (Ege University), multiple shopping centers, and direct metro access to the city center.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Bornova has direct metro access to the city center",
+    "source_quote": "It has the city's largest university (Ege University), multiple shopping centers, and direct metro access to the city center.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Konak renovated apartments near Kordon command $3,500-5,000/sqm",
+    "source_quote": "Property here is a mixed bag: renovated apartments near the Kordon command premium prices ($3,500-5,000/sqm)",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Buildings behind the bazaar in Konak can be found for under $2,000/sqm",
+    "source_quote": "while buildings in the older neighborhoods behind the bazaar can be found for under $2,000/sqm but often come with structural issues and limited renovation potential.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Bayraklı property values have been appreciating 15-20% annually in some buildings",
+    "source_quote": "property values have been appreciating faster than any other district (15-20% annually in some buildings).",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Bayraklı prices range from $2,500 to $4,000/sqm in newer developments",
+    "source_quote": "Prices range from $2,500 to $4,000/sqm in newer developments.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Urla property prices are under $1,500/sqm in many areas",
+    "source_quote": "Urla has become Turkey's wine country, with property prices still under $1,500/sqm in many areas.",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Seferihisar is a designated 'slow city' (cittaslow)",
+    "source_quote": "Seferihisar is a designated 'slow city' (cittaslow) with organic markets and a relaxed coastal lifestyle.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Izmir sits on a fault line",
+    "source_quote": "Izmir sits on a fault line. Buildings constructed before 2000 may not meet current seismic codes.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Post-2000 buildings must have earthquake insurance (DASK)",
+    "source_quote": "Post-2000 buildings must have earthquake insurance (DASK), which is a good proxy for structural compliance.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Closing costs should be budgeted at 8-10% above purchase price",
+    "source_quote": "Budget 8-10% above purchase price for closing costs",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Title deed transfer tax is 4%",
+    "source_quote": "4% title deed transfer tax, notary fees, translator fees, and agent commission.",
+    "timestamp": "para:17",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "CBI programme requires transfer through banking system",
+    "source_quote": "Open a Turkish bank account — required for the $400,000 transfer that the CBI programme mandates go through the banking system.",
+    "timestamp": "para:17",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Turkey Ministry of Environment and Urbanisation is a source",
+    "source_quote": "Turkey Ministry of Environment and Urbanisation — CBI programme requirements",
+    "timestamp": "para:19",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Turkish Statistical Institute (TÜİK) is a source",
+    "source_quote": "Turkish Statistical Institute (TÜİK) — Izmir property price index",
+    "timestamp": "para:19",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Reidin-GYODER Turkey Real Estate Market Reports is a source",
+    "source_quote": "Reidin-GYODER Turkey Real Estate Market Reports",
+    "timestamp": "para:19",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "kat mülkiyeti means condominium ownership",
+    "source_quote": "Always verify the tapu is kat mülkiyeti (condominium ownership) not kat irtifakı (construction servitude)",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "kat irtifakı means construction servitude indicating incomplete permits",
+    "source_quote": "kat irtifakı (construction servitude), which indicates incomplete permits.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "imar durumu means zoning status",
+    "source_quote": "Your lawyer must confirm the imar durumu (zoning status) before you commit.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "yeminli tercüman means sworn translator",
+    "source_quote": "Use a sworn translator (yeminli tercüman) for all documents.",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "vergi numarası means Turkish tax number",
+    "source_quote": "Obtain a Turkish tax number (vergi numarası) before any transaction.",
+    "timestamp": "para:16",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Gecekondu means squatter areas",
+    "source_quote": "Gecekondu (squatter) areas: Some districts have informal settlements that have been regularized but carry title deed complications.",
+    "timestamp": "para:15",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "After three years you can sell and retain citizenship under CBI programme",
+    "source_quote": "After three years, you can sell and retain citizenship.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Alsancak is a sub-neighborhood with the city's best nightlife, dining, and walkability",
+    "source_quote": "The strategic play in Konak is targeting the Alsancak sub-neighborhood, which has the city's best nightlife, dining, and walkability.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]
