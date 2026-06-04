@@ -1,0 +1,106 @@
+EN: A famous AI engineer says most of what you see online about AI tools will be useless in six months.
+ES: Un ingeniero famoso de IA dice que la mayor parte de lo que ves en línea sobre herramientas de IA será inútil en seis meses.
+EN: Not some of it. Most of it.
+ES: No algunas. La mayor parte.
+EN: That engineer is Andrej Karpathy. He co-founded OpenAI and led AI at Tesla.
+ES: Ese ingeniero es Andrej Karpathy. Él co-fundó OpenAI y lideró IA en Tesla.
+EN: He told a room full of investors that he has never felt more behind as a programmer.
+ES: Él le dijo a una sala llena de inversionistas que nunca se ha sentido tan atrasado como programador.
+EN: One year earlier, he invented the term "vibe coding" and made it cool.
+ES: Un año antes, él inventó el término "vibe coding" y lo hizo popular.
+EN: Now he is warning you: ninety percent of what AI Twitter tells you to learn will be dead in six months.
+ES: Ahora él te advierte: noventa por ciento de lo que Twitter de IA te dice que aprendas estará muerto en seis meses.
+EN: The graveyard is already filling up.
+ES: El cementerio ya se está llenando.
+EN: AutoGen was a Microsoft framework for multi-agent systems.
+ES: AutoGen fue un marco de Microsoft para sistemas multi-agente.
+EN: The demo videos were beautiful. The reality was not.
+ES: Los videos de demostración eran hermosos. La realidad no lo era.
+EN: The abstraction was too heavy. Debugging was impossible.
+ES: La abstracción era muy pesada. Depurar era imposible.
+EN: Multi-agent conversations became circular reasoning loops.
+ES: Las conversaciones multi-agente se convirtieron en círculos de razonamiento.
+EN: CrewAI made the same mistake. It promised teams of AI agents with roles.
+ES: CrewAI cometió el mismo error. Prometió equipos de agentes de IA con roles.
+EN: In practice, one well-prompted agent beats a committee of poorly-scoped ones every time.
+ES: En la práctica, un agente bien configurado le gana a un comité de agentes mal definidos cada vez.
+EN: LangChain was the most popular and the most abandoned.
+ES: LangChain fue el más popular y el más abandonado.
+EN: Reddit went from fan club to hate forum in under a year.
+ES: Reddit pasó de club de fans a foro de odio en menos de un año.
+EN: The criticism was consistent: too many layers over simple API calls.
+ES: La crítica era consistente: demasiadas capas sobre llamadas simples de API.
+EN: The Hacker News consensus: you do not need a framework for that.
+ES: El consenso de Hacker News: no necesitas un marco para eso.
+EN: Semantic Kernel. DSPy. Horizontal agent builders. All gone.
+ES: Semantic Kernel. DSPy. Constructores de agentes horizontales. Todos se fueron.
+EN: Benchmark chasing. Per-seat pricing models. Stale GitHub repos with old dependencies.
+ES: Perseguir rankings. Modelos de precio por asiento. Repos de GitHub obsoletos con dependencias antiguas.
+EN: Here is the pattern. Something goes viral on Monday.
+ES: Aquí está el patrón. Algo se vuelve viral el lunes.
+EN: By spring, it is gone. The demo breaks in production. The hype never ships.
+ES: Para la primavera, desaparece. El demo se rompe en producción. El bombo nunca se envía.
+EN: This is not accidental. The ecosystem has a structural incentive to manufacture novelty.
+ES: Esto no es accidental. El ecosistema tiene un incentivo estructural para fabricar novedad.
+EN: Framework creators need adoption metrics to raise funding.
+ES: Los creadores de marcos necesitan métricas de adopción para financiar sus proyectos.
+EN: Content creators need new tools to make videos about.
+ES: Los creadores de contenido necesitan nuevas herramientas para hacer videos.
+EN: Twitter rewards "new framework dropped" threads over proven results.
+ES: Twitter premia los hilos de "nuevo marco disponible" sobre resultados probados.
+EN: The entire system is optimized for churn, not compounding.
+ES: Todo el sistema está optimizado para el cambio constante, no para la acumulación.
+EN: So what actually compounds? Senior engineers have stopped chasing frameworks.
+ES: ¿Entonces qué realmente se acumula? Los ingenieros seniors han dejado de perseguir marcos.
+EN: They invest in context engineering. This is not prompt engineering.
+ES: Invierten en ingeniería de contexto. Esto no es ingeniería de prompts.
+EN: Prompt engineering is about wording. Context engineering is about architecture.
+ES: La ingeniería de prompts es sobre redacción. La ingeniería de contexto es sobre arquitectura.
+EN: What data goes in. In what order. With what retrieval. With what verification.
+ES: Qué datos entran. En qué orden. Con qué recuperación. Con qué verificación.
+EN: They invest in tool design. The quality of the tool interface determines the quality of the output.
+ES: Invierten en diseño de herramientas. La calidad de la interfaz de la herramienta determina la calidad del resultado.
+EN: Not which framework orchestrates the calls.
+ES: No cuál marco orquesta las llamadas.
+EN: They use the orchestrator-subagent pattern. One boss. Clear specialists. Clean inputs and outputs.
+ES: Usan el patrón orquestador-subagente. Un jefe. Especialistas claros. Entradas y salidas limpias.
+EN: Not committee meetings. Not circular debates.
+ES: No reuniones de comité. No debates circulares.
+EN: They invest in eval discipline. Real data. Not leaderboard scores.
+ES: Invierten en disciplina de evaluación. Datos reales. No puntuaciones de rankings.
+EN: They understand the harness matters more than the model.
+ES: Entienden que el arnés importa más que el modelo.
+EN: A good harness with good context beats a frontier model with a bad harness.
+ES: Un buen arnés con buen contexto le gana a un modelo frontier con un mal arnés.
+EN: MCP is emerging as the standard protocol for agents to discover and use tools.
+ES: MCP está emergiendo como el protocolo estándar para que los agentes descubran y usen herramientas.
+EN: A protocol, not a framework. That is exactly the point.
+ES: Un protocolo, no un marco. Eso es exactamente el punto.
+EN: Here is the deepest irony. The threads warning about hype are themselves viral hype threads.
+ES: Aquí está la ironía más profunda. Los hilos que advierten sobre el bombo son ellos mismos hilos virales de bombo.
+EN: The people telling you to stop chasing frameworks are participating in the cycle.
+ES: Las personas que te dicen que pares de perseguir marcos están participando en el ciclo.
+EN: This is not a bug. It is the business model.
+ES: Esto no es un error. Es el modelo de negocio.
+EN: Attention flows to novelty. The cycle will not stop because the incentives have not changed.
+ES: La atención fluye hacia la novedad. El ciclo no parará porque los incentivos no han cambiado.
+EN: What does this mean for you? If you are an engineer, do not stop learning new things.
+ES: ¿Qué significa esto para ti? Si eres ingeniero, no pares de aprender cosas nuevas.
+EN: Invest in fundamentals that survive model upgrades. API design. Data modeling. Systems thinking.
+ES: Invierte en fundamentos que sobreviven a las actualizaciones de modelos. Diseño de API. Modelado de datos. Pensamiento de sistemas.
+EN: These compound. Frameworks do not.
+ES: Estos se acumulan. Los marcos no.
+EN: If you are a business, beware of vendor lock-in dressed up as agent platforms.
+ES: Si eres un negocio, cuidado con el bloqueo de proveedor disfrazado de plataformas de agentes.
+EN: The ones that survive will be thin protocol layers, not thick abstraction frameworks.
+ES: Los que sobrevivirán serán capas de protocolo delgadas, no marcos de abstracción gruesos.
+EN: Bet on protocols, not platforms.
+ES: Apuesta por protocolos, no por plataformas.
+EN: If you are building, the edge is not the newest framework.
+ES: Si estás construyendo, la ventaja no es el marco más nuevo.
+EN: It is staying ahead until your signal becomes mass opinion.
+ES: Es mantenerse adelante hasta que tu señal se convierta en opinión masiva.
+EN: Then move on before the frameworks arrive to commoditize it.
+ES: Luego avanza antes de que los marcos lleguen para commodityzarlo.
+EN: The takeaway is simple. Stop chasing. Start compounding.
+ES: La conclusión es simple. Deja de perseguir. Empieza a acumular.

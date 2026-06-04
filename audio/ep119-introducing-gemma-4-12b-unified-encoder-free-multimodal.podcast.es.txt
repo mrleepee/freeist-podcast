@@ -1,0 +1,88 @@
+EN: Your laptop is about to become smarter than your cloud.
+ES: Tu laptop está por volverse más inteligente que tu nube.
+EN: Google just released Gemma 4 12B — a multimodal AI model that runs entirely on your device.
+ES: Google acaba de lanzar Gemma 4 12B — un modelo de IA multimodal que funciona completamente en tu dispositivo.
+EN: No cloud subscription required.
+ES: No se necesita suscripción a la nube.
+EN: Multimodal means it sees, it reads, and it thinks — all at once.
+ES: Multimodal significa que ve, lee y piensa — todo al mismo tiempo.
+EN: Most powerful AI today needs expensive servers to work.
+ES: La mayoría de la IA poderosa hoy necesita servidores caros para funcionar.
+EN: Gemma 4 changes that equation completely.
+ES: Gemma 4 cambia esa ecuación completamente.
+EN: This model fits inside a laptop and delivers high-performance reasoning.
+ES: Este modelo cabe dentro de una laptop y ofrece razonamiento de alto rendimiento.
+EN: The "12B" refers to twelve billion parameters.
+ES: El "12B" se refiere a doce mil millones de parámetros.
+EN: Parameters are like the brain cells of an AI — more parameters usually means smarter results.
+ES: Los parámetros son como las células cerebrales de una IA — más parámetros usualmente significa resultados más inteligentes.
+EN: Twelve billion sounds like a lot, and it is.
+ES: Doce mil millones suena como mucho, y lo es.
+EN: But Google built this model mobile-first.
+ES: Pero Google construyó este modelo con enfoque móvil primero.
+EN: Mobile-first means efficient from the start.
+ES: Móvil primero significa eficiente desde el principio.
+EN: It uses a unified encoder-free architecture.
+ES: Utiliza una arquitectura unificada sin codificador.
+EN: Traditional models use separate systems to process images and text.
+ES: Los modelos tradicionales usan sistemas separados para procesar imágenes y texto.
+EN: This creates delays and uses more memory.
+ES: Esto crea retrasos y usa más memoria.
+EN: Encoder-free design connects everything in one pass.
+ES: El diseño sin codificador conecta todo en una pasada.
+EN: The result is faster processing on less powerful hardware.
+ES: El resultado es procesamiento más rápido en hardware menos potente.
+EN: This is advanced reasoning in a compact package.
+ES: Esto es razonamiento avanzado en un paquete compacto.
+EN: Why does this matter?
+ES: ¿Por qué importa esto?
+EN: Because AI power is currently concentrated in data centers owned by big companies.
+ES: Porque el poder de la IA actualmente está concentrado en centros de datos de grandes empresas.
+EN: Those companies control access, set prices, and read your prompts.
+ES: Esas empresas controlan el acceso, ponen precios y leen tus instrucciones.
+EN: On-device AI changes that power balance.
+ES: La IA en el dispositivo cambia ese equilibrio de poder.
+EN: Your data stays on your machine.
+ES: Tus datos se quedan en tu máquina.
+EN: No one else sees what you ask.
+ES: Nadie más ve lo que preguntas.
+EN: This is sovereignty in practice — not a slogan, a technical reality.
+ES: Esto es soberanía en la práctica — no un slogan, una realidad técnica.
+EN: The efficiency gains are not small improvements.
+ES: Las ganancias en eficiencia no son pequeñas mejoras.
+EN: Google reports state-of-the-art results on reasoning benchmarks.
+ES: Google reporta resultados de última generación en pruebas de razonamiento.
+EN: State-of-the-art means it beats most models at tasks like math and coding.
+ES: Última generación significa que supera a la mayoría de modelos en tareas como matemáticas y programación.
+EN: Running this on a laptop used to be impossible.
+ES: Ejecutar esto en una laptop solía ser imposible.
+EN: Now it is available today.
+ES: Ahora está disponible hoy.
+EN: Here is the catch — and there is always a catch.
+ES: Aquí está el problema — y siempre hay un problema.
+EN: "Available" means the weights are public.
+ES: "Disponible" significa que los pesos son públicos.
+EN: You still need the technical skills to run them.
+ES: Todavía necesitas las habilidades técnicas para ejecutarlos.
+EN: But that barrier drops every month as tools improve.
+ES: Pero esa barrera baja cada mes mientras las herramientas mejoran.
+EN: The trajectory is clear — powerful AI is becoming personal.
+ES: La trayectoria es clara — la IA poderosa se está volviendo personal.
+EN: Your laptop, your data, your processing.
+ES: Tu laptop, tus datos, tu procesamiento.
+EN: No subscription, no surveillance layer, no dependency.
+ES: Sin suscripción, sin capa de vigilancia, sin dependencia.
+EN: This is what efficiency looks like when someone prioritizes the user.
+ES: Esto es lo que eficiencia parece cuando alguien prioriza al usuario.
+EN: Most tech companies want you in their cloud.
+ES: La mayoría de las empresas tecnológicas te quieren en su nube.
+EN: Google built something that keeps you out.
+ES: Google construyó algo que te mantiene afuera.
+EN: Whether that stays true depends on what they build next.
+ES: Si eso se mantiene depende de lo que construyan después.
+EN: But right now, on your desk, you have access to serious AI capability.
+ES: Pero ahora mismo, en tu escritorio, tienes acceso a capacidad de IA seria.
+EN: The model fits, the performance is real, and the data stays with you.
+ES: El modelo cabe, el rendimiento es real, y los datos se quedan contigo.
+EN: That is worth knowing about.
+ES: Eso vale la pena saber.

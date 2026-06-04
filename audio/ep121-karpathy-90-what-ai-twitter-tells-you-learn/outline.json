@@ -1,0 +1,20 @@
+{
+  "thesis": "The AI framework hype cycle is structurally manufactured—not by genuine innovation, but by incentives that reward novelty-seekers and punish stability, making most trending tools irrelevant before you finish learning them.",
+  "hook": "Andrej Karpathy—one of the most celebrated AI educators in the world, a man who literally wrote the textbook that millions used to learn deep learning—just admitted on stage at Sequoia that he has 'never felt more behind as a programmer.' That's not humility. That's a system signal.",
+  "stakes": "If even Karpathy can't keep up, what chance do you have? And more importantly: if the tools everyone is chasing are designed to be disposable, you're not learning skills—you're running on a treadmill that resets itself every six months.",
+  "evidence_beats": [
+    1,
+    9,
+    10,
+    4,
+    5,
+    7
+  ],
+  "counterpoint": "Some frameworks do solve real problems—MCP appears to be a genuine infrastructure standard emerging from actual engineering needs rather than Twitter virality, which suggests occasional breakthrough tools do break through.",
+  "implication": "Stop treating every 'new framework dropped' thread as a summons. Build a filter: who profits if you adopt this? If the answer is 'content creators,' 'VCs seeking adoption metrics,' or 'Twitter's engagement algorithm,' the tool isn't for you—it's for them.",
+  "close": "You've been sold anxiety disguised as education. The people hyping the next big thing aren't using it in production—they're writing threads about it. And there's a difference between a tool that's trending and a tool that will still exist next year. Your time is the only nonrenewable resource you have. Spend it on structures, not trends. The hype cycle will keep spinning. You don't have to get on the ride.",
+  "warnings": [
+    "thin evidence: only 6 claims available",
+    "source reliability varies: some claims are secondary/speculative"
+  ]
+}

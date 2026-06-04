@@ -1,0 +1,73 @@
+{
+  "claims": [
+    {
+      "claim": "Ninety percent of what AI Twitter tells you to learn will be dead in six months.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map lists this as a secondary source prediction with medium confidence, but the script presents it as a verified structural estimate."
+    },
+    {
+      "claim": "Andrej Karpathy, the man who quite literally wrote the textbook millions used to learn deep learning",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map does not support the claim that Karpathy wrote a definitive textbook; it only references his 'vibe coding' coinage and Sequoia talk."
+    },
+    {
+      "claim": "stood on stage at Sequoia AI Ascent in twenty twenty-six",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Evidence map confirms 'Karpathy at Sequoia AI Ascent 2026' with high confidence and primary source reliability."
+    },
+    {
+      "claim": "said he has never felt more behind as a programmer",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map confirms this quote with high confidence and primary source reliability."
+    },
+    {
+      "claim": "The subreddit dedicated to it went from fan club to something closer to a public complaint desk in under a year.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map lists this characterization as a secondary source with low confidence; the script presents it as established fact."
+    },
+    {
+      "claim": "There are threads on that forum titled things like why is everyone suddenly ditching LangChain",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map confirms the Reddit thread title 'Why is everyone suddenly ditching LangChain?' with high confidence."
+    },
+    {
+      "claim": "similar conversations on Hacker News where teams explain why they have stopped using it for building their AI agents",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map confirms the Hacker News thread 'Why we no longer use LangChain for building our AI agents' with high confidence."
+    },
+    {
+      "claim": "The Model Context Protocol, for instance, is emerging as a genuine standard for how AI agents discover and use tools.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map supports MCP as 'emerging as the standard way' but with medium confidence and secondary reliability; script upgrades this to 'genuine standard.'"
+    },
+    {
+      "claim": "Twitter's engagement algorithm which literally rewards new framework announcements over stable solutions",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map lists this as a secondary source opinion with medium confidence; script presents it as confirmed fact using 'literally.'"
+    },
+    {
+      "claim": "venture capitalists who need adoption metrics for their portfolio companies",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "Evidence map mentions 'framework creators need adoption metrics to raise funding' but does not mention venture capitalists or portfolio companies."
+    },
+    {
+      "claim": "content creators who need fresh material",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map mentions 'content creators need new tools to make videos about' which partially supports this, but script extends the claim beyond what evidence provides."
+    }
+  ],
+  "high_confidence": 10,
+  "threshold": 3,
+  "passed": false
+}

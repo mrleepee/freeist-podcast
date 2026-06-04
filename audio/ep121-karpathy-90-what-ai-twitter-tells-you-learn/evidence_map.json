@@ -1,0 +1,90 @@
+[
+  {
+    "claim": "90% of what AI Twitter tells you to learn will be dead in six months",
+    "source_quote": "His warning is stark: 90% of what AI Twitter tells you to learn will be dead in six months.",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "prediction"
+  },
+  {
+    "claim": "Andrej Karpathy noted he has 'never felt more behind as a programmer'",
+    "source_quote": "Karpathy noted he has 'never felt more behind as a programmer'",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Karpathy coined the term 'vibe coding' just one year earlier",
+    "source_quote": "despite having coined the term 'vibe coding' just one year earlier",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Reddit's r/LangChain went from fan club to hate forum in under a year",
+    "source_quote": "Reddit's r/LangChain went from fan club to hate forum in under a year",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "fact"
+  },
+  {
+    "claim": "MCP (Model Context Protocol) is emerging as the standard way for agents to discover and use tools",
+    "source_quote": "Model Context Protocol is emerging as the standard way for agents to discover and use tools",
+    "timestamp": "para:14",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Reddit r/LangChain has a thread titled 'Why is everyone suddenly ditching LangChain?'",
+    "source_quote": "Reddit r/LangChain: 'Why is everyone suddenly ditching LangChain?'",
+    "timestamp": "sources",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hacker News has a thread titled 'Why we no longer use LangChain for building our AI agents'",
+    "source_quote": "Hacker News: 'Why we no longer use LangChain for building our AI agents'",
+    "timestamp": "sources",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "0xMorty posted a thread on X/Twitter",
+    "source_quote": "0xMorty thread on X/Twitter: https://x.com/i/status/2061491256107159736",
+    "timestamp": "sources",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Karpathy spoke at Sequoia AI Ascent 2026",
+    "source_quote": "Karpathy at Sequoia AI Ascent 2026",
+    "timestamp": "sources",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The pattern of viral AI tools dying within months is caused by structural incentives",
+    "source_quote": "The AI tool ecosystem has a structural incentive to manufacture novelty. Framework creators need adoption metrics to raise funding. Content creators need new tools to make videos about.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Twitter's engagement algorithm rewards 'new framework dropped' threads over stable solutions",
+    "source_quote": "Twitter's engagement algorithm rewards 'new framework dropped' threads over 'here's what actually worked in production for six months.'",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

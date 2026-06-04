@@ -4,13 +4,40 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 16:51:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:19:07 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months</title>
+      <description>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:16</itunes:duration>
+      <itunes:summary>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3" length="4823925" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep121-karpathy-90-what-ai-twitter-tells-you-learn.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Introducing Gemma 4 12B Unified Encoder Free Multimodal</title>
+      <description/>
+      <pubDate>Wed, 03 Jun 2026 21:38:22 +0000</pubDate>
+      <itunes:duration>04:04</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3" length="3592341" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Introducing Gemma 4 12B Unified Encoder Free Multimodal</title>
+      <description/>
+      <pubDate>Wed, 03 Jun 2026 21:18:41 +0000</pubDate>
+      <itunes:duration>03:24</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep120-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3" length="2089941" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep120-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3</guid>
+    </item>
     <item>
       <title>History Taxation From Ancient Tribute Modern Certainty</title>
       <description/>
