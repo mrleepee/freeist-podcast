@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.8 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -15.8,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 13.4 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 521,
+        "filler_phrases": [],
+        "numbers": 7,
+        "numbers_per_1k": 13.4,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Did you know the average developer spends nearly half their coding session babysitting an artificial",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}

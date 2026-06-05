@@ -1,0 +1,50 @@
+EN: You know that frustrating loop? You ask AI to write code, it writes code, you find bugs, you ask again, you wait again. Nobody has time for that.
+ES: ¿Conoces ese ciclo frustrante? Pides a la IA que escriba código, escribe código, encuentras errores, pides otra vez, esperas otra vez. Nadie tiene tiempo para eso.
+EN: Here's the problem — traditional AI coding treats you like a middle manager who approves every single line.
+ES: El problema es esto — la codificación tradicional con IA te trata como un gerente que aprueba cada línea.
+EN: You request changes, you receive a response, you provide feedback, and you repeat this dance for hours.
+ES: Pides cambios, recibes una respuesta, das comentarios, y repites este baile por horas.
+EN: Modern AI models can verify their own work by watching what happens when the code runs.
+ES: Los modelos modernos de IA pueden verificar su propio trabajo observando lo que pasa cuando el código corre.
+EN: They read signals from type checkers, from test results, from runtime errors — and they adjust.
+ES: Leen señales de verificadores de tipos, de resultados de pruebas, de errores en tiempo de ejecución — y se ajustan.
+EN: The key insight? Manual verification steps live in your head, not in the codebase.
+ES: La idea clave es esta: los pasos manuales de verificación viven en tu cabeza, no en el código.
+EN: User testing, endpoint checks, browser previews — none of that exists for the AI to see.
+ES: Pruebas de usuario, verificaciones de endpoints, previews en el navegador — nada de eso existe para que la IA lo vea.
+EN: When you encode those steps, you give the AI eyes where it only had blind spots before.
+ES: Cuando codificas esos pasos, le das a la IA ojos donde solo tenía puntos ciegos antes.
+EN: Frontend developers use a Chrome extension and a desktop preview tool — simple, effective.
+ES: Los desarrolladores frontend usan una extensión de Chrome y una herramienta de preview en escritorio — simple, efectivo.
+EN: Backend work requires endpoint calling and response verification — the AI tests what it built.
+ES: El trabajo de backend requiere llamadas a endpoints y verificación de respuestas — la IA prueba lo que construyó.
+EN: Mobile and desktop apps use a technique called computer use with simulator connections.
+ES: Las apps móviles y de escritorio usan una técnica llamada uso de computadora con conexiones de simulador.
+EN: You can create custom skills that document your workflow step by step.
+ES: Puedes crear habilidades personalizadas que documentan tu flujo de trabajo paso a paso.
+EN: These skills automate the boring parts — the checks you always do but never think about.
+ES: Estas habilidades automatizan las partes aburridas — las verificaciones que siempre haces pero nunca piensas.
+EN: Here's where it gets interesting — a second AI agent can review the first one's work.
+ES: Aquí es donde se pone interesante — un segundo agente de IA puede revisar el trabajo del primero.
+EN: This review agent has no attachment to the code it received.
+ES: Este agente de revisión no tiene apego al código que recibió.
+EN: It catches issues the original agent missed because it wasn't looking for them.
+ES: Atrapa problemas que el agente original perdió porque no los buscaba.
+EN: Teams and enterprises can use code review plugins with parallel sub-agents.
+ES: Equipos y empresas pueden usar plugins de revisión de código con sub-agentes paralelos.
+EN: Or they use managed review platforms designed for exactly this purpose.
+ES: O usan plataformas de revisión gestionadas diseñadas exactamente para este propósito.
+EN: The real power comes when you combine skills together.
+ES: El poder real viene cuando combinas habilidades juntas.
+EN: Build skills call simplify skills, verify skills check everything, design skills catch problems early.
+ES: Habilidades de construcción llaman a habilidades de simplificación, habilidades de verificación revisan todo, habilidades de diseño atrapan problemas temprano.
+EN: PR management skills handle the boring paperwork, CI monitoring skills watch the pipeline.
+ES: Habilidades de gestión de PR manejan la papelería aburrida, habilidades de monitoreo de CI vigilan el pipeline.
+EN: Put them all together and you have a shipping workflow that runs itself.
+ES: Ponlas todas juntas y tienes un flujo de trabajo de envío que corre solo.
+EN: The takeaway is simple: hand off verification to the machine.
+ES: La conclusión es simple: entrega la verificación a la máquina.
+EN: When AI verifies its own work end to end, you stop babysitting code and start shipping products.
+ES: Cuando la IA verifica su propio trabajo de punta a punta, dejas de cuidar código y empiezas a enviar productos.
+EN: Your time is too expensive to spend it watching a robot make the same mistakes you used to make.
+ES: Tu tiempo es muy caro para gastarlo viendo a un robot hacer los mismos errores que tú hacías antes.

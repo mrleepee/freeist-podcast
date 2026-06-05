@@ -1,0 +1,17 @@
+Did you know the average developer spends nearly half their coding session babysitting an artificial intelligence assistant, asking it to try again, fix the same bug, or correct a syntax error it should have caught itself? That number comes from a twenty twenty-four study by GitHub, and it reveals something uncomfortable about how most teams actually use these tools.
+
+The traditional workflow is painfully predictable. You describe what you want, the model generates some code, you run it, something breaks, you paste the error back, and the cycle repeats. This turn-based loop feels productive because you're always doing something, but you're not writing code—you're performing quality control that the model itself could be handling.
+
+Modern artificial intelligence models are remarkably good at observing their own work. They can watch type checkers fail, read test suite output, parse runtime errors, and recognise when something doesn't compile. The problem is that most of these signals exist outside the codebase. Your local testing environment, your browser preview, your deployment endpoint—these are invisible to the model unless you explicitly feed them back. But what if you encoded those verification steps directly into your workflow?
+
+This is where custom skills change everything. A skill is essentially a documented procedure that tells your artificial intelligence how to verify its own output. For a web application, that might mean spinning up a preview in a browser, checking that the user interface renders correctly, and confirming that network requests return expected responses. For a backend service, it means calling your own endpoints and validating the payloads. The model learns to run these checks without being asked, catching failures before you ever see them.
+
+Different domains require different tools. Frontend work benefits from browser preview capabilities and developer tools. Backend services need endpoint calling and response verification. Mobile and desktop applications can leverage simulator integrations that let the model interact with the running app directly.
+
+Beyond single-agent verification, multi-agent review adds a layer of objectivity that surprises most people. A second artificial intelligence reviewing code brings no ego, no familiarity blindspot, and no fatigue. It applies the same standards consistently, catching issues the original agent missed because it was too close to the implementation.
+
+The most productive teams build composite workflows from specialised skills. One skill handles building and simplification, another verifies the output, a third runs design checks, another manages pull requests, and a monitoring skill watches the continuous integration pipeline. These pieces compose into a shipping workflow that requires minimal human intervention.
+
+The underlying principle is straightforward: hand off as much verification as possible. The less time you spend babysitting, the more time you spend actually building. Your token costs drop because you're not feeding error messages back and forth, and the model produces better results faster because it's working with real feedback rather than your summarised interpretation of what went wrong.
+
+The future of development isn't about artificial intelligence writing code in isolation. It's about creating systems where the machine verifies itself end-to-end, and you step in only when genuine judgment is required. That's not science fiction—that's available today, if you know how to set it up.
