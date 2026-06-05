@@ -1,0 +1,70 @@
+EN: Most developers spend their days in a broken loop — they ask AI to write code, then they babysit every change.
+ES: La mayoría de los desarrolladores pasan sus días en un ciclo roto: le piden a la IA que escriba código y luego vigilan cada cambio.
+EN: You write a prompt. Claude responds. You check the result. You write another prompt. Hours disappear.
+ES: Escribes un mensaje. Claude responde. Revisas el resultado. Escribes otro mensaje. Las horas desaparecen.
+EN: But what if your AI could verify its own work?
+ES: ¿Pero qué pasa si tu IA pudiera verificar su propio trabajo?
+EN: That question changes everything about how you use AI to build software.
+ES: Esa pregunta cambia todo sobre cómo usas la IA para construir software.
+EN: Here's the core problem: AI coding works, but it requires constant human feedback after each response.
+ES: El problema central es esto: la programación con IA funciona, pero requiere retroalimentación humana constante después de cada respuesta.
+EN: You end up in a turn-based loop that defeats the purpose of having a smart assistant.
+ES: Terminas en un ciclo de turnos que elimina el propósito de tener un asistente inteligente.
+EN: The solution is to build verification loops — structures that let Claude check its own work.
+ES: La solución es construir lazos de verificación: estructuras que permiten a Claude verificar su propio trabajo.
+EN: There are two types of checks you need to understand.
+ES: Hay dos tipos de verificaciones que necesitas entender.
+EN: First, deterministic checks already work perfectly.
+ES: Primero, las verificaciones deterministas ya funcionan perfectamente.
+EN: Type checkers, automated tests, and runtime errors — these catch problems without any human input.
+ES: Los verificadores de tipos, las pruebas automáticas y los errores de ejecución capturan problemas sin ninguna entrada humana.
+EN: Claude runs the code, the test fails, Claude sees the failure, Claude fixes it.
+ES: Claude ejecuta el código, la prueba falla, Claude ve el fallo, Claude lo corrige.
+EN: That loop already exists. The second type of check is where things get interesting.
+ES: Ese ciclo ya existe. El segundo tipo de verificación es donde las cosas se ponen interesantes.
+EN: Manual verification steps are the checks you do yourself — clicking through a UI, testing a feature, checking the design.
+ES: Los pasos de verificación manual son las revisiones que haces tú mismo: hacer clic en una interfaz, probar una función, revisar el diseño.
+EN: These steps live in your head. The goal is to encode them so Claude can use them too.
+ES: Estos pasos viven en tu cabeza. La meta es codificarlos para que Claude también pueda usarlos.
+EN: How do you build these verification loops?
+ES: ¿Cómo construyes estos lazos de verificación?
+EN: Start by documenting your current manual workflow right now.
+ES: Empieza documentando tu flujo de trabajo manual actual ahora mismo.
+EN: You probably run a dev server, click through the UI, and check the console for errors.
+ES: Probablemente ejecutas un servidor de desarrollo, haces clic en la interfaz y revisas la consola en busca de errores.
+EN: Next, identify the tools Claude can use — a Chrome extension, a desktop preview, DevTools, or simulator tools.
+ES: Luego, identifica las herramientas que Claude puede usar: una extensión de Chrome, una vista previa de escritorio, DevTools o herramientas de simulador.
+EN: Now encode this workflow as a skill using the skill creator.
+ES: Ahora codifica este flujo de trabajo como una habilidad usando el creador de habilidades.
+EN: Let Claude interview you to capture your exact process.
+ES: Deja que Claude te interview para capturar tu proceso exacto.
+EN: The benefits of encoded workflows compound over time.
+ES: Los beneficios de los flujos de trabajo codificados se acumulan con el tiempo.
+EN: Claude catches unrelated issues — like a layout shift — even when you're working on something completely different.
+ES: Claude captura problemas no relacionados, como un cambio de diseño, incluso cuando trabajas en algo completamente diferente.
+EN: You spend less time babysitting and spend less money on token usage.
+ES: Pasas menos tiempo vigilando y gastas menos dinero en uso de tokens.
+EN: Each verification step you encode makes the next one more powerful.
+ES: Cada paso de verificación que codificas hace que el siguiente sea más poderoso.
+EN: Think of this as a two-layer defense system for your code.
+ES: Piensa en esto como un sistema de defensa de dos capas para tu código.
+EN: The verification layer runs while Claude builds — automated checks catch problems during development.
+ES: La capa de verificación se ejecuta mientras Claude construye: verificaciones automáticas capturan problemas durante el desarrollo.
+EN: The review layer is a separate agent that reviews code before it gets merged.
+ES: La capa de revisión es un agente separado que revisa el código antes de que se mezcle.
+EN: A code review plugin or managed review tool handles this layer.
+ES: Un plugin de revisión de código o una herramienta de revisión gestionada maneja esta capa.
+EN: Advanced users chain skills together to build powerful workflows.
+ES: Los usuarios avanzados encadenan habilidades para construir flujos de trabajo poderosos.
+EN: One skill calls another — build, verify, check design, open a pull request, watch CI results.
+ES: Una habilidad llama a otra: construir, verificar, revisar diseño, abrir una solicitud de extracción, observar resultados de CI.
+EN: The chain does the work that used to require your constant attention.
+ES: La cadena hace el trabajo que antes requería tu atención constante.
+EN: Here's the takeaway: encode as much manual verification as you can.
+ES: Aquí está la conclusión: codifica tanta verificación manual como puedas.
+EN: Hand off the checks you do every day so Claude can run them independently.
+ES: Delega las verificaciones que haces cada día para que Claude pueda ejecutarlas de forma independiente.
+EN: The goal is end-to-end verification — your AI builds, checks, and validates its own work.
+ES: La meta es verificación de extremo a extremo: tu IA construye, verifica y valida su propio trabajo.
+EN: That's how you escape the babysitting loop and actually let AI work for you.
+ES: Así es como escapas del ciclo de vigilancia y realmente dejas que la IA trabaje para ti.

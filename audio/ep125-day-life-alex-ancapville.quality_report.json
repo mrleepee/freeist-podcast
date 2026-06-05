@@ -1,0 +1,53 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.9 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -15.9,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "only 4.5 numbers/1k words (need \u22656)",
+      "metrics": {
+        "word_count": 891,
+        "filler_phrases": [],
+        "numbers": 4,
+        "numbers_per_1k": 4.5,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Imagine waking up in a town where nobody pays taxes. Not a single penny.",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "substance: only 4.5 numbers/1k words (need \u22656)"
+  ]
+}

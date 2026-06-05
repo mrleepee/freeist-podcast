@@ -4,13 +4,43 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 21:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:26:43 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>A Day in the Life of Alex in AnCapville</title>
+      <description>What would a day look like with no state, no taxes, no police monopoly, and no central bank? Through the eyes of an ordinary man named Alex, we tour a society built entirely on voluntary contracts, private property, reputation markets, and competing arbitration firms. Roads are privately owned with risk-based insurance pricing. Schools are parent-funded co-ops competing on outcomes. Money is gold-backed digital currency with no inflation tax. When Alex's cousin commits a violent crime, the system treats it as a tort against the victim with restitution enforced through private labour centres competing on humane conditions. The framework draws on Murray Rothbard's natural order, Stephan Kinsella's property rights and tort-based common law, Hans-Hermann Hoppe's covenant communities, and Bob Murphy's Austrian economics. The episode is honest about the trade-offs: reputation scores can be manipulated, exclusionary communities can become insular, and people who refuse all contracts find themselves frozen out of society. The real question AnCapville forces you to answer is whether you trust yourself more than you trust the people who currently hold the monopoly.
+
+Links:
+https://hamannature.substack.com/p/a-day-in-the-life-of-alex-in-ancapville
+https://en.wikipedia.org/wiki/Anarcho-capitalism
+https://mises.org/library/book/new-liberty-libertarian-manifesto
+https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>06:23</itunes:duration>
+      <itunes:summary>What would a day look like with no state, no taxes, no police monopoly, and no central bank? Through the eyes of an ordinary man named Alex, we tour a society built entirely on voluntary contracts, private property, reputation markets, and competing arbitration firms. Roads are privately owned with risk-based insurance pricing. Schools are parent-funded co-ops competing on outcomes. Money is gold-backed digital currency with no inflation tax. When Alex's cousin commits a violent crime, the system treats it as a tort against the victim with restitution enforced through private labour centres competing on humane conditions. The framework draws on Murray Rothbard's natural order, Stephan Kinsella's property rights and tort-based common law, Hans-Hermann Hoppe's covenant communities, and Bob Murphy's Austrian economics. The episode is honest about the trade-offs: reputation scores can be manipulated, exclusionary communities can become insular, and people who refuse all contracts find themselves frozen out of society. The real question AnCapville forces you to answer is whether you trust yourself more than you trust the people who currently hold the monopoly.
+
+Links:
+https://hamannature.substack.com/p/a-day-in-the-life-of-alex-in-ancapville
+https://en.wikipedia.org/wiki/Anarcho-capitalism
+https://mises.org/library/book/new-liberty-libertarian-manifesto
+https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep125-day-life-alex-ancapville.podcast.mp3" length="5548029" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep125-day-life-alex-ancapville.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Claudedevs How Do You Get Claude Code Check</title>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 21:45:42 +0000</pubDate>
+      <itunes:duration>04:00</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep124-claudedevs-how-do-you-get-claude-code-check.podcast.mp3" length="2436501" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep124-claudedevs-how-do-you-get-claude-code-check.podcast.mp3</guid>
+    </item>
     <item>
       <title>Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months</title>
       <description>Andrej Karpathy warns that 90% of what AI Twitter tells you to learn will be dead in six months. The framework graveyard is already filling up: AutoGen, CrewAI, LangChain, Semantic Kernel — viral demos that never survived production. What actually compounds: context engineering, tool design, eval discipline, and the harness mindset. The deep irony is that the threads warning about hype are themselves viral hype threads. Links: https://x.com/i/status/2061491256107159736 | https://www.reddit.com/r/LangChain/comments/1j8kmeu/ | https://news.ycombinator.com/</description>

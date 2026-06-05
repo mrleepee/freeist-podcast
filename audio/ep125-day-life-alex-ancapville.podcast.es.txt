@@ -1,0 +1,78 @@
+EN: Alex opens his eyes in AnCapville, where nobody wakes up wondering if the state will show up today.
+ES: Alex abre sus ojos en AnCapville, donde nadie se pregunta si el estado llegará hoy.
+EN: There is no police department here, no courts, and certainly no tax collectors knocking at dawn.
+ES: No hay comisaría aquí, no hay tribunales, y seguramente no hay cobradores de impuestos tocando la puerta al amanecer.
+EN: Instead, the morning begins with the soft ping of his phone — a reminder about his coffee subscription.
+ES: En cambio, la mañana comienza con un suave pitido de su teléfono — un recordatorio sobre su suscripción de café.
+EN: He ordered those beans through a reputation platform where buyers rate sellers and sellers rate buyers.
+ES: Él ordenó esos granos a través de una plataforma de reputación donde los compradores califican a los vendedores y los vendedores califican a los compradores.
+EN: The platform shows a five-star average for his preferred roaster, built over three years of positive reviews.
+ES: La plataforma muestra un promedio de cinco estrellas para su tostador preferido, construido en tres años de reseñas positivas.
+EN: No government agency inspects that coffee, but market feedback and insurance incentives keep quality high.
+ES: Ninguna agencia del gobierno inspecciona ese café, pero la retroalimentación del mercado y los incentivos de seguro mantienen la calidad alta.
+EN: While the coffee brews, Alex checks his daughter's school app.
+ES: Mientras el café se prepara, Alex revisa la aplicación de la escuela de su hija.
+EN: She attends a micro-school co-op run by parents, not a state institution.
+ES: Ella asiste a una microescuela cooperativa dirigida por padres, no por una institución del estado.
+EN: Curriculum choices are wide and varied, selected by families who read reviews and arbitration ratings before enrolling.
+ES: Las opciones de currículo son amplias y variadas, seleccionadas por familias que leen reseñas y calificaciones de arbitraje antes de inscribir.
+EN: After breakfast, Alex walks to his car, a private electric vehicle he summoned through an app.
+ES: Después del desayuno, Alex camina hacia su carro, un vehículo eléctrico privado que pidió a través de una aplicación.
+EN: The roads he drives on are privately owned, and his insurance premium reflects how safely he operates his vehicle.
+ES: Los caminos que maneja son de propiedad privada, y su prima de seguro refleja qué tan seguro maneja su vehículo.
+EN: Reckless drivers pay higher premiums; careful drivers save money.
+ES: Los conductores imprudentes pagan primas más altas; los conductores cuidadosos ahorran dinero.
+EN: If someone damages his car, their insurer pays for repairs — no traffic tickets, no state bureaucracy.
+ES: Si alguien daña su carro, el seguro de esa persona paga las reparaciones — sin multas de tráfico, sin burocracia estatal.
+EN: Mid-morning brings a video call from his cousin Jake, who works as an arbitrator for a private dispute-resolution firm.
+ES: A media mañana llega una videollamada de su primo Jake, quien trabaja como árbitro para una firma privada de resolución de disputas.
+EN: Jake explains that people in AnCapville choose their arbitration firm in advance, when they sign community covenants.
+ES: Jake explica que las personas en AnCapville eligen su firma de arbitraje con anticipación, cuando firman los pactos comunitarios.
+EN: The losing party in a dispute pays the winner's costs, which incentivizes fast and fair settlements.
+ES: La parte perdedora en una disputa paga los costos del ganador, lo cual incentiva resoluciones rápidas y justas.
+EN: There are no endless appeals like you see in state courts.
+ES: No hay apelaciones interminables como las que ves en los tribunales del estado.
+EN: Alex mentions that competing security agencies patrol different neighborhoods, each with their own reputation scores.
+ES: Alex menciona que agencias de seguridad competitivas patrullan diferentes vecindarios, cada una con sus propias puntuaciones de reputación.
+EN: Bad actors get dropped by their insurers and are barred from private property across multiple communities.
+ES: Los malos actores son abandonados por sus seguros y son vetados de propiedades privadas en múltiples comunidades.
+EN: Over lunch, Alex shows me his phone's payment app.
+ES: Durante el almuerzo, Alex me muestra la aplicación de pago en su teléfono.
+EN: Most transactions here use gold-backed digital currency — no central bank printing money and inflating prices.
+ES: La mayoría de las transacciones aquí usan moneda digital respaldada por oro — ningún banco central imprime dinero e infla precios.
+EN: His purchasing power stays stable year after year.
+ES: Su poder adquisitivo se mantiene estable año tras año.
+EN: The afternoon brings a serious topic: Jake once had a violent encounter with someone who damaged his property.
+ES: La tarde trae un tema serio: Jake una vez tuvo un encuentro violento con alguien que dañó su propiedad.
+EN: In AnCapville, violent crime is treated as a tort — a civil wrong, not a criminal offense pursued by the state.
+ES: En AnCapville, el crimen violento se trata como un agravio — un error civil, no una ofensa criminal perseguida por el estado.
+EN: Jake's insurer paid for his losses immediately, then pursued restitution from the offender.
+ES: El seguro de Jake pagó sus pérdidas inmediatamente, después buscó restitución del ofensor.
+EN: The offender was apprehended non-lethally by private security and now works at a labor center to pay off the debt.
+ES: El ofensor fue capturado sin uso letal por seguridad privada y ahora trabaja en un centro laboral para pagar la deuda.
+EN: These labor centers compete with each other, so humane conditions attract more workers and better reputation.
+ES: Estos centros laborales compiten entre sí, así que condiciones humanas atraen más trabajadores y mejor reputación.
+EN: Alex admits the system isn't perfect — some people do fall through the cracks.
+ES: Alex admite que el sistema no es perfecto — algunas personas sí se quedan atrás.
+EN: Individuals who refuse bonds or contracts find their reputation scores dropping rapidly.
+ES: Individuos que rechazan bonos o contratos ven sus puntuaciones de reputación cayendo rápidamente.
+EN: Without a reputation score, access to services, property, and community becomes extremely difficult.
+ES: Sin una puntuación de reputación, el acceso a servicios, propiedades y comunidad se vuelve extremadamente difícil.
+EN: Different neighborhoods in AnCapville adopt different covenants — some have religious values, others prioritize environmental standards.
+ES: Diferentes vecindarios en AnCapville adoptan diferentes pactos — algunos tienen valores religiosos, otros priorizan estándares ambientales.
+EN: Entry often depends on a digital reputation score and reciprocal insurance agreements.
+ES: La entrada frecuentemente depende de una puntuación de reputación digital y acuerdos de seguro recíproco.
+EN: Shared infrastructure like roads and defense pools are funded through explicit, opt-in contributions.
+ES: La infraestructura compartida como caminos y fondos de defensa se financian a través de contribuciones explícitas y voluntarias.
+EN: Nobody is forced to pay for a bridge they'll never cross.
+ES: Nadie está obligado a pagar por un puente que nunca cruzará.
+EN: So what does Alex think after this ordinary day in AnCapville?
+ES: ¿Entonces qué piensa Alex después de este día ordinario en AnCapville?
+EN: He believes this society aligns incentives in ways that state systems cannot match.
+ES: Él cree que esta sociedad alinea incentivos de maneras que los sistemas estatales no pueden igualar.
+EN: Competition replaces monopoly power, and restitution replaces punishment as the primary goal.
+ES: La competencia reemplaza el poder monopolista, y la restitución reemplaza el castigo como la meta principal.
+EN: Freedom, innovation, and personal responsibility flourish when people can choose their own arrangements.
+ES: La libertad, la innovación y la responsabilidad personal florecen cuando las personas pueden elegir sus propios acuerdos.
+EN: The takeaway is simple: when you replace coercion with contract, people tend to behave better.
+ES: La lección es simple: cuando reemplazas la coerción con el contrato, la gente tiende a comportarse mejor.
