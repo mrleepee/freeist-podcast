@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:36:32 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -50,15 +50,6 @@ https://docs.anthropic.com/en/docs/claude-code/hooks-guide
 https://docs.anthropic.com/en/docs/claude-code/skills</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3" length="3701853" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3</guid>
-    </item>
-    <item>
-      <title>Claudedevs How Do You Get Claude Code Check</title>
-      <description/>
-      <pubDate>Thu, 04 Jun 2026 21:45:42 +0000</pubDate>
-      <itunes:duration>04:00</itunes:duration>
-      <itunes:summary/>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep124-claudedevs-how-do-you-get-claude-code-check.podcast.mp3" length="2436501" type="audio/mpeg"/>
-      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep124-claudedevs-how-do-you-get-claude-code-check.podcast.mp3</guid>
     </item>
     <item>
       <title>Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months</title>
