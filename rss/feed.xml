@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:29:54 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -34,10 +34,20 @@ https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe</itunes:summary>
     </item>
     <item>
       <title>Closing Claude Code's Feedback Loop — Self-Checking Before Handoff</title>
-      <description>The average developer spends nearly half their coding session babysitting an AI assistant, asking it to try again, fix the same bug, or correct a syntax error it should have caught itself. The traditional workflow is a turn-based loop that feels productive but is actually manual quality control the model could handle on its own. Modern AI models can watch type checkers fail, read test suite output, parse runtime errors, and recognise when something does not compile. The problem is that most verification signals exist outside the codebase. Custom skills encode those verification steps directly into the workflow so the model catches failures before you ever see them. Multi-agent review adds a second layer of objectivity. Composite workflows compose specialised skills into a shipping pipeline that requires minimal human intervention. The principle is simple: hand off as much verification as possible, step in only when genuine judgment is required.</description>
+      <description>The average developer spends nearly half their coding session babysitting an AI assistant, asking it to try again, fix the same bug, or correct a syntax error it should have caught itself. The traditional workflow is a turn-based loop that feels productive but is actually manual quality control the model could handle on its own. Modern AI models can watch type checkers fail, read test suite output, parse runtime errors, and recognise when something does not compile. The problem is that most verification signals exist outside the codebase. Custom skills encode those verification steps directly into the workflow so the model catches failures before you ever see them. Multi-agent review adds a second layer of objectivity. Composite workflows compose specialised skills into a shipping pipeline that requires minimal human intervention. The principle is simple: hand off as much verification as possible, step in only when genuine judgment is required.
+
+Links:
+https://docs.anthropic.com/en/docs/claude-code/hooks
+https://docs.anthropic.com/en/docs/claude-code/hooks-guide
+https://docs.anthropic.com/en/docs/claude-code/skills</description>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>04:10</itunes:duration>
-      <itunes:summary>The average developer spends nearly half their coding session babysitting an AI assistant, asking it to try again, fix the same bug, or correct a syntax error it should have caught itself. The traditional workflow is a turn-based loop that feels productive but is actually manual quality control the model could handle on its own. Modern AI models can watch type checkers fail, read test suite output, parse runtime errors, and recognise when something does not compile. The problem is that most verification signals exist outside the codebase. Custom skills encode those verification steps directly into the workflow so the model catches failures before you ever see them. Multi-agent review adds a second layer of objectivity. Composite workflows compose specialised skills into a shipping pipeline that requires minimal human intervention. The principle is simple: hand off as much verification as possible, step in only when genuine judgment is required.</itunes:summary>
+      <itunes:summary>The average developer spends nearly half their coding session babysitting an AI assistant, asking it to try again, fix the same bug, or correct a syntax error it should have caught itself. The traditional workflow is a turn-based loop that feels productive but is actually manual quality control the model could handle on its own. Modern AI models can watch type checkers fail, read test suite output, parse runtime errors, and recognise when something does not compile. The problem is that most verification signals exist outside the codebase. Custom skills encode those verification steps directly into the workflow so the model catches failures before you ever see them. Multi-agent review adds a second layer of objectivity. Composite workflows compose specialised skills into a shipping pipeline that requires minimal human intervention. The principle is simple: hand off as much verification as possible, step in only when genuine judgment is required.
+
+Links:
+https://docs.anthropic.com/en/docs/claude-code/hooks
+https://docs.anthropic.com/en/docs/claude-code/hooks-guide
+https://docs.anthropic.com/en/docs/claude-code/skills</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3" length="3701853" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3</guid>
     </item>
