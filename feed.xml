@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:56:39 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -50,6 +50,25 @@ https://docs.anthropic.com/en/docs/claude-code/hooks-guide
 https://docs.anthropic.com/en/docs/claude-code/skills</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3" length="3701853" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep126-claudedevs-how-do-you-get-claude-code-check.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Istanbul Real Estate: Renovation Costs and ROI for Turkish CBI</title>
+      <description>A practical guide to Istanbul real estate investment for Turkish citizenship by investment. We generalise the renovation cost framework — from cosmetic refreshes at 30 to 50 thousand dollars to full structural overhauls at 140 thousand plus — and explain how to calculate net rental yield after management fees, vacancy, and maintenance. Long-term USD-denominated leases deliver around 5.5 percent net yield; short-term Airbnb lets push toward 7 percent but with higher management overhead. New builds versus renovated resale properties each carry different risk profiles: new builds are move-in ready with no renovation period, while renovated properties in gentrifying neighbourhoods near prime districts offer better price per square metre and stronger appreciation potential. The neighbourhood strategy matters — invest adjacent to established luxury zones where gentrification is spreading. The three-year holding requirement for CBI means your exit strategy must be planned at entry.
+
+Links:
+https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx
+https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
+https://thewanderinginvestor.com/international-real-estate/making-a-real-estate-investment-in-istanbul-turkey-overview-and-what-to-watch-out-for/</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>04:16</itunes:duration>
+      <itunes:summary>A practical guide to Istanbul real estate investment for Turkish citizenship by investment. We generalise the renovation cost framework — from cosmetic refreshes at 30 to 50 thousand dollars to full structural overhauls at 140 thousand plus — and explain how to calculate net rental yield after management fees, vacancy, and maintenance. Long-term USD-denominated leases deliver around 5.5 percent net yield; short-term Airbnb lets push toward 7 percent but with higher management overhead. New builds versus renovated resale properties each carry different risk profiles: new builds are move-in ready with no renovation period, while renovated properties in gentrifying neighbourhoods near prime districts offer better price per square metre and stronger appreciation potential. The neighbourhood strategy matters — invest adjacent to established luxury zones where gentrification is spreading. The three-year holding requirement for CBI means your exit strategy must be planned at entry.
+
+Links:
+https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx
+https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
+https://thewanderinginvestor.com/international-real-estate/making-a-real-estate-investment-in-istanbul-turkey-overview-and-what-to-watch-out-for/</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep127-istanbul-real-estate-renovation-costs-roi-turkish-cbi.podcast.mp3" length="3807309" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep127-istanbul-real-estate-renovation-costs-roi-turkish-cbi.podcast.mp3</guid>
     </item>
     <item>
       <title>Karpathy: 90% of What AI Twitter Tells You to Learn Will Be Dead in 6 Months</title>
