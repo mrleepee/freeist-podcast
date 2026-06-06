@@ -4,13 +4,32 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 19:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:38:41 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Bitcoin Passport Index: Buying Citizenship in the 21st Century</title>
+      <description>A new index published June 2026 by 21 CBI ranks 87 countries not by visa-free destinations but by how friendly they are to Bitcoin holders. El Salvador takes number one with a BTC-native citizenship program, zero capital gains, and no CARF commitment. St Kitts beats Portugal. The US ranks 55th. The index allocates 45 percent of its weight to Bitcoin factors and 55 percent to traditional passport quality. Caribbean CBI nations face escalating international pressure. The barbell strategy emerges: a Swiss passport for mobility, an El Salvador Freedom Passport for BTC sovereignty, and Georgian tax residency for zero percent gains.
+
+Links:
+https://bpi.21cbi.io/
+https://en.wikipedia.org/wiki/Citizenship_by_investment
+https://www.henley.com/passport-index</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:08</itunes:duration>
+      <itunes:summary>A new index published June 2026 by 21 CBI ranks 87 countries not by visa-free destinations but by how friendly they are to Bitcoin holders. El Salvador takes number one with a BTC-native citizenship program, zero capital gains, and no CARF commitment. St Kitts beats Portugal. The US ranks 55th. The index allocates 45 percent of its weight to Bitcoin factors and 55 percent to traditional passport quality. Caribbean CBI nations face escalating international pressure. The barbell strategy emerges: a Swiss passport for mobility, an El Salvador Freedom Passport for BTC sovereignty, and Georgian tax residency for zero percent gains.
+
+Links:
+https://bpi.21cbi.io/
+https://en.wikipedia.org/wiki/Citizenship_by_investment
+https://www.henley.com/passport-index</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep128-bitcoin-passport-index-buying-citizenship-21st-century.podcast.mp3" length="4519773" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep128-bitcoin-passport-index-buying-citizenship-21st-century.podcast.mp3</guid>
+    </item>
     <item>
       <title>A Day in the Life of Alex in AnCapville</title>
       <description>What would a day look like with no state, no taxes, no police monopoly, and no central bank? Through the eyes of an ordinary man named Alex, we tour a society built entirely on voluntary contracts, private property, reputation markets, and competing arbitration firms. Roads are privately owned with risk-based insurance pricing. Schools are parent-funded co-ops competing on outcomes. Money is gold-backed digital currency with no inflation tax. When Alex's cousin commits a violent crime, the system treats it as a tort against the victim with restitution enforced through private labour centres competing on humane conditions. The framework draws on Murray Rothbard's natural order, Stephan Kinsella's property rights and tort-based common law, Hans-Hermann Hoppe's covenant communities, and Bob Murphy's Austrian economics. The episode is honest about the trade-offs: reputation scores can be manipulated, exclusionary communities can become insular, and people who refuse all contracts find themselves frozen out of society. The real question AnCapville forces you to answer is whether you trust yourself more than you trust the people who currently hold the monopoly.

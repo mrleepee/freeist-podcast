@@ -1,0 +1,43 @@
+{
+  "claims": [
+    {
+      "claim": "Bitcitizen sells citizenship and residency by investment programmes",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map states 21 CBI is a division of Bitcitizen LLC, but never explicitly states that Bitcitizen sells CBI/RBI programs."
+    },
+    {
+      "claim": "Bitcitizen can point to that ranking when selling its Freedom Passport programme",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map attributes the Freedom Passport to El Salvador, not Bitcitizen; there is no evidence Bitcitizen sells or controls El Salvador's program."
+    },
+    {
+      "claim": "Adam Juchniewicz served as a retired United States Air Force veteran before co-authoring this ranking",
+      "confidence": "medium",
+      "type": "fact",
+      "reason": "The evidence map confirms he is a retired Air Force veteran, but does not state he personally co-authored the index."
+    },
+    {
+      "claim": "Switzerland, the United Arab Emirates, and Singapore all offer significantly broader access",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the evidence map provides visa-free destination counts for Switzerland, UAE, or Singapore."
+    },
+    {
+      "claim": "the ruler was built by people who profit from certain answers",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "While the script implies financial motivation, the evidence map does not establish that the index authors profit from the outcomes."
+    },
+    {
+      "claim": "the scorecard was written by the people selling the programme",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map attributes the Freedom Passport programme to El Salvador, not to 21 CBI or Bitcitizen; conflating the two is unsupported."
+    }
+  ],
+  "high_confidence": 4,
+  "threshold": 3,
+  "passed": false
+}

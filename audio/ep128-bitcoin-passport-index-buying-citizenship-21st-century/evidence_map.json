@@ -1,0 +1,450 @@
+[
+  {
+    "claim": "The Bitcoin Passport Index was published on June 1, 2026 by 21 CBI, a division of Bitcitizen LLC",
+    "source_quote": "A new index published on June 1, 2026 by 21 CBI, a division of Bitcitizen LLC, ranks 87 countries",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The BPI ranks 87 countries",
+    "source_quote": "ranks 87 countries not by how many visa-free destinations their passports offer, but by how friendly they are to people who hold Bitcoin",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI allocates 45% to Bitcoin-specific factors and 55% to traditional passport quality",
+    "source_quote": "The Bitcoin Passport Index, or BPI, allocates forty-five percent of its total weight to Bitcoin-specific factors and fifty-five percent to traditional passport quality",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador ranks #1 with BPI score of 84.45",
+    "source_quote": "El Salvador, which sits in the mid-thirties on travel-focused indexes, takes number one with a BPI score of 84.45",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador has nearly 4-point margin over Malta at #2",
+    "source_quote": "a nearly four-point margin over Malta at number two",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Switzerland is ranked third",
+    "source_quote": "Switzerland is third",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "St Kitts and Nevis has 157 visa-free destinations",
+    "source_quote": "St Kitts and Nevis, a Caribbean island with 157 visa-free destinations",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "St Kitts and Nevis has zero capital gains tax",
+    "source_quote": "157 visa-free destinations and zero capital gains tax",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "St Kitts and Nevis ranks #4 on the BPI",
+    "source_quote": "St Kitts, ranked fourth on the BPI",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights tax policy at 25%",
+    "source_quote": "Because the BPI weights tax policy at twenty-five percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights Bitcoin legal status at 20%",
+    "source_quote": "Bitcoin legal status at twenty percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights visa-free travel at 20%",
+    "source_quote": "visa-free travel at only twenty percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights residency and citizenship pathways at 15%",
+    "source_quote": "Residency and citizenship pathways get fifteen percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights dual citizenship posture at 10%",
+    "source_quote": "Dual citizenship posture gets ten percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI weights personal and economic freedom at 10%",
+    "source_quote": "Personal and economic freedom gets ten percent",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador's Bitcoin Law made Bitcoin legal tender in 2021",
+    "source_quote": "The 2021 Bitcoin Law made Bitcoin legal tender",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador's state treasury holds roughly 7,500 BTC",
+    "source_quote": "A state treasury holds roughly 7,500 BTC",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador Freedom Passport costs one million dollars",
+    "source_quote": "for a one million dollar citizenship-by-investment route",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador Freedom Passport limited to 1,000 applicants per year",
+    "source_quote": "limited to one thousand applicants per year",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador Freedom Passport processed in 6-8 weeks",
+    "source_quote": "processed in six to eight weeks",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador Bitcoin capital gains tax is 0%",
+    "source_quote": "Capital gains tax on Bitcoin is zero percent",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador extends 0% Bitcoin capital gains tax to foreign investors holding at least 3 BTC",
+    "source_quote": "extended even to foreign investors holding at least three BTC",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador corporate tax for licensed Bitcoin service providers is 0%",
+    "source_quote": "Corporate tax for licensed Bitcoin service providers is zero percent",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador has territorial tax base (foreign-source income ignored)",
+    "source_quote": "The tax base is territorial, meaning foreign-source income is ignored",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador has not committed to OECD's CARF",
+    "source_quote": "El Salvador has not committed to the OECD's Crypto-Asset Reporting Framework, or CARF",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "CARF begins automatic cross-border reporting of crypto balances in waves starting 2027",
+    "source_quote": "which begins automatic cross-border reporting of crypto balances in waves starting 2027",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "47 jurisdictions begin exchanging crypto-account data in 2027",
+    "source_quote": "Forty-seven jurisdictions including all major EU states and the UK begin exchanging crypto-account data in 2027",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "28 more jurisdictions join CARF in 2028 including Switzerland, Canada, UAE, and Singapore",
+    "source_quote": "Twenty-eight more including Switzerland, Canada, UAE, and Singapore join in 2028",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "United States joins CARF in 2029",
+    "source_quote": "The United States joins in 2029",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Countries not committed to CARF retain structural information-privacy advantage",
+    "source_quote": "Countries not committed to CARF, including El Salvador, Argentina, Georgia, and Vietnam, retain what the BPI calls a structural information-privacy advantage",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "CARF only reaches custodians and exchanges, not hardware wallets",
+    "source_quote": "the framework only reaches custodians and exchanges, not hardware wallets",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "EU warned in December 2025 that operating CBI programs is grounds for Schengen visa suspension",
+    "source_quote": "The EU warned in December 2025 that operating CBI programs is itself grounds for Schengen visa suspension",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "US suspended visa categories for Antigua and Barbuda and Dominica effective January 2026",
+    "source_quote": "The US suspended visa categories for Antigua and Barbuda and Dominica effective January 2026",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "UK revoked St Lucia's visa-free access in March 2026",
+    "source_quote": "The UK revoked St Lucia's visa-free access in March 2026",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "US FinCEN rescinded decade-old advisory on St Kitts in February 2026",
+    "source_quote": "with the US FinCEN rescinding a decade-old advisory in February 2026",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Georgia ranked 31st on BPI",
+    "source_quote": "Georgia, ranked thirty-first",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Georgia offers 365-day visa-free stays for over 90 nationalities",
+    "source_quote": "offers 365-day visa-free stays for over ninety nationalities",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Georgia has 0% Bitcoin capital gains tax",
+    "source_quote": "zero percent Bitcoin capital gains",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Georgia has no CARF commitment",
+    "source_quote": "and no CARF exposure",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Paraguay ranked 34th on BPI",
+    "source_quote": "Paraguay, ranked thirty-fourth",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Paraguay offers residency for a few hundred dollars in fees",
+    "source_quote": "offers residency for a few hundred dollars in fees",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Paraguay has territorial taxation",
+    "source_quote": "territorial taxation",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "HIVE Digital energized a 300-megawatt hydroelectric mining facility in Paraguay in 2025",
+    "source_quote": "HIVE Digital energized a 300-megawatt hydroelectric mining facility in Paraguay in 2025",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "United States ranks 55th on BPI",
+    "source_quote": "The United States ranks fifty-fifth",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "US has Tax score of 15 out of 100 on BPI",
+    "source_quote": "A Tax score of 15 out of 100 reflects worldwide citizenship-based taxation",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "US has 40.8% tax on short-term Bitcoin gains",
+    "source_quote": "reaching 40.8 percent on short-term Bitcoin gains",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "US and Eritrea are the only two countries with citizenship-based taxation",
+    "source_quote": "The US is one of only two countries alongside Eritrea with citizenship-based taxation",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "US exit tax triggers on unrealized gains when renouncing citizenship",
+    "source_quote": "renouncing triggers an exit tax on unrealized gains",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Total marginal rate on short-term Bitcoin gains can exceed 54% in California",
+    "source_quote": "For a high-income Bitcoiner in California, the total marginal rate on short-term Bitcoin gains can exceed 54 percent",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Adam Juchniewicz is CEO of 21 CBI",
+    "source_quote": "Adam Juchniewicz, CEO of 21 CBI",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz is a retired US Air Force veteran",
+    "source_quote": "is a retired US Air Force veteran",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz has Master of Laws in European and Comparative Law from University of Malta",
+    "source_quote": "with a Master of Laws in European and Comparative Law from the University of Malta",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz has 12 years at US Department of Homeland Security on immigration policy",
+    "source_quote": "twelve years at the US Department of Homeland Security on immigration policy",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "21 CBI is a licensed agent of The Bitcoin Office of El Salvador",
+    "source_quote": "and 21 CBI is a licensed agent of The Bitcoin Office of El Salvador",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "BPI is an annual publication with data current as of May 31, 2026",
+    "source_quote": "The index is an annual publication, with data current as of May 31, 2026",
+    "timestamp": "para:8",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Eleven million Americans live abroad",
+    "source_quote": "in a world where eleven million Americans live abroad",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  }
+]

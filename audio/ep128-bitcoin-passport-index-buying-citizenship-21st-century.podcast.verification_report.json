@@ -1,0 +1,193 @@
+{
+  "claims": [
+    {
+      "claim": "One million dollars buys you a passport to nowhere most people can actually go.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map confirms the $1M cost and El Salvador's lower travel-focused ranking, but this specific framing and conclusion are editorial claims not found in the provided sources."
+    },
+    {
+      "claim": "El Salvador tops a new global index this month",
+      "confidence": "medium",
+      "type": "date",
+      "reason": "The evidence map confirms El Salvador is #1, but the script's use of 'this month' is ambiguous given the index publication date of June 1, 2026."
+    },
+    {
+      "claim": "you can buy your way onto that list for a seven figure price tag.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map confirms the $1M cost of the Freedom Passport, but does not support the claim that purchasing it directly places a buyer 'onto that list' (the BPI country ranking)."
+    },
+    {
+      "claim": "The Bitcoin Passport Index landed on June first, twenty twenty-six",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Supported by the evidence map (para:1)."
+    },
+    {
+      "claim": "published by a company called twenty-one CBI, which operates under the Bitcitizen umbrella.",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Supported by the evidence map (para:1), which states it is 'a division of Bitcitizen LLC'."
+    },
+    {
+      "claim": "It ranks eighty-seven countries across six categories.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:1) for the 87 countries. The 'six categories' claim is indirectly supported by the six weighted metrics detailed in the map."
+    },
+    {
+      "claim": "Tax policy counts for twenty-five percent of your score.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "Bitcoin's legal status counts for twenty percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "Visa-free travel gets twenty percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "Pathways to residency and citizenship take fifteen percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "Dual citizenship posture accounts for ten percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "Personal and economic freedom make up the remaining ten percent.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "forty-five percent of the entire index rewards countries for their relationship with Bitcoin",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:1)."
+    },
+    {
+      "claim": "fifty-five percent measures traditional passport quality.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:1)."
+    },
+    {
+      "claim": "El Salvador sits at the summit with a score of eighty-four point forty-five.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "nearly four full points ahead of Malta in second place",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "with Switzerland rounding out the top three.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "The Freedom Passport costs exactly one million dollars.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:3)."
+    },
+    {
+      "claim": "It accepts a maximum of one thousand applicants each year.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:3)."
+    },
+    {
+      "claim": "The entire process takes six to eight weeks.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:3)."
+    },
+    {
+      "claim": "passing the Bitcoin Law in twenty twenty-one.",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Supported by the evidence map (para:3)."
+    },
+    {
+      "claim": "The state treasury currently holds roughly seven thousand five hundred Bitcoin",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:3)."
+    },
+    {
+      "claim": "St Kitts and Nevis has offered a dollar-denominated version for decades",
+      "confidence": "high",
+      "type": "date",
+      "reason": "The evidence map confirms St Kitts' CBI program and stats, but does not contain evidence for the 'for decades' duration claim."
+    },
+    {
+      "claim": "granting holders access to one hundred fifty-seven visa-free destinations",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "zero capital gains tax.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:2)."
+    },
+    {
+      "claim": "St Kitts ranks fourth on this new index.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Supported by the evidence map (para:6)."
+    },
+    {
+      "claim": "El Salvador's version is the same concept with a Bitcoin rebrand, priced for a different clientele and denominated in sats rather than Caribbean dollars.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map confirms El Salvador's $1M cost, but contains no evidence that the passport is 'denominated in sats rather than Caribbean dollars'."
+    },
+    {
+      "claim": "The state holds a large speculative position in an asset that has lost more than half its value from its all-time high.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The evidence map confirms the state holds BTC, but provides no data or sources regarding Bitcoin's price performance or loss of value."
+    },
+    {
+      "claim": "Tourism figures have not exploded as promised.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map contains no data, claims, or sources regarding El Salvador's tourism figures."
+    },
+    {
+      "claim": "The financial infrastructure remains inconsistent.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map contains no data, claims, or sources regarding El Salvador's financial infrastructure."
+    },
+    {
+      "claim": "The one thousand annual slots are filling faster than the Bitcoin price recovered from its last crash.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map confirms the 1,000 annual limit but provides no data on application fill rates or Bitcoin price recovery metrics."
+    }
+  ],
+  "high_confidence": 30,
+  "threshold": 3,
+  "passed": false
+}

@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.8 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -15.8,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 80.3 numbers/1k, 1.7 sources/1k",
+      "metrics": {
+        "word_count": 598,
+        "filler_phrases": [],
+        "numbers": 48,
+        "numbers_per_1k": 80.3,
+        "named_sources": 1,
+        "sources_per_1k": 1.7
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "El Salvador sits at number one on a brand new passport index, and you can buy that spot for a cool m",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}

@@ -1,0 +1,92 @@
+EN: What if your passport's real value has nothing to do with where it lets you travel?
+ES: ¿Y si el verdadero valor de tu pasaporte no tiene nada que ver con adónde te deja viajar?
+EN: A new index published on June first, two thousand twenty-six ranks eighty-seven countries by something entirely different.
+ES: Un nuevo índice publicado el primero de junio de dos mil veintiséis clasifica ochenta y siete países por algo completamente diferente.
+EN: It measures how friendly each nation is to people who hold Bitcoin.
+ES: Mide qué tan amigable es cada nación con las personas que tienen Bitcoin.
+EN: El Salvador takes the top spot, beating Switzerland, Malta, and every other country most travelers have actually heard of.
+ES: El Salvador ocupa el primer lugar, superando a Suiza, Malta y todos los demás países que la mayoría de los viajeros conocen.
+EN: That result might sound random, but the math behind it tells a very specific story.
+ES: Ese resultado puede sonar random, pero las matemáticas detrás cuentan una historia muy específica.
+EN: The Bitcoin Passport Index weights tax policy at twenty-five percent, Bitcoin's legal status at twenty percent, and visa-free travel at only twenty percent.
+ES: El Índice de Pasaportes Bitcoin pesa la política de impuestos en veinticinco por ciento, el estatus legal de Bitcoin en veinte por ciento, y los viajes sin visa en solo veinte por ciento.
+EN: Residency and citizenship pathways get fifteen percent, dual citizenship gets ten, and personal freedom gets ten.
+ES: Los caminos de residencia y ciudadanía reciben quince por ciento, la doble ciudadanía diez, y la libertad personal diez.
+EN: El Salvador wins because it combines things no other country on Earth offers all at once.
+ES: El Salvador gana porque combina cosas que ningún otro país ofrece al mismo tiempo.
+EN: The Bitcoin Law of two thousand twenty-one made Bitcoin legal tender nationwide.
+ES: La Ley Bitcoin de dos mil veintiuno convirtió a Bitcoin en moneda de curso legal en todo el país.
+EN: A state treasury holds roughly seven thousand five hundred Bitcoin.
+ES: Una tesorería estatal tiene aproximadamente siete mil quinientos Bitcoin.
+EN: The Freedom Passport program accepts Bitcoin and USDT directly, with a one million dollar citizenship-by-investment route limited to one thousand applicants per year.
+ES: El programa Pasaporte Libertad acepta Bitcoin y USDT directamente, con una ruta de ciudadanía por inversión de un millón de dólares limitada a mil solicitantes por año.
+EN: The application processes in six to eight weeks.
+ES: El proceso de solicitud toma de seis a ocho semanas.
+EN: Capital gains tax on Bitcoin is zero percent, and that applies to foreign investors holding at least three Bitcoin.
+ES: El impuesto sobre ganancias de capital en Bitcoin es cero por ciento, y eso aplica a inversionistas extranjeros con al menos tres Bitcoin.
+EN: Corporate tax for licensed Bitcoin service providers is also zero percent.
+ES: El impuesto corporativo para proveedores de servicios Bitcoin con licencia también es cero por ciento.
+EN: The tax base is territorial, meaning foreign-source income is ignored.
+ES: La base de impuestos es territorial, lo que significa que los ingresos de fuentes extranjeras se ignoran.
+EN: El Salvador has not committed to the OECD's Crypto-Asset Reporting Framework, which begins automatic cross-border reporting of crypto balances in waves starting in two thousand twenty-seven.
+ES: El Salvador no se ha comprometido con el Marco de Información sobre Criptoactivos de la OCDE, que comienza el reporte automático transfronterizo de saldos cripto en fases a partir de dos mil veintisiete.
+EN: That last point matters enormously.
+ES: Ese último punto importa enormemente.
+EN: Forty-seven jurisdictions, including all major EU states and the UK, begin exchanging crypto account data in two thousand twenty-seven.
+ES: Cuarenta y siete jurisdicciones, incluyendo todos los estados principales de la UE y el Reino Unido, comienzan a intercambiar datos de cuentas cripto en dos mil veintisiete.
+EN: Twenty-eight more, including Switzerland, Canada, UAE, and Singapore, join in two thousand twenty-eight.
+ES: Veintiocho más, incluyendo Suiza, Canadá, EAU y Singapur, se unen en dos mil veintiocho.
+EN: The United States joins in two thousand twenty-nine.
+ES: Los Estados Unidos se unen en dos mil veintinueve.
+EN: Countries not committed to CARF, like El Salvador, Argentina, Georgia, and Vietnam, retain what the index calls a structural information-privacy advantage.
+ES: Los países no comprometidos con CARF, como El Salvador, Argentina, Georgia y Vietnam, mantienen lo que el índice llama una ventaja estructural de privacidad de información.
+EN: For Bitcoiners whose stack is self-custodied in cold storage, CARF changes nothing, because the framework only reaches custodians and exchanges, not hardware wallets.
+ES: Para los bitcoiners cuya cartera está en autocustodia en almacenamiento frío, CARF no cambia nada, porque el marco solo alcanza a custodios y exchanges, no a billeteras de hardware.
+EN: Meanwhile, the Caribbean citizenship-by-investment nations are under siege.
+ES: Mientras tanto, las naciones caribeñas de ciudadanía por inversión están bajo ataque.
+EN: The EU warned in December two thousand twenty-five that operating CBI programs is grounds for Schengen visa suspension.
+ES: La UE advirtió en diciembre de dos mil veinticinco que operar programas CBI es motivo de suspensión de visas Schengen.
+EN: The US suspended visa categories for Antigua and Barbuda and Dominica effective January two thousand twenty-six.
+ES: Los EE.UU. suspendieron categorías de visa para Antigua y Barbuda y Dominica a partir de enero de dos mil veintiséis.
+EN: The UK revoked St Lucia's visa-free access in March two thousand twenty-six.
+ES: El Reino Unido revocó el acceso sin visa de Santa Lucía en marzo de dos mil veintiséis.
+EN: St Kitts and Nevis, ranked fourth on the index, has weathered the storm best.
+ES: St Kitts y Nevis, clasificada cuarta en el índice, ha resistido la tormenta mejor.
+EN: Its Virtual Asset Act amendments show proactive compliance.
+ES: Sus enmiendas a la Ley de Activos Virtuales muestran cumplimiento proactivo.
+EN: Beyond the top ten, the value plays are surprising.
+ES: Más allá del top diez, las opciones de valor son sorprendentes.
+EN: Georgia, ranked thirty-first, costs nothing to enter, offers three hundred sixty-five-day visa-free stays for over ninety nationalities, zero percent Bitcoin capital gains, and no CARF commitment.
+ES: Georgia, clasificada trigésima primera, no cuesta nada entrar, ofrece estadías sin visa de trescientos sesenta y cinco días para más de noventa nacionalidades, cero por ciento de ganancias de capital en Bitcoin, y ningún compromiso con CARF.
+EN: Paraguay, ranked thirty-fourth, offers residency for a few hundred dollars in fees, territorial taxation, and access to some of the cheapest hydroelectric power on Earth for mining.
+ES: Paraguay, clasificado trigésimo cuarto, ofrece residencia por unos pocos cientos de dólares en tarifas, impuestos territoriales, y acceso a algunas de las energías hidroeléctricas más baratas de la Tierra para minar.
+EN: HIVE Digital energized a three hundred megawatt hydroelectric mining facility in Paraguay in two thousand twenty-five.
+ES: HIVE Digital energizó una instalación de minería hidroeléctrica de trescientos megavatios en Paraguay en dos mil veinticinco.
+EN: The United States ranks fifty-fifth despite having the largest Bitcoin infrastructure on Earth.
+ES: Los Estados Unidos ocupa el lugar quincuagésimo quinto a pesar de tener la infraestructura Bitcoin más grande de la Tierra.
+EN: A tax score of fifteen out of one hundred reflects worldwide citizenship-based taxation reaching forty point eight percent on short-term Bitcoin gains.
+ES: Una puntuación de impuestos de quince sobre cien refleja la tributación mundial basada en ciudadanía que alcanza el cuarenta punto ocho por ciento en ganancias de Bitcoin a corto plazo.
+EN: The US is one of only two countries alongside Eritrea with citizenship-based taxation, and renouncing triggers an exit tax on unrealized gains.
+ES: Los EE.UU. es uno de solo dos países junto a Eritrea con tributación basada en ciudadanía, y renunciar activa un impuesto de salida sobre ganancias no realizadas.
+EN: For a high-income Bitcoiner in California, the total marginal rate on short-term Bitcoin gains can exceed fifty-four percent.
+ES: Para un Bitcoiner de altos ingresos en California, la tasa marginal total en ganancias de Bitcoin a corto plazo puede superar el cincuenta y cuatro por ciento.
+EN: The index's editorial analysis highlights what it calls the barbell strategy.
+ES: El análisis editorial del índice destaca lo que llama la estrategia de barra de pesas.
+EN: The optimal portfolio might be a Swiss or Irish passport for institutional credibility and mobility, paired with an El Salvador Freedom Passport for Bitcoin-native CBI and zero percent tax, and Georgian tax residency for zero percent Bitcoin gains with no CARF exposure.
+ES: El portafolio óptimo podría ser un pasaporte suizo o irlandés para credibilidad institucional y movilidad, emparejado con un Pasaporte Libertad de El Salvador para CBI nativa de Bitcoin e impuestos cero, y residencia fiscal en Georgia para ganancias de Bitcoin cero por ciento sin exposición a CARF.
+EN: Three jurisdictions, three purposes, maximum sovereignty.
+ES: Tres jurisdicciones, tres propósitos, máxima soberanía.
+EN: The deeper question the index raises is one of sovereignty itself.
+ES: La pregunta más profunda que el índice plantea es sobre la soberanía misma.
+EN: Existing passport indexes measure how many borders a document opens.
+ES: Los índices de pasaporte existentes miden cuántas fronteras abre un documento.
+EN: The Bitcoin Passport Index measures how many borders your money can cross without being taxed, reported, or seized.
+ES: El Índice de Pasaportes Bitcoin mide cuántas fronteras puede cruzar tu dinero sin ser grabado, reportado o confiscado.
+EN: In a world where eleven million Americans live abroad, where remote work dissolved the connection between location and income, and where CARF will make crypto tax-free jurisdictions transparent to tax authorities by two thousand twenty-eight, the passport you hold matters less than the jurisdictions you can access.
+ES: En un mundo donde once millones de estadounidenses viven en el exterior, donde el trabajo remoto disolvió la conexión entre ubicación e ingresos, y donde CARF hará transparentes las jurisdicciones cripto libres de impuestos para las autoridades fiscales para dos mil veintiocho, el pasaporte que tienes importa menos que las jurisdicciones a las que puedes acceder.
+EN: Whether you hold Bitcoin or not, the index signals something real.
+ES: Ya sea que tengas Bitcoin o no, el índice señala algo real.
+EN: Citizenship is no longer just about where you were born.
+ES: La ciudadanía ya no es solo sobre dónde naciste.
+EN: It is a portfolio decision, and the market for second passports is being reshaped by digital assets, tax transparency frameworks, and a growing class of sovereign individuals who choose their jurisdictions the way investors choose their stocks.
+ES: Es una decisión de portafolio, y el mercado de segundos pasaportes está siendo reformado por activos digitales, marcos de transparencia fiscal, y una clase creciente de individuos soberanos que eligen sus jurisdicciones como los inversionistas eligen sus acciones.

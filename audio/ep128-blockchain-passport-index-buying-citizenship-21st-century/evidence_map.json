@@ -1,0 +1,482 @@
+[
+  {
+    "claim": "21 CBI published the Bitcoin Passport Index on June 1st, 2026",
+    "source_quote": "On June 1st, 2026, a company called 21 CBI published something that had never existed before: the Bitcoin Passport Index.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "87 countries were ranked across six weighted categories",
+    "source_quote": "Eighty-seven countries ranked across six weighted categories",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "45 percent of the total score was dedicated to Bitcoin-specific factors",
+    "source_quote": "with forty-five percent of the total score dedicated entirely to Bitcoin-specific factors",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador ranked #1 with a score of 84.45",
+    "source_quote": "El Salvador, a country whose passport grants visa-free access to roughly 131 destinations, landed at the top of this index with a score of 84.45",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Malta ranked second with a score of 80.50",
+    "source_quote": "second-place Malta at 80.50",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador's score was nearly 4 points ahead of Malta",
+    "source_quote": "nearly four points ahead of second-place Malta at 80.50",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador's passport grants visa-free access to roughly 131 destinations",
+    "source_quote": "a country whose passport grants visa-free access to roughly 131 destinations",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "21 CBI is a division of Bitcitizen LLC",
+    "source_quote": "The index was created by 21 CBI, a division of Bitcitizen LLC",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz is a retired US Air Force veteran",
+    "source_quote": "run by Adam Juchniewicz, a retired US Air Force veteran",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz has a Master of Laws in European and Comparative Law from University of Malta",
+    "source_quote": "with a Master of Laws in European and Comparative Law from the University of Malta",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Adam Juchniewicz worked 12 years at US Department of Homeland Security on immigration policy",
+    "source_quote": "and twelve years at the US Department of Homeland Security working immigration policy",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Bitcoin and crypto tax policy carries 25 percent of the total score",
+    "source_quote": "Bitcoin and crypto tax policy carries 25 percent of the total score, the single largest weight",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Bitcoin legal and regulatory framework carries 20 percent",
+    "source_quote": "Bitcoin legal and regulatory framework carries 20 percent",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Visa-free travel access carries 20 percent",
+    "source_quote": "Visa-free travel access carries 20 percent",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Citizenship and residency by investment pathways carries 15 percent",
+    "source_quote": "Citizenship and residency by investment pathways carries 15 percent",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Dual citizenship posture carries 10 percent",
+    "source_quote": "Dual citizenship posture carries 10 percent",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Personal and economic freedom carries 10 percent",
+    "source_quote": "And personal and economic freedom carries 10 percent",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "The 2021 Bitcoin Law made Bitcoin legal tender in El Salvador",
+    "source_quote": "The 2021 Bitcoin Law made Bitcoin legal tender",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador's state treasury holds roughly 7,500 BTC",
+    "source_quote": "The state treasury holds roughly 7,500 BTC",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador's Freedom Passport program launched in December 2023",
+    "source_quote": "The Freedom Passport program, launched in December 2023",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador Freedom Passport costs one million dollars",
+    "source_quote": "at a price of one million dollars",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador Freedom Passport is limited to 1,000 applicants annually",
+    "source_quote": "limited to 1,000 applicants annually",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador Freedom Passport processing takes six to eight weeks",
+    "source_quote": "processed in six to eight weeks",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador has zero percent capital gains tax on Bitcoin",
+    "source_quote": "Capital gains tax on Bitcoin is zero percent",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador extended zero percent Bitcoin capital gains tax to foreign investors holding at least three BTC",
+    "source_quote": "extended even to foreign investors holding at least three BTC",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador has zero percent corporate tax for licensed Bitcoin service providers",
+    "source_quote": "Corporate tax is zero percent for licensed Bitcoin service providers",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "El Salvador's tax base is territorial",
+    "source_quote": "The tax base is territorial, meaning foreign-source income is ignored",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "El Salvador has not committed to the OECD's Crypto-Asset Reporting Framework (CARF)",
+    "source_quote": "El Salvador has not committed to the OECD's Crypto-Asset Reporting Framework, or CARF",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "St. Kitts and Nevis launched the world's first modern CBI program in 1984",
+    "source_quote": "The concept traces back to 1984, when St. Kitts and Nevis launched the world's first modern CBI program",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The CBI industry generates an estimated 22 billion dollars annually",
+    "source_quote": "Today the industry generates an estimated 22 billion dollars annually",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Over 30 countries now offer some form of citizenship or residency by investment",
+    "source_quote": "Over 30 countries now offer some form of citizenship or residency by investment",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Antigua and Barbuda requires a $230,000 National Development Fund contribution for a family of up to four",
+    "source_quote": "Antigua and Barbuda requires a 230,000 dollar National Development Fund contribution for a family of up to four",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Antigua and Barbuda processing takes three to six months",
+    "source_quote": "with processing in three to six months",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Grenada starts at $235,000 through its National Transformation Fund",
+    "source_quote": "Grenada starts at 235,000 dollars through its National Transformation Fund",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Grenada is the only Caribbean CBI country with access to the US E-2 treaty investor visa",
+    "source_quote": "and is the only Caribbean CBI country with access to the US E-2 treaty investor visa",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Grenada now has a three-year domicile requirement under the US AMIGOS Act",
+    "source_quote": "though a three-year domicile requirement now applies under the US AMIGOS Act",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "St. Lucia starts at $240,000",
+    "source_quote": "St. Lucia starts at 240,000 dollars",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "St. Kitts and Nevis costs $250,000 for its Sustainable Island State Contribution",
+    "source_quote": "St. Kitts and Nevis, the granddaddy of them all, sits at 250,000 dollars for its Sustainable Island State Contribution",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "St. Kitts and Nevis uniquely accepts cryptocurrency as partial source of wealth for CBI applications",
+    "source_quote": "and uniquely among its Caribbean peers, now accepts cryptocurrency as a partial source of wealth for CBI applications",
+    "timestamp": "para:7",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "EU Commission warned in December 2025 that CBI programs constitute grounds for Schengen visa suspension",
+    "source_quote": "The EU Commission warned in December 2025 that CBI programs themselves constitute grounds for Schengen visa suspension",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "United States suspended visa categories for Antigua and Barbuda and Dominica effective January 1, 2026",
+    "source_quote": "The United States suspended visa categories for Antigua and Barbuda and Dominica effective January 1, 2026",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "UK revoked St. Lucia's visa-free access in March 2026",
+    "source_quote": "The UK revoked St. Lucia's visa-free access in March 2026",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Norway has been denying entry to Caribbean CBI passport holders since August 2025",
+    "source_quote": "Norway has been quietly denying entry to Caribbean CBI passport holders since August 2025",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Turkey offers citizenship through a $400,000 real estate investment with three-year hold period",
+    "source_quote": "Turkey offers citizenship through a 400,000 dollar real estate investment with a three-year hold period",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Turkey provides visa-free access to roughly 116 countries",
+    "source_quote": "providing visa-free access to roughly 116 countries including E-2 access to the US market",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Vanuatu offers citizenship at around $130,000",
+    "source_quote": "Vanuatu, in the South Pacific, offers the cheapest fast-track option at around 130,000 dollars",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Vanuatu processing takes 30 to 60 days",
+    "source_quote": "with processing in 30 to 60 days",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Vanuatu has zero income tax",
+    "source_quote": "zero income tax",
+    "timestamp": "para:9",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Vanuatu offers about 88 visa-free destinations",
+    "source_quote": "and about 88 visa-free destinations",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Malta's former CBI program was struck down by European Court of Justice in April 2025",
+    "source_quote": "Malta's former CBI program was struck down by the European Court of Justice in April 2025",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Malta replaced CBI with Citizenship by Merit requiring exceptional contributions and eight months residence",
+    "source_quote": "and replaced with a discretionary Citizenship by Merit framework requiring exceptional contributions and eight months of residence",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Portugal doubled its naturalization residency requirement from five to ten years in May 2026",
+    "source_quote": "Portugal doubled its naturalization residency requirement from five to ten years in May 2026",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Cyprus offers non-dom regime exempting foreign-source income for 17 years",
+    "source_quote": "Cyprus offers a non-dom regime exempting foreign-source income for 17 years",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cyprus permanent residency costs 300,000 euros",
+    "source_quote": "with permanent residency at 300,000 euros",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Cyprus naturalization available after seven years under non-dom regime",
+    "source_quote": "and naturalization after seven years",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Georgia has zero percent Bitcoin capital gains tax for individuals",
+    "source_quote": "establish tax residency in a jurisdiction like Georgia, where Bitcoin capital gains are zero percent for individuals",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Georgia has no CARF commitment",
+    "source_quote": "and there is no CARF commitment",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Bitcoin Passport Index is updated annually",
+    "source_quote": "The Bitcoin Passport Index is updated annually",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Index data is current as of May 31, 2026",
+    "source_quote": "with data current as of May 31, 2026",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Bitcoin Passport Index available at bpi.21cbi.io",
+    "source_quote": "worth reading in full at bpi.21cbi.io",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  }
+]
