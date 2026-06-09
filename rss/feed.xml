@@ -4,13 +4,32 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 21:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:05:22 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Own Data Stack: 95% Self-Service Analytics with Claude</title>
+      <description>Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.
+
+Links:
+https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
+https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+https://www.getdbt.com/product/semantic-layer</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>09:14</itunes:duration>
+      <itunes:summary>Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.
+
+Links:
+https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
+https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+https://www.getdbt.com/product/semantic-layer</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep131-anthropic-self-service-data-analytics.podcast.mp3" length="6741069" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep131-anthropic-self-service-data-analytics.podcast.mp3</guid>
+    </item>
     <item>
       <title>Boris Cherny's Claude Code Setup Tips: Stop Wasting 14% of Your Context Window</title>
       <description>Boris Cherny, the creator and architect of Claude Code at Anthropic, explains the four configuration layers most users completely ignore. First, CLAUDE.md consumes roughly fourteen percent of your context window before you type a single word — yet most users have never opened it. Second, the memory system lets Claude store and retrieve past decisions across sessions so you never have to repeat yourself. Third, the custom instructions field that tailors Claude to your experience level, code style, and project preferences — which most users leave entirely blank. Fourth, project settings that give Claude permanent context for a specific codebase across all future sessions. Beyond configuration, Cherny shares how Claude Code has been writing its own code for over six months, how product overhang explains why AI tools keep catching users by surprise, and why the people who get the most out of Claude Code are not the most technically sophisticated but the ones who bothered to configure their environment properly.
