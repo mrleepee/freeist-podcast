@@ -1,0 +1,62 @@
+EN: You hear a lot about AI making developers faster.
+ES: Se escucha mucho sobre la IA haciendo a los desarrolladores más rápidos.
+EN: But here is something new from top AI labs.
+ES: Pero aquí hay algo nuevo de los mejores laboratorios de IA.
+EN: Developers at OpenAI and Anthropic are talking about "loops."
+ES: Desarrolladores de OpenAI y Anthropic hablan de "bucles."
+EN: They say this is the future of software engineering.
+ES: Dicen que esto es el futuro de la ingeniería de software.
+EN: The old way: you write a prompt, the AI writes code.
+ES: La forma antigua: tú escribes un mensaje, la IA escribe código.
+EN: You repeat this forever.
+ES: Tú repites esto para siempre.
+EN: The loop way is different.
+ES: La forma del bucle es diferente.
+EN: You set a goal, the AI starts and keeps going until the goal is done.
+ES: Tú pones una meta, la IA comienza y sigue hasta que la meta se cumple.
+EN: Two parts make this work: a trigger and a goal.
+ES: Dos partes hacen que esto funcione: un disparador y una meta.
+EN: A trigger is an event that starts the loop.
+ES: Un disparador es un evento que comienza el bucle.
+EN: A goal is when the work is finished.
+ES: Una meta es cuando el trabajo está terminado.
+EN: Two tools already have loops.
+ES: Dos herramientas ya tienen bucles.
+EN: Cursor has an "Automations" tab.
+ES: Cursor tiene una pestaña de "Automatizaciones".
+EN: You can set a trigger like "when a PR opens, review code and fix problems."
+ES: Puedes poner un disparador como "cuando se abre un PR, revisa el código y arregla problemas."
+EN: Claude Code has a "/loop" command.
+ES: Claude Code tiene un comando "/loop".
+EN: It runs your prompts at regular times until the job is done.
+ES: Ejecuta tus mensajes en tiempos regulares hasta que el trabajo esté listo.
+EN: But here is the catch.
+ES: Pero aquí está el problema.
+EN: Defining clear goals is hard.
+ES: Definir metas claras es difícil.
+EN: If the goal is not clear, the AI can run forever.
+ES: Si la meta no es clara, la IA puede correr para siempre.
+EN: And tokens cost money.
+ES: Y los tokens cuestan dinero.
+EN: Steinberger reportedly spends one point three million dollars per month on AI.
+ES: Se dice que Steinberger gasta un millón trescientos mil dólares al mes en IA.
+EN: Only developers at well-funded companies can experiment.
+ES: Solo desarrolladores en empresas con mucho dinero pueden experimentar.
+EN: So what happens next?
+ES: ¿Entonces qué pasa después?
+EN: Engineers stop writing code and start designing "software factories."
+ES: Los ingenieros dejan de escribir código y comienzan a diseñar "fábricas de software".
+EN: These factories run by themselves.
+ES: Estas fábricas corren por sí solas.
+EN: Eventually, AI might set its own goals.
+ES: Eventualmente, la IA podría fijar sus propias metas.
+EN: The takeaway: loops change everything.
+ES: La conclusión: los bucles cambian todo.
+EN: You move from writing prompts to designing systems that run on their own.
+ES: Pasas de escribir mensajes a diseñar sistemas que corren solos.
+EN: But today, this is expensive and difficult.
+ES: Pero hoy, esto es caro y difícil.
+EN: The future is coming.
+ES: El futuro viene.
+EN: It is just not evenly distributed yet.
+ES: Solo que aún no está distribuido de manera igual.

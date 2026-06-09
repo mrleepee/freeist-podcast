@@ -1,0 +1,15 @@
+Somewhere in San Francisco, a single developer is burning through one point three million dollars every single month on artificial intelligence tools. That's not a typo. Peter Steinberger from OpenAI revealed this figure recently, and it tells you everything you need to know about where software development is heading.
+
+Steinberger, along with Boris Cherny from Anthropic, has been championing something called loops — a programming paradigm that its proponents are already calling the future of software engineering. But here's the thing: that future currently belongs to a handful of developers at companies with deep pockets. Everyone else is watching from the sidelines.
+
+To understand why this matters, consider how coding with AI works today. You write a prompt, the agent spits out some code, you review it, you prompt again, and the cycle repeats. It's useful, but you're still driving the process. Loops flip this entirely. You define a goal and a trigger — a pull request opening, a scheduled time, whatever kicks things off — and then you step back. The agent starts itself, keeps working, and doesn't stop until the goal is verified as complete.
+
+Cursor has built this into its interface under an Automations tab. You can set it so when a pull request opens, the system reviews the code, fixes issues, and ensures tests pass — all without you touching anything. Claude Code takes a different approach with a loop command that runs prompts on intervals, checking every few minutes whether a markdown file called spec has reached completion.
+
+The elegance is obvious. Instead of writing code yourself, you're designing factories that produce code. Instead of micromanaging an agent, you're setting objectives and trusting the system to reach them. The shift is from prompt writer to architect of autonomous systems.
+
+But the caveats are substantial. Defining goals that the system can actually verify is harder than it sounds. When is a feature truly complete? When are tests sufficient? If the agent can't determine the end state, it keeps running — burning through tokens indefinitely. Steinberger's million-dollar monthly bill is the cautionary tale. The people building these systems are also the people discovering how expensive non-deterministic loops can become.
+
+The accessibility problem compounds everything. Only the top fraction of developers at well-funded companies can experiment with this at scale. The rest of us are reading the blog posts and waiting for costs to drop.
+
+The trajectory, though, is worth sitting with. Engineers who once wrote prompts start designing factories. Factories that once needed goals start setting their own. Researchers have already coined a term for the endpoint: recursive self-improvement. Whether that's progress or something else entirely depends entirely on who ends up in control of the trigger.
