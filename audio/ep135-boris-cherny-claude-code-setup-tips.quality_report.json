@@ -1,6 +1,6 @@
 {
-  "passed": false,
-  "publish_blocked": true,
+  "passed": true,
+  "publish_blocked": false,
   "checks": {
     "loudness": {
       "passed": true,
@@ -11,15 +11,13 @@
       }
     },
     "pronunciation": {
-      "passed": false,
-      "reason": "1 uncovered: CLAUDE",
+      "passed": true,
+      "reason": "2 risky tokens, all covered",
       "metrics": {
         "risky_count": 2,
-        "covered_count": 1,
-        "uncovered_count": 1,
-        "uncovered_tokens": [
-          "CLAUDE"
-        ]
+        "covered_count": 2,
+        "uncovered_count": 0,
+        "uncovered_tokens": []
       }
     },
     "substance": {
@@ -52,7 +50,5 @@
       }
     }
   },
-  "blocking_failures": [
-    "pronunciation: 1 uncovered: CLAUDE"
-  ]
+  "blocking_failures": []
 }
