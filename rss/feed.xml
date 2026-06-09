@@ -4,13 +4,22 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 07:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 21:37:50 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Khairallah Al Awady Anthropic Engineer Youre Not Supposed</title>
+      <description/>
+      <pubDate>Tue, 09 Jun 2026 20:29:01 +0000</pubDate>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:summary/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3" length="2023269" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3</guid>
+    </item>
     <item>
       <title>The Bitcoin Passport Index: Buying Citizenship in the 21st Century</title>
       <description>A new index published June 2026 by 21 CBI ranks 87 countries not by visa-free destinations but by how friendly they are to Bitcoin holders. El Salvador takes number one with a BTC-native citizenship program, zero capital gains, and no CARF commitment. St Kitts beats Portugal. The US ranks 55th. The index allocates 45 percent of its weight to Bitcoin factors and 55 percent to traditional passport quality. Caribbean CBI nations face escalating international pressure. The barbell strategy emerges: a Swiss passport for mobility, an El Salvador Freedom Passport for BTC sovereignty, and Georgian tax residency for zero percent gains.

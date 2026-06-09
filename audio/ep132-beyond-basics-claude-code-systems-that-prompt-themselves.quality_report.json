@@ -1,0 +1,58 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.9 TP=-1.3",
+      "metrics": {
+        "integrated_lufs": -15.9,
+        "true_peak_dbfs": -1.3
+      }
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "1 uncovered: ED",
+      "metrics": {
+        "risky_count": 1,
+        "covered_count": 0,
+        "uncovered_count": 1,
+        "uncovered_tokens": [
+          "ED"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 18.3 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 1091,
+        "filler_phrases": [],
+        "numbers": 20,
+        "numbers_per_1k": 18.3,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Imagine if every time you switched from your code editor to check Slack, your most capable colleague",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "pronunciation: 1 uncovered: ED"
+  ]
+}

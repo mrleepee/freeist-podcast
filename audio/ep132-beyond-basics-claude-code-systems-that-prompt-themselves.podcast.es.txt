@@ -1,0 +1,66 @@
+EN: You've been using Claude Code for weeks. But is it really working for you?
+ES: Has estado usando Claude Code por semanas. Pero, ¿realmente funciona para ti?
+EN: Here's the problem: if Claude can't access what you access, it's flying blind.
+ES: Aquí está el problema: si Claude no puede acceder a lo que tú accedes, trabaja sin información.
+EN: Today we're going beyond the basics. This is about building systems that prompt themselves.
+ES: Hoy vamos más allá de lo básico. Se trata de construir sistemas que se generan sus propios prompts.
+EN: The core idea is simple: you become a factory of AI assistants.
+ES: La idea central es simple: tú te conviertes en una fábrica de asistentes de IA.
+EN: Three areas need your attention: access, knowledge, and tooling.
+ES: Tres áreas necesitan tu atención: acceso, conocimiento y herramientas.
+EN: First, access. Connect Claude to your team chat. Your CI/CD system. Your dashboards.
+ES: Primero, el acceso. Conecta Claude a tu chat de equipo. Tu sistema de CI/CD. Tus paneles de control.
+EN: When Claude reads Slack threads, it understands why your team made decisions.
+ES: Cuando Claude lee hilos de Slack, entiende por qué tu equipo tomó decisiones.
+EN: The tip is simple: work one entire day without leaving Claude Code. Note every tool you switch to. Then connect Claude to those tools.
+ES: El consejo es simple: trabaja un día entero sin salir de Claude Code. Anota cada herramienta que usas. Luego conecta Claude a esas herramientas.
+EN: Second, knowledge. Conventions live in people's heads, not in training data.
+ES: Segundo, el conocimiento. Las convenciones viven en las cabezas de las personas, no en los datos de entrenamiento.
+EN: Recent code changes, internal APIs, team vocabulary — these are invisible to Claude.
+ES: Los cambios recientes de código, las APIs internas, el vocabulario del equipo — estos son invisibles para Claude.
+EN: Fine-tuning the model is not the answer. Frontier models evolve too fast. It's not worth the cost.
+ES: Ajustar el modelo no es la respuesta. Los modelos principales evolucionan muy rápido. No vale la pena el costo.
+EN: Instead, use in-context learning. All customization is just text files that Claude reads.
+ES: En cambio, usa aprendizaje en contexto. Toda personalización son solo archivos de texto que Claude lee.
+EN: Third, tooling. Think of the agentic IDE.
+ES: Tercero, las herramientas. Piensa en el IDE agéntico.
+EN: Out of the box, Claude has basic edit tools. Think of "ed" versus modern editors.
+ES: De fábrica, Claude tiene herramientas básicas de edición. Piensa en "ed" contra editores modernos.
+EN: Missing: syntax highlighting, code completion, those red squiggly warnings.
+ES: Faltan: colores de sintaxis, completado de código, esas líneas rojas de advertencia.
+EN: The fastest way to improve your agent is a tighter feedback loop, not a smarter model.
+ES: La forma más rápida de mejorar tu agente es un ciclo de retroalimentación más corto, no un modelo más inteligente.
+EN: Prefer tools that scale with intelligence over tools that hard-block behavior.
+ES: Prefiere herramientas que escalan con la inteligencia sobre herramientas que bloquean el comportamiento.
+EN: Now let's talk about context. Frontier models have plateaued around one million tokens.
+ES: Ahora hablemos del contexto. Los modelos principales se han estancado alrededor de un millón de tokens.
+EN: Every customization must fit inside this fixed window. It's like running NPM on an Arduino.
+ES: Toda personalización debe caber dentro de esta ventana fija. Es como ejecutar NPM en un Arduino.
+EN: Be intentional. Don't pay for what you don't use.
+ES: Sé intencional. No pagues por lo que no usas.
+EN: One more thing about context: changing anything early in your prompt invalidates the cache. All tokens after become ten times more expensive.
+ES: Una cosa más sobre el contexto: cambiar algo temprano en tu prompt invalida la caché. Todos los tokens después se vuelven diez veces más caros.
+EN: Rule: put stable, shared information at the front. Keep volatile, per-task information near the end.
+ES: Regla: pon información estable y compartida al frente. Mantén la información volátil, por tarea, cerca del final.
+EN: For scaling your tools, four primitives matter: MCP, Skills, Hooks, and Agents.
+ES: Para escalar tus herramientas, cuatro primitivos importan: MCP, Skills, Hooks y Agents.
+EN: MCP — the Model Context Protocol — works well for simple chatbots without shell access.
+ES: MCP — el Protocolo de Contexto de Modelo — funciona bien para chatbots simples sin acceso a terminal.
+EN: Use skills for internal developer tooling. Use MCP for external integrations with non-technical customers.
+ES: Usa skills para herramientas internas de desarrollo. Usa MCP para integraciones externas con clientes no técnicos.
+EN: Here's the catch: MCP does not scale. Each tool's name and schema goes into the system prompt.
+ES: Aquí está el problema: MCP no escala. El nombre y esquema de cada herramienta va en el prompt del sistema.
+EN: Skills solve this. A skills folder has a simple markdown file. Easy to create, easy to maintain.
+ES: Skills resuelve esto. Una carpeta de skills tiene un archivo markdown simple. Fácil de crear, fácil de mantener.
+EN: Four concrete steps: connect Claude to all your information sources today.
+ES: Cuatro pasos concretos: conecta Claude a todas tus fuentes de información hoy.
+EN: Two, prefer tools that grow with intelligence rather than limit it.
+ES: Dos, prefiere herramientas que crecen con la inteligencia en lugar de limitarla.
+EN: Three, use skills for your team. Use MCP for customers.
+ES: Tres, usa skills para tu equipo. Usa MCP para clientes.
+EN: Four, treat your context window like money. Spend it wisely.
+ES: Cuatro, trata tu ventana de contexto como dinero. Gástalo sabiamente.
+EN: The engineers who thrive with AI don't just use prompts. They build the systems that generate them.
+ES: Los ingenieros que prosperan con IA no solo usan prompts. Construyen los sistemas que los generan.
+EN: That's the difference between using a tool and mastering it.
+ES: Esa es la diferencia entre usar una herramienta y dominarla.

@@ -1,0 +1,66 @@
+EN: Engineers aren't going anywhere—but the job is changing fast.
+ES: Los ingenieros no van a ningún lado, pero el trabajo cambia rápido.
+EN: Here's the uncomfortable truth about AI coding agents.
+ES: Aquí está la verdad incómoda sobre los agentes de código con IA.
+EN: They can't do everything you can do, because they don't see what you see.
+ES: No pueden hacer todo lo que tú puedes hacer, porque no ven lo que tú ves.
+EN: Your agent only sees two things: your code and a command line.
+ES: Tu agente solo ve dos cosas: tu código y una línea de comandos.
+EN: Everything else—the context, the history, the why behind the code—lives somewhere else entirely.
+ES: Todo lo demás, el contexto, la historia, el por qué detrás del código, vive en otro lugar.
+EN: Those decisions live in Slack, in meeting notes, in email threads with your teammates.
+ES: Esas decisiones viven en Slack, en notas de reuniones, en hilos de correo con tus compañeros.
+EN: Your agent has no idea why you need that change.
+ES: Tu agente no tiene idea de por qué necesitas ese cambio.
+EN: So you alt-tab constantly, copying information between tools.
+ES: Por eso cambias de ventana constantemente, copiando información entre herramientas.
+EN: That friction is a signal—Cloud Code needs to connect to your whole workflow, not just your code.
+ES: Esa fricción es una señal. Cloud Code necesita conectarse a todo tu flujo de trabajo, no solo a tu código.
+EN: Vanilla Cloud Code sees a repo and a shell—fine for simple projects, useless for real engineering at scale.
+ES: Cloud Code básico ve un repositorio y una terminal. Bien para proyectos simples, inútil para ingeniería real a escala.
+EN: Here's how to fix that: three pillars of customization.
+ES: Así se corrige eso: tres pilares de personalización.
+EN: First, access to information sources.
+ES: Primero, acceso a fuentes de información.
+EN: Connect Cloud to your team chat, your CI pipelines, your dashboards, your internal documents.
+ES: Conecta Cloud a tu chat de equipo, tus tuberías de CI, tus paneles, tus documentos internos.
+EN: Second, knowledge—your team's institutional memory.
+ES: Segundo, conocimiento: la memoria institucional de tu equipo.
+EN: You cannot train conventions into models—fine-tuning is expensive and creates hallucinations.
+ES: No puedes entrenar convenciones en los modelos. El ajuste fino es caro y crea alucinaciones.
+EN: Instead, use skills and prompt files for in-context learning.
+ES: En cambio, usa habilidades y archivos de提示 para aprendizaje en contexto.
+EN: Third, better tools.
+ES: Tercero, mejores herramientas.
+EN: Cloud starts with basic edit tools—think ED versus a modern editor.
+ES: Cloud empieza con herramientas básicas de edición. Piensa en ED contra un editor moderno.
+EN: Add syntax highlighting, LSP integration, and non-blocking warnings.
+ES: Agrega resaltado de sintaxis, integración LSP y advertencias que no bloquean.
+EN: The fastest way to make your agent better isn't a smarter model—it's a tighter feedback loop.
+ES: La forma más rápida de mejorar tu agente no es un modelo más inteligente. Es un ciclo de retroalimentación más corto.
+EN: Good tools scale with intelligence, while bad tools compensate for its absence.
+ES: Las buenas herramientas escalan con la inteligencia, mientras las malas compensan su ausencia.
+EN: Now let's talk about context windows—they're smaller than you think.
+ES: Ahora hablemos de las ventanas de contexto. Son más pequeñas de lo que piensas.
+EN: Current models handle about one million tokens.
+ES: Los modelos actuales manejan cerca de un millón de tokens.
+EN: That sounds huge until you load a large codebase.
+ES: Eso suena enorme hasta que cargas una base de código grande.
+EN: It's like trying to run NPM on an Arduino—extremely constrained.
+ES: Es como tratar de ejecutar NPM en un Arduino. Extremadamente limitado.
+EN: The principle is simple: don't pay for what you don't use.
+ES: El principio es simple: no pagues por lo que no usas.
+EN: Put stable information at the front, volatile information at the end.
+ES: Pon la información estable al frente, la información volátil al final.
+EN: Why? Changing early content invalidates the entire cache, making later tokens ten times more expensive.
+ES: ¿Por qué? Cambiar contenido temprano invalida toda la memoria caché, haciendo que los tokens posteriores sean diez veces más caros.
+EN: For external integrations like Slack or email, use the Model Context Protocol—MCP.
+ES: Para integraciones externas como Slack o correo, usa el Protocolo de Contexto de Modelo, MCP.
+EN: For internal developer tools, use skills—a folder with a prompt file and a summary.
+ES: Para herramientas internas de desarrollo, usa habilidades. Una carpeta con un archivo de提示 y un resumen.
+EN: The takeaway: connect your agent to your entire workflow, not just your code.
+ES: La conclusión: conecta tu agente a todo tu flujo de trabajo, no solo a tu código.
+EN: Better tools that scale with intelligence beat rigid restrictions every time.
+ES: Mejores herramientas que escalan con la inteligencia superan a las restricciones rígidas siempre.
+EN: The biggest gains come from tighter feedback loops, not smarter models.
+ES: Las ganancias más grandes vienen de ciclos de retroalimentación más cortos, no de modelos más inteligentes.

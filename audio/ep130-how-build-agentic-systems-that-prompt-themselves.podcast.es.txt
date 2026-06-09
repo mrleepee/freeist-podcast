@@ -1,0 +1,44 @@
+EN: What if your AI assistant could run an entire day without asking you for help? That's the real goal behind agentic systems.
+ES: ¿Y si tu asistente de IA pudiera trabajar todo un día sin pedirte ayuda? Ese es el objetivo real de los sistemas agenticos.
+EN: Daisy Holman from Google's Cloud Code team put it plainly: if the AI can't access what you access, it can't do your job with you.
+ES: Daisy Holman del equipo de Cloud Code de Google lo dijo claro: si la IA no puede acceder a lo que tú accedes, no puede hacer tu trabajo contigo.
+EN: Your new job as an engineer is to build clones of yourself that scale across many agents.
+ES: Tu nuevo trabajo como ingeniero es crear clones de ti mismo que funcionan con muchos agentes.
+EN: Three things make an agentic system work: access, knowledge, and tooling.
+ES: Tres cosas hacen que un sistema agentico funcione: acceso, conocimiento y herramientas.
+EN: First, access — your AI needs to connect to your information sources.
+ES: Primero, el acceso — tu IA necesita conectar con tus fuentes de información.
+EN: This means Slack for team decisions, CI/CD systems for fixing failures, and dashboards for production monitoring.
+ES: Esto significa Slack para las decisiones del equipo, sistemas de CI/CD para corregir errores, y paneles para monitorear producción.
+EN: Holman suggests trying to work one full day without leaving Cloud Code — note every tool you switch to, then connect Cloud to those tools.
+ES: Holman sugiere intentar trabajar un día completo sin salir de Cloud Code — anota cada herramienta que usas, y después conecta Cloud a esas herramientas.
+EN: Second, knowledge — your team's conventions and vocabulary live in people's heads, not in training data.
+ES: Segundo, el conocimiento — las convenciones y el vocabulario de tu equipo viven en las cabezas de la gente, no en los datos de entrenamiento.
+EN: Fine-tuning is not cost-effective because frontier models evolve too fast.
+ES: El ajuste fino no es costo-efectivo porque los modelos frontier evolucionan muy rápido.
+EN: Instead, use in-context learning — all customization is just text files that teach the model as it works.
+ES: En cambio, usa aprendizaje en contexto — toda personalización son solo archivos de texto que enseñan al modelo mientras trabaja.
+EN: Third, tooling — think of the agentic IDE as something like "ED" compared to modern editors.
+ES: Tercero, las herramientas — piensa en el IDE agentico como algo parecido a "ED" comparado con los editores modernos.
+EN: Out of the box, Cloud has only basic edit tools — missing syntax highlighting, code completion, and red squiggly warnings.
+ES: De fábrica, Cloud tiene solo herramientas básicas de edición — le faltan resaltado de sintaxis, completado de código, y las líneas rojas de error.
+EN: The red squiggly equivalent for agents is post-tool-use hooks that give non-blocking reminders.
+ES: El equivalente de las líneas rojas para agentes son ganchos que dan recordatorios sin bloquear el trabajo.
+EN: Holman's key principle: the fastest way to make your agent better is a tighter feedback loop, not a smarter model.
+ES: El principio clave de Holman: la forma más rápida de mejorar tu agente es un ciclo de retroalimentación más cerrado, no un modelo más inteligente.
+EN: Now here's the catch — context windows have plateaued at around one million tokens.
+ES: Ahora viene el problema — las ventanas de contexto se estancaron en cerca de un millón de tokens.
+EN: Every customization must fit inside this fixed window, like running NPM on an Arduino.
+ES: Toda personalización debe caber dentro de esta ventana fija, como ejecutar NPM en un Arduino.
+EN: The zero-overhead abstraction principle applies — don't pay for what you don't use.
+ES: El principio de abstracción de sobrecero cero aplica — no pagues por lo que no usas.
+EN: Be intentional with context. Put stable, shared information at the front and keep volatile, per-task information near the end.
+ES: Sé intencional con el contexto. Pon información estable y compartida al frente y mantén la información volátil y por tarea cerca del final.
+EN: Four primitives structure agentic systems: MCP, Skills, Hooks, and Agents.
+ES: Cuatro primitivas estructuran los sistemas agenticos: MCP, Skills, Hooks, y Agents.
+EN: Use Skills for internal developer tooling and MCP for shipping integrations to non-technical customers.
+ES: Usa Skills para herramientas internas de desarrolladores y MCP para integrar productos para clientes no técnicos.
+EN: Here's the key distinction — some tools compensate for lack of intelligence, but you should prefer tools that scale with intelligence.
+ES: Aquí está la distinción clave — algunas herramientas compensan la falta de inteligencia, pero tú debes preferir herramientas que escalan con la inteligencia.
+EN: The takeaway: connect your AI to everything you use, treat context as a constrained resource, and build feedback loops instead of bigger models.
+ES: La conclusión: conecta tu IA a todo lo que usas, trata el contexto como un recurso limitado, y crea ciclos de retroalimentación en vez de modelos más grandes.
