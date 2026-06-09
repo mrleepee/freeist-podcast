@@ -1,0 +1,80 @@
+EN: Most users are bleeding 14 percent of their Claude context window before they type a single word. That's not a leak — it's a missing document.
+ES: La mayoría de los usuarios pierden el 14 por ciento de su ventana de contexto antes de escribir una sola palabra. Eso no es una fuga — es un documento que falta.
+EN: The document is called CLAUDE.md, and Boris Cherny built it into Claude Code on day one.
+ES: El documento se llama CLAUDE.md, y Boris Cherny lo creó en Claude Code desde el primer día.
+EN: Cherny is the architect behind Claude Code — the terminal tool that lets you command Claude directly from your command line.
+ES: Cherny es el arquitecto detrás de Claude Code — la herramienta de terminal que te permite controlar a Claude directamente desde tu línea de comandos.
+EN: He designed the system with a simple insight: every project has context that never changes.
+ES: Él diseñó el sistema con una idea simple: cada proyecto tiene contexto que nunca cambia.
+EN: Your tech stack, your coding style, your file structure — this information doesn't move. Yet users re-type it every session.
+ES: Tu conjunto de tecnologías, tu estilo de código, la estructura de tus archivos — esta información no cambia. Sin embargo, los usuarios la escriben otra vez cada sesión.
+EN: That's fourteen percent of your context window, gone, before you ask your first question.
+ES: Eso es el catorce por ciento de tu ventana de contexto, perdido, antes de hacer tu primera pregunta.
+EN: The fix takes five minutes. You create a file called CLAUDE.md in your project root.
+ES: La solución toma cinco minutos. Creas un archivo llamado CLAUDE.md en la raíz de tu proyecto.
+EN: Inside that file, you write everything Claude needs to know about your project that never changes.
+ES: Dentro de ese archivo, escribes todo lo que Claude necesita saber sobre tu proyecto que nunca cambia.
+EN: The languages you use. The frameworks you prefer. The rules your team follows.
+ES: Los lenguajes que usas. Los marcos de trabajo que prefieres. Las reglas que sigue tu equipo.
+EN: Once that file exists, Claude reads it automatically every time you start a new session.
+ES: Una vez que ese archivo existe, Claude lo lee automáticamente cada vez que inicias una nueva sesión.
+EN: You never type it again. That's the first setup tip from the architect himself.
+ES: Nunca lo escribes otra vez. Ese es el primer consejo de configuración del arquitecto mismo.
+EN: The second tip lives in the same menu, but most users scroll right past it.
+ES: El segundo consejo vive en el mismo menú, pero la mayoría de los usuarios pasan de largo.
+EN: It's called the Memory system, and it solves a problem every Claude user faces: repetition.
+ES: Se llama el sistema de Memoria, y resuelve un problema que todo usuario de Claude enfrenta: la repetición.
+EN: Without Memory, you explain your project to Claude in every new conversation.
+ES: Sin Memoria, le explicas tu proyecto a Claude en cada conversación nueva.
+EN: You tell it your tools, your preferences, your goals — again and again and again.
+ES: Le dices tus herramientas, tus preferencias, tus metas — una y otra vez.
+EN: The Memory system fixes this permanently. Claude writes summaries of your sessions and saves them.
+ES: El sistema de Memoria corrige esto permanentemente. Claude escribe resúmenes de tus sesiones y los guarda.
+EN: Future conversations start with those summaries already loaded.
+ES: Conversaciones futuras comienzan con esos resúmenes ya cargados.
+EN: You get continuity without effort. No more starting from zero.
+ES: Obtienes continuidad sin esfuerzo. No más comenzar desde cero.
+EN: Cherny called this the feature that eliminates the biggest daily friction for power users.
+ES: Cherny llamó a esto la función que elimina la fricción diaria más grande para usuarios avanzados.
+EN: The third tip is so simple that most people miss it entirely.
+ES: El tercer consejo es tan simple que la mayoría de la gente no lo nota.
+EN: It's called Custom Instructions, and there's a text box for it in your Claude settings.
+ES: Se llama Instrucciones Personalizadas, y hay una caja de texto para esto en tus ajustes de Claude.
+EN: Most users leave that box completely blank.
+ES: La mayoría de los usuarios dejan esa caja completamente vacía.
+EN: They type the same things in every conversation — their name, their role, what they want to accomplish.
+ES: Escriben las mismas cosas en cada conversación — su nombre, su rol, lo que quieren lograr.
+EN: Custom Instructions lets you save that information once. Claude reads it at the start of every session.
+ES: Instrucciones Personalizadas te permite guardar esa información una vez. Claude la lee al inicio de cada sesión.
+EN: Write who you are. Write what you need. Write how you like to work.
+ES: Escribe quién eres. Escribe lo que necesitas. Escribe cómo te gusta trabajar.
+EN: The fourth tip sits in the Project Settings panel, and it gives you something the other tips don't: permanence.
+ES: El cuarto consejo está en el panel de Ajustes del Proyecto, y te da algo que los otros consejos no dan: permanencia.
+EN: Project Settings let you attach context to specific codebases — not to your account, but to the project itself.
+ES: Ajustes del Proyecto te permite adjuntar contexto a bases de código específicas — no a tu cuenta, sino al proyecto mismo.
+EN: When you share a project with a teammate, Claude already knows the project cold.
+ES: Cuando compartes un proyecto con un compañero, Claude ya conoce el proyecto completamente.
+EN: The context lives with the code, not with you.
+ES: El contexto vive con el código, no contigo.
+EN: This matters for teams. It means every collaborator starts with the same foundation.
+ES: Esto importa para equipos. Significa que cada colaborador comienza con la misma base.
+EN: These four features — CLAUDE.md, Memory, Custom Instructions, and Project Settings — form a system.
+ES: Estas cuatro funciones — CLAUDE.md, Memoria, Instrucciones Personalizadas, y Ajustes del Proyecto — forman un sistema.
+EN: Together, they give Claude persistent context across time, across sessions, and across your entire team.
+ES: Juntas, le dan a Claude contexto persistente a través del tiempo, a través de sesiones, y a través de todo tu equipo.
+EN: Cherny built them because he understood something most users miss: the conversation is only as good as the context you bring to it.
+ES: Cherny las creó porque entendió algo que la mayoría de los usuarios pierde: la conversación solo es tan buena como el contexto que traes a ella.
+EN: You can have the smartest AI on the planet, but if it doesn't know your project, you spend half your time bringing it up to speed.
+ES: Puedes tener la IA más inteligente del planeta, pero si no conoce tu proyecto, pasas la mitad de tu tiempo poniéndolo al día.
+EN: That's not a failure of AI. That's a failure of setup.
+ES: Eso no es un fracaso de la IA. Eso es un fracaso de configuración.
+EN: The good news is that five minutes of setup pays dividends every single day.
+ES: La buena noticia es que cinco minutos de configuración dan dividendos cada día.
+EN: Create your CLAUDE.md file today. Fill in your Custom Instructions once. Turn on Memory.
+ES: Crea tu archivo CLAUDE.md hoy. Completa tus Instrucciones Personalizadas una vez. Activa Memoria.
+EN: Lock in your Project Settings for every codebase you work with.
+ES: Fija tus Ajustes del Proyecto para cada base de código con la que trabajas.
+EN: The architect gave you these tools. Use them before someone else on your team does.
+ES: El arquitecto te dio estas herramientas. Úsalas antes de que otro en tu equipo lo haga.
+EN: Context is currency in the age of AI. Don't give yours away for free.
+ES: El contexto es moneda en la era de la IA. No des el tuyo gratis.

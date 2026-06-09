@@ -1,0 +1,58 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.5 TP=-1.2",
+      "metrics": {
+        "integrated_lufs": -16.5,
+        "true_peak_dbfs": -1.2
+      }
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "1 uncovered: CLAUDE",
+      "metrics": {
+        "risky_count": 2,
+        "covered_count": 1,
+        "uncovered_count": 1,
+        "uncovered_tokens": [
+          "CLAUDE"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 12.5 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 1440,
+        "filler_phrases": [],
+        "numbers": 18,
+        "numbers_per_1k": 12.5,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Here's a revised version:\n\n---\n\nClaude Code has been writing its own code for over six months withou",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "pronunciation: 1 uncovered: CLAUDE"
+  ]
+}

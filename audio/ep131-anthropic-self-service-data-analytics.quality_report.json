@@ -1,0 +1,58 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.1 TP=-1.3",
+      "metrics": {
+        "integrated_lufs": -16.1,
+        "true_peak_dbfs": -1.3
+      }
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "1 uncovered: CI",
+      "metrics": {
+        "risky_count": 2,
+        "covered_count": 1,
+        "uncovered_count": 1,
+        "uncovered_tokens": [
+          "CI"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 30.9 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 1198,
+        "filler_phrases": [],
+        "numbers": 37,
+        "numbers_per_1k": 30.9,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Most teams building AI analytics tools assume the hard problem is getting the language model to writ",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "pronunciation: 1 uncovered: CI"
+  ]
+}

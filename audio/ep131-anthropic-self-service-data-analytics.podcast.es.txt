@@ -1,0 +1,38 @@
+EN: Most AI tools write code like champions. They can generate SQL queries in seconds. So why do so many companies still struggle to get simple answers from their own data?
+ES: La mayoría de herramientas de IA escriben código muy bien. Pueden crear consultas SQL en segundos. ¿Por qué entonces tantas empresas todavía tienen problemas para obtener respuestas simples de sus propios datos?
+EN: Here's the surprise: the problem is not code generation. The problem is context and verification. At Anthropic, they figured this out and now automate 95 percent of their business queries with near-perfect accuracy.
+ES: Aquí está la sorpresa: el problema no es crear código. El problema es el contexto y la verificación. En Anthropic, ellos descubrieron esto y ahora automatizan el 95 por ciento de sus consultas de negocio con precisión casi perfecta.
+EN: Let me explain what changed their approach. When someone asks a simple question like "How many users do we have?" there are hundreds of possible answers waiting in the data.
+ES: Voy a explicar qué cambió su enfoque. Cuando alguien hace una pregunta simple como "¿Cuántos usuarios tenemos?" hay cientos de respuestas posibles esperando en los datos.
+EN: What does "user" even mean? Do inactive accounts count? What about test accounts? Without clear definitions, the AI just guesses.
+ES: ¿Qué significa "usuario"? ¿Contamos las cuentas inactivas? ¿Y las cuentas de prueba? Sin definiciones claras, la IA simplemente adivina.
+EN: Anthropic identified three main failure modes that caused most wrong answers.
+ES: Anthropic identificó tres problemas principales que causaban la mayoría de las respuestas incorrectas.
+EN: First, concept-entity ambiguity. The AI cannot pick the right data fields when there are hundreds of options. Second, data staleness. Business definitions change, but the AI keeps using old rules. Third, retrieval failure. The right information exists, but the AI simply cannot find it.
+ES: Primero, ambigüedad entre conceptos y entidades. La IA no puede elegir los campos correctos cuando hay cientos de opciones. Segundo, datos obsoletos. Las definiciones del negocio cambian, pero la IA sigue usando reglas antiguas. Tercero, falla de búsqueda. La información correcta existe, pero la IA simplemente no la encuentra.
+EN: Their solution was not better code. It was better structure. They built what they call an agentic analytics stack, layer by layer.
+ES: Su solución no fue mejor código. Fue mejor estructura. Ellos construyeron lo que llaman una pila analítica agentiva, capa por capa.
+EN: At the foundation, they created canonical datasets. Instead of forty different definitions of "revenue," they picked one official version. This eliminated most ambiguity before the AI ever had to search.
+ES: En la base, ellos crearon conjuntos de datos canónicos. En lugar de cuarenta definiciones diferentes de "ingresos," eligieron una versión oficial. Esto eliminó la mayoría de la ambigüedad antes de que la IA tuviera que buscar.
+EN: They treated metadata as a first-class product. Column descriptions, table documentation, and metric definitions received the same care as the code itself.
+ES: Trataron los metadatos como un producto de primera clase. Las descripciones de columnas, la documentación de tablas y las definiciones de métricas recibieron el mismo cuidado que el código mismo.
+EN: They built a semantic layer that works like a dictionary. When a question matches a defined metric, the AI calls a function and gets one clear answer, the same answer every other tool produces.
+ES: Construyeron una capa semántica que funciona como un diccionario. Cuando una pregunta coincide con una métrica definida, la IA llama una función y obtiene una respuesta clara, la misma respuesta que produce cualquier otra herramienta.
+EN: They added skills, which are essentially instruction files that teach Claude how to answer questions like a senior analyst would.
+ES: Agregaron habilidades, que son esencialmente archivos de instrucciones que enseñan a Claude cómo responder preguntas como lo haría un analista senior.
+EN: Without skills, accuracy stayed below 21 percent. With skills, it jumped above 95 percent consistently.
+ES: Sin habilidades, la precisión se quedó abajo del 21 por ciento. Con habilidades, subió arriba del 95 por ciento consistentemente.
+EN: They also built validation systems. Offline tests check answers against known correct results. Online review catches problems before users see them.
+ES: También construyeron sistemas de validación. Pruebas fuera de línea verifican respuestas contra resultados correctos conocidos. Revisión en línea detecta problemas antes de que los usuarios los vean.
+EN: One critical discovery: the information was there. The AI could see it. But without proper structure, the AI never used it.
+ES: Un descubrimiento crítico: la información estaba ahí. La IA podía verla. Pero sin estructura adecuada, la IA nunca la usó.
+EN: This is the key lesson. Throwing more data at an AI does not make it smarter. Giving it clear context and verification paths does.
+ES: Esta es la lección clave. Lanzar más datos a una IA no la hace más inteligente. Darle contexto claro y caminos de verificación sí.
+EN: For teams starting today, the path is simple. Pick a few canonical datasets. Build a small set of offline tests. Write one basic skill file. These three steps capture most of the benefit.
+ES: Para equipos que empiezan hoy, el camino es simple. Eligen unos pocos conjuntos de datos canónicos. Crean un pequeño conjunto de pruebas fuera de línea. Escriben un archivo de habilidad básico. Estos tres pasos capturan la mayor parte del beneficio.
+EN: The rest is refinement. As your data grows, your context and verification systems grow with it.
+ES: El resto es refinamiento. A medida que sus datos crecen, sus sistemas de contexto y verificación crecen con ellos.
+EN: Next time your AI gives you a confusing data answer, ask yourself: did it know what I meant, or did it just know what I typed?
+ES: La próxima vez que tu IA te dé una respuesta de datos confusa, pregúntate: ¿sabía lo que quisiste decir, o simplemente sabía lo que escribiste?
+EN: Context is the secret. Build it in, and your AI will finally deliver the answers your business actually needs.
+ES: El contexto es el secreto. Intégralo, y tu IA finalmente te dará las respuestas que tu negocio realmente necesita.
