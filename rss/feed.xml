@@ -4,7 +4,7 @@
     <title>Señora Freedom</title>
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 22:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:17:22 +0000</lastBuildDate>
     <itunes:author>Señora Freedom</itunes:author>
     <itunes:owner>
       <itunes:name>Señora Freedom</itunes:name>
@@ -48,6 +48,23 @@ https://www.nature.com/articles/s41422-025-01128-1
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10783249/</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep132-video-themaxdose.podcast.mp3" length="3237840" type="audio/mpeg"/>
       <guid>https://mrleepee.github.io/freeist-podcast/audio/ep132-video-themaxdose.podcast.mp3</guid>
+    </item>
+    <item>
+      <title>Beyond the Basics with Claude Code: Systems That Prompt Themselves</title>
+      <description>An Anthropic engineer breaks down the advanced Claude Code workflow that separates power users from everyone else. The core insight: you are not supposed to prompt Claude. You are supposed to build a system that prompts itself. Three pillars of agentic customization: access — connecting agents to Slack, CI/CD, dashboards, and internal docs so they can see everything you see; knowledge — institutional memory stored as text files and in-context learning, not fine-tuning; and tooling — upgrading from basic edit tools to a full agentic IDE with syntax highlighting, LSP integration, and real-time warnings. The practical test: work an entire day without leaving Claude Code, note every tool you switch to, then connect Claude to those tools. The verdict: if Claude cannot access everything you can, it cannot do your job with you.
+
+Links:
+https://x.com/eng_khairallah1/status/2063272524927103459
+https://medium.com/coding-nexus/anthropics-own-engineers-don-t-prompt-engineer-they-do-this-instead-94c407258e03</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:32</itunes:duration>
+      <itunes:summary>An Anthropic engineer breaks down the advanced Claude Code workflow that separates power users from everyone else. The core insight: you are not supposed to prompt Claude. You are supposed to build a system that prompts itself. Three pillars of agentic customization: access — connecting agents to Slack, CI/CD, dashboards, and internal docs so they can see everything you see; knowledge — institutional memory stored as text files and in-context learning, not fine-tuning; and tooling — upgrading from basic edit tools to a full agentic IDE with syntax highlighting, LSP integration, and real-time warnings. The practical test: work an entire day without leaving Claude Code, note every tool you switch to, then connect Claude to those tools. The verdict: if Claude cannot access everything you can, it cannot do your job with you.
+
+Links:
+https://x.com/eng_khairallah1/status/2063272524927103459
+https://medium.com/coding-nexus/anthropics-own-engineers-don-t-prompt-engineer-they-do-this-instead-94c407258e03</itunes:summary>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep135-beyond-basics-claude-code-systems-that-prompt-themselves.podcast.mp3" length="4868925" type="audio/mpeg"/>
+      <guid>https://mrleepee.github.io/freeist-podcast/audio/ep135-beyond-basics-claude-code-systems-that-prompt-themselves.podcast.mp3</guid>
     </item>
     <item>
       <title>Boris Cherny's Claude Code Setup Tips: Stop Wasting 14% of Your Context Window</title>
