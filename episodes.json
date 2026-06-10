@@ -758,5 +758,10 @@
     "title": "Every Agent in Production Lies — James Brady (Anthropic)",
     "description": "Anthropic engineer James Brady delivered a 29-minute talk on agent verification with a striking opening: every agent in production lies, and the good ones just lie less. He walks through the verification stack he built at Claude Code, the patterns the team adopted to catch hallucinations before users see them, and why self-checking loops matter more than model size. The great agents do not avoid mistakes — they catch their own lies before the user does. Connects to Claude Code hooks, automated QA gates, and the broader question of who sets the rubric when agents grade their own homework.",
     "date": "2026-06-10"
+  },
+  "ep139-stanislav-krapivnik-war-will-last-couple-decades-we": {
+    "title": "Bezrukov at SPIEF: 'Accept That War Is the New Normal'",
+    "description": "Former SVR intelligence officer Andrey Bezrukov (exposed as Russian illegal Donald Heathfield in 2010, deported in spy swap) spoke at St. Petersburg International Economic Forum 2026, arguing Russia faces a new type of war focused on attrition and subversion rather than territory. Key theses: the West pursues a boiling frog escalation strategy, the next major clash will likely be in Asia, and Russia must serve both development and defence for decades to come. Fact-checked against known sources: Bezrukovs identity confirmed via FBI records and the 2010 Illegals Program arrests. Links: https://en.wikipedia.org/wiki/Illegals_Program | https://en.wikipedia.org/wiki/Andrei_Bezrukov",
+    "date": "2026-06-10"
   }
 }
