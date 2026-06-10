@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Wed, 10 Jun 2026 11:46:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:47:42 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -57,6 +57,29 @@ https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html</i
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.mp3" length="7086165" type="audio/mpeg"/>
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.mp3</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Why the Mechanism Matters — James Brady (Elicit) on Verifiable Agent Workflows</title>
+      <description>James Brady, Head of Engineering at Elicit, asks a deceptively simple question: if two AI systems produce identical output, do you trust them equally? His answer launched a deep dive into why how an answer is produced matters as much as the answer itself. Elicit built Ashpl — a Turing-incomplete, purely functional domain-specific language that is an opinionated subset of Python — to make their research agent trustworthy. The three design principles: legibility (the process is spot-checkable by humans and other agents), fidelity during iteration (no drift when users refine results), and faithful execution (the system actually follows its stated plan). The write-interpret-redraft loop reinterprets the entire program from scratch each cycle, with content-addressed caching making it fast. Content addressing and memoization mean a thousand-line program reinterprets in seconds because previous results are hashed and reused. Credential isolation via a gateway prevents prompt injection. The key finding: when the system's process is exposed and verifiable, users hold the output as fundamentally different from a one-shot model response — even when the surface output looks identical. Connects to the broader question: if every agent lies, the answer is not better prompts — it is better scaffolding.
+
+Links:
+https://www.youtube.com/watch?v=qOjleN2-50c
+https://elicit.com/blog/introducing-research-agent-workflows
+https://uk.linkedin.com/in/goodgravy</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>05:06</itunes:duration>
+      <itunes:summary>James Brady, Head of Engineering at Elicit, asks a deceptively simple question: if two AI systems produce identical output, do you trust them equally? His answer launched a deep dive into why how an answer is produced matters as much as the answer itself. Elicit built Ashpl — a Turing-incomplete, purely functional domain-specific language that is an opinionated subset of Python — to make their research agent trustworthy. The three design principles: legibility (the process is spot-checkable by humans and other agents), fidelity during iteration (no drift when users refine results), and faithful execution (the system actually follows its stated plan). The write-interpret-redraft loop reinterprets the entire program from scratch each cycle, with content-addressed caching making it fast. Content addressing and memoization mean a thousand-line program reinterprets in seconds because previous results are hashed and reused. Credential isolation via a gateway prevents prompt injection. The key finding: when the system's process is exposed and verifiable, users hold the output as fundamentally different from a one-shot model response — even when the surface output looks identical. Connects to the broader question: if every agent lies, the answer is not better prompts — it is better scaffolding.
+
+Links:
+https://www.youtube.com/watch?v=qOjleN2-50c
+https://elicit.com/blog/introducing-research-agent-workflows
+https://uk.linkedin.com/in/goodgravy</itunes:summary>
+      <itunes:episode>140</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep140-james-brady-every-agent-production-lies.podcast.mp3" length="4528773" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep140-james-brady-every-agent-production-lies.podcast.mp3</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep140-james-brady-every-agent-production-lies.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>Khairallah Al Awady Anthropic Engineer Youre Not Supposed</title>
