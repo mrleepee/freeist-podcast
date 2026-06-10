@@ -1,0 +1,80 @@
+EN: Most tools tell you what they found. Almost none show you how they looked.
+ES: La mayoría de las herramientas te dicen lo que encontraron. Casi ninguna te muestra cómo buscaron.
+EN: That's the problem Elicit wanted to solve.
+ES: Ese es el problema que Elicit quiso resolver.
+EN: They built a custom language called Ashpl for their research agents.
+ES: Crearon un lenguaje especial llamado Ashpl para sus agentes de investigación.
+EN: The idea is simple: identical answers from different processes deserve different levels of trust.
+ES: La idea es simple: respuestas idénticas de procesos diferentes merecen niveles diferentes de confianza.
+EN: A correct answer produced by a black box still hides risks.
+ES: Una respuesta correcta producida por una caja negra todavía esconde riesgos.
+EN: So Elicit made legibility a core requirement, not an afterthought.
+ES: Por eso Elicit hizo que la legibilidad fuera un requisito central, no una ocurrencia tardía.
+EN: They call these requirements desiderata.
+ES: A estos requisitos los llaman desiderata.
+EN: First, the agent's process must be understandable by users and other systems.
+ES: Primero, el proceso del agente debe ser comprensible para los usuarios y otros sistemas.
+EN: Second, adding new features or directions should not drift from the original user intent.
+ES: Segundo, agregar nuevas funciones o direcciones no debe apartarse de la intención original del usuario.
+EN: Third, the system must actually follow the plan it claims to follow.
+ES: Tercero, el sistema debe seguir realmente el plan que dice seguir.
+EN: Ashpl is a reactive, purely functional language.
+ES: Ashpl es un lenguaje reactivo y puramente funcional.
+EN: Think of it as an opinionated subset of Python built for research.
+ES: Piénsalo como un subconjunto opinions de Python creado para la investigación.
+EN: It has no loops, no recursion, and no mutation.
+ES: No tiene bucles, no tiene recursión, y no tiene mutación.
+EN: Those restrictions prevent complex behavior that is hard to verify.
+ES: Esas restricciones previenen comportamiento complejo que es difícil de verificar.
+EN: It includes typing for fast error detection.
+ES: Incluye tipado para detectar errores rápido.
+EN: The language has built-in commands for fetching academic papers and clinical trials.
+ES: El lenguaje tiene comandos integrados para obtener artículos académicos y ensayos clínicos.
+EN: Here is how it works in practice.
+ES: Así es como funciona en la práctica.
+EN: A component called the curator writes Ashpl code based on user input.
+ES: Un componente llamado curator escribe código Ashpl basado en lo que dice el usuario.
+EN: A Python service then parses and interprets that code.
+ES: Un servicio de Python luego analiza e interpreta ese código.
+EN: If there is an error or a new requirement, the system rewrites the Ashpl.
+ES: Si hay un error o un nuevo requisito, el sistema reescribe el Ashpl.
+EN: This creates a constant loop: write, interpret, rewrite.
+ES: Esto crea un bucle constante: escribir, interpretar, reescribir.
+EN: One clever feature is content addressing for caching.
+ES: Una característica inteligente es el direccionamiento de contenido para caché.
+EN: Previous results are stored, so re-interpreting the same program runs instantly.
+ES: Resultados previos se guardan, así que re-interpretar el mismo programa corre al instante.
+EN: The system also uses event sourcing to manage distributed data.
+ES: El sistema también usa event sourcing para manejar datos distribuidos.
+EN: Credential isolation through a gateway prevents user input from reaching sensitive systems.
+ES: El aislamiento de credenciales a través de un gateway impide que la entrada del usuario llegue a sistemas sensibles.
+EN: Currently, Ashpl runs on Anthropic models using the Pi agent SDK.
+ES: Actualmente, Ashpl corre en modelos de Anthropic usando el Pi agent SDK.
+EN: In a demo, the system generated a research landscape analysis.
+ES: En una demostración, el sistema generó un análisis del panorama de investigación.
+EN: The Ashpl code was visible for every artifact and table it created.
+ES: El código Ashpl era visible para cada artefacto y tabla que creó.
+EN: A graphical representation of the workflow came directly from the Ashpl.
+ES: Una representación gráfica del flujo de trabajo vino directamente del Ashpl.
+EN: New requests added layers without breaking what already existed.
+ES: Solicitudes nuevas agregaron capas sin romper lo que ya existía.
+EN: For teams building similar systems, Elicit recommends starting with an existing language.
+ES: Para equipos que construyen sistemas similares, Elicit recomienda comenzar con un lenguaje existente.
+EN: Models learn the syntax more easily that way.
+ES: Los modelos aprenden la sintaxis más fácilmente así.
+EN: Build a wrapper so you can swap between different model harnesses.
+ES: Construye un wrapper para poder cambiar entre diferentes harness de modelos.
+EN: Implement interrupt handling so new user input flows back into the process.
+ES: Implementa manejo de interrupciones para que nueva entrada del usuario vuelva al proceso.
+EN: Invest in session rehydration and proper credential isolation.
+ES: Invierte en rehidratación de sesiones y aislamiento de credenciales adecuado.
+EN: Manage model output streams carefully and consider event sourcing.
+ES: Maneja los streams de salida del modelo con cuidado y considera event sourcing.
+EN: Most importantly, build a dedicated evaluation team.
+ES: Lo más importante, construye un equipo de evaluación dedicado.
+EN: Evaluating DSL-based systems is complex but critical.
+ES: Evaluar sistemas basados en DSL es complejo pero crítico.
+EN: The core lesson is this: care about how results are produced, not just the results themselves.
+ES: La lección central es esta: importa cómo se producen los resultados, no solo los resultados mismos.
+EN: When your priorities match legibility, fidelity, and faithful execution, a custom language approach pays off.
+ES: Cuando tus prioridades coinciden con legibilidad, fidelidad y ejecución fiel, un enfoque de lenguaje personalizado vale la pena.
