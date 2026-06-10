@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Wed, 10 Jun 2026 07:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:56:06 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -34,6 +34,29 @@ https://www.reddit.com/r/ClaudeAI/comments/1q2c0ne/</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep136-boris-cherny-claude-code-setup-tips.podcast.mp3" length="8091693" type="audio/mpeg"/>
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep136-boris-cherny-claude-code-setup-tips.podcast.mp3</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep136-boris-cherny-claude-code-setup-tips.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>The AI Bubble Explained: Addiction, Token Burns, and the Bill Coming Due</title>
+      <description>A technology chief spent $1,200 on a single LLM demo — more than the process it was designed to replace. That same company burned its entire 2026 AI budget in four months and shipped virtually nothing. Internal dashboards publicly ranked teams by token consumption and celebrated the biggest spenders. Uber flipped the leaderboard only after the finance team recovered. Walmart gave developers unlimited AI agent access and then quietly neutered the program when the bill arrived. GitHub Copilot moved to token-based billing in June 2026 and some developers saw costs jump 100x. OpenAI loses approximately $1.22 for every dollar it earns, with projected losses of $14 billion in 2026 alone. SoftBank has invested $34.6 billion. The IPO pressure is enormous. The technology is structurally wasteful by design — every new word forces a full re-read of the entire conversation. The addiction is psychological: intermittent rewards keep users pulling the lever like a slot machine. The realistic outlook is narrow: AI will be genuinely useful for specific verifiable tasks when closely supervised. For everything else it remains an expensive way to be confidently wrong.
+
+Links:
+https://www.cmcmarkets.com/en-gb/ipo-trading/open-ai-ipo
+https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
+https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>08:14</itunes:duration>
+      <itunes:summary>A technology chief spent $1,200 on a single LLM demo — more than the process it was designed to replace. That same company burned its entire 2026 AI budget in four months and shipped virtually nothing. Internal dashboards publicly ranked teams by token consumption and celebrated the biggest spenders. Uber flipped the leaderboard only after the finance team recovered. Walmart gave developers unlimited AI agent access and then quietly neutered the program when the bill arrived. GitHub Copilot moved to token-based billing in June 2026 and some developers saw costs jump 100x. OpenAI loses approximately $1.22 for every dollar it earns, with projected losses of $14 billion in 2026 alone. SoftBank has invested $34.6 billion. The IPO pressure is enormous. The technology is structurally wasteful by design — every new word forces a full re-read of the entire conversation. The addiction is psychological: intermittent rewards keep users pulling the lever like a slot machine. The realistic outlook is narrow: AI will be genuinely useful for specific verifiable tasks when closely supervised. For everything else it remains an expensive way to be confidently wrong.
+
+Links:
+https://www.cmcmarkets.com/en-gb/ipo-trading/open-ai-ipo
+https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
+https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html</itunes:summary>
+      <itunes:episode>137</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.mp3" length="7086165" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.mp3</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>Khairallah Al Awady Anthropic Engineer Youre Not Supposed</title>
