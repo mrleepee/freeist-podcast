@@ -1,0 +1,116 @@
+{
+  "claims": [
+    {
+      "claim": "James Brady, an engineer at a company called Elicit",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Evidence map confirms 'James Brady, engineer at Elicit'"
+    },
+    {
+      "claim": "The name comes from the Old English diphthong for ash, the letter æ, combined with PL",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'named after the Old English diphthong ash Æ combined with PL'"
+    },
+    {
+      "claim": "Ashpl is what engineers call an opinionated subset of Python",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'Opinionated subset of Python'"
+    },
+    {
+      "claim": "It is typed, purely functional, and critically, Turing incomplete",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms all three properties in separate entries"
+    },
+    {
+      "claim": "Turing incomplete means there are programs you can write in Python that you simply cannot write in Ashpl",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map confirms Turing-incomplete but does not explicitly state this consequence about Python programs being unwriteable in Ashpl"
+    },
+    {
+      "claim": "Every program that runs in Ashpl terminates",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Implied by Turing-incompleteness and 'no loops, no recursion' but not explicitly stated in evidence map"
+    },
+    {
+      "claim": "Drift during iteration is one of the most common failure modes in agentic systems",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'This is a common failure mode in agentic systems'"
+    },
+    {
+      "claim": "The language maintains an append only event log",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'append-only event log'"
+    },
+    {
+      "claim": "the system is very happy with this approach according to James Brady",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map states 'Elicit is very happy with this pattern' but does not attribute this quote directly to James Brady"
+    },
+    {
+      "claim": "Reinterpreting a program with a thousand lines from scratch would be prohibitively slow without this caching mechanism",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map confirms 'reinterpreting a 1,000-line program from scratch each time would be prohibitively slow'"
+    },
+    {
+      "claim": "the same program grew to over a thousand lines",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Evidence map confirms 'extends the same program to 1,000+ lines'"
+    },
+    {
+      "claim": "gateway component that handles application programming interface keys and credential isolation, preventing prompt injection attacks",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'Gateway handles API keys and credential isolation — preventing prompt injection attacks'"
+    },
+    {
+      "claim": "Elicit currently uses a system called Pi with models from Anthropic",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Evidence map confirms 'Currently using Pi with Anthropic models'"
+    },
+    {
+      "claim": "has experimented with Anthropic's agent software development kit",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Evidence map confirms 'they've used Anthropic's agent SDK'"
+    },
+    {
+      "claim": "The three core requirements driving this entire design are legibility, fidelity during iteration, and faithful execution",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms all three requirements"
+    },
+    {
+      "claim": "dedicated evaluation for this kind of system is critical but extremely complex",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'critical but extremely complex for DSL-based systems'"
+    },
+    {
+      "claim": "Managing model output streams is, in James Brady's words, surprisingly annoying",
+      "confidence": "high",
+      "type": "quote",
+      "reason": "Evidence map states 'surprisingly annoying' but does not attribute this as a direct quote from James Brady"
+    },
+    {
+      "claim": "The speed versus rigor tradeoff is constant",
+      "confidence": "high",
+      "type": "fact",
+      "reason": "Evidence map confirms 'The key trade-off is speed versus rigor'"
+    }
+  ],
+  "high_confidence": 16,
+  "threshold": 3,
+  "passed": false,
+  "status": "ok"
+}

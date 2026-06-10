@@ -1,0 +1,24 @@
+{
+  "thesis": "The most powerful way to control AI is to deliberately limit it — and Elicit's new programming language Ashpl proves this counterintuitive principle works.",
+  "hook": "The engineers at Elicit built a programming language specifically designed to be less powerful than Python — and that weakness is exactly why it might be the most trustworthy AI tool you've never heard of.",
+  "stakes": "When AI agents iterate on their own work, they drift from your intent — a failure mode so common it's practically considered normal. Ashpl's purely functional design prevents that drift by making every rewrite predictable and cacheable, turning iteration from a liability into a feature.",
+  "evidence_beats": [
+    3,
+    6,
+    7,
+    15,
+    16,
+    17,
+    9,
+    11,
+    13
+  ],
+  "counterpoint": "The tradeoff is real: building a DSL requires deep technical expertise, and Ashpl remains narrowly suited to research workflows rather than general-purpose applications.",
+  "implication": "You don't need to understand Ashpl's syntax, but you should demand its philosophy from every AI tool you use — ask yourself whether the system you're trusting is legible, whether it can drift without you knowing, and whether the people building it chose rigor over speed.",
+  "close": "Ashpl's name comes from the Old English diphthong for ash — the letter Æ — combined with PL, a small, grounded name for something that could reshape how research AI behaves. When you pick your next AI tool, ask what constraints it chose to put on itself. Because the systems that limit themselves are the only ones you can actually trust.",
+  "warnings": [
+    "thin evidence: only 9 claims used from 20 available",
+    "secondary source used for drift claim",
+    "medium confidence on speed/rigor tradeoff"
+  ]
+}

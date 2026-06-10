@@ -1,0 +1,56 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "skipped: no audio file available",
+      "metrics": {}
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "1 uncovered: PL",
+      "metrics": {
+        "risky_count": 1,
+        "covered_count": 0,
+        "uncovered_count": 1,
+        "uncovered_tokens": [
+          "PL"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 7.0 numbers/1k, 1.4 sources/1k",
+      "metrics": {
+        "word_count": 719,
+        "filler_phrases": [],
+        "numbers": 5,
+        "numbers_per_1k": 7.0,
+        "named_sources": 1,
+        "sources_per_1k": 1.4
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Few things sound less appealing in technology than deliberate limitation. We celebrate the breakthro",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    },
+    "qa_exhausted": true
+  },
+  "blocking_failures": [
+    "pronunciation: 1 uncovered: PL"
+  ]
+}

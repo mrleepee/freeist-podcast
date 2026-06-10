@@ -1,0 +1,176 @@
+EN: You trust a table. I trust the machine that made it.
+ES: Tú confías en una tabla. Yo confío en la máquina que la hizo.
+EN: Same data, same format, same answer. But one came from a black box.
+ES: Los mismos datos, el mismo formato, la misma respuesta. Pero una vino de una caja negra.
+EN: James Brady from Elicit asked a simple question: if two AI systems produce identical output, do you trust them equally?
+ES: James Brady de Elicit hizo una pregunta simple: si dos sistemas de IA producen resultados idénticos, ¿confías en ellos por igual?
+EN: His answer is no.
+ES: Su respuesta es no.
+EN: He gave a talk about Ashpl, a domain-specific language Elicit built to make AI agents trustworthy.
+ES: Dio una charla sobre Ashpl, un lenguaje especial que Elicit creó para hacer agentes de IA confiables.
+EN: The core idea: how you get an answer matters as much as the answer itself.
+ES: La idea central: cómo obtienes una respuesta importa tanto como la respuesta misma.
+EN: Picture this: a tool says your code has no security problems.
+ES: Imagina esto: una herramienta dice que tu código no tiene problemas de seguridad.
+EN: You get the same message from two systems.
+ES: Obtienes el mismo mensaje de dos sistemas.
+EN: One ran GPT-3.5 on the surface.
+ES: Uno usó GPT-3.5 en la superficie.
+EN: The other used the latest model with tools, critique, and redrafting.
+ES: El otro usó el modelo más nuevo con herramientas, crítica y reelaboración.
+EN: Identical words. Completely different trust levels.
+ES: Palabras idénticas. Niveles de confianza completamente diferentes.
+EN: Brady calls this mechanism over output.
+ES: Brady llama a esto mecanismo sobre resultado.
+EN: The mechanism is a design choice.
+ES: El mecanismo es una elección de diseño.
+EN: It depends on your domain, your users, and your task.
+ES: Depende de tu área, tus usuarios y tu tarea.
+EN: The trade-off is always speed versus rigor.
+ES: El intercambio es siempre velocidad contra rigor.
+EN: Serious analysis takes longer than a quick scan.
+ES: El análisis serio toma más tiempo que un escaneo rápido.
+EN: Elicit built their research agent around three principles.
+ES: Elicit construyó su agente de investigación alrededor de tres principios.
+EN: First: legibility.
+ES: Primero: legibilidad.
+EN: Users and other agents must understand what the system is doing.
+ES: Los usuarios y otros agentes deben entender lo que el sistema hace.
+EN: The process needs to be spot-checkable.
+ES: El proceso necesita ser verificable.
+EN: Second: fidelity during iteration.
+ES: Segundo: fidelidad durante la iteración.
+EN: When users add layers or change direction, the system must not drift.
+ES: Cuando los usuarios agregan capas o cambian dirección, el sistema no debe desviarse.
+EN: This is a common failure in agentic systems.
+ES: Este es un fallo común en sistemas con agentes.
+EN: The model gets confused and you start over.
+ES: El modelo se confunde y empiezas de nuevo.
+EN: Third: faithful execution.
+ES: Tercero: ejecución fiel.
+EN: Once a plan is verified, the system must follow it.
+ES: Una vez que un plan está verificado, el sistema debe seguirlo.
+EN: A good plan is worthless if execution fails.
+ES: Un buen plan no vale nada si la ejecución falla.
+EN: These three principles led to Ashpl.
+ES: Estos tres principios llevaron a Ashpl.
+EN: The name comes from the Old English diphthong ash, Æ, plus PL.
+ES: El nombre viene del diptongo inglés antiguo ash, Æ, más PL.
+EN: Key design: Ashpl is Turing-incomplete and purely functional.
+ES: Diseño clave: Ashpl es Turing-incompleto y puramente funcional.
+EN: No loops, no recursion, no mutation.
+ES: Sin bucles, sin recursión, sin mutación.
+EN: This makes the language predictable and cacheable.
+ES: Esto hace el lenguaje predecible y guardable en caché.
+EN: It is an opinionated subset of Python.
+ES: Es un subconjunto opinado de Python.
+EN: Elicit removed unhelpful Python features.
+ES: Elicit eliminó características innecesarias de Python.
+EN: They added domain-specific primitives.
+ES: Agregaron primitivas especiales del dominio.
+EN: Things like retrieving academic papers and clinical trials.
+ES: Cosas como obtener artículos académicos y ensayos clínicos.
+EN: The language is typed.
+ES: El lenguaje tiene tipos definidos.
+EN: This enables fast error detection.
+ES: Esto permite detección rápida de errores.
+EN: Redrafts are cheap when type errors happen.
+ES: Las reelaboraciones son baratas cuando hay errores de tipo.
+EN: Ashpl is also reactive.
+ES: Ashpl también es reactivo.
+EN: The system writes, interprets, and rewrites in a constant loop.
+ES: El sistema escribe, interpreta y reescribe en un ciclo constante.
+EN: Here is how it works.
+ES: Así es como funciona.
+EN: A curator component writes Ashpl code from user input.
+ES: Un componente curador escribe código Ashpl desde la entrada del usuario.
+EN: A Python service parses, validates, and interprets the Ashpl.
+ES: Un servicio Python analiza, valida e interpreta el Ashpl.
+EN: If errors occur, the Ashpl goes back to the curator for redrafting.
+ES: Si hay errores, el Ashpl regresa al curador para reelaboración.
+EN: Results feed into new Ashpl extensions.
+ES: Los resultados alimentan nuevas extensiones de Ashpl.
+EN: The entire program is reinterpreted from scratch each cycle.
+ES: Todo el programa se reinterpreta desde cero cada ciclo.
+EN: But caching makes this fast.
+ES: Pero el caché hace esto rápido.
+EN: Because Ashpl is purely functional, the system hashes each expression.
+ES: Porque Ashpl es puramente funcional, el sistema genera un hash de cada expresión.
+EN: Results are memoized.
+ES: Los resultados se guardan en memoria.
+EN: Previously computed sections return instantly from cache.
+ES: Las secciones previamente calculadas regresan al instante del caché.
+EN: Without caching, reinterpreting a thousand-line program would be too slow.
+ES: Sin caché, reinterpretar un programa de mil líneas sería muy lento.
+EN: The full-rewrite approach also prevents drift.
+ES: El enfoque de reescritura completa también previene la desviación.
+EN: It is easier to make guarantees when you interpret the whole program each time.
+ES: Es más fácil hacer garantías cuando interpretas todo el programa cada vez.
+EN: Not patching snippets.
+ES: No parchear fragmentos.
+EN: Now, the system architecture.
+ES: Ahora, la arquitectura del sistema.
+EN: The UI talks to an append-only event log.
+ES: La interfaz habla con un registro de eventos inmutable.
+EN: This follows an event sourcing pattern.
+ES: Esto sigue un patrón de origen de eventos.
+EN: The Python service is the message broker and Ashpl interpreter.
+ES: El servicio Python es el intermediario de mensajes y el intérprete de Ashpl.
+EN: A sandbox contains the curator.
+ES: Un sandbox contiene el curador.
+EN: That is the LLM that writes the Ashpl.
+ES: Ese es el modelo de lenguaje que escribe el Ashpl.
+EN: A wrapper layer lets you swap between different model harnesses.
+ES: Una capa de envoltura permite cambiar entre diferentes sistemas de modelos.
+EN: Elicit has used Anthropic's agent SDK and other combinations.
+ES: Elicit ha usado el SDK de agentes de Anthropic y otras combinaciones.
+EN: A gateway handles API keys and credential isolation.
+ES: Una puerta de enlace maneja las claves API y el aislamiento de credenciales.
+EN: User input never flows directly to the curator.
+ES: La entrada del usuario nunca fluye directamente al curador.
+EN: This prevents prompt injection attacks.
+ES: Esto previene ataques de inyección de prompts.
+EN: Elicit currently uses a combination called Pi with Anthropic models.
+ES: Elicit actualmente usa una combinación llamada Pi con modelos de Anthropic.
+EN: Brady showed a demo of research landscape analysis.
+ES: Brady mostró una demostración de análisis del panorama de investigación.
+EN: The system mapped organizations investing in biology foundation models.
+ES: El sistema mapeó organizaciones que invierten en modelos base de biología.
+EN: It asked clarifying questions to narrow the scope.
+ES: Hizo preguntas aclaratorias para reducir el alcance.
+EN: It ran multiple search rounds.
+ES: Ejecutó múltiples rondas de búsqueda.
+EN: Academic papers and web searches.
+ES: Artículos académicos y búsquedas web.
+EN: It screened and filtered results.
+ES: Evaluó y filtró resultados.
+EN: It enriched sources by fetching full text.
+ES: Enriquecer las fuentes obteniendo el texto completo.
+EN: It produced structured tables with extracted attributes.
+ES: Produjo tablas estructuradas con atributos extraídos.
+EN: Organizations, foundation models, collaborations.
+ES: Organizaciones, modelos base, colaboraciones.
+EN: Here is the key: each table links to the Ashpl code that produced it.
+ES: Aquí está la clave: cada tabla se vincula al código Ashpl que la produjo.
+EN: The graphical workflow visualization comes directly from the Ashpl.
+ES: La visualización gráfica del flujo de trabajo viene directamente del Ashpl.
+EN: Not a separate mockup.
+ES: No una maqueta separada.
+EN: Adding new layers extends the same program to over a thousand lines.
+ES: Agregar nuevas capas extiende el mismo programa a más de mil líneas.
+EN: But cached sections execute instantly.
+ES: Pero las secciones en caché se ejecutan al instante.
+EN: Brady's takeaway: you should care deeply about the mechanism.
+ES: La conclusión de Brady: deberías preocuparte profundamente por el mecanismo.
+EN: Not everyone needs a domain-specific language.
+ES: No todos necesitan un lenguaje de dominio específico.
+EN: But everyone should ask what mechanism creates trust.
+ES: Pero todos deberían preguntar qué mecanismo crea confianza.
+EN: A table from a state-of-the-art model looks identical to one from Elicit's process.
+ES: Una tabla de un modelo de última generación parece idéntica a una del proceso de Elicit.
+EN: But users treat them as fundamentally different objects.
+ES: Pero los usuarios las tratan como objetos fundamentalmente diferentes.
+EN: The question for every builder is this.
+ES: La pregunta para cada constructor es esta.
+EN: What mechanism creates that same trust dynamic for your product?
+ES: ¿Qué mecanismo crea esa misma dinámica de confianza para tu producto?

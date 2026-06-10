@@ -1,0 +1,162 @@
+[
+  {
+    "claim": "James Brady is an engineer at Elicit",
+    "source_quote": "James Brady, engineer at Elicit, delivered a talk on making AI agent workflows trustworthy and verifiable",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ashpl is named after the Old English diphthong 'ash' Æ combined with PL",
+    "source_quote": "These three principles led Elicit to build Ashpl (named after the Old English diphthong 'ash' Æ combined with PL)",
+    "timestamp": "para:10",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ashpl is Turing-incomplete and purely functional",
+    "source_quote": "Turing-incomplete and purely functional: No loops, no recursion, no mutation. This makes the language predictable and cacheable.",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ashpl is an opinionated subset of Python",
+    "source_quote": "Opinionated subset of Python: Not a random simplification — they removed unhelpful Python features and added domain-specific primitives (retrieving academic papers, clinical trials, web searches).",
+    "timestamp": "para:12",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ashpl is typed",
+    "source_quote": "Typed: Enables fast error detection and cheap redrafts when type errors occur.",
+    "timestamp": "para:13",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Ashpl is reactive",
+    "source_quote": "Reactive: The system writes, interprets, and rewrites Ashpl in a constant loop.",
+    "timestamp": "para:14",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Content addressing and caching makes full-rewrite approach viable",
+    "source_quote": "This is described as 'super duper crucial.' Because Ashpl is purely functional with no mutation, the system can hash each expression and memoize results.",
+    "timestamp": "para:17",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Reinterpreting a 1,000-line program from scratch would be prohibitively slow without caching",
+    "source_quote": "without it, reinterpreting a 1,000-line program from scratch each time would be prohibitively slow",
+    "timestamp": "para:18",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "UI communicates with an append-only event log using event sourcing pattern",
+    "source_quote": "UI communicates with an append-only event log (event sourcing pattern)",
+    "timestamp": "para:20",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Gateway handles API keys and credential isolation to prevent prompt injection attacks",
+    "source_quote": "Gateway handles API keys and credential isolation — user input never flows directly to the curator, preventing prompt injection attacks",
+    "timestamp": "para:23",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Elicit is currently using Pi with Anthropic models as the best combination",
+    "source_quote": "Currently using Pi with Anthropic models as the best combination",
+    "timestamp": "para:24",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Elicit has used Anthropic's agent SDK and Pi with Claude/Codex",
+    "source_quote": "Wrapper layer allows swapping between different model harnesses (they've used Anthropic's agent SDK, and Pi with Claude/Codex)",
+    "timestamp": "para:22",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The demo extended the same program to 1,000+ lines when adding new layers",
+    "source_quote": "Adding new layers (commercialization strategies, oversight bodies, cross-referencing) extends the same program to 1,000+ lines",
+    "timestamp": "para:29",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Elicit is 'very happy' with the event sourcing pattern",
+    "source_quote": "Consider event sourcing — Elicit is very happy with this pattern",
+    "timestamp": "para:35",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "There are three core requirements for Elicit's research agent: Legibility, Fidelity during iteration, and Faithful execution",
+    "source_quote": "Elicit's research agent was built around three core requirements: 1. Legibility... 2. Fidelity during iteration... 3. Faithful execution...",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Drift during iteration is a common failure mode in agentic systems",
+    "source_quote": "Fidelity during iteration: When users iterate on results... the system must not drift from the original intent. This is a common failure mode in agentic systems",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The key trade-off is speed versus rigor",
+    "source_quote": "The key trade-off is speed versus rigor: high-quality, defensive work naturally takes longer than surface-level analysis.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Base your DSL on an existing language with lots of training data examples",
+    "source_quote": "Base your DSL on an existing language with lots of training data examples — the model doesn't need to learn syntax, just the subset",
+    "timestamp": "para:32",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "recommendation"
+  },
+  {
+    "claim": "Managing model output streams is 'surprisingly annoying'",
+    "source_quote": "Manage model output streams — surprisingly annoying to handle properly",
+    "timestamp": "para:37",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Dedicated evaluation for DSL-based systems is critical but extremely complex",
+    "source_quote": "Invest in dedicated evaluation — critical but extremely complex for DSL-based systems",
+    "timestamp": "para:38",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]
