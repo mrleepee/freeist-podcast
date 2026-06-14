@@ -1,0 +1,134 @@
+{
+  "claims": [
+    {
+      "claim": "published in April twenty twenty-six",
+      "confidence": "high",
+      "type": "date",
+      "reason": "Matches evidence map entry for April 2026 publication date."
+    },
+    {
+      "claim": "code sitting openly on GitHub under the username C H I N A, Q I J I, Z H I, F E N G, in a repository called agentic harness engineering",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Matches evidence map entry for china-qijizhifeng/agentic-harness-engineering."
+    },
+    {
+      "claim": "The paper's identifier on the open archive is two six oh four dot two five eight five zero",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for arXiv 2604.25850."
+    },
+    {
+      "claim": "the authors include Lin, Liu, Pan and colleagues",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Matches evidence map entry for Lin, Liu, Pan et al."
+    },
+    {
+      "claim": "The baseline accuracy...came in at sixty-nine point seven percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for 69.7% baseline."
+    },
+    {
+      "claim": "That human-designed effort reached seventy-one point nine percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for human-designed Codex at 71.9%."
+    },
+    {
+      "claim": "Two point two percentage points of improvement, after hours of careful prompt crafting",
+      "confidence": "high",
+      "type": "number",
+      "reason": "71.9 - 69.7 = 2.2, consistent with evidence map figures."
+    },
+    {
+      "claim": "They ran ten automated iterations",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for ten automated iterations."
+    },
+    {
+      "claim": "The result was seventy-seven percent",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for 77.0% pass@1 accuracy."
+    },
+    {
+      "claim": "five point three percentage points above the human-crafted prompt",
+      "confidence": "high",
+      "type": "number",
+      "reason": "77.0 - 71.9 = 5.1, not 5.3. Script miscalculates the gap."
+    },
+    {
+      "claim": "performance actually regressed by about two point three percentage points",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for 2.3 percentage point regression."
+    },
+    {
+      "claim": "it still added between five and ten percentage points on S W E dash bench dash verified and three alternate model families",
+      "confidence": "high",
+      "type": "number",
+      "reason": "Matches evidence map entry for 5-10 points on SWE-bench-verified and three alternate model families."
+    },
+    {
+      "claim": "they break it down into three pillars of observability: component observability...experience observability...and decision observability",
+      "confidence": "high",
+      "type": "name",
+      "reason": "Matches evidence map entry for three pillars: component, experience, and decision observability."
+    },
+    {
+      "claim": "A human team of engineers then sat down and hand-crafted an optimised system prompt",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says 'human-designed Codex at 71.9%'; script reframes this as a team hand-crafting a prompt, which is an embellishment of what the evidence states."
+    },
+    {
+      "claim": "the kind of carefully worded instructions that companies across the world are currently paying prompt engineers eye-watering salaries to produce",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map supports claims about prompt engineer salaries or industry hiring practices."
+    },
+    {
+      "claim": "after hours of careful prompt crafting",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map describes the time spent on human prompt crafting."
+    },
+    {
+      "claim": "the tools it could call, the middleware that managed its requests, the memory systems that let it retain information across a session",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map mentions 'tools, middleware, and memory' but does not describe middleware as 'managing requests' or memory as 'retaining information across a session'; these are glosses."
+    },
+    {
+      "claim": "component observability, which means understanding what each part of the system is doing",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map lists the three pillars but does not provide definitions; script adds interpretive descriptions not in the evidence."
+    },
+    {
+      "claim": "experience observability, which means tracking how the agent behaves across multiple interactions",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map lists the pillar name but provides no definition; script's gloss is unattributed."
+    },
+    {
+      "claim": "decision observability, which means being able to audit why the agent chose one action over another",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map lists the pillar name but provides no definition; script's gloss is unattributed."
+    },
+    {
+      "claim": "Stop hiring people to spend six hours crafting the perfect instruction set",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map supports the 'six hours' figure or makes hiring recommendations."
+    }
+  ],
+  "high_confidence": 13,
+  "threshold": 3,
+  "passed": false,
+  "status": "ok"
+}

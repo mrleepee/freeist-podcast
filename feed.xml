@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 12 Jun 2026 10:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:03:41 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,52 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Anthropic's Own Data Stack: 95% Self-Service Analytics with Claude</title>
+      <description>Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.
+
+Links:
+https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
+https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+https://www.getdbt.com/product/semantic-layer</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>09:14</itunes:duration>
+      <itunes:summary>Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.
+
+Links:
+https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
+https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl
+https://www.getdbt.com/product/semantic-layer</itunes:summary>
+      <itunes:episode>131</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep131-anthropic-self-service-data-analytics.podcast.mp3" length="6741069" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep131-anthropic-self-service-data-analytics</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep131-anthropic-self-service-data-analytics.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Emerging Medications That Could Reverse Aging</title>
+      <description>Five medical breakthroughs that could fundamentally change how we age. ER100 is the first human trial to reverse biological age using epigenetic reprogramming, initially targeting glaucoma and optic nerve damage but with potential far beyond the eyes. CAR-T cell therapy, originally developed for blood cancers, is now being redirected at autoimmune diseases like lupus, myositis, and scleroderma — with patients experiencing drug-free remission lasting years. The Klotho gene, discovered in 1997, is the basis for a new gene therapy that extended lifespan in mice by nearly 20 percent. An oral pill called B6266 targets mitochondria by boosting NAD levels crucial for cellular energy and DNA repair. And once these drugs are approved for their specific conditions, doctors are expected to prescribe them off-label to slow or counteract aging itself. The science is moving faster than the regulatory system. Your biological age may become optional.
+
+Links:
+https://clinicaltrials.gov/study/NCT07290244
+https://www.nature.com/articles/s41422-025-01128-1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10783249/</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>03:38</itunes:duration>
+      <itunes:summary>Five medical breakthroughs that could fundamentally change how we age. ER100 is the first human trial to reverse biological age using epigenetic reprogramming, initially targeting glaucoma and optic nerve damage but with potential far beyond the eyes. CAR-T cell therapy, originally developed for blood cancers, is now being redirected at autoimmune diseases like lupus, myositis, and scleroderma — with patients experiencing drug-free remission lasting years. The Klotho gene, discovered in 1997, is the basis for a new gene therapy that extended lifespan in mice by nearly 20 percent. An oral pill called B6266 targets mitochondria by boosting NAD levels crucial for cellular energy and DNA repair. And once these drugs are approved for their specific conditions, doctors are expected to prescribe them off-label to slow or counteract aging itself. The science is moving faster than the regulatory system. Your biological age may become optional.
+
+Links:
+https://clinicaltrials.gov/study/NCT07290244
+https://www.nature.com/articles/s41422-025-01128-1
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10783249/</itunes:summary>
+      <itunes:episode>132</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep132-video-themaxdose.podcast.mp3" length="3237840" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep132-video-themaxdose</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep132-video-themaxdose.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Boris Cherny's Claude Code Setup Tips: Stop Wasting 14% of Your Context Window</title>
       <description>Boris Cherny, the creator and architect of Claude Code at Anthropic, explains the four configuration layers most users completely ignore. First, CLAUDE.md consumes roughly fourteen percent of your context window before you type a single word — yet most users have never opened it. Second, the memory system lets Claude store and retrieve past decisions across sessions so you never have to repeat yourself. Third, the custom instructions field that tailors Claude to your experience level, code style, and project preferences — which most users leave entirely blank. Fourth, project settings that give Claude permanent context for a specific codebase across all future sessions. Beyond configuration, Cherny shares how Claude Code has been writing its own code for over six months, how product overhang explains why AI tools keep catching users by surprise, and why the people who get the most out of Claude Code are not the most technically sophisticated but the ones who bothered to configure their environment properly.
@@ -59,6 +105,32 @@ https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html</i
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep137-financelot-this-best-explanation-ai-bubble-ive-ever.podcast.txt" type="text/plain"/>
     </item>
     <item>
+      <title>Every Agent in Production Lies — James Brady (Anthropic)</title>
+      <description>Anthropic engineer James Brady delivered a 29-minute talk on agent verification with a striking opening: every agent in production lies, and the good ones just lie less. He walks through the verification stack he built at Claude Code, the patterns the team adopted to catch hallucinations before users see them, and why self-checking loops matter more than model size. The great agents do not avoid mistakes — they catch their own lies before the user does. Connects to Claude Code hooks, automated QA gates, and the broader question of who sets the rubric when agents grade their own homework.</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>03:56</itunes:duration>
+      <itunes:summary>Anthropic engineer James Brady delivered a 29-minute talk on agent verification with a striking opening: every agent in production lies, and the good ones just lie less. He walks through the verification stack he built at Claude Code, the patterns the team adopted to catch hallucinations before users see them, and why self-checking loops matter more than model size. The great agents do not avoid mistakes — they catch their own lies before the user does. Connects to Claude Code hooks, automated QA gates, and the broader question of who sets the rubric when agents grade their own homework.</itunes:summary>
+      <itunes:episode>138</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep138-rody-anthropic-engineer-james-brady-every-agent-production.podcast.mp3" length="2433069" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep138-rody-anthropic-engineer-james-brady-every-agent-production</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep138-rody-anthropic-engineer-james-brady-every-agent-production.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Bezrukov at SPIEF: 'Accept That War Is the New Normal'</title>
+      <description>Former SVR intelligence officer Andrey Bezrukov, exposed as Russian illegal Donald Heathfield in the 2010 FBI takedown of the Illegals Program and swapped back to Russia in the largest spy exchange since the Cold War, spoke at St. Petersburg International Economic Forum 2026 (June 3-6). His key theses: Russia is in a new type of war focused on attrition and subversion, not territory. The West pursues a calibrated escalation he calls the boiling frog strategy. The next major clash will likely be in Asia. Biological threat claims echo contested Russian state narratives about Ukrainian labs. Russia must serve both development and defence for decades. His candid admission that too many red lines remain on paper is a rare moment of strategic honesty from inside the system. Context: Bezrukov earned a Harvard Kennedy School degree under his stolen identity and now participates in Kremlin advisory circles. His analysis is informed by genuine intelligence experience but is not disinterested — it justifies permanent mobilization and economic militarization. The episode fact-checks each claim against verifiable sources and presents multiple perspectives. Links: https://en.wikipedia.org/wiki/Donald_Heathfield_and_Tracey_Foley | https://en.wikipedia.org/wiki/Illegals_Program | https://forum-spb.ru/en/</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:summary>Former SVR intelligence officer Andrey Bezrukov, exposed as Russian illegal Donald Heathfield in the 2010 FBI takedown of the Illegals Program and swapped back to Russia in the largest spy exchange since the Cold War, spoke at St. Petersburg International Economic Forum 2026 (June 3-6). His key theses: Russia is in a new type of war focused on attrition and subversion, not territory. The West pursues a calibrated escalation he calls the boiling frog strategy. The next major clash will likely be in Asia. Biological threat claims echo contested Russian state narratives about Ukrainian labs. Russia must serve both development and defence for decades. His candid admission that too many red lines remain on paper is a rare moment of strategic honesty from inside the system. Context: Bezrukov earned a Harvard Kennedy School degree under his stolen identity and now participates in Kremlin advisory circles. His analysis is informed by genuine intelligence experience but is not disinterested — it justifies permanent mobilization and economic militarization. The episode fact-checks each claim against verifiable sources and presents multiple perspectives. Links: https://en.wikipedia.org/wiki/Donald_Heathfield_and_Tracey_Foley | https://en.wikipedia.org/wiki/Illegals_Program | https://forum-spb.ru/en/</itunes:summary>
+      <itunes:episode>139</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep139-stanislav-krapivnik-war-will-last-couple-decades-we.podcast.mp3" length="6441813" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep139-stanislav-krapivnik-war-will-last-couple-decades-we.podcast.mp3</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep139-stanislav-krapivnik-war-will-last-couple-decades-we.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
       <title>Why the Mechanism Matters — James Brady (Elicit) on Verifiable Agent Workflows</title>
       <description>James Brady, Head of Engineering at Elicit, asks a deceptively simple question: if two AI systems produce identical output, do you trust them equally? His answer launched a deep dive into why how an answer is produced matters as much as the answer itself. Elicit built Ashpl — a Turing-incomplete, purely functional domain-specific language that is an opinionated subset of Python — to make their research agent trustworthy. The three design principles: legibility (the process is spot-checkable by humans and other agents), fidelity during iteration (no drift when users refine results), and faithful execution (the system actually follows its stated plan). The write-interpret-redraft loop reinterprets the entire program from scratch each cycle, with content-addressed caching making it fast. Content addressing and memoization mean a thousand-line program reinterprets in seconds because previous results are hashed and reused. Credential isolation via a gateway prevents prompt injection. The key finding: when the system's process is exposed and verifiable, users hold the output as fundamentally different from a one-shot model response — even when the surface output looks identical. Connects to the broader question: if every agent lies, the answer is not better prompts — it is better scaffolding.
 
@@ -93,6 +165,29 @@ https://uk.linkedin.com/in/goodgravy</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3" length="2023269" type="audio/mpeg"/>
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Beyond the Basics with Claude Code: Systems That Prompt Themselves</title>
+      <description>Daisy Holman from the Cloud Code team at Anthropic breaks down the three layers of customization that turn an AI coding assistant from a glorified autocomplete into a genuine engineering partner. Access means connecting your agent to Slack, CI/CD, dashboards, and every information source you rely on. Knowledge means using in-context learning instead of fine-tuning, because frontier models evolve too fast for training investments to pay off. Tooling means building the agentic IDE with post-tool-use hooks that act as red squiggly underlines for agents, not hard blockers. The context window has plateaued at around one million tokens, so every customization must fit like running a package manager on an Arduino. Four key primitives underpin the architecture: MCP for external integrations, skills for internal developers, hooks for feedback loops, and agents for orchestration. The fastest way to make your agent better is a tighter feedback loop, not a smarter model.
+
+Links:
+https://code.claude.com/docs/en/overview
+https://modelcontextprotocol.io/introduction
+https://github.com/anthropics/claude-code</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>08:17</itunes:duration>
+      <itunes:summary>Daisy Holman from the Cloud Code team at Anthropic breaks down the three layers of customization that turn an AI coding assistant from a glorified autocomplete into a genuine engineering partner. Access means connecting your agent to Slack, CI/CD, dashboards, and every information source you rely on. Knowledge means using in-context learning instead of fine-tuning, because frontier models evolve too fast for training investments to pay off. Tooling means building the agentic IDE with post-tool-use hooks that act as red squiggly underlines for agents, not hard blockers. The context window has plateaued at around one million tokens, so every customization must fit like running a package manager on an Arduino. Four key primitives underpin the architecture: MCP for external integrations, skills for internal developers, hooks for feedback loops, and agents for orchestration. The fastest way to make your agent better is a tighter feedback loop, not a smarter model.
+
+Links:
+https://code.claude.com/docs/en/overview
+https://modelcontextprotocol.io/introduction
+https://github.com/anthropics/claude-code</itunes:summary>
+      <itunes:episode>133</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep133-beyond-basics-claude-code-systems-that-prompt-themselves.podcast.mp3" length="6571893" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep133-beyond-basics-claude-code-systems-that-prompt-themselves</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep133-beyond-basics-claude-code-systems-that-prompt-themselves.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>The Bitcoin Passport Index: Buying Citizenship in the 21st Century</title>

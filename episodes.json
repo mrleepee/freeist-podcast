@@ -771,5 +771,8 @@
     "date": "2026-06-10",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep140-james-brady-every-agent-production-lies.podcast.mp3",
     "lufs": -15.9
+  },
+  "ep141-agentic-harness-engineering-why-your-prompt-not-enough": {
+    "lufs": -15.9
   }
 }

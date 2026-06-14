@@ -1,0 +1,130 @@
+[
+  {
+    "claim": "Fudan and Peking Universities researchers published a paper on Agentic Harness Engineering",
+    "source_quote": "A team at Fudan and Peking Universities (Lin, Liu, Pan et al., April 2026, paper v4 on arXiv 2604.25850) introduced a method called Agentic Harness Engineering, or AHE",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper achieved 77.0% pass@1 accuracy on Terminal-Bench 2 after ten automated iterations",
+    "source_quote": "After ten automated iterations, the method lifted pass@1 accuracy on Terminal-Bench 2 from 69.7% to 77.0%",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Baseline accuracy on Terminal-Bench 2 was 69.7%",
+    "source_quote": "from 69.7% to 77.0%",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Human-designed Codex achieved 71.9% on Terminal-Bench 2",
+    "source_quote": "beating human-designed Codex at 71.9%",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Code is available on GitHub at china-qijizhifeng/agentic-harness-engineering",
+    "source_quote": "The code is open on GitHub at china-qijizhifeng/agentic-harness-engineering",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The paper's arXiv identifier is 2604.25850",
+    "source_quote": "paper v4 on arXiv 2604.25850",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Authors include Lin, Liu, Pan et al.",
+    "source_quote": "Lin, Liu, Pan et al.",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Paper was published in April 2026",
+    "source_quote": "April 2026",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Performance regressed by about 2.3 percentage points when only the system prompt was evolved",
+    "source_quote": "performance did not improve; it actually regressed by about 2.3 percentage points",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Frozen harness added between 5 and 10 percentage points on SWE-bench-verified and three alternate model families",
+    "source_quote": "adding between roughly 5 and 10 percentage points",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "AHE defines three pillars of observability: component, experience, and decision observability",
+    "source_quote": "First, component observability: ... Second, experience observability: ... Third, decision observability:",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "In well-built agents, the prompt is not where the leverage is",
+    "source_quote": "in a well-built agent, the prompt is not where the leverage is",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "opinion"
+  },
+  {
+    "claim": "The harness — tools, middleware, and memory — is where the performance actually lives",
+    "source_quote": "the harness — tools, middleware, and memory — is where the performance actually lives",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Gains came almost entirely from tools, middleware, and long-term memory, not from the prompt",
+    "source_quote": "The gains came almost entirely from the tools, the middleware, and the long-term memory",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "AHE improves scaffolding around the model rather than memorizing a test",
+    "source_quote": "it means AHE is improving the scaffolding around the model, not memorizing a test",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The benefit of the evolved harness survives a change of both task and base model",
+    "source_quote": "the benefit survives a change of both task and base model",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  }
+]

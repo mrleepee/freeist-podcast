@@ -1,0 +1,16 @@
+{
+  "thesis": "The AI industry is chasing the wrong lever — obsessing over prompt engineering while the real performance gains live in the infrastructure scaffolding that surrounds the model.",
+  "hook": "Researchers tried evolving just the system prompt to make an AI agent better — and it got 2.3 percentage points worse.",
+  "stakes": "If you're still spending hours crafting the perfect prompt, you might be optimizing the wrong variable entirely. The architecture your AI agent runs on matters more than the words you type into it.",
+  "evidence_beats": [
+    9,
+    8,
+    13,
+    12,
+    11
+  ],
+  "counterpoint": "The paper comes from elite Chinese research institutions, and the code is open — but the benchmarks are still synthetic, and real-world deployment may reveal different tradeoffs than Terminal-Bench.",
+  "implication": "For builders and buyers of AI agents, this means stop hiring 'prompt engineers' and start thinking like infrastructure engineers — the harness is the moat, not the magic words.",
+  "close": "So the next time someone tries to sell you on a revolutionary prompting technique, ask them about their middleware. Ask about their memory architecture. Because this research suggests that in a well-built agent, the words you type are just the interface — the performance lives underneath, in the scaffolding that most people never look at. And that's the real engineering challenge.",
+  "warnings": []
+}
