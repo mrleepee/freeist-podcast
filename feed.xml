@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sun, 14 Jun 2026 22:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:11:06 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Agentic Harness Engineering Why Your Prompt Not Enough</title>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 22:03:11 +0000</pubDate>
+      <itunes:duration>05:37</itunes:duration>
+      <itunes:summary/>
+      <itunes:episode>141</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep141-agentic-harness-engineering-why-your-prompt-not-enough.podcast.mp3" length="4958085" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep141-agentic-harness-engineering-why-your-prompt-not-enough</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep141-agentic-harness-engineering-why-your-prompt-not-enough.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Anthropic's Own Data Stack: 95% Self-Service Analytics with Claude</title>
       <description>Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.
