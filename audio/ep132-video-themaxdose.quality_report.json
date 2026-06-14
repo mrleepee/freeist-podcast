@@ -1,0 +1,61 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": false,
+      "reason": "TP=0.1 (max -1.0)",
+      "metrics": {
+        "integrated_lufs": -15.3,
+        "true_peak_dbfs": 0.1
+      }
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "3 uncovered: DNA, NAD, b6266",
+      "metrics": {
+        "risky_count": 3,
+        "covered_count": 0,
+        "uncovered_count": 3,
+        "uncovered_tokens": [
+          "DNA",
+          "NAD",
+          "b6266"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 17.2 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 464,
+        "filler_phrases": [],
+        "numbers": 8,
+        "numbers_per_1k": 17.2,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "What if I told you that scientists have, for the first time, reversed biological age in human beings",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "loudness: TP=0.1 (max -1.0)",
+    "pronunciation: 3 uncovered: DNA, NAD, b6266"
+  ]
+}

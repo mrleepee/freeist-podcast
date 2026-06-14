@@ -1,33 +1,30 @@
 {
-  "passed": true,
-  "publish_blocked": false,
+  "passed": false,
+  "publish_blocked": true,
   "checks": {
     "loudness": {
-      "passed": true,
-      "reason": "LUFS=-15.9 TP=-1.3",
+      "passed": false,
+      "reason": "TP=0.2 (max -1.0)",
       "metrics": {
-        "integrated_lufs": -15.9,
-        "true_peak_dbfs": -1.3
+        "integrated_lufs": -16.4,
+        "true_peak_dbfs": 0.2
       }
     },
     "pronunciation": {
       "passed": true,
-      "reason": "2 risky tokens, all covered",
+      "reason": "no risky tokens found",
       "metrics": {
-        "risky_count": 2,
-        "covered_count": 2,
-        "uncovered_count": 0,
-        "uncovered_tokens": []
+        "risky_count": 0
       }
     },
     "substance": {
       "passed": true,
-      "reason": "no filler, 18.3 numbers/1k, 0.0 sources/1k",
+      "reason": "no filler, 10.3 numbers/1k, 0.0 sources/1k",
       "metrics": {
-        "word_count": 1091,
+        "word_count": 581,
         "filler_phrases": [],
-        "numbers": 20,
-        "numbers_per_1k": 18.3,
+        "numbers": 6,
+        "numbers_per_1k": 10.3,
         "named_sources": 0,
         "sources_per_1k": 0.0
       }
@@ -37,7 +34,7 @@
       "reason": "hook present, ending clean",
       "metrics": {
         "has_hook": true,
-        "opening": "Imagine if every time you switched from your code editor to check Slack, your most capable colleague",
+        "opening": "When an AI system gives you an answer, do you ever wonder what happened inside that black box to pro",
         "ending_clean": true,
         "ending_denied_phrases": []
       }
@@ -50,5 +47,7 @@
       }
     }
   },
-  "blocking_failures": []
+  "blocking_failures": [
+    "loudness: TP=0.2 (max -1.0)"
+  ]
 }
