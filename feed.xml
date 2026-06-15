@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sun, 14 Jun 2026 22:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:17:53 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Open Knowledge Format Markdown As Lingua Franca Ai</title>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 22:43:34 +0000</pubDate>
+      <itunes:duration>05:19</itunes:duration>
+      <itunes:summary/>
+      <itunes:episode>142</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep142-open-knowledge-format-markdown-as-lingua-franca-ai.podcast.mp3" length="4716837" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep142-open-knowledge-format-markdown-as-lingua-franca-ai</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep142-open-knowledge-format-markdown-as-lingua-franca-ai.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Agentic Harness Engineering Why Your Prompt Not Enough</title>
       <description/>

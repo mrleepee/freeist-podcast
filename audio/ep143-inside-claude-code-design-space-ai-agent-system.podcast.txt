@@ -1,0 +1,23 @@
+The most overhyped asset in technology today is the artificial intelligence model. Everyone is obsessing over parameters and training data. But the model is actually the smallest and least interesting part of a real artificial intelligence agent system. The actual engineering, and the actual risk, lives entirely in the scaffolding built around that model.
+
+A technical report by Liu, Zhao, Shang, and Shen, published in April twenty twenty-six on the arXiv preprint server, reverse-engineers the full architecture of Claude Code from its public TypeScript source code. The report compares Claude Code with an independent open-source agent system called OpenClaw. The most useful contribution here is not a single technical finding. The real value is the framing. The authors map how a handful of human values get traced down through design principles into concrete implementation choices.
+
+Here is the core insight. At its heart, an agent engine is almost trivially simple. It is a basic loop. It calls the model, runs the tools the model asks for, feeds the results back, and repeats. What makes one agent feel completely different from another is not that loop. It is the machinery built around it. The report walks through five major subsystems that sit around Claude Code's loop. Every single one of them represents a deliberate design decision.
+
+First is the permission system. Claude Code does not let the model act freely. It gates actions through roughly seven permission modes. It combines this with a machine-learning classifier that predicts which actions are safe to auto-approve and which need a human. This is where the abstract concept of an artificial intelligence editing your files turns into a concrete policy about which files, under what conditions, and with whose explicit consent.
+
+Second is a five-layer compaction pipeline for context management. Because the model has a finite context window, a long session will eventually overflow it. The system progressively summarizes and compresses earlier conversation so the loop can keep running. The design choices here determine exactly how much an agent forgets and how coherently it behaves across a long task.
+
+Third are the four extensibility mechanisms. These include the Model Context Protocol, plugins, skills, and hooks. These are the seams where outside code can extend the agent without modifying the core. The existence of four distinct extension points, each with a different scope, is a design statement about how much of the product is meant to be customizable.
+
+Fourth is subagent delegation with worktree isolation. Claude Code can spawn a sub-agent to handle a sub-task. It isolates that sub-agent's file work in a separate git worktree so the changes cannot collide with the parent's work. Isolation is treated as a correctness primitive, not a mere convenience.
+
+Fifth is append-oriented session storage. Sessions are written as append-only logs rather than edited in place. This makes them cheap to resume, inspect, and replay.
+
+The sharpest part of the report is the comparison with OpenClaw. It proves that the same design questions get genuinely different answers when the deployment context shifts. Where Claude Code classifies each action for safety on the way through, OpenClaw leans on perimeter access control to restrict what the runtime can touch in the first place. Where Claude Code is a single command-line loop, OpenClaw embeds its agent runtime inside a gateway. The deployment constraints steer the architecture.
+
+The report organizes all of this around five human values. These are human decision authority, safety and security, reliable execution, capability amplification, and contextual adaptability. The authors trace these values through roughly thirteen design principles down to the actual code. The value of this framing is that it makes the governance visible. When an agent runs a shell command or edits a file on your behalf, the question of whose authority it is exercising was decided back at the design layer, long before you typed anything.
+
+The report closes with six open problems the authors think the next generation of agent systems must solve. These include better proofs of safe execution, more principled context management, and clearer lines of accountability when a delegated sub-agent acts.
+
+Anyone evaluating an agent system today is mostly evaluating scaffolding. The permission policy, the compaction strategy, the extension seams, and the storage format dictate exactly how that system will behave when it runs inside your digital life. Treat the model as a commodity. Scrutinize the governance structures wrapped around it, because that is where your sovereignty is actually negotiated.

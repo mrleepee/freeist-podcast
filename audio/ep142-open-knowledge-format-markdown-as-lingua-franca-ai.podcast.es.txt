@@ -1,0 +1,92 @@
+EN: Every large tech company wants to control what your artificial intelligence knows.
+ES: Cada gran empresa de tecnología quiere controlar lo que sabe tu inteligencia artificial.
+EN: On June 12, 2026, Google Cloud announced a new open format to change this dynamic.
+ES: El 12 de junio de 2026, Google Cloud anunció un nuevo formato abierto para cambiar esto.
+EN: They call it the Open Knowledge Format, and it relies entirely on plain text.
+ES: Lo llaman el Formato de Conocimiento Abierto, y depende totalmente de texto simple.
+EN: The thesis is simple. Artificial intelligence agents do not need a new knowledge service.
+ES: La idea principal es simple. Los agentes de inteligencia no necesitan un nuevo servicio de conocimiento.
+EN: They need a universal format that no single company can lock down.
+ES: Necesitan un formato universal que ninguna empresa pueda controlar.
+EN: Right now, every team building these agents rediscovers the exact same problem.
+ES: Ahora mismo, cada equipo que crea estos agentes descubre el mismo problema.
+EN: You have to give the AI curated facts, definitions, and instructions to make it useful.
+ES: Tienes que darle a la IA datos exactos, definiciones e instrucciones para que sea útil.
+EN: Today, that knowledge lives in proprietary databases or locked documents.
+ES: Hoy, ese conocimiento vive en bases de datos privadas o documentos cerrados.
+EN: When you switch models or change cloud providers, your knowledge does not come with you.
+ES: Cuando cambias de modelo o de proveedor, tu conocimiento no te sigue.
+EN: You lose your investment because the data is trapped in someone else's product.
+ES: Pierdes tu inversión porque los datos están atrapados en el producto de otra persona.
+EN: The Open Knowledge Format solves this by using directories of simple markdown files.
+ES: El Formato de Conocimiento Abierto resuelve esto usando directorios de archivos de markdown simples.
+EN: Markdown is the plain text formatting language that anyone can read and write.
+ES: Markdown es el lenguaje de texto simple que cualquiera puede leer y escribir.
+EN: Each file represents one single concept, like a metric, a table, or a playbook.
+ES: Cada archivo representa un solo concepto, como una métrica, una tabla o un manual.
+EN: The design is deliberately minimal. You only need to add one single required data field.
+ES: El diseño es muy simple. Solo necesitas añadir un campo de datos obligatorio.
+EN: Everything else is just standard markdown text that you control completely.
+ES: Todo lo demás es solo texto markdown normal que tú controlas por completo.
+EN: These files link to one another using standard web links.
+ES: Estos archivos se conectan entre sí usando enlaces web normales.
+EN: This creates a web of knowledge that is richer than a standard folder system.
+ES: Esto crea una red de conocimiento más rica que un sistema de carpetas normal.
+EN: The format is the contract. It separates the producer of the data from the consumer.
+ES: El formato es el contrato. Separa al creador de los datos del consumidor.
+EN: A human can write the file, or a data pipeline can generate it automatically.
+ES: Una persona puede escribir el archivo, o un sistema puede generarlo automáticamente.
+EN: The artificial intelligence can even write the files itself.
+ES: La inteligencia artificial incluso puede escribir los archivos misma.
+EN: All three methods work together perfectly because they produce the exact same file shape.
+ES: Los tres métodos funcionan juntos perfectamente porque crean la misma estructura de archivo.
+EN: The format is an open standard, not a proprietary platform.
+ES: El formato es un estándar abierto, no una plataforma privada.
+EN: There is no cloud lock-in or mandatory software development kit.
+ES: No hay encierro en la nube ni un programa de software obligatorio.
+EN: The value comes from how many people speak this shared language.
+ES: El valor viene de cuántas personas hablan este idioma compartido.
+EN: The specification explicitly cites Andrej Karpathy and his concept of the large language model wiki.
+ES: La especificación menciona a Andrej Karpathy y su concepto del wiki para modelos de lenguaje.
+EN: Human-maintained wikis always fail because updating cross-references is incredibly boring.
+ES: Los wikis mantenidos por humanos siempre fallan porque actualizar enlaces es muy aburrido.
+EN: Humans get bored. We forget to fix broken links, and we make mistakes.
+ES: Los humanos nos aburrimos. Olvidamos arreglar los enlaces rotos y cometemos errores.
+EN: But large language models do not get bored. They edit fifteen files instantly.
+ES: Pero los modelos de lenguaje no se aburren. Editan quince archivos al instante.
+EN: This new format is designed specifically for an artificial intelligence curator, not a human one.
+ES: Este nuevo formato está diseñado específicamente para un curador de inteligencia artificial, no humano.
+EN: The announcement is not just a draft. It ships with working tools.
+ES: El anuncio no es solo un borrador. Incluye herramientas que funcionan.
+EN: Google released an agent that reads large datasets and writes these concepts automatically.
+ES: Google lanzó un agente que lee grandes bases de datos y escribe estos conceptos automáticamente.
+EN: They also included sample bundles covering e-commerce, online forums, and Bitcoin.
+ES: También incluyeron ejemplos que cubren comercio electrónico, foros en línea y Bitcoin.
+EN: This matters because machine-readable knowledge wants to be plain text in a standard shape.
+ES: Esto es importante porque el conocimiento para máquinas quiere ser texto simple con una forma estándar.
+EN: Every large vendor is currently trying to own the layer of knowledge that agents read.
+ES: Cada gran empresa intenta ser dueña de la capa de conocimiento que los agentes leen.
+EN: Your business data should not be held hostage by a single cloud provider.
+ES: Los datos de tu negocio no deben ser rehenes de un solo proveedor de nube.
+EN: A format becomes valuable through widespread adoption, not through centralized ownership.
+ES: Un formato se vuelve valioso por su uso generalizado, no por su propiedad centralizada.
+EN: If this open standard succeeds, the curated knowledge about your business becomes totally portable.
+ES: Si este estándar abierto tiene éxito, el conocimiento de tu negocio es totalmente portátil.
+EN: You can move your intelligence agents across every model and every cloud.
+ES: Puedes mover tus agentes de inteligencia a través de todos los modelos y nubes.
+EN: The question of who controls the artificial intelligence's mind gets a distributed answer.
+ES: La pregunta sobre quién controla la mente de la inteligencia artificial tiene una respuesta distribuida.
+EN: But you must read the fine print before you build your entire system on it.
+ES: Pero debes leer la letra pequeña antes de construir todo tu sistema sobre esto.
+EN: It is currently a version 0.1 specification, which means it is a rough draft.
+ES: Actualmente es una especificación versión 0.1, lo que significa que es un borrador.
+EN: The exact rules for links and citations are still being settled by the developers.
+ES: Las reglas exactas para enlaces y citas todavía las deciden los desarrolladores.
+EN: The governance of who actually decides the future of this format remains unclear.
+ES: El gobierno de quién decide el futuro de este formato sigue siendo poco claro.
+EN: Despite the open license, Google Cloud still holds the primary influence over the project.
+ES: A pesar de la licencia abierta, Google Cloud todavía tiene la influencia principal sobre el proyecto.
+EN: Treat it as a pragmatic tool for your sovereignty stack, not a final destination.
+ES: Trátalo como una herramienta práctica para tu soberanía, no como un destino final.
+EN: Open standards require constant vigilance, or they become new monopolies.
+ES: Los estándares abiertos requieren vigilancia constante, o se convierten en nuevos monopolios.
