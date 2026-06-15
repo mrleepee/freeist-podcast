@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Mon, 15 Jun 2026 08:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:01:12 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Inside Claude Code Design Space Ai Agent System</title>
+      <description/>
+      <pubDate>Mon, 15 Jun 2026 10:00:43 +0000</pubDate>
+      <itunes:duration>05:22</itunes:duration>
+      <itunes:summary/>
+      <itunes:episode>143</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep143-inside-claude-code-design-space-ai-agent-system.podcast.mp3" length="4732533" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep143-inside-claude-code-design-space-ai-agent-system</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep143-inside-claude-code-design-space-ai-agent-system.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Open Knowledge Format Markdown As Lingua Franca Ai</title>
       <description/>
