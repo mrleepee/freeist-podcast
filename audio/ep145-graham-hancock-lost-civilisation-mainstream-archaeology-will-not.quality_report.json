@@ -4,10 +4,10 @@
   "checks": {
     "loudness": {
       "passed": true,
-      "reason": "LUFS=-15.9 TP=-1.2",
+      "reason": "LUFS=-15.9 TP=-1.4",
       "metrics": {
         "integrated_lufs": -15.9,
-        "true_peak_dbfs": -1.2
+        "true_peak_dbfs": -1.4
       }
     },
     "pronunciation": {
@@ -21,7 +21,7 @@
       "passed": false,
       "reason": "filler phrases found: critics argue",
       "metrics": {
-        "word_count": 832,
+        "word_count": 792,
         "filler_phrases": [
           "critics argue"
         ]
@@ -32,7 +32,7 @@
       "reason": "hook present, ending clean",
       "metrics": {
         "has_hook": true,
-        "opening": "What if everything we think we know about human civilisation is wrong? Not wrong in a small way \u2014 wr",
+        "opening": "What if everything you were taught about the dawn of human civilisation was only half the story, and",
         "ending_clean": true,
         "ending_denied_phrases": []
       }
