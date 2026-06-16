@@ -776,9 +776,15 @@
     "lufs": -15.9
   },
   "ep142-open-knowledge-format-markdown-as-lingua-franca-ai": {
+    "title": "The Open Knowledge Format: Markdown as the Lingua Franca for AI Agents",
+    "description": "Google Cloud's Open Knowledge Format (OKF) v0.1 is an open, vendor-neutral, markdown-based spec that formalises the LLM-wiki pattern into a portable format for the metadata and curated knowledge AI agents need.",
+    "guid": "freeist:ep142-open-knowledge-format-markdown-as-lingua-franca-ai",
     "lufs": -15.9
   },
   "ep143-inside-claude-code-design-space-ai-agent-system": {
+    "title": "Inside Claude Code: The Design Space of an AI Agent System",
+    "description": "A tech report reverse-engineering Claude Code's full architecture from its public TypeScript source - the design space of an AI agent system: the while-loop engine, permission system, context compaction, and extensibility mechanisms.",
+    "guid": "freeist:ep143-inside-claude-code-design-space-ai-agent-system",
     "lufs": -15.8
   },
   "ep144-graham-hancock-lost-civilisation-mainstream-archaeology-will-not": {
