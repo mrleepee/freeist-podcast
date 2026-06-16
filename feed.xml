@@ -473,7 +473,7 @@ https://www.openhands.dev/blog/openhands-index</itunes:summary>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Liberland 2026 Master Plan</title>
+      <title>Liberland's 2026 Plan: $40M, Justin Sun, and a Million Citizens</title>
       <description>Vít Jedlička delivered his 2026 New Year address with a concrete forty million dollar investment plan for the Baranja region surrounding Liberland. The speech covered three strategic pillars. First, legitimacy through citizens in power: Javier Milei governing Argentina, Peter Mitsinka as Czech Foreign Minister, and Somaliland gaining recognition after being first to recognize Liberland in 2017. Second, blockchain governance infrastructure: Justin Sun re-elected as Prime Minister, bringing Tron ecosystem resources, with 2026 priorities on blockchain bridges to centralized financial systems and DAO-based company registration. Third, financial services: Liberland Bank and Liberland Pay launching as centralized banking complements to the decentralized governance layer. The citizenship target is one million applicants. The budget is projected to double. The dual architecture — decentralized governance with centralized financial plumbing — mirrors the same pattern successful crypto exchanges use, applied to a nation-state with territorial sovereignty as its regulatory advantage. Whether Serbia and Croatia accept the economic partnership offer for Baranja is the open question.
 
 Links:
@@ -829,7 +829,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3</guid>
     </item>
     <item>
-      <title>Anthropic Engineer Showed How One Person Can Run 5 AI Agents</title>
+      <title>How to Refactor an Overloaded AI Agent Using Progressive Disclosure</title>
       <description>An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.</description>
       <pubDate>Mon, 25 May 2026 16:37:58 +0000</pubDate>
       <itunes:duration>03:02</itunes:duration>
@@ -1141,7 +1141,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3</guid>
     </item>
     <item>
-      <title>The $100 Billion Ghost City Nobody Moved To</title>
+      <title>Forest City: Malaysia's $100B Ghost Town and the Network State Experiment</title>
       <description>Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.</description>
       <pubDate>Wed, 20 May 2026 23:01:25 +0000</pubDate>
       <itunes:duration>02:59</itunes:duration>
@@ -1201,7 +1201,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep62-hermes-goal-command-essential-agent-commands.podcast.mp3</guid>
     </item>
     <item>
-      <title>Claude Code is the Best AI Tool on the Planet</title>
+      <title>Why Combining Claude Code and ChatGPT Feels Like Magic</title>
       <description>We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.</description>
       <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
       <itunes:duration>03:29</itunes:duration>
@@ -1609,7 +1609,7 @@ https://www.sec.gov/newsroom/speeches-statements/daly-020326-artificial-intellig
       <guid isPermaLink="true">https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3</guid>
     </item>
     <item>
-      <title>How to Run Paperclip and Hermes in 24 Hours</title>
+      <title>Turn Isolated Chatbots Into a Managed AI Team With Paperclip and Hermes</title>
       <description>Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.</description>
       <pubDate>Mon, 18 May 2026 16:55:44 +0000</pubDate>
       <itunes:duration>02:36</itunes:duration>

@@ -1,6 +1,6 @@
 {
   "ep01-claude-code-best-ai-tool": {
-    "title": "Claude Code is the Best AI Tool on the Planet",
+    "title": "Why Combining Claude Code and ChatGPT Feels Like Magic",
     "description": "We explore why Claude Code with ChatGPT 5.5 is being called literally magic — from throwing complex tasks at it to getting polished results. A hands-on look at what happens when you combine two of the most powerful AI tools available.",
     "date": "2026-05-18 16:55:44",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep01-claude-code-best-ai-tool.podcast.mp3"
@@ -174,7 +174,7 @@
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep38-matt-pocock-grill-me-my-most-popular-skill.podcast.mp3"
   },
   "ep39-how-run-paperclip-hermes-24-hours": {
-    "title": "How to Run Paperclip and Hermes in 24 Hours",
+    "title": "Turn Isolated Chatbots Into a Managed AI Team With Paperclip and Hermes",
     "description": "Julian Goldie explains how to connect Hermes agents to Paperclip's operating layer — turning isolated chatbots into a managed AI team with roles, tickets, reporting, and real workflow structure.",
     "date": "2026-05-18 16:55:44",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep39-how-run-paperclip-hermes-24-hours.podcast.mp3"
@@ -300,7 +300,7 @@
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep64-spotify-chief-architect-how-they-ship-4500-deployments.podcast.mp3"
   },
   "ep65-exploring-worlds-largest-100-billion-failed-ghost-city": {
-    "title": "The $100 Billion Ghost City Nobody Moved To",
+    "title": "Forest City: Malaysia's $100B Ghost Town and the Network State Experiment",
     "description": "Forest City in Malaysia was built for a million people across four man-made islands. Today, fewer than ten thousand residents live there while the developer carries $190 billion in debt. A cautionary tale of property bubbles, government crackdowns, and one experimental community trying to breathe life into empty towers using Balaji Srinivasan's Network State concept.",
     "date": "2026-05-20 23:01:25",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep65-exploring-worlds-largest-100-billion-failed-ghost-city.podcast.mp3"
@@ -460,7 +460,7 @@
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep87-when-robots-get-wallets-agentic-payments.podcast.mp3"
   },
   "ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can": {
-    "title": "Anthropic Engineer Showed How One Person Can Run 5 AI Agents",
+    "title": "How to Refactor an Overloaded AI Agent Using Progressive Disclosure",
     "description": "An Anthropic engineer demonstrates how a single developer decomposed an overloaded AI agent called Stock Pilot — a 400-line system prompt with 12 tools that had degraded from 83 percent performance — into a streamlined architecture using hill climbing, progressive disclosure, and human-like primitives. The workshop shows a replicable process for simplifying complex agents by cutting tools, composable prompts, and evaluation-driven iteration.",
     "date": "2026-05-25 16:37:58",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep88-darkzodchi-anthropic-engineer-showed-how-one-person-can.podcast.mp3"
@@ -610,7 +610,7 @@
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep117-openhands-open-source-ai-software-engineer.podcast.mp3"
   },
   "ep118-liberland-2026-master-plan": {
-    "title": "Liberland 2026 Master Plan",
+    "title": "Liberland's 2026 Plan: $40M, Justin Sun, and a Million Citizens",
     "date": "2026-06-03",
     "description": "Vít Jedlička delivered his 2026 New Year address with a concrete forty million dollar investment plan for the Baranja region surrounding Liberland. The speech covered three strategic pillars. First, legitimacy through citizens in power: Javier Milei governing Argentina, Peter Mitsinka as Czech Foreign Minister, and Somaliland gaining recognition after being first to recognize Liberland in 2017. Second, blockchain governance infrastructure: Justin Sun re-elected as Prime Minister, bringing Tron ecosystem resources, with 2026 priorities on blockchain bridges to centralized financial systems and DAO-based company registration. Third, financial services: Liberland Bank and Liberland Pay launching as centralized banking complements to the decentralized governance layer. The citizenship target is one million applicants. The budget is projected to double. The dual architecture — decentralized governance with centralized financial plumbing — mirrors the same pattern successful crypto exchanges use, applied to a nation-state with territorial sovereignty as its regulatory advantage. Whether Serbia and Croatia accept the economic partnership offer for Baranja is the open question.\n\nLinks:\nhttps://en.wikipedia.org/wiki/Liberland\nhttps://liberland.org/en/\nhttps://tron.network/",
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep118-liberland-2026-master-plan.podcast.mp3"
