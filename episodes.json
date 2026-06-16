@@ -678,12 +678,14 @@
   "ep133-beyond-basics-claude-code-systems-that-prompt-themselves": {
     "title": "Beyond the Basics with Claude Code: Systems That Prompt Themselves",
     "description": "Daisy Holman from the Cloud Code team at Anthropic breaks down the three layers of customization that turn an AI coding assistant from a glorified autocomplete into a genuine engineering partner. Access means connecting your agent to Slack, CI/CD, dashboards, and every information source you rely on. Knowledge means using in-context learning instead of fine-tuning, because frontier models evolve too fast for training investments to pay off. Tooling means building the agentic IDE with post-tool-use hooks that act as red squiggly underlines for agents, not hard blockers. The context window has plateaued at around one million tokens, so every customization must fit like running a package manager on an Arduino. Four key primitives underpin the architecture: MCP for external integrations, skills for internal developers, hooks for feedback loops, and agents for orchestration. The fastest way to make your agent better is a tighter feedback loop, not a smarter model.\n\nLinks:\nhttps://code.claude.com/docs/en/overview\nhttps://modelcontextprotocol.io/introduction\nhttps://github.com/anthropics/claude-code",
-    "date": "2026-06-09"
+    "date": "2026-06-09",
+    "guid": "freeist:ep133-beyond-basics-claude-code-systems-that-prompt-themselves"
   },
   "ep131-anthropic-self-service-data-analytics": {
     "title": "Anthropic's Own Data Stack: 95% Self-Service Analytics with Claude",
     "description": "Anthropic's Data Science team published a detailed account of how they automated 95% of routine business analytics queries using Claude, maintaining roughly 95% accuracy across the board. The core finding is deceptively simple: analytics accuracy is a context and verification problem, not a code generation issue. Three failure modes account for most errors: concept-entity ambiguity where the agent cannot pick the right field from millions of candidates, data staleness as schemas and definitions change constantly, and retrieval failure where the answer exists but the agent cannot find it. Their agentic stack has four layers. Data foundations collapse ambiguity by curating a small set of canonical single-source-of-truth datasets. A semantic layer provides compiled metric definitions that agents are structurally required to check first. Skills, which are folders of markdown the agent reads on demand, take accuracy from 21% to 95%+. Adversarial review sub-agents that challenge assumptions add another 6% accuracy at the cost of higher latency. The most striking experiment: Anthropic gave the agent direct access to thousands of correct prior SQL queries. The answers were in there 80% of the time, the agent read them, and accuracy did not improve. The information was there, the agent saw it, and it still did not use it. Their bottleneck was not access to information but structure, the mapping from a question to the right entity. Without active skill maintenance, accuracy drifted from 95% to 65% within a single month. The broader lesson: the bottleneck in analytics AI is not intelligence, it is documentation and governance.\n\nLinks:\nhttps://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude\nhttps://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl\nhttps://www.getdbt.com/product/semantic-layer",
-    "date": "2026-06-10"
+    "date": "2026-06-10",
+    "guid": "freeist:ep131-anthropic-self-service-data-analytics"
   },
   "ep136-boris-cherny-claude-code-setup-tips": {
     "title": "Boris Cherny's Claude Code Setup Tips: Stop Wasting 14% of Your Context Window",
@@ -694,7 +696,8 @@
   "ep132-video-themaxdose": {
     "title": "Emerging Medications That Could Reverse Aging",
     "description": "Five medical breakthroughs that could fundamentally change how we age. ER100 is the first human trial to reverse biological age using epigenetic reprogramming, initially targeting glaucoma and optic nerve damage but with potential far beyond the eyes. CAR-T cell therapy, originally developed for blood cancers, is now being redirected at autoimmune diseases like lupus, myositis, and scleroderma — with patients experiencing drug-free remission lasting years. The Klotho gene, discovered in 1997, is the basis for a new gene therapy that extended lifespan in mice by nearly 20 percent. An oral pill called B6266 targets mitochondria by boosting NAD levels crucial for cellular energy and DNA repair. And once these drugs are approved for their specific conditions, doctors are expected to prescribe them off-label to slow or counteract aging itself. The science is moving faster than the regulatory system. Your biological age may become optional.\n\nLinks:\nhttps://clinicaltrials.gov/study/NCT07290244\nhttps://www.nature.com/articles/s41422-025-01128-1\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10783249/",
-    "date": "2026-06-10"
+    "date": "2026-06-10",
+    "guid": "freeist:ep132-video-themaxdose"
   },
   "ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed": {
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3"
@@ -757,7 +760,8 @@
   "ep138-rody-anthropic-engineer-james-brady-every-agent-production": {
     "title": "Every Agent in Production Lies — James Brady (Anthropic)",
     "description": "Anthropic engineer James Brady delivered a 29-minute talk on agent verification with a striking opening: every agent in production lies, and the good ones just lie less. He walks through the verification stack he built at Claude Code, the patterns the team adopted to catch hallucinations before users see them, and why self-checking loops matter more than model size. The great agents do not avoid mistakes — they catch their own lies before the user does. Connects to Claude Code hooks, automated QA gates, and the broader question of who sets the rubric when agents grade their own homework.",
-    "date": "2026-06-10"
+    "date": "2026-06-10",
+    "guid": "freeist:ep138-rody-anthropic-engineer-james-brady-every-agent-production"
   },
   "ep139-stanislav-krapivnik-war-will-last-couple-decades-we": {
     "title": "Bezrukov at SPIEF: 'Accept That War Is the New Normal'",
@@ -773,7 +777,8 @@
     "lufs": -15.9
   },
   "ep141-agentic-harness-engineering-why-your-prompt-not-enough": {
-    "lufs": -15.9
+    "lufs": -15.9,
+    "guid": "freeist:ep141-agentic-harness-engineering-why-your-prompt-not-enough"
   },
   "ep142-open-knowledge-format-markdown-as-lingua-franca-ai": {
     "title": "The Open Knowledge Format: Markdown as the Lingua Franca for AI Agents",
@@ -787,13 +792,9 @@
     "guid": "freeist:ep143-inside-claude-code-design-space-ai-agent-system",
     "lufs": -15.8
   },
-  "ep144-graham-hancock-lost-civilisation-mainstream-archaeology-will-not": {
-    "lufs": -15.9
-  },
-  "ep145-graham-hancock-lost-civilisation-mainstream-archaeology-will-not": {
-    "lufs": -15.9
-  },
   "ep147-graham-hancock-lost-civilisation-mainstream-archaeology-will-not": {
-    "lufs": -15.9
+    "lufs": -15.9,
+    "title": "Graham Hancock: The Lost Civilisation Mainstream Archaeology Won't Accept",
+    "description": "Graham Hancock argues a lost prehistoric civilisation was wiped out around 12,800 years ago by a Younger Dryas comet impact - a thesis mainstream archaeology contests."
   }
 }
