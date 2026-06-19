@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 11:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:59:53 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Financial Physics Attention Motherfuckers Dig That Wax Out</title>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 11:59:38 +0000</pubDate>
+      <itunes:duration>03:16</itunes:duration>
+      <itunes:summary/>
+      <itunes:episode>150</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep150-financial-physics-attention-motherfuckers-dig-that-wax-out.podcast.mp3" length="2831757" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep150-financial-physics-attention-motherfuckers-dig-that-wax-out</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep150-financial-physics-attention-motherfuckers-dig-that-wax-out.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Southampton Times Telegram Founder Pavel Durov Compares Lack</title>
       <description/>
