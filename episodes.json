@@ -839,5 +839,11 @@
     "title": "Inside the Claude Fable 5 System Prompt (the CL4R1T4S Leak)",
     "description": "A leaked system prompt for Anthropic's Claude Fable 5 — published by AI red-teamer Pliny (@elder-plinius) in the CL4R1T4S repo — offers a rare look at the actual rules that steer a frontier model. The prompt reveals a Mythos-class tier sitting above Opus, a striking dual-use capability split (Fable 5 ships with safety measures; Mythos 5 drops them for 'approved organizations'), hard copyright limits (15-word quote cap, one quote per source, no lyrics or poems), and a sprawling tooling apparatus: web search with citations, a skills system, computer-use, MCP connectors, persistent artifacts, and 'Claudeception' — the model calling its own API inside artifacts. We treat the leak as leak-sourced, not confirmed, and ask the sovereignty question: when capability is rationed by who you are rather than what you ask, who actually governs the frontier model?",
     "guid": "freeist:ep154-inside-claude-fable-5-system-prompt-cl4r1t4s-leak"
+  },
+  "ep155-bayraktar-giant-monopolies-are-trying-control-ai": {
+    "lufs": -16.1,
+    "title": "Bayraktar: Giant Monopolies Are Trying to Control AI",
+    "description": "Selçuk Bayraktar — founder, CTO and board chair of Baykar; lead designer of the Bayraktar TB2 drone; son-in-law of Turkey's president Erdoğan — warns that a handful of giant US tech monopolies are building AI infrastructure he compares to the pyramids: hyperscale data centres packed with hundreds of thousands of GPUs, drawing gigawatts of power, designed to hoard data and centralise control of artificial intelligence. We cover his argument that the immense energy cost threatens to consume the grid, that emerging nations like Turkey cannot compete by playing by the incumbents' rules, and his call for a paradigm shift rather than a bigger pyramid. The SprinterPress framing is a paraphrase, so we attribute his claims and fact-check against the IEA's AI electricity projections. Señora Freedom angle: when the man who industrialised drone warfare warns AI is being captured by monopolies, the question is who arms that monopoly — and whether sovereign technology beats sovereign debt.",
+    "guid": "freeist:ep155-bayraktar-giant-monopolies-are-trying-control-ai"
   }
 }

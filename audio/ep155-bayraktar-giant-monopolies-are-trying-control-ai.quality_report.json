@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.1 TP=-1.3",
+      "metrics": {
+        "integrated_lufs": -16.1,
+        "true_peak_dbfs": -1.3
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 34.3 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 408,
+        "filler_phrases": [],
+        "numbers": 14,
+        "numbers_per_1k": 34.3,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Consider the man who industrialised modern drone warfare. Sel\u00e7uk Bayraktar is the founder, chief tec",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}
