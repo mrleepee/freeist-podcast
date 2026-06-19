@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 16:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:03:11 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Microsoft SkillOpt: The End-to-End Lifecycle of LLM Skills</title>
+      <description>Microsoft Research's SkillOpt (arxiv 2605.23904) treats the natural-language skill document — the modular capability bundle agents like Claude Code invoke — as TRAINABLE EXTERNAL STATE of a frozen language agent, applying deep-learning optimizer discipline to text-space instead of weight-space. We cover the concrete mechanism: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document; an edit is accepted only when it strictly improves a held-out validation score; stability comes from a textual learning-rate budget, a rejected-edit buffer, and epoch-wise slow/meta updates — with zero inference-time model calls added at deployment. Results: best or tied on 52 of 52 (model, benchmark, harness) cells across 6 benchmarks, 7 models and 3 harnesses (direct chat, Codex, Claude Code); lifts GPT-5.5 no-skill accuracy by +23.5 points in direct chat, +24.8 inside Codex, +19.1 inside Claude Code; beats human, one-shot LLM, Trace2Skill, TextGrad, GEPA and EvoSkill skills; optimised skills transfer across model scales. Connects to the leaked Fable 5 system prompt (ep154 — skills as a steering surface) and the show's 'the scaffolding around the model is where the leverage is' thread. Señora Freedom angle: skills shape a frontier model's behaviour without retraining — whoever owns the skill-optimisation lifecycle decides what the agent is actually good at.</description>
+      <pubDate>Fri, 19 Jun 2026 17:00:59 +0000</pubDate>
+      <itunes:duration>04:24</itunes:duration>
+      <itunes:summary>Microsoft Research's SkillOpt (arxiv 2605.23904) treats the natural-language skill document — the modular capability bundle agents like Claude Code invoke — as TRAINABLE EXTERNAL STATE of a frozen language agent, applying deep-learning optimizer discipline to text-space instead of weight-space. We cover the concrete mechanism: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document; an edit is accepted only when it strictly improves a held-out validation score; stability comes from a textual learning-rate budget, a rejected-edit buffer, and epoch-wise slow/meta updates — with zero inference-time model calls added at deployment. Results: best or tied on 52 of 52 (model, benchmark, harness) cells across 6 benchmarks, 7 models and 3 harnesses (direct chat, Codex, Claude Code); lifts GPT-5.5 no-skill accuracy by +23.5 points in direct chat, +24.8 inside Codex, +19.1 inside Claude Code; beats human, one-shot LLM, Trace2Skill, TextGrad, GEPA and EvoSkill skills; optimised skills transfer across model scales. Connects to the leaked Fable 5 system prompt (ep154 — skills as a steering surface) and the show's 'the scaffolding around the model is where the leverage is' thread. Señora Freedom angle: skills shape a frontier model's behaviour without retraining — whoever owns the skill-optimisation lifecycle decides what the agent is actually good at.</itunes:summary>
+      <itunes:episode>156</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep156-microsoft-skillopt-end-end-lifecycle-llm-skills.podcast.mp3" length="3740205" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep156-microsoft-skillopt-end-end-lifecycle-llm-skills</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep156-microsoft-skillopt-end-end-lifecycle-llm-skills.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Bayraktar: Giant Monopolies Are Trying to Control AI</title>
       <description>Selçuk Bayraktar — founder, CTO and board chair of Baykar; lead designer of the Bayraktar TB2 drone; son-in-law of Turkey's president Erdoğan — warns that a handful of giant US tech monopolies are building AI infrastructure he compares to the pyramids: hyperscale data centres packed with hundreds of thousands of GPUs, drawing gigawatts of power, designed to hoard data and centralise control of artificial intelligence. We cover his argument that the immense energy cost threatens to consume the grid, that emerging nations like Turkey cannot compete by playing by the incumbents' rules, and his call for a paradigm shift rather than a bigger pyramid. The SprinterPress framing is a paraphrase, so we attribute his claims and fact-check against the IEA's AI electricity projections. Señora Freedom angle: when the man who industrialised drone warfare warns AI is being captured by monopolies, the question is who arms that monopoly — and whether sovereign technology beats sovereign debt.</description>
