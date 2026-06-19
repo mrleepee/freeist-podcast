@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 17:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:20:18 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Europe's Accidental Collapse and the CBDC Digital ID Fix</title>
+      <description>Julian Figueroa (via kinetic_finance) argues Europe's decline is not accidental. Drawing on interviews with 50 people across the continent, his thesis is that the actors framing the collapse — demographic decline, economic stagnation, record debt — are the same ones supplying the digital money and identity 'fix': a problem-reaction-solution dynamic. We present this as HIS argument, not established fact, and ground the CBDC and digital-identity discussion in the real 2026 policy landscape: the ECB digital-euro project (preparation phase since November 2023), the EU digital-identity wallet mandated under eIDAS 2.0 (member states must offer wallets by 2026), and the demographic reality (birth rates well below the 2.1 replacement level). We clearly separate the documented policy moves from the coordinated-crisis interpretation, and treat the source's Bitcoin 'opt-out' recommendation as Figueroa's stated position, not financial advice. Señora Freedom angle: a CBDC bolted to a digital ID is programmable money plus an identity gate — the architecture of financial surveillance where participating in the economy becomes conditional; whoever controls both the emergency and the rails of money and identity doesn't need to ban exit, they just make it unspendable.</description>
+      <pubDate>Fri, 19 Jun 2026 17:18:49 +0000</pubDate>
+      <itunes:duration>03:31</itunes:duration>
+      <itunes:summary>Julian Figueroa (via kinetic_finance) argues Europe's decline is not accidental. Drawing on interviews with 50 people across the continent, his thesis is that the actors framing the collapse — demographic decline, economic stagnation, record debt — are the same ones supplying the digital money and identity 'fix': a problem-reaction-solution dynamic. We present this as HIS argument, not established fact, and ground the CBDC and digital-identity discussion in the real 2026 policy landscape: the ECB digital-euro project (preparation phase since November 2023), the EU digital-identity wallet mandated under eIDAS 2.0 (member states must offer wallets by 2026), and the demographic reality (birth rates well below the 2.1 replacement level). We clearly separate the documented policy moves from the coordinated-crisis interpretation, and treat the source's Bitcoin 'opt-out' recommendation as Figueroa's stated position, not financial advice. Señora Freedom angle: a CBDC bolted to a digital ID is programmable money plus an identity gate — the architecture of financial surveillance where participating in the economy becomes conditional; whoever controls both the emergency and the rails of money and identity doesn't need to ban exit, they just make it unspendable.</itunes:summary>
+      <itunes:episode>157</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep157-europes-accidental-collapse-cbdc-digital-id-fix.podcast.mp3" length="3037797" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep157-europes-accidental-collapse-cbdc-digital-id-fix</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep157-europes-accidental-collapse-cbdc-digital-id-fix.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Microsoft SkillOpt: The End-to-End Lifecycle of LLM Skills</title>
       <description>Microsoft Research's SkillOpt (arxiv 2605.23904) treats the natural-language skill document — the modular capability bundle agents like Claude Code invoke — as TRAINABLE EXTERNAL STATE of a frozen language agent, applying deep-learning optimizer discipline to text-space instead of weight-space. We cover the concrete mechanism: a separate optimizer model turns scored rollouts into bounded add/delete/replace edits on a single skill document; an edit is accepted only when it strictly improves a held-out validation score; stability comes from a textual learning-rate budget, a rejected-edit buffer, and epoch-wise slow/meta updates — with zero inference-time model calls added at deployment. Results: best or tied on 52 of 52 (model, benchmark, harness) cells across 6 benchmarks, 7 models and 3 harnesses (direct chat, Codex, Claude Code); lifts GPT-5.5 no-skill accuracy by +23.5 points in direct chat, +24.8 inside Codex, +19.1 inside Claude Code; beats human, one-shot LLM, Trace2Skill, TextGrad, GEPA and EvoSkill skills; optimised skills transfer across model scales. Connects to the leaked Fable 5 system prompt (ep154 — skills as a steering surface) and the show's 'the scaffolding around the model is where the leverage is' thread. Señora Freedom angle: skills shape a frontier model's behaviour without retraining — whoever owns the skill-optimisation lifecycle decides what the agent is actually good at.</description>
