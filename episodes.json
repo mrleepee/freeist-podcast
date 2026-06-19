@@ -809,6 +809,13 @@
     "guid": "freeist:ep149-southampton-times-telegram-founder-pavel-durov-compares-lack"
   },
   "ep150-financial-physics-attention-motherfuckers-dig-that-wax-out": {
-    "lufs": -15.9
+    "lufs": -15.9,
+    "guid": "freeist:ep150-financial-physics-attention-motherfuckers-dig-that-wax-out"
+  },
+  "ep151-demis-hassabis-deepmind-alphafold-digital-biology": {
+    "lufs": -16.0,
+    "title": "Demis Hassabis on DeepMind AlphaFold and Digital Biology",
+    "description": "Here is a concise summary of the video transcript, highlighting the key points discussed by the speaker: **Overall Summary:** In this lecture, Demis Hassabis reflects on his journey from a childhood chess player to the co-founder of DeepMind.",
+    "guid": "freeist:ep151-demis-hassabis-deepmind-alphafold-digital-biology"
   }
 }
