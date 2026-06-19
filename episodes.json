@@ -833,5 +833,11 @@
     "title": "Matt Pocock: Its Not the Model Its the Harness",
     "description": "Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.",
     "guid": "freeist:ep153-matt-pocock-its-not-model-its-harness"
+  },
+  "ep154-inside-claude-fable-5-system-prompt-cl4r1t4s-leak": {
+    "lufs": -16.0,
+    "title": "Inside the Claude Fable 5 System Prompt (the CL4R1T4S Leak)",
+    "description": "A leaked system prompt for Anthropic's Claude Fable 5 — published by AI red-teamer Pliny (@elder-plinius) in the CL4R1T4S repo — offers a rare look at the actual rules that steer a frontier model. The prompt reveals a Mythos-class tier sitting above Opus, a striking dual-use capability split (Fable 5 ships with safety measures; Mythos 5 drops them for 'approved organizations'), hard copyright limits (15-word quote cap, one quote per source, no lyrics or poems), and a sprawling tooling apparatus: web search with citations, a skills system, computer-use, MCP connectors, persistent artifacts, and 'Claudeception' — the model calling its own API inside artifacts. We treat the leak as leak-sourced, not confirmed, and ask the sovereignty question: when capability is rationed by who you are rather than what you ask, who actually governs the frontier model?",
+    "guid": "freeist:ep154-inside-claude-fable-5-system-prompt-cl4r1t4s-leak"
   }
 }
