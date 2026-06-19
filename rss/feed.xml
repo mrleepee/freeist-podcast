@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 12:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:03:53 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Matt Pocock: Its Not the Model Its the Harness</title>
+      <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.</description>
+      <pubDate>Fri, 19 Jun 2026 13:03:22 +0000</pubDate>
+      <itunes:duration>07:54</itunes:duration>
+      <itunes:summary>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.</itunes:summary>
+      <itunes:episode>153</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep153-matt-pocock-its-not-model-its-harness.podcast.mp3" length="6415317" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep153-matt-pocock-its-not-model-its-harness</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep153-matt-pocock-its-not-model-its-harness.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Why UBI Is a Trap: You'll Rent Everything and Own Nothing</title>
       <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</description>
