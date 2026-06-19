@@ -1,0 +1,53 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.9 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -15.9,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": false,
+      "reason": "only 5.6 numbers/1k words (need \u22656)",
+      "metrics": {
+        "word_count": 358,
+        "filler_phrases": [],
+        "numbers": 2,
+        "numbers_per_1k": 5.6,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "The Titanic had lifeboats for roughly half its passengers. Everyone assumed the ship was unsinkable,",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "substance: only 5.6 numbers/1k words (need \u22656)"
+  ]
+}

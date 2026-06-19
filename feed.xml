@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Tue, 16 Jun 2026 22:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:49:27 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,32 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Southampton Times Telegram Founder Pavel Durov Compares Lack</title>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 11:49:12 +0000</pubDate>
+      <itunes:duration>03:07</itunes:duration>
+      <itunes:summary/>
+      <itunes:episode>149</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.mp3" length="2752197" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep149-southampton-times-telegram-founder-pavel-durov-compares-lack</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Panama Real Estate: Is Panama City Entering a New Bull Market? (Fact Report)</title>
+      <description>A fact-report on Panama City real estate: a market that crashed in the early 2000s, stagnated for fifteen years, and now — on the read of two participants with a commercial interest — shows signs of a new bull run. We dig into the concrete figures being cited (price per square metre, rental yields, a worked example on a $200k apartment) and the residency-by-real-estate route, then fact-check the marketing: Panama is a territorial-tax jurisdiction that has signed the OECD Common Reporting Standard, not a sealed tax haven; visa thresholds have changed repeatedly and the video's figures may be outdated; and the source is saturated with affiliate links and paid referrals. Educational, not advice.</description>
+      <pubDate>Thu, 18 Jun 2026 17:39:55 +0000</pubDate>
+      <itunes:duration>04:36</itunes:duration>
+      <itunes:summary>A fact-report on Panama City real estate: a market that crashed in the early 2000s, stagnated for fifteen years, and now — on the read of two participants with a commercial interest — shows signs of a new bull run. We dig into the concrete figures being cited (price per square metre, rental yields, a worked example on a $200k apartment) and the residency-by-real-estate route, then fact-check the marketing: Panama is a territorial-tax jurisdiction that has signed the OECD Common Reporting Standard, not a sealed tax haven; visa thresholds have changed repeatedly and the video's figures may be outdated; and the source is saturated with affiliate links and paid referrals. Educational, not advice.</itunes:summary>
+      <itunes:episode>148</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep148-panama-real-estate-panama-city-entering-new-bull.podcast.mp3" length="3940557" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep148-panama-real-estate-panama-city-entering-new-bull</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep148-panama-real-estate-panama-city-entering-new-bull.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Graham Hancock: The Lost Civilisation Mainstream Archaeology Won't Accept</title>
       <description>Graham Hancock argues a lost prehistoric civilisation was wiped out around 12,800 years ago by a Younger Dryas comet impact - a thesis mainstream archaeology contests.</description>
