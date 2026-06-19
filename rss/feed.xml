@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 12:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:46:54 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Why UBI Is a Trap: You'll Rent Everything and Own Nothing</title>
+      <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</description>
+      <pubDate>Fri, 19 Jun 2026 12:46:37 +0000</pubDate>
+      <itunes:duration>03:44</itunes:duration>
+      <itunes:summary>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</itunes:summary>
+      <itunes:episode>152</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep152-why-ubi-trap-youll-rent-everything-own-nothing.podcast.mp3" length="3212661" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep152-why-ubi-trap-youll-rent-everything-own-nothing</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep152-why-ubi-trap-youll-rent-everything-own-nothing.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Demis Hassabis on DeepMind AlphaFold and Digital Biology</title>
       <description>Here is a concise summary of the video transcript, highlighting the key points discussed by the speaker: **Overall Summary:** In this lecture, Demis Hassabis reflects on his journey from a childhood chess player to the co-founder of DeepMind.</description>
