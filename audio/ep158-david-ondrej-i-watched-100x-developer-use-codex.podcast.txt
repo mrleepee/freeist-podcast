@@ -1,0 +1,11 @@
+The website is dying. Not the internet, not the network. The destination website. The place you travel to, log into, click around. That entire model is on borrowed time because your personal AI agent is about to replace it.
+
+Software companies are clinging to the idea that you will always visit their standalone domains to get things done. But people are getting attached to their own customized AI workflows. Forcing a user to stop what they are doing and visit a separate application is a friction tax. The future is agent-first, browser-second. You provide the initial creative spark and the taste. The proactive AI agent handles the execution.
+
+This shift is already obliterating traditional tech roles. Engineers, product managers, and designers used to live in separate, specialized tools. AI blends these disciplines completely. One person can now handle the coding, the project management, and the design without switching between different software environments.
+
+The tools winning this race are the ones stripping away the bloat. Codex currently outpaces Claude Code because it runs a tighter agentic loop and burns fewer tokens to complete a task. When you are building your own agent harnesses, ruthlessly evaluate your tools for token bloat. A leaner agentic loop that consumes fewer tokens does not just save you money. It reduces latency and keeps the agent from losing its train of thought on complex tasks.
+
+The next logical step for this technology is real-time environmental awareness. The prediction here is that OpenAI will release a software development kit for Codex. This kit will let developers build applications that communicate directly with the agent. The AI will know exactly what you are clicking on and what you are doing in real time. It stops being a chat window and becomes an omnipresent system layer.
+
+So if you are building a company right now, your standalone application is a liability. Your community and your brand are your only real assets. Community backing will drive platform adoption. When users stop visiting websites, the only thing left of your business will be the trust you have built and the loyalty of the people who rely on your underlying models. Build for the agent, or build your exit strategy.

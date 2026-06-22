@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 19 Jun 2026 17:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:25:55 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,19 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>100x Developer Uses Codex: The Workflow That Breaks Your Brain</title>
+      <description>David Ondrej shares a clip of a developer named Pietro working with OpenAI Codex at extreme productivity — the kind of velocity Ondrej calls brain-breaking. We unpack what the clip actually shows about the agent-first shift: the destination website is dying because users get attached to their own customised AI workflows, and forcing them to detour through a standalone app is now a friction tax. The agent blends disciplines that used to live in separate tools — coding, product management, design — into one loop run by one person. On the tooling race, we note why Codex currently outpaces Claude Code in this workflow: a tighter agentic loop that burns fewer tokens, which means lower latency and less context drift, not just lower cost. We treat Ondrej's prediction of an OpenAI Codex SDK giving the agent real-time environmental awareness as speculation, and frame the standalone-app-as-liability argument as the clip's thesis rather than settled fact. Señora Freedom angle: when one person with the right harness outpaces an entire team, the gap between those who know how to drive the agent and those who don't becomes the new fault line — and whoever designs the harness decides what ships.</description>
+      <pubDate>Mon, 22 Jun 2026 10:21:11 +0000</pubDate>
+      <itunes:duration>02:54</itunes:duration>
+      <itunes:summary>David Ondrej shares a clip of a developer named Pietro working with OpenAI Codex at extreme productivity — the kind of velocity Ondrej calls brain-breaking. We unpack what the clip actually shows about the agent-first shift: the destination website is dying because users get attached to their own customised AI workflows, and forcing them to detour through a standalone app is now a friction tax. The agent blends disciplines that used to live in separate tools — coding, product management, design — into one loop run by one person. On the tooling race, we note why Codex currently outpaces Claude Code in this workflow: a tighter agentic loop that burns fewer tokens, which means lower latency and less context drift, not just lower cost. We treat Ondrej's prediction of an OpenAI Codex SDK giving the agent real-time environmental awareness as speculation, and frame the standalone-app-as-liability argument as the clip's thesis rather than settled fact. Señora Freedom angle: when one person with the right harness outpaces an entire team, the gap between those who know how to drive the agent and those who don't becomes the new fault line — and whoever designs the harness decides what ships.</itunes:summary>
+      <itunes:episode>158</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep158-david-ondrej-i-watched-100x-developer-use-codex.podcast.mp3" length="2571333" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep158-david-ondrej-i-watched-100x-developer-use-codex</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep158-david-ondrej-i-watched-100x-developer-use-codex.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Europe's Accidental Collapse and the CBDC Digital ID Fix</title>
       <description>Julian Figueroa (via kinetic_finance) argues Europe's decline is not accidental. Drawing on interviews with 50 people across the continent, his thesis is that the actors framing the collapse — demographic decline, economic stagnation, record debt — are the same ones supplying the digital money and identity 'fix': a problem-reaction-solution dynamic. We present this as HIS argument, not established fact, and ground the CBDC and digital-identity discussion in the real 2026 policy landscape: the ECB digital-euro project (preparation phase since November 2023), the EU digital-identity wallet mandated under eIDAS 2.0 (member states must offer wallets by 2026), and the demographic reality (birth rates well below the 2.1 replacement level). We clearly separate the documented policy moves from the coordinated-crisis interpretation, and treat the source's Bitcoin 'opt-out' recommendation as Figueroa's stated position, not financial advice. Señora Freedom angle: a CBDC bolted to a digital ID is programmable money plus an identity gate — the architecture of financial surveillance where participating in the economy becomes conditional; whoever controls both the emergency and the rails of money and identity doesn't need to ban exit, they just make it unspendable.</description>
