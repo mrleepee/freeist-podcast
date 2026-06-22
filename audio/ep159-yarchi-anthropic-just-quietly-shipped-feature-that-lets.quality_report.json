@@ -1,0 +1,58 @@
+{
+  "passed": false,
+  "publish_blocked": true,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-15.9 TP=-1.3",
+      "metrics": {
+        "integrated_lufs": -15.9,
+        "true_peak_dbfs": -1.3
+      }
+    },
+    "pronunciation": {
+      "passed": false,
+      "reason": "1 uncovered: QA",
+      "metrics": {
+        "risky_count": 2,
+        "covered_count": 1,
+        "uncovered_count": 1,
+        "uncovered_tokens": [
+          "QA"
+        ]
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 15.7 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 446,
+        "filler_phrases": [],
+        "numbers": 7,
+        "numbers_per_1k": 15.7,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Most software projects fail because the coordination is bad, not the code. A developer writes someth",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": [
+    "pronunciation: 1 uncovered: QA"
+  ]
+}
