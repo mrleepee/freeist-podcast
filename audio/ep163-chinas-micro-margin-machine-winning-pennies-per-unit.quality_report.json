@@ -4,10 +4,10 @@
   "checks": {
     "loudness": {
       "passed": true,
-      "reason": "LUFS=-16.0 TP=-1.4",
+      "reason": "LUFS=-16.0 TP=-1.1",
       "metrics": {
         "integrated_lufs": -16.0,
-        "true_peak_dbfs": -1.4
+        "true_peak_dbfs": -1.1
       }
     },
     "pronunciation": {
@@ -19,12 +19,12 @@
     },
     "substance": {
       "passed": true,
-      "reason": "no filler, 25.2 numbers/1k, 0.0 sources/1k",
+      "reason": "no filler, 26.6 numbers/1k, 0.0 sources/1k",
       "metrics": {
-        "word_count": 556,
+        "word_count": 602,
         "filler_phrases": [],
-        "numbers": 14,
-        "numbers_per_1k": 25.2,
+        "numbers": 16,
+        "numbers_per_1k": 26.6,
         "named_sources": 0,
         "sources_per_1k": 0.0
       }
@@ -34,7 +34,7 @@
       "reason": "hook present, ending clean",
       "metrics": {
         "has_hook": true,
-        "opening": "A sourcing consultant who posts under the handle Eric Cracks China recently published a video he cal",
+        "opening": "A short video made the rounds recently about what it called the fifteen-cent miracle. The most ruthl",
         "ending_clean": true,
         "ending_denied_phrases": []
       }

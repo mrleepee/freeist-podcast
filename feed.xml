@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Tue, 23 Jun 2026 13:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:00:39 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,27 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>China's Micro-Margin Machine: Winning on Pennies Per Unit</title>
+      <description># China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by &quot;Eric on China&quot; (@ericcrackschina) posts a reel titled &quot;The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.&quot; His thesis is stark: while Western hardware founders chase 50%…
+
+Links:
+https://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications
+https://www.tecma.com/manufacturing-wages-in-china/</description>
+      <pubDate>Tue, 23 Jun 2026 15:59:25 +0000</pubDate>
+      <itunes:duration>04:43</itunes:duration>
+      <itunes:summary># China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by &quot;Eric on China&quot; (@ericcrackschina) posts a reel titled &quot;The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.&quot; His thesis is stark: while Western hardware founders chase 50%…
+
+Links:
+https://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications
+https://www.tecma.com/manufacturing-wages-in-china/</itunes:summary>
+      <itunes:episode>163</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep163-chinas-micro-margin-machine-winning-pennies-per-unit.podcast.mp3" length="4006941" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep163-chinas-micro-margin-machine-winning-pennies-per-unit</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep163-chinas-micro-margin-machine-winning-pennies-per-unit.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Disowned for Signing: William Hooper and the Cost of the Declaration</title>
       <description># Disowned for Signing: William Hooper and the Personal Cost of the Declaration History celebrates the signers of the Declaration of Independence as a group, almost as a logo — fifty-six names, one bronze idea.
