@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Mon, 22 Jun 2026 12:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:05:48 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,52 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Disowned for Signing: William Hooper and the Cost of the Declaration</title>
+      <description># Disowned for Signing: William Hooper and the Personal Cost of the Declaration History celebrates the signers of the Declaration of Independence as a group, almost as a logo — fifty-six names, one bronze idea.
+
+Links:
+https://en.wikipedia.org/wiki/William_Hooper
+https://www.ncpedia.org/biography/hooper-william
+https://constitutioncenter.org/signers/william-hooper</description>
+      <pubDate>Tue, 23 Jun 2026 12:27:03 +0000</pubDate>
+      <itunes:duration>08:03</itunes:duration>
+      <itunes:summary># Disowned for Signing: William Hooper and the Personal Cost of the Declaration History celebrates the signers of the Declaration of Independence as a group, almost as a logo — fifty-six names, one bronze idea.
+
+Links:
+https://en.wikipedia.org/wiki/William_Hooper
+https://www.ncpedia.org/biography/hooper-william
+https://constitutioncenter.org/signers/william-hooper</itunes:summary>
+      <itunes:episode>164</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep164-disowned-signing-william-hooper-cost-declaration.podcast.mp3" length="6387981" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep164-disowned-signing-william-hooper-cost-declaration</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep164-disowned-signing-william-hooper-cost-declaration.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>The Cellular Aging Stack: What the Human Evidence Says</title>
+      <description># The Cellular Aging Stack: What the Human Evidence Actually Says A reel by Dr. Josie Burridge ranks three popular &quot;cellular aging stack&quot; supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only &quot;Supp 1,&quot; &quot;Supp 2,&quot; and &quot;Supp 3.&quot;…
+
+Links:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/
+https://pubmed.ncbi.nlm.nih.gov/35975308/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4736808/</description>
+      <pubDate>Tue, 23 Jun 2026 12:08:43 +0000</pubDate>
+      <itunes:duration>04:57</itunes:duration>
+      <itunes:summary># The Cellular Aging Stack: What the Human Evidence Actually Says A reel by Dr. Josie Burridge ranks three popular &quot;cellular aging stack&quot; supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only &quot;Supp 1,&quot; &quot;Supp 2,&quot; and &quot;Supp 3.&quot;…
+
+Links:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/
+https://pubmed.ncbi.nlm.nih.gov/35975308/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4736808/</itunes:summary>
+      <itunes:episode>162</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep162-cellular-aging-stack-what-human-evidence-says.podcast.mp3" length="4181373" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep162-cellular-aging-stack-what-human-evidence-says</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep162-cellular-aging-stack-what-human-evidence-says.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Tbilisi: A City History From Founding to Present Day</title>
       <description>A chronological walk through more than fifteen centuries of Tbilisi's history, from the legend of King Vakhtang Gorgasali and his falcon chasing a pheasant into a boiling sulfur spring, through the Arab Emirate, David the Builder's 1122 liberation and Queen Tamar's Golden Age, the Khwarazmian and Mongol sacks, Tamerlane, Shah Abbas I's deportations, Agha Mohammad Khan Qajar's 1795 burning of the city, Russian annexation and imperial Tiflis, the 1918 independence and 1921 Soviet invasion, the 1978 language protests and 1989 April 9 tragedy, the 1991 independence restoration, civil war, the 2003 Rose Revolution, the 2008 war, and the post-2012 Georgian Dream era. Each key date gets a brief deep-dive.
@@ -36,32 +82,6 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep161-tbilisi-city-history-from-founding-present-day.podcast.mp3" length="9512157" type="audio/mpeg"/>
       <guid isPermaLink="false">freeist:ep161-tbilisi-city-history-from-founding-present-day</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep161-tbilisi-city-history-from-founding-present-day.podcast.txt" type="text/plain"/>
-    </item>
-    <item>
-      <title>Anthropic &quot;Silently Downgrading&quot; Users: The Surveillance Behind Frontier AI</title>
-      <description>Ihtesham Ali (@ihtesham2005) summarises a charged segment from the All-In Podcast alleging Anthropic built a system to silently downgrade users — and we present every claim as an ALLEGATION from that discussion, not as verified fact. The allegations: a policy (buried in a long terms document) stores every prompt sent to Anthropic's most powerful model for 30 days, even for enterprise customers with Zero Data Retention agreements; Anthropic then profiled users by their prompts and, for research deemed competitive or sensitive, quietly routed them to a weaker model, rewrote the prompt in the background, returned a degraded answer, and still charged full price. Named examples cited from the discussion include machine-learning research, chip-design questions, basic mitochondria biology queries, and a cancer-risk / GLP-1 question attributed to Ben Thompson / Stratechery — all reportedly kicked to a lesser model. We frame the 30-day-retention policy, the downgrade mechanism, and each named example as contested claims to verify against Anthropic's own docs and the original All-In episode, and note Anthropic's stated walkback: it now says it will disclose downgrades (for AI research) but still performs them. The core tension we draw out is the trust-and-surveillance flip: a company that publicly lobbied governments against dangerous technology now operates, if these allegations hold, the most expansive user-profiling system in the sector. Señora Freedom angle: the company selling an assistant that acts on your behalf is also the one deciding, in secret, whether you deserve its full capability — the surveillance critique usually reserved for the state, now aimed at the AI provider.</description>
-      <pubDate>Mon, 22 Jun 2026 10:52:10 +0000</pubDate>
-      <itunes:duration>03:07</itunes:duration>
-      <itunes:summary>Ihtesham Ali (@ihtesham2005) summarises a charged segment from the All-In Podcast alleging Anthropic built a system to silently downgrade users — and we present every claim as an ALLEGATION from that discussion, not as verified fact. The allegations: a policy (buried in a long terms document) stores every prompt sent to Anthropic's most powerful model for 30 days, even for enterprise customers with Zero Data Retention agreements; Anthropic then profiled users by their prompts and, for research deemed competitive or sensitive, quietly routed them to a weaker model, rewrote the prompt in the background, returned a degraded answer, and still charged full price. Named examples cited from the discussion include machine-learning research, chip-design questions, basic mitochondria biology queries, and a cancer-risk / GLP-1 question attributed to Ben Thompson / Stratechery — all reportedly kicked to a lesser model. We frame the 30-day-retention policy, the downgrade mechanism, and each named example as contested claims to verify against Anthropic's own docs and the original All-In episode, and note Anthropic's stated walkback: it now says it will disclose downgrades (for AI research) but still performs them. The core tension we draw out is the trust-and-surveillance flip: a company that publicly lobbied governments against dangerous technology now operates, if these allegations hold, the most expansive user-profiling system in the sector. Señora Freedom angle: the company selling an assistant that acts on your behalf is also the one deciding, in secret, whether you deserve its full capability — the surveillance critique usually reserved for the state, now aimed at the AI provider.</itunes:summary>
-      <itunes:episode>160</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep160-ihtesham-ali-anthropic-just-got-caught-secretly-downgrading.podcast.mp3" length="2711157" type="audio/mpeg"/>
-      <guid isPermaLink="false">freeist:ep160-ihtesham-ali-anthropic-just-got-caught-secretly-downgrading</guid>
-      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep160-ihtesham-ali-anthropic-just-got-caught-secretly-downgrading.podcast.txt" type="text/plain"/>
-    </item>
-    <item>
-      <title>Claude Code Agent Teams: One Lead, Many Specialists, One Pass</title>
-      <description>Yarchi (@undefinedKi) walks through Anthropic's experimental Agent Teams feature inside Claude Code (v2.1.32+): one orchestrator session spawns two to five specialist agents that work in parallel AND message each other directly as peers — a front-end agent, a back-end agent, a quality-assurance agent — rather than routing everything back through you. We cover how it differs from standard sub-agents (the peer-to-peer handoff, not just parent-child delegation), the enable step (an environment variable in a project-local settings file), and the prompting discipline that decides whether it ships in one pass: agents wake with zero context, so you must define each role, its exact deliverable, and who it messages when done before writing a single prompt. We add a practical setup move — pull the official Agent Teams docs into a local markdown file and feed it to the orchestrator so the team has its own blueprint — and treat the ~3-4x token cost as a real constraint: use teams for parallel work with clear boundaries, not for simple sequential tasks. We frame the peer-review loop (a QA agent catching bugs and routing them back to the dev agents) as the distinct value, and attribute the feature's behaviour to Yarchi's demo rather than asserting it as documented behaviour. Señora Freedom angle: when the lead delegates to specialists that review each other's work, the shift is from a lone-genius prompt to an org-chart of agents — and whoever designs that org chart decides what ships.</description>
-      <pubDate>Mon, 22 Jun 2026 10:37:58 +0000</pubDate>
-      <itunes:duration>03:22</itunes:duration>
-      <itunes:summary>Yarchi (@undefinedKi) walks through Anthropic's experimental Agent Teams feature inside Claude Code (v2.1.32+): one orchestrator session spawns two to five specialist agents that work in parallel AND message each other directly as peers — a front-end agent, a back-end agent, a quality-assurance agent — rather than routing everything back through you. We cover how it differs from standard sub-agents (the peer-to-peer handoff, not just parent-child delegation), the enable step (an environment variable in a project-local settings file), and the prompting discipline that decides whether it ships in one pass: agents wake with zero context, so you must define each role, its exact deliverable, and who it messages when done before writing a single prompt. We add a practical setup move — pull the official Agent Teams docs into a local markdown file and feed it to the orchestrator so the team has its own blueprint — and treat the ~3-4x token cost as a real constraint: use teams for parallel work with clear boundaries, not for simple sequential tasks. We frame the peer-review loop (a QA agent catching bugs and routing them back to the dev agents) as the distinct value, and attribute the feature's behaviour to Yarchi's demo rather than asserting it as documented behaviour. Señora Freedom angle: when the lead delegates to specialists that review each other's work, the shift is from a lone-genius prompt to an org-chart of agents — and whoever designs that org chart decides what ships.</itunes:summary>
-      <itunes:episode>159</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep159-yarchi-anthropic-just-quietly-shipped-feature-that-lets.podcast.mp3" length="2939109" type="audio/mpeg"/>
-      <guid isPermaLink="false">freeist:ep159-yarchi-anthropic-just-quietly-shipped-feature-that-lets</guid>
-      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep159-yarchi-anthropic-just-quietly-shipped-feature-that-lets.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>100x Developer Uses Codex: The Workflow That Breaks Your Brain</title>
@@ -129,19 +149,6 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep154-inside-claude-fable-5-system-prompt-cl4r1t4s-leak.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Matt Pocock: Its Not the Model Its the Harness</title>
-      <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.</description>
-      <pubDate>Fri, 19 Jun 2026 13:03:22 +0000</pubDate>
-      <itunes:duration>07:54</itunes:duration>
-      <itunes:summary>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.</itunes:summary>
-      <itunes:episode>153</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep153-matt-pocock-its-not-model-its-harness.podcast.mp3" length="6415317" type="audio/mpeg"/>
-      <guid isPermaLink="false">freeist:ep153-matt-pocock-its-not-model-its-harness</guid>
-      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep153-matt-pocock-its-not-model-its-harness.podcast.txt" type="text/plain"/>
-    </item>
-    <item>
       <title>Why UBI Is a Trap: You'll Rent Everything and Own Nothing</title>
       <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</description>
       <pubDate>Fri, 19 Jun 2026 12:46:37 +0000</pubDate>
@@ -181,19 +188,6 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep150-financial-physics-common-sense-finance-take.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Pavel Durov's Titanic Warning for Europe</title>
-      <description>Pavel Durov compares Europe's trajectory to the Titanic - a blunt warning from the Telegram founder about where he sees the continent heading, and the sovereignty-by-exit logic behind it. We unpack the analogy, what he argues is driving Europe's direction, and why the exit mindset keeps spreading.</description>
-      <pubDate>Fri, 19 Jun 2026 11:49:12 +0000</pubDate>
-      <itunes:duration>03:07</itunes:duration>
-      <itunes:summary>Pavel Durov compares Europe's trajectory to the Titanic - a blunt warning from the Telegram founder about where he sees the continent heading, and the sovereignty-by-exit logic behind it. We unpack the analogy, what he argues is driving Europe's direction, and why the exit mindset keeps spreading.</itunes:summary>
-      <itunes:episode>149</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.mp3" length="2752197" type="audio/mpeg"/>
-      <guid isPermaLink="false">freeist:ep149-southampton-times-telegram-founder-pavel-durov-compares-lack</guid>
-      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.txt" type="text/plain"/>
-    </item>
-    <item>
       <title>Panama Real Estate: Is Panama City Entering a New Bull Market? (Fact Report)</title>
       <description>A fact-report on Panama City real estate: a market that crashed in the early 2000s, stagnated for fifteen years, and now — on the read of two participants with a commercial interest — shows signs of a new bull run. We dig into the concrete figures being cited (price per square metre, rental yields, a worked example on a $200k apartment) and the residency-by-real-estate route, then fact-check the marketing: Panama is a territorial-tax jurisdiction that has signed the OECD Common Reporting Standard, not a sealed tax haven; visa thresholds have changed repeatedly and the video's figures may be outdated; and the source is saturated with affiliate links and paid referrals. Educational, not advice.</description>
       <pubDate>Thu, 18 Jun 2026 17:39:55 +0000</pubDate>
@@ -205,19 +199,6 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep148-panama-real-estate-panama-city-entering-new-bull.podcast.mp3" length="3940557" type="audio/mpeg"/>
       <guid isPermaLink="false">freeist:ep148-panama-real-estate-panama-city-entering-new-bull</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep148-panama-real-estate-panama-city-entering-new-bull.podcast.txt" type="text/plain"/>
-    </item>
-    <item>
-      <title>Graham Hancock: The Lost Civilisation Mainstream Archaeology Won't Accept</title>
-      <description>Graham Hancock argues a lost prehistoric civilisation was wiped out around 12,800 years ago by a Younger Dryas comet impact - a thesis mainstream archaeology contests.</description>
-      <pubDate>Tue, 16 Jun 2026 22:30:47 +0000</pubDate>
-      <itunes:duration>05:39</itunes:duration>
-      <itunes:summary>Graham Hancock argues a lost prehistoric civilisation was wiped out around 12,800 years ago by a Younger Dryas comet impact - a thesis mainstream archaeology contests.</itunes:summary>
-      <itunes:episode>147</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep147-graham-hancock-lost-civilisation-mainstream-archaeology-will-not.podcast.mp3" length="5006685" type="audio/mpeg"/>
-      <guid isPermaLink="false">freeist:ep147-graham-hancock-lost-civilisation-mainstream-archaeology-will-not</guid>
-      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep147-graham-hancock-lost-civilisation-mainstream-archaeology-will-not.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>Inside Claude Code: The Design Space of an AI Agent System</title>

@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.0 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -16.0,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 60.6 numbers/1k, 1.6 sources/1k",
+      "metrics": {
+        "word_count": 611,
+        "filler_phrases": [],
+        "numbers": 37,
+        "numbers_per_1k": 60.6,
+        "named_sources": 1,
+        "sources_per_1k": 1.6
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Forty pounds. That's roughly what a month's supply of a premium cellular aging supplement costs.",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}
