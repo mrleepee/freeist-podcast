@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Wed, 24 Jun 2026 07:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:16:41 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -41,14 +41,14 @@ https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/clou
     </item>
     <item>
       <title>China's Micro-Margin Machine: Winning on Pennies Per Unit</title>
-      <description># China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by &quot;Eric on China&quot; (@ericcrackschina) posts a reel titled &quot;The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.&quot; His thesis is stark: while Western hardware founders chase 50%…
+      <description>A sourcing consultant known as &quot;Eric on China&quot; claims Chinese factories can operate profitably on less than one cent of profit per unit, relying on massive volume rather than the 50% margins Western founders typically chase. This micro-margin model has survived rising wages that should have ended China's manufacturing dominance, sustained instead by dense supplier clusters in cities like Shenzhen and Dongguan.
 
 Links:
 https://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications
 https://www.tecma.com/manufacturing-wages-in-china/</description>
       <pubDate>Tue, 23 Jun 2026 15:59:25 +0000</pubDate>
       <itunes:duration>04:43</itunes:duration>
-      <itunes:summary># China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by &quot;Eric on China&quot; (@ericcrackschina) posts a reel titled &quot;The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.&quot; His thesis is stark: while Western hardware founders chase 50%…
+      <itunes:summary>A sourcing consultant known as &quot;Eric on China&quot; claims Chinese factories can operate profitably on less than one cent of profit per unit, relying on massive volume rather than the 50% margins Western founders typically chase. This micro-margin model has survived rising wages that should have ended China's manufacturing dominance, sustained instead by dense supplier clusters in cities like Shenzhen and Dongguan.
 
 Links:
 https://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications
@@ -85,7 +85,7 @@ https://constitutioncenter.org/signers/william-hooper</itunes:summary>
     </item>
     <item>
       <title>The Cellular Aging Stack: What the Human Evidence Says</title>
-      <description># The Cellular Aging Stack: What the Human Evidence Actually Says A reel by Dr. Josie Burridge ranks three popular &quot;cellular aging stack&quot; supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only &quot;Supp 1,&quot; &quot;Supp 2,&quot; and &quot;Supp 3.&quot;…
+      <description>Dr. Josie Burridge ranks three popular cellular aging stack supplements by the strength of their human evidence, deliberately hiding the brand names to reveal how companies blur the line between compounds with gold-standard trial data and those with only preliminary findings. The result exposes how a premium-priced stack can be one well-supported ingredient riding alongside two with far thinner evidence.
 
 Links:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/
@@ -93,7 +93,7 @@ https://pubmed.ncbi.nlm.nih.gov/35975308/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC4736808/</description>
       <pubDate>Tue, 23 Jun 2026 12:08:43 +0000</pubDate>
       <itunes:duration>04:57</itunes:duration>
-      <itunes:summary># The Cellular Aging Stack: What the Human Evidence Actually Says A reel by Dr. Josie Burridge ranks three popular &quot;cellular aging stack&quot; supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only &quot;Supp 1,&quot; &quot;Supp 2,&quot; and &quot;Supp 3.&quot;…
+      <itunes:summary>Dr. Josie Burridge ranks three popular cellular aging stack supplements by the strength of their human evidence, deliberately hiding the brand names to reveal how companies blur the line between compounds with gold-standard trial data and those with only preliminary findings. The result exposes how a premium-priced stack can be one well-supported ingredient riding alongside two with far thinner evidence.
 
 Links:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/
@@ -196,10 +196,10 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
     </item>
     <item>
       <title>Why UBI Is a Trap: You'll Rent Everything and Own Nothing</title>
-      <description>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</description>
+      <description>Simon Dixon argues that Universal Basic Income is not a path to prosperity but a mechanism for a massive hidden wealth transfer. As AI and new financial technologies make daily consumption cheaper, actual ownership becomes prohibitively expensive, leaving ordinary people with just enough to rent their lives from those who hold the assets. The result is a system that permanently separates consuming things from owning them, threatening the property-based foundation of the middle class.</description>
       <pubDate>Fri, 19 Jun 2026 12:46:37 +0000</pubDate>
       <itunes:duration>03:44</itunes:duration>
-      <itunes:summary>Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.</itunes:summary>
+      <itunes:summary>Simon Dixon argues that Universal Basic Income is not a path to prosperity but a mechanism for a massive hidden wealth transfer. As AI and new financial technologies make daily consumption cheaper, actual ownership becomes prohibitively expensive, leaving ordinary people with just enough to rent their lives from those who hold the assets. The result is a system that permanently separates consuming things from owning them, threatening the property-based foundation of the middle class.</itunes:summary>
       <itunes:episode>152</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -209,10 +209,10 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
     </item>
     <item>
       <title>Demis Hassabis on DeepMind AlphaFold and Digital Biology</title>
-      <description>Here is a concise summary of the video transcript, highlighting the key points discussed by the speaker: **Overall Summary:** In this lecture, Demis Hassabis reflects on his journey from a childhood chess player to the co-founder of DeepMind.</description>
+      <description>Demis Hassabis traces his path from childhood chess prodigy to co-founder of DeepMind, whose mission was to solve intelligence and then use it to solve everything else. He discusses how DeepMind trained its AI systems on games before tackling one of biology's grand challenges: protein folding. The result is AlphaFold, which in 2020 solved a fifty-year-old problem with atomic-level accuracy, marking a fundamental shift in how biological science gets done.</description>
       <pubDate>Fri, 19 Jun 2026 12:36:25 +0000</pubDate>
       <itunes:duration>07:52</itunes:duration>
-      <itunes:summary>Here is a concise summary of the video transcript, highlighting the key points discussed by the speaker: **Overall Summary:** In this lecture, Demis Hassabis reflects on his journey from a childhood chess player to the co-founder of DeepMind.</itunes:summary>
+      <itunes:summary>Demis Hassabis traces his path from childhood chess prodigy to co-founder of DeepMind, whose mission was to solve intelligence and then use it to solve everything else. He discusses how DeepMind trained its AI systems on games before tackling one of biology's grand challenges: protein folding. The result is AlphaFold, which in 2020 solved a fifty-year-old problem with atomic-level accuracy, marking a fundamental shift in how biological science gets done.</itunes:summary>
       <itunes:episode>151</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -273,11 +273,11 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep142-open-knowledge-format-markdown-as-lingua-franca-ai.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Agentic Harness Engineering Why Your Prompt Not Enough</title>
-      <description/>
+      <title>When Better AI Prompts Actually Make Agents Worse</title>
+      <description>Researchers from Fudan University and Peking University found that manually improving an AI agent's system prompt actually made it perform worse, dropping accuracy by 2.3 percentage points on Terminal-Bench 2. The result was measurable and repeatable, challenging the widespread assumption that better-crafted prompts reliably lead to better agent performance.</description>
       <pubDate>Sun, 14 Jun 2026 22:03:11 +0000</pubDate>
       <itunes:duration>05:37</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Researchers from Fudan University and Peking University found that manually improving an AI agent's system prompt actually made it perform worse, dropping accuracy by 2.3 percentage points on Terminal-Bench 2. The result was measurable and repeatable, challenging the widespread assumption that better-crafted prompts reliably lead to better agent performance.</itunes:summary>
       <itunes:episode>141</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -425,11 +425,11 @@ https://uk.linkedin.com/in/goodgravy</itunes:summary>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep140-james-brady-every-agent-production-lies.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Khairallah Al Awady Anthropic Engineer Youre Not Supposed</title>
-      <description/>
+      <title>Fixing Developer Context Fragmentation with Cloud Code</title>
+      <description>Developers lose roughly 45 minutes every day to context switching and scattered information. Google Cloud's Cloud Code aims to close that gap by tackling three core problems: connecting the AI to your existing tools and workflows, feeding it institutional knowledge without costly fine-tuning, and integrating IDE-like features such as linters and language servers.</description>
       <pubDate>Tue, 09 Jun 2026 20:29:01 +0000</pubDate>
       <itunes:duration>03:18</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Developers lose roughly 45 minutes every day to context switching and scattered information. Google Cloud's Cloud Code aims to close that gap by tackling three core problems: connecting the AI to your existing tools and workflows, feeding it institutional knowledge without costly fine-tuning, and integrating IDE-like features such as linters and language servers.</itunes:summary>
       <itunes:episode>129</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -633,11 +633,11 @@ https://thewanderinginvestor.com/international-real-estate/making-a-real-estate-
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep123-izmir-neighborhood-guide-where-actually-buy.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>Introducing Gemma 4 12B Unified Encoder Free Multimodal</title>
-      <description/>
+      <title>Gemma 4 12B Brings Powerful Local AI to Your Laptop</title>
+      <description>Google DeepMind's Gemma 4 12B is a powerful open model you can download, run locally, and control completely without sending your data to any server. It uses a unified encoder-free architecture that processes text, images, audio, and video through a single pathway, delivering faster results and lower memory requirements. Despite its mid-range parameter count, it holds its own against models two to three times its size in benchmark testing.</description>
       <pubDate>Wed, 03 Jun 2026 21:38:22 +0000</pubDate>
       <itunes:duration>04:04</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>Google DeepMind's Gemma 4 12B is a powerful open model you can download, run locally, and control completely without sending your data to any server. It uses a unified encoder-free architecture that processes text, images, audio, and video through a single pathway, delivering faster results and lower memory requirements. Despite its mid-range parameter count, it holds its own against models two to three times its size in benchmark testing.</itunes:summary>
       <itunes:episode>119</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -646,11 +646,11 @@ https://thewanderinginvestor.com/international-real-estate/making-a-real-estate-
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.txt" type="text/plain"/>
     </item>
     <item>
-      <title>History Taxation From Ancient Tribute Modern Certainty</title>
-      <description/>
+      <title>The Permanent Emergency: How Temporary Taxes Become Forever</title>
+      <description>A temporary telephone tax created to fund the 1898 Spanish-American War wasn't repealed until 2006 — over a century after the conflict ended. That pattern of emergency levies becoming permanent fixtures is the entire history of taxation, stretching from ancient Egyptian grain collection to modern paychecks. This episode traces how measures sold as exceptional routinely transform into the baseline.</description>
       <pubDate>Wed, 03 Jun 2026 06:55:10 +0000</pubDate>
       <itunes:duration>12:52</itunes:duration>
-      <itunes:summary/>
+      <itunes:summary>A temporary telephone tax created to fund the 1898 Spanish-American War wasn't repealed until 2006 — over a century after the conflict ended. That pattern of emergency levies becoming permanent fixtures is the entire history of taxation, stretching from ancient Egyptian grain collection to modern paychecks. This episode traces how measures sold as exceptional routinely transform into the baseline.</itunes:summary>
       <itunes:episode>106</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

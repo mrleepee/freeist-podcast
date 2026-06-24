@@ -700,13 +700,19 @@
     "guid": "freeist:ep132-video-themaxdose"
   },
   "ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed": {
-    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3"
+    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep129-khairallah-al-awady-anthropic-engineer-youre-not-supposed.podcast.mp3",
+    "title": "Fixing Developer Context Fragmentation with Cloud Code",
+    "description": "Developers lose roughly 45 minutes every day to context switching and scattered information. Google Cloud's Cloud Code aims to close that gap by tackling three core problems: connecting the AI to your existing tools and workflows, feeding it institutional knowledge without costly fine-tuning, and integrating IDE-like features such as linters and language servers."
   },
   "ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal": {
-    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3"
+    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep119-introducing-gemma-4-12b-unified-encoder-free-multimodal.podcast.mp3",
+    "title": "Gemma 4 12B Brings Powerful Local AI to Your Laptop",
+    "description": "Google DeepMind's Gemma 4 12B is a powerful open model you can download, run locally, and control completely without sending your data to any server. It uses a unified encoder-free architecture that processes text, images, audio, and video through a single pathway, delivering faster results and lower memory requirements. Despite its mid-range parameter count, it holds its own against models two to three times its size in benchmark testing."
   },
   "ep106-history-taxation-from-ancient-tribute-modern-certainty": {
-    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3"
+    "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep106-history-taxation-from-ancient-tribute-modern-certainty.podcast.mp3",
+    "title": "The Permanent Emergency: How Temporary Taxes Become Forever",
+    "description": "A temporary telephone tax created to fund the 1898 Spanish-American War wasn't repealed until 2006 — over a century after the conflict ended. That pattern of emergency levies becoming permanent fixtures is the entire history of taxation, stretching from ancient Egyptian grain collection to modern paychecks. This episode traces how measures sold as exceptional routinely transform into the baseline."
   },
   "ep94-anthropics-agent-evaluation-playbook": {
     "guid": "https://mrleepee.github.io/freeist-podcast/audio/ep94-anthropics-agent-evaluation-playbook.podcast.mp3"
@@ -778,7 +784,9 @@
   },
   "ep141-agentic-harness-engineering-why-your-prompt-not-enough": {
     "lufs": -15.9,
-    "guid": "freeist:ep141-agentic-harness-engineering-why-your-prompt-not-enough"
+    "guid": "freeist:ep141-agentic-harness-engineering-why-your-prompt-not-enough",
+    "title": "When Better AI Prompts Actually Make Agents Worse",
+    "description": "Researchers from Fudan University and Peking University found that manually improving an AI agent's system prompt actually made it perform worse, dropping accuracy by 2.3 percentage points on Terminal-Bench 2. The result was measurable and repeatable, challenging the widespread assumption that better-crafted prompts reliably lead to better agent performance."
   },
   "ep142-open-knowledge-format-markdown-as-lingua-franca-ai": {
     "title": "The Open Knowledge Format: Markdown as the Lingua Franca for AI Agents",
@@ -819,19 +827,19 @@
   "ep151-demis-hassabis-deepmind-alphafold-digital-biology": {
     "lufs": -16.0,
     "title": "Demis Hassabis on DeepMind AlphaFold and Digital Biology",
-    "description": "Here is a concise summary of the video transcript, highlighting the key points discussed by the speaker: **Overall Summary:** In this lecture, Demis Hassabis reflects on his journey from a childhood chess player to the co-founder of DeepMind.",
+    "description": "Demis Hassabis traces his path from childhood chess prodigy to co-founder of DeepMind, whose mission was to solve intelligence and then use it to solve everything else. He discusses how DeepMind trained its AI systems on games before tackling one of biology's grand challenges: protein folding. The result is AlphaFold, which in 2020 solved a fifty-year-old problem with atomic-level accuracy, marking a fundamental shift in how biological science gets done.",
     "guid": "freeist:ep151-demis-hassabis-deepmind-alphafold-digital-biology"
   },
   "ep152-why-ubi-trap-youll-rent-everything-own-nothing": {
     "lufs": -16.0,
     "title": "Why UBI Is a Trap: You'll Rent Everything and Own Nothing",
-    "description": "Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** The speaker argues that Universal Basic Income (UBI) is not a path to prosperity, but rather a mechanism for a massive hidden wealth transfer.",
+    "description": "Simon Dixon argues that Universal Basic Income is not a path to prosperity but a mechanism for a massive hidden wealth transfer. As AI and new financial technologies make daily consumption cheaper, actual ownership becomes prohibitively expensive, leaving ordinary people with just enough to rent their lives from those who hold the assets. The result is a system that permanently separates consuming things from owning them, threatening the property-based foundation of the middle class.",
     "guid": "freeist:ep152-why-ubi-trap-youll-rent-everything-own-nothing"
   },
   "ep153-matt-pocock-its-not-model-its-harness": {
     "lufs": -16.0,
     "title": "Matt Pocock: Its Not the Model Its the Harness",
-    "description": "Here is a concise summary of the video transcript, highlighting the key points discussed: **Overall Summary:** In this interview, developer and educator Matt Pocock discusses the current state of AI-assisted software engineering.",
+    "description": "Matt Pocock argues that the most expensive mistake in AI-assisted software engineering is chasing the newest model while ignoring the scaffolding around it. He recommends splitting effort evenly between the model and what he calls the harness — your prompts, skills, environment, and files. A mediocre model with an excellent harness, he says, will outperform a frontier model with a sloppy one, and whoever owns the harness owns the leverage.",
     "guid": "freeist:ep153-matt-pocock-its-not-model-its-harness"
   },
   "ep154-inside-claude-fable-5-system-prompt-cl4r1t4s-leak": {
@@ -886,13 +894,13 @@
   "ep162-cellular-aging-stack-what-human-evidence-says": {
     "lufs": -16.0,
     "title": "The Cellular Aging Stack: What the Human Evidence Says",
-    "description": "# The Cellular Aging Stack: What the Human Evidence Actually Says A reel by Dr. Josie Burridge ranks three popular \"cellular aging stack\" supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only \"Supp 1,\" \"Supp 2,\" and \"Supp 3.\"…\n\nLinks:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/\nhttps://pubmed.ncbi.nlm.nih.gov/35975308/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4736808/",
+    "description": "Dr. Josie Burridge ranks three popular cellular aging stack supplements by the strength of their human evidence, deliberately hiding the brand names to reveal how companies blur the line between compounds with gold-standard trial data and those with only preliminary findings. The result exposes how a premium-priced stack can be one well-supported ingredient riding alongside two with far thinner evidence.\n\nLinks:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC9133463/\nhttps://pubmed.ncbi.nlm.nih.gov/35975308/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4736808/",
     "guid": "freeist:ep162-cellular-aging-stack-what-human-evidence-says"
   },
   "ep163-chinas-micro-margin-machine-winning-pennies-per-unit": {
     "lufs": -16.0,
     "title": "China's Micro-Margin Machine: Winning on Pennies Per Unit",
-    "description": "# China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by \"Eric on China\" (@ericcrackschina) posts a reel titled \"The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.\" His thesis is stark: while Western hardware founders chase 50%…\n\nLinks:\nhttps://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications\nhttps://www.tecma.com/manufacturing-wages-in-china/",
+    "description": "A sourcing consultant known as \"Eric on China\" claims Chinese factories can operate profitably on less than one cent of profit per unit, relying on massive volume rather than the 50% margins Western founders typically chase. This micro-margin model has survived rising wages that should have ended China's manufacturing dominance, sustained instead by dense supplier clusters in cities like Shenzhen and Dongguan.\n\nLinks:\nhttps://cf40research.substack.com/p/chinese-manufacturing-competes-with-all-countries-uneven-development-rapid-growth-massive-scale-flying-geese-formation-trade-tensions-export-tax-rebates-policy-implications\nhttps://www.tecma.com/manufacturing-wages-in-china/",
     "guid": "freeist:ep163-chinas-micro-margin-machine-winning-pennies-per-unit"
   },
   "ep164-disowned-signing-william-hooper-cost-declaration": {
