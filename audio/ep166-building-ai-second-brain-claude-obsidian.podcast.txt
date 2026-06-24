@@ -1,0 +1,15 @@
+We have been building systems that keep your knowledge under your own control. We covered how to build an Obsidian vault that runs your entire life. We looked at building an AI agent with real memory. Now we take it one step further. What happens when you bolt a large language model onto that vault and trust it to do your thinking for you.
+
+Yarchi wrote a full guide on building an AI second brain using Claude and Obsidian. The pitch is seductive. Two pieces of software, both free. Obsidian is a local, plain-text note-taking application that stores everything as Markdown files in folders on your own machine. Plain text is the most durable, portable, open format in computing. No application can lock your notes hostage because the substrate is genuinely yours in a way that matters. The format will outlive every proprietary tool layered on top of it. Claude Desktop then connects to your vault through something called Model Context Protocol. That is a standardized plug that lets the model read and write files directly.
+
+The capture method is where the guide gets clever. Instead of writing notes manually, you let Claude interview you. It asks structured questions and turns your answers into clean, linked Markdown notes. For anyone who has tried and failed to maintain a second brain over the years, this solves the first half of the problem. Most attempts fail because capture is too hard and retrieval is too weak. An interview format removes the friction of staring at a blank page.
+
+But here is the claim that should make you stop reading the marketing and start reading the fine print. The guide says the system gets smarter every day. That is not what happens. A large language model does not learn from your vault between sessions. The model weights do not update from your notes. What improves is retrieval and grounding, not the model itself. The improvement is strictly bounded by retrieval quality and how much content you put in. The guide is selling you a rental and calling it ownership.
+
+Here is the structural problem. The intelligence reading your vault belongs to Anthropic. You own the filing cabinet. You rent the mind that reads it. Every note you hand over makes that mind a little harder to walk away from. The Model Context Protocol setup is fiddly and version-fragile. The connection between your sovereign data and your rented intelligence breaks on a schedule you do not control.
+
+For your own agentic engineering practice, treat the Model Context Protocol connection as an unstable external dependency. Build a local fallback that can query your Markdown files directly when that protocol inevitably breaks on a version bump. Your agent should degrade gracefully, not go dark.
+
+Markdown is an open, agent-readable format that lets any tool read your thinking. That matters. But it also means the value is not in the storage. The value is in the synthesis, and that synthesis runs on someone else's infrastructure under someone else's terms of service.
+
+Your second brain is not getting smarter. You are just feeding someone else's.

@@ -914,5 +914,11 @@
     "title": "Sundar Pichai Orchestrate AI Agents Now or Spend 2027 Catching Up",
     "description": "# Sundar Pichai: Orchestrate AI Agents Now or Spend 2027 Catching Up\n\nGoogle CEO Sundar Pichai argues that software engineering is shifting from writing code by hand to orchestrating teams of AI agents — and that engineers who learn to direct those agents now will pull far ahead of anyone who waits. In a wide-ranging interview on the \"agentic era,\" his case is that the productivity lever has moved upstream: instead of authoring every line, the strongest engineers now spawn, brief, and verify autonomous agents that write, test, and ship software, while the human job becomes orchestration and judgment. The framing tracks Pichai's 2026 messaging — at Google I/O 2026 he declared the \"agentic Gemini era,\" and at Cloud Next '26 he reported that 75% of Google's new code is now AI-generated and engineer-approved. The question the show keeps circling: when one person orchestrating agents can out-ship an entire team, the scarce skill stops being coding and becomes knowing which agents to trust — and how to stay in control of what they build.\n\nLinks:\nhttps://blog.google/innovation-and-ai/sundar-pichai-io-2026/\nhttps://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
     "guid": "freeist:ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend"
+  },
+  "ep166-building-ai-second-brain-claude-obsidian": {
+    "lufs": -15.9,
+    "title": "Building an AI Second Brain With Claude and Obsidian",
+    "description": "Yarchi (@undefinedKi) walks through a practical system for turning scattered notes, browser tabs, and lost chat histories into a personal knowledge base that compounds over time. The setup pairs Obsidian as a free, local storage layer with Claude as the intelligence layer, so your assistant reads your accumulated context before every response. The result is a second brain that gets smarter each day instead of resetting to zero.\n\nLinks:\nhttps://obsidian.md\nhttps://modelcontextprotocol.io\nhttps://x.com/undefinedKi/status/2068306794116501544",
+    "guid": "freeist:ep166-building-ai-second-brain-claude-obsidian"
   }
 }
