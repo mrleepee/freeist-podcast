@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Tue, 23 Jun 2026 16:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:45:29 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,31 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Sundar Pichai Orchestrate AI Agents Now or Spend 2027 Catching Up</title>
+      <description># Sundar Pichai: Orchestrate AI Agents Now or Spend 2027 Catching Up
+
+Google CEO Sundar Pichai argues that software engineering is shifting from writing code by hand to orchestrating teams of AI agents — and that engineers who learn to direct those agents now will pull far ahead of anyone who waits. In a wide-ranging interview on the &quot;agentic era,&quot; his case is that the productivity lever has moved upstream: instead of authoring every line, the strongest engineers now spawn, brief, and verify autonomous agents that write, test, and ship software, while the human job becomes orchestration and judgment. The framing tracks Pichai's 2026 messaging — at Google I/O 2026 he declared the &quot;agentic Gemini era,&quot; and at Cloud Next '26 he reported that 75% of Google's new code is now AI-generated and engineer-approved. The question the show keeps circling: when one person orchestrating agents can out-ship an entire team, the scarce skill stops being coding and becomes knowing which agents to trust — and how to stay in control of what they build.
+
+Links:
+https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/</description>
+      <pubDate>Wed, 24 Jun 2026 07:36:51 +0000</pubDate>
+      <itunes:duration>03:42</itunes:duration>
+      <itunes:summary># Sundar Pichai: Orchestrate AI Agents Now or Spend 2027 Catching Up
+
+Google CEO Sundar Pichai argues that software engineering is shifting from writing code by hand to orchestrating teams of AI agents — and that engineers who learn to direct those agents now will pull far ahead of anyone who waits. In a wide-ranging interview on the &quot;agentic era,&quot; his case is that the productivity lever has moved upstream: instead of authoring every line, the strongest engineers now spawn, brief, and verify autonomous agents that write, test, and ship software, while the human job becomes orchestration and judgment. The framing tracks Pichai's 2026 messaging — at Google I/O 2026 he declared the &quot;agentic Gemini era,&quot; and at Cloud Next '26 he reported that 75% of Google's new code is now AI-generated and engineer-approved. The question the show keeps circling: when one person orchestrating agents can out-ship an entire team, the scarce skill stops being coding and becomes knowing which agents to trust — and how to stay in control of what they build.
+
+Links:
+https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/</itunes:summary>
+      <itunes:episode>165</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend.podcast.mp3" length="3215733" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>China's Micro-Margin Machine: Winning on Pennies Per Unit</title>
       <description># China's Micro-Margin Machine: Winning on Pennies Per Unit A sourcing consultant who goes by &quot;Eric on China&quot; (@ericcrackschina) posts a reel titled &quot;The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.&quot; His thesis is stark: while Western hardware founders chase 50%…

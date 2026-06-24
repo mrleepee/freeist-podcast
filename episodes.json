@@ -900,5 +900,11 @@
     "title": "Disowned for Signing: William Hooper and the Cost of the Declaration",
     "description": "# Disowned for Signing: William Hooper and the Personal Cost of the Declaration History celebrates the signers of the Declaration of Independence as a group, almost as a logo — fifty-six names, one bronze idea.\n\nLinks:\nhttps://en.wikipedia.org/wiki/William_Hooper\nhttps://www.ncpedia.org/biography/hooper-william\nhttps://constitutioncenter.org/signers/william-hooper",
     "guid": "freeist:ep164-disowned-signing-william-hooper-cost-declaration"
+  },
+  "ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend": {
+    "lufs": -16.0,
+    "title": "Sundar Pichai Orchestrate AI Agents Now or Spend 2027 Catching Up",
+    "description": "# Sundar Pichai: Orchestrate AI Agents Now or Spend 2027 Catching Up\n\nGoogle CEO Sundar Pichai argues that software engineering is shifting from writing code by hand to orchestrating teams of AI agents — and that engineers who learn to direct those agents now will pull far ahead of anyone who waits. In a wide-ranging interview on the \"agentic era,\" his case is that the productivity lever has moved upstream: instead of authoring every line, the strongest engineers now spawn, brief, and verify autonomous agents that write, test, and ship software, while the human job becomes orchestration and judgment. The framing tracks Pichai's 2026 messaging — at Google I/O 2026 he declared the \"agentic Gemini era,\" and at Cloud Next '26 he reported that 75% of Google's new code is now AI-generated and engineer-approved. The question the show keeps circling: when one person orchestrating agents can out-ship an entire team, the scarce skill stops being coding and becomes knowing which agents to trust — and how to stay in control of what they build.\n\nLinks:\nhttps://blog.google/innovation-and-ai/sundar-pichai-io-2026/\nhttps://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/",
+    "guid": "freeist:ep165-sundar-pichai-orchestrate-ai-agents-now-or-spend"
   }
 }
