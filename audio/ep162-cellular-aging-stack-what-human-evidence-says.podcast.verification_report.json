@@ -1,0 +1,38 @@
+{
+  "claims": [
+    {
+      "claim": "Forty pounds. That's roughly what a month's supply of a premium cellular aging supplement costs.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "No mention of £40/month cost in the evidence map."
+    },
+    {
+      "claim": "Now triple it, because nobody sells just one anymore.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "No pricing or market structure data in the evidence map."
+    },
+    {
+      "claim": "They sell stacks. Three bottles, one neat package, one confident promise.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "No data on commercial stack packaging in the evidence map."
+    },
+    {
+      "claim": "the same lab that invented the supplement",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "Evidence map says GlyNAC research comes from Sekhar/Baylor but does not state they invented the supplement."
+    },
+    {
+      "claim": "two with hope and a Baylor phone number",
+      "confidence": "medium",
+      "type": "unattributed_expert",
+      "reason": "No evidence in the map about contact details or commercial availability from Baylor."
+    }
+  ],
+  "high_confidence": 3,
+  "threshold": 3,
+  "passed": true,
+  "status": "ok"
+}

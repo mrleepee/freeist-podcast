@@ -1,0 +1,234 @@
+[
+  {
+    "claim": "Dr. Josie Burridge created a reel ranking three cellular aging stack supplements by strength of human evidence, hiding their names.",
+    "source_quote": "A reel by Dr. Josie Burridge ranks three popular \"cellular aging stack\" supplements by the strength of their HUMAN evidence — but deliberately hides the names, labelling them only \"Supp 1,\" \"Supp 2,\" and \"Supp 3.\"",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Urolithin A's mechanism is mitophagy, the selective recycling of worn-out mitochondria.",
+    "source_quote": "Its mechanism is mitophagy — the selective recycling of worn-out mitochondria, the cell's energy plants.",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Mitophagy slows with age, causing dysfunctional mitochondria to accumulate, which is thought to drive declines in muscle strength and endurance.",
+    "source_quote": "As we age, mitophagy slows, and dysfunctional mitochondria accumulate, which is thought to drive the decline in muscle strength and endurance that comes with getting older.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The pivotal Urolithin A trial is Liu et al., published in Cell Reports Medicine in 2022.",
+    "source_quote": "The pivotal trial is Liu et al., published in *Cell Reports Medicine* in 2022",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Liu et al. trial was a randomised, double-blind, placebo-controlled trial in middle-aged adults (40-65 years).",
+    "source_quote": "a randomised, double-blind, placebo-controlled trial in middle-aged adults (40–65 years) — the gold-standard design",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Liu et al. trial was funded by Amazentis, makers of the Mitopure brand.",
+    "source_quote": "funded by Amazentis (makers of the Mitopure® brand)",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Liu et al. trial showed statistically significant improvements in hand-grip strength and six-minute walk distance, alongside measurable changes in mitochondrial biomarkers and mitophagy-related gene expression.",
+    "source_quote": "It showed statistically significant improvements in hand-grip strength and six-minute walk distance, alongside measurable changes in mitochondrial biomarkers and mitophagy-related gene expression.",
+    "timestamp": "para:3",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "A 2024 systematic review concluded UA shows potential to reduce inflammation and improve muscle strength and endurance in humans with a good safety profile.",
+    "source_quote": "A 2024 systematic review reached a similar conclusion: UA shows genuine potential to reduce inflammation and improve muscle strength and endurance in humans, with a good safety profile.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Burridge describes Urolithin A's results as \"real but modest\".",
+    "source_quote": "Burridge calls the results \"real but modest\" — and that is the truthful framing.",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "opinion"
+  },
+  {
+    "claim": "A larger confirmatory trial for Urolithin A (NCT07231783) is ongoing.",
+    "source_quote": "A larger confirmatory trial (NCT07231783) is ongoing",
+    "timestamp": "para:4",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A 2025 Nature Aging paper extended the picture of Urolithin A to immune function.",
+    "source_quote": "a 2025 *Nature Aging* paper extended the picture to immune function.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "GlyNAC combines glycine and N-acetylcysteine (NAC) to feed the body's synthesis of glutathione.",
+    "source_quote": "GlyNAC combines two amino-acid precursors — glycine and N-acetylcysteine (NAC) — that feed the body's synthesis of glutathione, its master antioxidant.",
+    "timestamp": "para:5",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Glutathione levels fall with age, reducing cell defenses against oxidative stress.",
+    "source_quote": "Glutathione levels fall with age, and with them the cell's defences against oxidative stress.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "GlyNAC evidence comes mainly from Sekhar and colleagues at Baylor College of Medicine, publishing in Journals of Gerontology and Clinical and Translational Medicine (2022).",
+    "source_quote": "The evidence comes mainly from one research group: Sekhar and colleagues at Baylor College of Medicine, publishing in the *Journals of Gerontology* and *Clinical and Translational Medicine* (2022).",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The GlyNAC pilot trial was open-label in older adults (around 70 years old, 16-24 weeks of supplementation).",
+    "source_quote": "In an open-label pilot trial in older adults (around 70 years old, 16–24 weeks of supplementation)",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "GlyNAC raised glutathione toward youthful levels and improved multiple aging hallmarks including oxidative stress, inflammation, mitochondrial function, muscle strength, exercise capacity, cognition, and metabolic function.",
+    "source_quote": "GlyNAC raised glutathione toward youthful levels and improved a striking range of ageing hallmarks: lower oxidative stress and inflammation, better mitochondrial function, improved muscle strength and exercise capacity, and even gains in cognition and metabolic function.",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Baylor team described GlyNAC as reversing \"multiple age-associated abnormalities.\"",
+    "source_quote": "The Baylor team described it as reversing \"multiple age-associated abnormalities.\"",
+    "timestamp": "para:6",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "opinion"
+  },
+  {
+    "claim": "GlyNAC trials are small and open-label with no placebo control and no blinding.",
+    "source_quote": "First, the trials are small and open-label — there is no placebo control and no blinding, which inflates the chance of a placebo effect or bias.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "A larger follow-up trial did not raise glutathione as cleanly as expected, which Burridge flags.",
+    "source_quote": "a larger follow-up did not raise glutathione as cleanly as expected, which Burridge herself flags.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The third supplement is almost certainly sulforaphane, a compound derived from broccoli sprouts.",
+    "source_quote": "The third supplement is a Nrf2 activator — almost certainly sulforaphane, the compound derived from broccoli sprouts.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Sulforaphane is the most potent naturally occurring Nrf2 inducer known.",
+    "source_quote": "Sulforaphane is, by some measures, the most potent naturally occurring Nrf2 inducer known",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Sulforaphane has completed multiple Phase I and II human trials in cancer chemoprevention, airway inflammation, autism spectrum disorder, and metabolic syndrome.",
+    "source_quote": "Sulforaphane has completed multiple Phase I and II human trials — in cancer chemoprevention, airway inflammation, autism spectrum disorder, and metabolic syndrome",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Sulforaphane human trials typically use 10-60 mg per day for 4-12 weeks, with a good safety record.",
+    "source_quote": "typically at 10–60 mg per day for 4–12 weeks, with a good safety record.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "A 2024 review states that while Nrf2 activation is robustly demonstrated in rodents, direct Nrf2 mechanistic endpoints in human trials remain underexplored.",
+    "source_quote": "a 2024 review is blunt: while Nrf2 activation is robustly demonstrated in rodents, direct Nrf2 mechanistic endpoints in human trials remain underexplored",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "There are essentially no large, ageing-specific randomised trials for sulforaphane.",
+    "source_quote": "there are essentially no large, ageing-specific randomised trials.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Of the three supplements, sulforaphane has the deepest mechanistic literature and the weakest direct link to ageing outcomes in people.",
+    "source_quote": "Of the three, sulforaphane has the deepest mechanistic literature and the weakest direct link to ageing outcomes in people.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Ranked by strength of human evidence, the ordering is Urolithin A, then GlyNAC, then sulforaphane.",
+    "source_quote": "Ranked by strength of HUMAN evidence — Burridge's exact criterion — the ordering holds up: Urolithin A (a positive RCT, confirmatory trial underway), then GlyNAC (a compelling but small, open-label pilot with a discordant follow-up), then sulforaphane (powerful mechanism, thin ageing-specific human data).",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "opinion"
+  },
+  {
+    "claim": "None of the three supplements is a fountain of youth; their effects in humans are at best modest and still being confirmed.",
+    "source_quote": "The unifying truth is that none of these is a fountain of youth. They are plausible, mechanistically grounded interventions whose effects in humans are, at best, modest and still being confirmed.",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "The supplement space is heavily monetised and sponsor-saturated.",
+    "source_quote": "The supplement space is also heavily monetised and sponsor-saturated",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  }
+]

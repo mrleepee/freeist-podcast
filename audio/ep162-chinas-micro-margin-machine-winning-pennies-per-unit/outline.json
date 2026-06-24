@@ -1,0 +1,27 @@
+{
+  "thesis": "China's manufacturing dominance survives rising wages not because of cheap labor but because geographic clustering, vertical integration, and state subsidies have created an ecosystem where volume itself becomes the moat.",
+  "hook": "surprising fact",
+  "stakes": "Every product you touch, every price you pay, and every supply chain decision made by the companies you depend on is shaped by this system. Understanding why it works tells you whether it can be replicated—or whether you're locked into it.",
+  "evidence_beats": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    15,
+    18,
+    19
+  ],
+  "counterpoint": "The 'under one cent profit' framing comes from a sourcing consultant selling services, not an audited financial statement. And China's edge in low-value manufacturing is already migrating to Vietnam and Bangladesh—the model isn't immortal, it's just ahead.",
+  "implication": "If you source, build, or sell physical products, the question isn't whether China is competitive on wages—it's whether any alternative can match the iteration speed and ecosystem depth that actually drive costs down. That calculation should reshape where you build and who you depend on.",
+  "close": "The 15-cent miracle isn't magic. It's what happens when an entire region coordinates around one proposition: volume kills cost, and proximity kills time. The next time you pick up something cheap and ubiquitous, remember it cost less than a cent of profit to make—and ask yourself whether you're building anything that ruthlessly efficient, or just paying for someone else who did.",
+  "warnings": [
+    "key statistic (under one cent profit) is a sourcing consultant's characterization, not an audited figure",
+    "cluster density 'most-cited factor' claim relies on hearsay sourcing",
+    "state subsidy distortion claim is low confidence"
+  ]
+}

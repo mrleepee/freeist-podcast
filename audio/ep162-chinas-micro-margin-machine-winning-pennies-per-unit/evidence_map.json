@@ -1,0 +1,178 @@
+[
+  {
+    "claim": "A sourcing consultant named Eric on China with handle @ericcrackschina posted a reel titled 'The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.'",
+    "source_quote": "A sourcing consultant who goes by \"Eric on China\" (@ericcrackschina) posts a reel titled \"The 15-Cent Miracle — The Most Ruthless Supply Chain on Earth.\"",
+    "timestamp": "para:1",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Eric claims Chinese manufacturing in a small city operates on under one cent of profit per unit.",
+    "source_quote": "a small Chinese city dominates global manufacturing on under one cent of profit per unit",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "Eric attributes China's manufacturing advantage to extreme micro-optimisation rather than cheap labour.",
+    "source_quote": "the cause is not cheap labour but \"extreme micro-optimisation.\"",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Eric sells sourcing services and uses the reel partly for lead generation.",
+    "source_quote": "Eric sells sourcing services — the reel is partly a lead-generation pitch (\"send me a DM… sourcing agent… cost control\").",
+    "timestamp": "para:2",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The under one cent profit per unit figure is a characterisation of a model rather than an audited accounting of any specific factory.",
+    "source_quote": "The specific \"under one cent of profit per unit\" figure is Eric's characterisation of a model — the thin-margin, high-volume economics of commodity hardware made at immense scale — rather than an audited accounting of any one factory.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Chinese manufacturing wages rose sharply between 2005 and 2016.",
+    "source_quote": "Chinese manufacturing wages rose sharply between 2005 and 2016",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "By the mid-2010s, Chinese manufacturing wages surpassed those in Mexico and Brazil.",
+    "source_quote": "by the mid-2010s they had surpassed manufacturing wages in Mexico and Brazil",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "statistic"
+  },
+  {
+    "claim": "China retained and grew its manufacturing dominance despite rising wages.",
+    "source_quote": "yet China retained and grew its manufacturing dominance.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Shenzhen, Dongguan, and Yiwu are cities with dense industrial clusters of suppliers and manufacturers.",
+    "source_quote": "Cities like Shenzhen, Dongguan, and Yiwu concentrate dense networks of suppliers, component makers, toolmakers, and assemblers within driving distance of one another.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Cluster density enables prototyping and iteration in days rather than months.",
+    "source_quote": "a designer can prototype, get a custom part, revise it, and re-test in days, not months.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Cluster density is the most-cited factor by engineers and analysts working in the system.",
+    "source_quote": "Cluster density is the single most-cited factor by the engineers and analysts who actually work in this system.",
+    "timestamp": "para:6",
+    "source_reliability": "hearsay",
+    "confidence": "low",
+    "type": "opinion"
+  },
+  {
+    "claim": "China's vertically integrated supply chains span from raw materials through to final assembly and packaging in one region.",
+    "source_quote": "The end-to-end ecosystem — from raw materials and components through to final assembly and packaging — exists in one region.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Massive volume drives per-unit fixed costs down toward zero on each item.",
+    "source_quote": "Massive volume drives per-unit fixed costs (tooling, moulds, setup) down toward zero on each item.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Unit profit multiplied across tens of millions of units produces enormous aggregate profit.",
+    "source_quote": "the unit profit is tiny, but multiplied across tens of millions of units it is enormous in aggregate.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Automation has substituted for the rising wage bill in Chinese manufacturing.",
+    "source_quote": "automation has substituted for the rising wage bill",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "China uses export-tax rebates and coordinated planning as part of industrial policy.",
+    "source_quote": "plus export-tax rebates and coordinated planning, lower the all-in cost of getting goods to global markets.",
+    "timestamp": "para:10",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Low value-add, labour-intensive manufacturing has been migrating to Vietnam and Bangladesh.",
+    "source_quote": "Low value-add, labour-intensive manufacturing has been migrating to lower-wage neighbours (Vietnam, Bangladesh) as Chinese wages rose",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The pattern of industrial migration to lower-wage countries follows the flying geese model.",
+    "source_quote": "the \"flying geese\" pattern of industrial migration.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "China is increasingly competitive in medium- and higher-value manufacturing where ecosystem depth matters more than wage rates.",
+    "source_quote": "What remains competitive in China is increasingly medium- and higher-value manufacturing, where ecosystem depth, skilled labour, and integration matter more than wage rates.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Subsidies and state support distort true manufacturing costs in China.",
+    "source_quote": "subsidies and state support that distort true cost",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "fact"
+  },
+  {
+    "claim": "Rebuilding Western manufacturing depth would take decades rather than tariff cycles.",
+    "source_quote": "rebuilding that depth takes decades, not tariff cycles.",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "prediction"
+  },
+  {
+    "claim": "The West outsourced physical means of production including factories, tooling, cluster knowledge, and skilled technicians.",
+    "source_quote": "The West outsourced the physical means of production — the factories, the tooling, the cluster knowledge, the skilled technicians — for the convenience of margin and price",
+    "timestamp": "para:13",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "claim": "William Hooper was one of North Carolina's three signers of the Declaration of Independence",
+    "source_quote": "William Hooper — one of North Carolina's three signers",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "William Hooper died at age forty-eight",
+    "source_quote": "He died broke at forty-eight.",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "William Hooper was born in Boston on 28 June 1742",
+    "source_quote": "William Hooper was born in Boston on 28 June 1742, a child of the colonial elite.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper's father was a Scottish immigrant who became an Anglican (Church of England) minister",
+    "source_quote": "His father, also William Hooper, was a Scottish immigrant who had risen to become an Anglican (Church of England) minister",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper graduated from Harvard in 1760 at age eighteen",
+    "source_quote": "Boston Latin School, then Harvard, where he graduated in 1760 at eighteen.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper read law under James Otis Jr.",
+    "source_quote": "He read law under James Otis Jr.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "James Otis Jr. coined the phrase 'taxation without representation is tyranny'",
+    "source_quote": "James Otis Jr., the firebrand whose phrase — \"taxation without representation is tyranny\" — would become the revolution's rallying cry.",
+    "timestamp": "para:2",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper moved to North Carolina in 1764, first to Salisbury then Wilmington",
+    "source_quote": "In 1764 Hooper moved south to North Carolina — first Salisbury, then the port town of Wilmington — to build a law practice.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper married Anne Clark and they had several children",
+    "source_quote": "marriage to Anne Clark (they would have several children)",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper's family estate was called Finian",
+    "source_quote": "a fine house, and the estate the family called Finian.",
+    "timestamp": "para:3",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper's father remained a staunch Loyalist when the break with Britain came",
+    "source_quote": "The father — the Anglican minister, the man of the established church and the established crown — remained a staunch Loyalist.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper's father effectively disowned him due to his Patriot allegiance",
+    "source_quote": "the elder Hooper, unable to reconcile his son's treason against the king he served, effectively disowned him.",
+    "timestamp": "para:4",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper was elected to the North Carolina colonial assembly in 1773 representing Campbellton (later Fayetteville)",
+    "source_quote": "Hooper was elected to the North Carolina colonial assembly in 1773 (representing Campbellton, later Fayetteville)",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper was chosen in 1774 as one of North Carolina's three delegates to the Continental Congress",
+    "source_quote": "chosen in 1774 as one of the colony's three delegates to the Continental Congress.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper signed the Continental Association in Philadelphia",
+    "source_quote": "In Philadelphia he signed the Continental Association (the boycott of British goods)",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper signed the Declaration of Independence in the summer of 1776",
+    "source_quote": "and, in the summer of 1776, the Declaration of Independence.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Signing the Declaration was legally tantamount to signing one's own death warrant if the rebellion failed",
+    "source_quote": "To sign was, in legal reality, to sign his own death warrant if the rebellion failed — and everyone understood the British would hang traitors.",
+    "timestamp": "para:5",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper poured his private wealth and future earnings into the Patriot cause",
+    "source_quote": "He poured his private wealth and his future earnings into the Patriot cause, funding troops, supplies, and the machinery of rebellion out of his own pocket and credit.",
+    "timestamp": "para:6",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "In early 1781 the British launched a major campaign into the Carolinas",
+    "source_quote": "In early 1781, after years of the South being a secondary theatre, the British launched a major campaign into the Carolinas.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "British troops shelled and burned Hooper's estate at Finian when they occupied Wilmington",
+    "source_quote": "Troops shelled and burned his estate at Finian and put his Wilmington home to the torch",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "British forces destroyed two of Hooper's houses, his library, and his papers",
+    "source_quote": "two houses gone, his library and papers destroyed, his land ravaged.",
+    "timestamp": "para:7",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper became a fugitive for months, sheltered by sympathisers around Windsor and Edenton",
+    "source_quote": "For months he slipped from house to house, sheltered by sympathisers, hiding in the countryside around Windsor and Edenton while British and Loyalist forces sought prominent rebels.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper was separated from his wife and young children for long stretches during the war",
+    "source_quote": "He was separated from his wife and young children for long stretches, unable to return home, living on the run in a country whose independence he had declared but which was not yet won.",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "The historical record confirms the burning of Hooper's home under the 1781 occupation and an extended period of displacement",
+    "source_quote": "The historical record conservatively confirms the burning of his home under the 1781 occupation and an extended period of displacement",
+    "timestamp": "para:8",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper survived the war and lived to see independence won",
+    "source_quote": "Hooper survived the war. He lived to see independence won and the nation he had helped call into existence take its first uncertain steps.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper attempted to rebuild his law practice in the post-war depression but never regained his earlier prosperity",
+    "source_quote": "He attempted to rebuild a law practice in the post-war depression, but the prosperity of the 1760s never returned.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper died on 14 October 1790 in Hillsborough, North Carolina, aged forty-eight",
+    "source_quote": "He died on 14 October 1790 in Hillsborough, North Carolina, aged just forty-eight",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "Hooper died only fourteen years after signing the Declaration of Independence",
+    "source_quote": "only fourteen years after he had signed the document that pledged his life, his fortune, and his sacred honor.",
+    "timestamp": "para:9",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The Declaration's promise includes 'life, liberty, and the pursuit of happiness'",
+    "source_quote": "The Declaration's promise — \"life, liberty, and the pursuit of happiness\" — reads as clean principle",
+    "timestamp": "para:11",
+    "source_reliability": "primary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "The biographical record confirms the Loyalist father, the Otis tutelage, the 1781 burning of his home, and the 1790 death at forty-eight",
+    "source_quote": "History is verified here against the biographical record (the Loyalist father, the Otis tutelage, the 1781 burning of his home, the 1790 death at forty-eight)",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "fact"
+  },
+  {
+    "claim": "There were fifty-six signers of the Declaration of Independence",
+    "source_quote": "fifty-six names, one bronze idea.",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "high",
+    "type": "statistic"
+  },
+  {
+    "claim": "Hooper traded his family, fortune, home, health, and almost his life for American independence",
+    "source_quote": "William Hooper — one of North Carolina's three signers — traded his family, his fortune, his home, his health, and almost his life for a country he would barely live to see.",
+    "timestamp": "para:1",
+    "source_reliability": "secondary",
+    "confidence": "medium",
+    "type": "opinion"
+  },
+  {
+    "claim": "Sovereignty is a balance sheet of sacrifice including family, fortune, home, health, and years",
+    "source_quote": "Sovereignty, personal or national, is not a slogan or a bumper sticker. It is a balance sheet of sacrifice: family, fortune, home, health, years.",
+    "timestamp": "para:11",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "opinion"
+  },
+  {
+    "claim": "Freedom is never free and those who declare it are the ones who pay for it",
+    "source_quote": "freedom is never free — that the people who declare it are the ones who pay for it, and that remembering the price is part of keeping the inheritance.",
+    "timestamp": "para:12",
+    "source_reliability": "secondary",
+    "confidence": "low",
+    "type": "opinion"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "claims": [
+    {
+      "claim": "He died at forty-eight, broke, disowned by his father",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "The evidence map supports that Hooper died at forty-eight and was 'effectively disowned' (medium confidence), but the script sharpens this to a flat 'disowned,' which is a stronger and less qualified claim than the evidence supports."
+    },
+    {
+      "claim": "James Otis Junior is the man credited with coining the phrase taxation without representation is tyranny",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "The evidence map lists this attribution at only medium confidence, meaning the claim is disputed or uncertain; the script presents it as established fact without qualification."
+    },
+    {
+      "claim": "He went first to Salisbury, then settled in Wilmington",
+      "confidence": "medium",
+      "type": "name",
+      "reason": "The evidence map says Hooper moved 'first Salisbury, then the port town of Wilmington,' but does not explicitly state he 'settled' in Wilmington; the script adds a permanence implication not clearly supported."
+    },
+    {
+      "claim": "He established a family estate called Finian",
+      "confidence": "medium",
+      "type": "name",
+      "reason": "The evidence map refers to 'the estate the family called Finian' and 'a fine house,' but does not explicitly state Hooper himself 'established' the estate; the script's framing as a deliberate founding act is an embellishment."
+    },
+    {
+      "claim": "His house was destroyed. His property was gone.",
+      "confidence": "medium",
+      "type": "number",
+      "reason": "The evidence map states 'two houses gone, his library and papers destroyed, his land ravaged,' indicating multiple houses were destroyed; the script's singular 'his house was destroyed' understates the documented scope of destruction."
+    },
+    {
+      "claim": "the government he built with that signature never reimbursed him for the trouble",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map contains no claim about whether the new government reimbursed Hooper or settled any debts; this is an unsupported assertion presented as fact."
+    },
+    {
+      "claim": "That nation watched him die broke at the age of forty-eight. The revolution he bankrupted himself for did not reimburse him.",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map confirms Hooper died at forty-eight and that his prosperity never returned, but contains no evidence about whether the nation or government failed to reimburse him; this is editorial framing presented as historical fact."
+    },
+    {
+      "claim": "his bank account emptied",
+      "confidence": "high",
+      "type": "unattributed_expert",
+      "reason": "The evidence map makes no mention of any bank account; this is an anachronistic and unsupported detail not found in any source."
+    }
+  ],
+  "high_confidence": 3,
+  "threshold": 3,
+  "passed": true,
+  "status": "ok"
+}

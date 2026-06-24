@@ -1,0 +1,26 @@
+{
+  "claims": [
+    {
+      "claim": "thirty years of cluster development",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The evidence map does not mention 'thirty years' of cluster development; this specific duration is absent from all sourced claims."
+    },
+    {
+      "claim": "thirty years of supply chain gravity",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The 'thirty years' figure appears twice in the script but is not supported or referenced anywhere in the evidence map."
+    },
+    {
+      "claim": "one city is using it better than everyone else",
+      "confidence": "medium",
+      "type": "number",
+      "reason": "The evidence map references multiple cities (Shenzhen, Dongguan, Yiwu) and does not support the script's framing of a singular 'one city' as the sole locus of advantage."
+    }
+  ],
+  "high_confidence": 2,
+  "threshold": 3,
+  "passed": true,
+  "status": "ok"
+}

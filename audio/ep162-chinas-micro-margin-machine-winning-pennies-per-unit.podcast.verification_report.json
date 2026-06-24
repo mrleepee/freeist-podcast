@@ -1,0 +1,44 @@
+{
+  "claims": [
+    {
+      "claim": "By the mid-two thousands tens, Chinese manufacturing wages had surpassed those in Mexico and Brazil.",
+      "confidence": "high",
+      "type": "date",
+      "reason": "The script uses the non-standard phrase 'mid-two thousands tens,' which is ambiguous and does not clearly match the evidence map's 'mid-2010s.'"
+    },
+    {
+      "claim": "A fraction of a cent in profit multiplied across tens of millions of units produces enormous aggregate profit.",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "The script paraphrases the evidence map's 'unit profit is tiny' as 'a fraction of a cent,' which is a slight rephrasing not explicitly supported by the exact source quote."
+    },
+    {
+      "claim": "The next time you pick up something cheap and ubiquitous, remember it cost less than a cent of profit to make.",
+      "confidence": "high",
+      "type": "number",
+      "reason": "The script generalizes the 'under one cent' profit figure to all cheap, ubiquitous products, whereas the evidence map characterizes this as a model for commodity hardware at immense scale, not a universal rule for all inexpensive items."
+    },
+    {
+      "claim": "you have a system where the state is actively subsidizing the conditions that make those micro margins viable.",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "The evidence map mentions export-tax rebates, coordinated planning, and subsidies that 'distort true cost,' but does not go as far as the script's claim that the state is 'actively subsidizing the conditions' to make micro margins specifically viable."
+    },
+    {
+      "claim": "The Chinese model is not immortal.",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "This is an editorial judgment by the script writer. While the evidence map discusses migration of low-value manufacturing, it does not make a claim about the overall model's mortality or lifespan."
+    },
+    {
+      "claim": "The margin per unit is not the point. The margin per million units is the point.",
+      "confidence": "medium",
+      "type": "quote",
+      "reason": "This is an editorial rhetorical flourish by the script writer. The evidence map states that unit profit multiplied across tens of millions of units is enormous, but does not frame it as 'the point' of the system."
+    }
+  ],
+  "high_confidence": 2,
+  "threshold": 3,
+  "passed": true,
+  "status": "ok"
+}
