@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 26 Jun 2026 11:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:06:16 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,27 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>The Amish Have More Advanced Refrigeration Than Most of Us - Off-Grid Cold Without the Grid</title>
+      <description>A viral claim that the Amish have more advanced refrigeration technology than the rest of us contains a kernel of truth. While their methods aren't higher-tech than a modern fridge, they are durable, grid-independent, and proven over generations of off-grid living. The Amish rely on a combination of time-tested techniques, including the ancient practice of harvesting winter ice and storing it in insulated buildings to keep food cold year-round.
+
+Links:
+https://amishamerica.com/3-ways-amish-keep-food-cold/
+https://www.amishfurniturefactory.com/amishblog/do-amish-have-refrigerators/</description>
+      <pubDate>Fri, 26 Jun 2026 12:03:48 +0000</pubDate>
+      <itunes:duration>04:08</itunes:duration>
+      <itunes:summary>A viral claim that the Amish have more advanced refrigeration technology than the rest of us contains a kernel of truth. While their methods aren't higher-tech than a modern fridge, they are durable, grid-independent, and proven over generations of off-grid living. The Amish rely on a combination of time-tested techniques, including the ancient practice of harvesting winter ice and storing it in insulated buildings to keep food cold year-round.
+
+Links:
+https://amishamerica.com/3-ways-amish-keep-food-cold/
+https://www.amishfurniturefactory.com/amishblog/do-amish-have-refrigerators/</itunes:summary>
+      <itunes:episode>168</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep168-amish-have-more-advanced-refrigeration-than-most-us.podcast.mp3" length="3568173" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep168-amish-have-more-advanced-refrigeration-than-most-us</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep168-amish-have-more-advanced-refrigeration-than-most-us.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>The Amazon Tribe With No Numbers, No Art, No Religion - What the Piraha Reveal About the Mind</title>
       <description>The Pirahã are a small Indigenous group of a few hundred hunter-gatherers living along the Maici River in the Brazilian Amazon. Studied by linguist Daniel Everett, who lived among them for decades, the Pirahã challenge assumptions most of the world treats as universal — from language and recursion to counting, art, and religion — raising sharp questions about what is truly essential to being human.
