@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sat, 27 Jun 2026 11:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:39:18 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,27 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Iceland Let Its Banks Fail and Jailed the Bankers (2008)</title>
+      <description>In October 2008, while governments worldwide scrambled to bail out their banks, Iceland let its banks fail and then went after the people who ran them. With three banks holding assets nearly ten times the country's GDP, Iceland chose not to socialize private financial losses — making it a rare case study in the road not taken.
+
+Links:
+https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis
+https://en.wikipedia.org/wiki/Icesave_dispute</description>
+      <pubDate>Sat, 27 Jun 2026 11:36:14 +0000</pubDate>
+      <itunes:duration>05:03</itunes:duration>
+      <itunes:summary>In October 2008, while governments worldwide scrambled to bail out their banks, Iceland let its banks fail and then went after the people who ran them. With three banks holding assets nearly ten times the country's GDP, Iceland chose not to socialize private financial losses — making it a rare case study in the road not taken.
+
+Links:
+https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis
+https://en.wikipedia.org/wiki/Icesave_dispute</itunes:summary>
+      <itunes:episode>170</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep170-iceland-let-its-banks-fail-jailed-bankers-2008.podcast.mp3" length="4145421" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep170-iceland-let-its-banks-fail-jailed-bankers-2008</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep170-iceland-let-its-banks-fail-jailed-bankers-2008.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Dan Martell's 3 Levels of Building an AI-Leveraged Business</title>
       <description>Dan Martell — a serial SaaS founder, investor, and the author of Buy Back Your Time — lays out a three-level framework for how a solo operator can use AI to build a business, from landing a first client to running a full enterprise. Each level represents a rung of leverage, replacing a different kind of human effort with a system. He frames it as a strategic mental model rather than a guaranteed outcome.
