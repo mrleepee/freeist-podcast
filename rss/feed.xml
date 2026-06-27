@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Fri, 26 Jun 2026 12:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:16:37 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,27 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Dan Martell's 3 Levels of Building an AI-Leveraged Business</title>
+      <description>Dan Martell — a serial SaaS founder, investor, and the author of Buy Back Your Time — lays out a three-level framework for how a solo operator can use AI to build a business, from landing a first client to running a full enterprise. Each level represents a rung of leverage, replacing a different kind of human effort with a system. He frames it as a strategic mental model rather than a guaranteed outcome.
+
+Links:
+https://en.wikipedia.org/wiki/Theory_of_constraints
+https://www.buybackyourtime.com/book</description>
+      <pubDate>Sat, 27 Jun 2026 11:12:58 +0000</pubDate>
+      <itunes:duration>04:10</itunes:duration>
+      <itunes:summary>Dan Martell — a serial SaaS founder, investor, and the author of Buy Back Your Time — lays out a three-level framework for how a solo operator can use AI to build a business, from landing a first client to running a full enterprise. Each level represents a rung of leverage, replacing a different kind of human effort with a system. He frames it as a strategic mental model rather than a guaranteed outcome.
+
+Links:
+https://en.wikipedia.org/wiki/Theory_of_constraints
+https://www.buybackyourtime.com/book</itunes:summary>
+      <itunes:episode>169</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep169-dan-martells-3-levels-building-ai-leveraged-business.podcast.mp3" length="3528501" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep169-dan-martells-3-levels-building-ai-leveraged-business</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep169-dan-martells-3-levels-building-ai-leveraged-business.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>The Amish Have More Advanced Refrigeration Than Most of Us - Off-Grid Cold Without the Grid</title>
       <description>A viral claim that the Amish have more advanced refrigeration technology than the rest of us contains a kernel of truth. While their methods aren't higher-tech than a modern fridge, they are durable, grid-independent, and proven over generations of off-grid living. The Amish rely on a combination of time-tested techniques, including the ancient practice of harvesting winter ice and storing it in insulated buildings to keep food cold year-round.

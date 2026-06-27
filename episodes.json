@@ -932,5 +932,11 @@
     "title": "The Amish Have More Advanced Refrigeration Than Most of Us - Off-Grid Cold Without the Grid",
     "description": "A viral claim that the Amish have more advanced refrigeration technology than the rest of us contains a kernel of truth. While their methods aren't higher-tech than a modern fridge, they are durable, grid-independent, and proven over generations of off-grid living. The Amish rely on a combination of time-tested techniques, including the ancient practice of harvesting winter ice and storing it in insulated buildings to keep food cold year-round.\n\nLinks:\nhttps://amishamerica.com/3-ways-amish-keep-food-cold/\nhttps://www.amishfurniturefactory.com/amishblog/do-amish-have-refrigerators/",
     "guid": "freeist:ep168-amish-have-more-advanced-refrigeration-than-most-us"
+  },
+  "ep169-dan-martells-3-levels-building-ai-leveraged-business": {
+    "lufs": -16.0,
+    "title": "Dan Martell's 3 Levels of Building an AI-Leveraged Business",
+    "description": "Dan Martell — a serial SaaS founder, investor, and the author of Buy Back Your Time — lays out a three-level framework for how a solo operator can use AI to build a business, from landing a first client to running a full enterprise. Each level represents a rung of leverage, replacing a different kind of human effort with a system. He frames it as a strategic mental model rather than a guaranteed outcome.\n\nLinks:\nhttps://en.wikipedia.org/wiki/Theory_of_constraints\nhttps://www.buybackyourtime.com/book",
+    "guid": "freeist:ep169-dan-martells-3-levels-building-ai-leveraged-business"
   }
 }
