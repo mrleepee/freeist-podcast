@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sat, 27 Jun 2026 11:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:32:32 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -341,6 +341,19 @@ https://www.britannica.com/place/Tbilisi</itunes:summary>
       <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep150-financial-physics-common-sense-finance-take.podcast.mp3" length="2831757" type="audio/mpeg"/>
       <guid isPermaLink="false">freeist:ep150-financial-physics-attention-motherfuckers-dig-that-wax-out</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep150-financial-physics-common-sense-finance-take.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Pavel Durov's Titanic Warning for Europe</title>
+      <description>Pavel Durov compares Europe's trajectory to the Titanic - a blunt warning from the Telegram founder about where he sees the continent heading, and the sovereignty-by-exit logic behind it. We unpack the analogy, what he argues is driving Europe's direction, and why the exit mindset keeps spreading.</description>
+      <pubDate>Fri, 19 Jun 2026 11:49:12 +0000</pubDate>
+      <itunes:duration>03:07</itunes:duration>
+      <itunes:summary>Pavel Durov compares Europe's trajectory to the Titanic - a blunt warning from the Telegram founder about where he sees the continent heading, and the sovereignty-by-exit logic behind it. We unpack the analogy, what he argues is driving Europe's direction, and why the exit mindset keeps spreading.</itunes:summary>
+      <itunes:episode>149</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.mp3" length="2752197" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep149-southampton-times-telegram-founder-pavel-durov-compares-lack</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep149-southampton-times-telegram-founder-pavel-durov-compares-lack.podcast.txt" type="text/plain"/>
     </item>
     <item>
       <title>Panama Real Estate: Is Panama City Entering a New Bull Market? (Fact Report)</title>
