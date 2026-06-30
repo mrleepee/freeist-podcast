@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.0 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -16.0,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "1 risky tokens, all covered",
+      "metrics": {
+        "risky_count": 1,
+        "covered_count": 1,
+        "uncovered_count": 0,
+        "uncovered_tokens": []
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 63.9 numbers/1k, 0.0 sources/1k",
+      "metrics": {
+        "word_count": 642,
+        "filler_phrases": [],
+        "numbers": 41,
+        "numbers_per_1k": 63.9,
+        "named_sources": 0,
+        "sources_per_1k": 0.0
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "We have been building sovereign AI agent stacks in this series. We covered the v zero point fourteen",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}

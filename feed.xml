@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sun, 28 Jun 2026 16:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:53:17 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,46 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Hermes Agent Latest Update: The 8 New Features</title>
+      <description>Hermes Agent's v0.17.0 — the 'Reach Release' (June 19, 2026) — shipped eight features extending where and how the open-source agent operates: native iMessage via Photon Spectrum, a privacy-preserving Raft agent-network gateway, a deepened desktop app, non-blocking background subagents, image-to-image editing, question-driven Automation Blueprints, the grok-composer fast coding model, and a Curator optimization that ends silent background token spend. Each feature is grounded in the official release notes, not the demo hype.
+
+Links:
+https://github.com/NousResearch/hermes-agent/releases</description>
+      <pubDate>Tue, 30 Jun 2026 06:10:07 +0000</pubDate>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:summary>Hermes Agent's v0.17.0 — the 'Reach Release' (June 19, 2026) — shipped eight features extending where and how the open-source agent operates: native iMessage via Photon Spectrum, a privacy-preserving Raft agent-network gateway, a deepened desktop app, non-blocking background subagents, image-to-image editing, question-driven Automation Blueprints, the grok-composer fast coding model, and a Curator optimization that ends silent background token spend. Each feature is grounded in the official release notes, not the demo hype.
+
+Links:
+https://github.com/NousResearch/hermes-agent/releases</itunes:summary>
+      <itunes:episode>171</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep171-hermes-agent-latest-update-8-new-features.podcast.mp3" length="4250613" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep171-hermes-agent-latest-update-8-new-features</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep171-hermes-agent-latest-update-8-new-features.podcast.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Private Express Trusts: The Constitutional Common-Law Structure the Wealthy Use and Why It's Contested</title>
+      <description>A 'private express trust' is a real three-party common-law vehicle — but the version sold online as 'constitutional' and 'non-statutory,' supposedly immune from state trust code and tax law, does not hold up. The Contract Clause limits state legislatures, not private parties; the Supreme Court rejected contract-based immunity from regulation in 1977 (U.S. Trust Co. v. New Jersey), and the IRS classifies 'pure' and 'constitutional' trust schemes as abusive, prosecutable tax evasion. Legitimate asset-protection tools — irrevocable trusts, Domestic Asset Protection Trusts — work within the law; the magic-words version does not. Educational only, not legal, tax, or financial advice.
+
+Links:
+https://www.irs.gov/businesses/small-businesses-self-employed/abusive-trust-tax-evasion-schemes
+https://www.law.cornell.edu/constitution-conan/article-1/section-10/clause-1/overview-of-the-contract-clause</description>
+      <pubDate>Tue, 30 Jun 2026 06:08:04 +0000</pubDate>
+      <itunes:duration>07:14</itunes:duration>
+      <itunes:summary>A 'private express trust' is a real three-party common-law vehicle — but the version sold online as 'constitutional' and 'non-statutory,' supposedly immune from state trust code and tax law, does not hold up. The Contract Clause limits state legislatures, not private parties; the Supreme Court rejected contract-based immunity from regulation in 1977 (U.S. Trust Co. v. New Jersey), and the IRS classifies 'pure' and 'constitutional' trust schemes as abusive, prosecutable tax evasion. Legitimate asset-protection tools — irrevocable trusts, Domestic Asset Protection Trusts — work within the law; the magic-words version does not. Educational only, not legal, tax, or financial advice.
+
+Links:
+https://www.irs.gov/businesses/small-businesses-self-employed/abusive-trust-tax-evasion-schemes
+https://www.law.cornell.edu/constitution-conan/article-1/section-10/clause-1/overview-of-the-contract-clause</itunes:summary>
+      <itunes:episode>172</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep172-private-express-trusts-constitutional-common-law-structure-wealthy.podcast.mp3" length="6057909" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep172-private-express-trusts-constitutional-common-law-structure-wealthy</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep172-private-express-trusts-constitutional-common-law-structure-wealthy.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Iceland Let Its Banks Fail and Jailed the Bankers (2008)</title>
       <description>In October 2008, while governments worldwide scrambled to bail out their banks, Iceland let its banks fail and then went after the people who ran them. With three banks holding assets nearly ten times the country's GDP, Iceland chose not to socialize private financial losses — making it a rare case study in the road not taken.

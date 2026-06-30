@@ -944,5 +944,17 @@
     "title": "Iceland Let Its Banks Fail and Jailed the Bankers (2008)",
     "description": "In October 2008, while governments worldwide scrambled to bail out their banks, Iceland let its banks fail and then went after the people who ran them. With three banks holding assets nearly ten times the country's GDP, Iceland chose not to socialize private financial losses — making it a rare case study in the road not taken.\n\nLinks:\nhttps://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis\nhttps://en.wikipedia.org/wiki/Icesave_dispute",
     "guid": "freeist:ep170-iceland-let-its-banks-fail-jailed-bankers-2008"
+  },
+  "ep171-hermes-agent-latest-update-8-new-features": {
+    "lufs": -16.0,
+    "title": "Hermes Agent Latest Update: The 8 New Features",
+    "description": "Hermes Agent's v0.17.0 — the 'Reach Release' (June 19, 2026) — shipped eight features extending where and how the open-source agent operates: native iMessage via Photon Spectrum, a privacy-preserving Raft agent-network gateway, a deepened desktop app, non-blocking background subagents, image-to-image editing, question-driven Automation Blueprints, the grok-composer fast coding model, and a Curator optimization that ends silent background token spend. Each feature is grounded in the official release notes, not the demo hype.\n\nLinks:\nhttps://github.com/NousResearch/hermes-agent/releases",
+    "guid": "freeist:ep171-hermes-agent-latest-update-8-new-features"
+  },
+  "ep172-private-express-trusts-constitutional-common-law-structure-wealthy": {
+    "lufs": -16.0,
+    "title": "Private Express Trusts: The Constitutional Common-Law Structure the Wealthy Use and Why It's Contested",
+    "description": "A 'private express trust' is a real three-party common-law vehicle — but the version sold online as 'constitutional' and 'non-statutory,' supposedly immune from state trust code and tax law, does not hold up. The Contract Clause limits state legislatures, not private parties; the Supreme Court rejected contract-based immunity from regulation in 1977 (U.S. Trust Co. v. New Jersey), and the IRS classifies 'pure' and 'constitutional' trust schemes as abusive, prosecutable tax evasion. Legitimate asset-protection tools — irrevocable trusts, Domestic Asset Protection Trusts — work within the law; the magic-words version does not. Educational only, not legal, tax, or financial advice.\n\nLinks:\nhttps://www.irs.gov/businesses/small-businesses-self-employed/abusive-trust-tax-evasion-schemes\nhttps://www.law.cornell.edu/constitution-conan/article-1/section-10/clause-1/overview-of-the-contract-clause",
+    "guid": "freeist:ep172-private-express-trusts-constitutional-common-law-structure-wealthy"
   }
 }
