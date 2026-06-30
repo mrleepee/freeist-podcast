@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Tue, 30 Jun 2026 07:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:44:53 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,29 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Understanding Communism: How Marxism Survived Its Own Economic Failures</title>
+      <description>Larry Alex Taunton traces how Marxist ideology adapted after the violent proletarian revolution Marx predicted never arrived in the West. Democratic reforms and a Bible-centred Christian culture gave workers hope and a stake in their future, so the ideology changed tactics. Italian Marxist Antonio Gramsci concluded that Western institutions — family, education, religion — were too strong for a direct assault, and proposed a &quot;Trojan Horse&quot; of cultural infiltration: undermine society's pillars from within until it collapses. The modern tools of that strategy, Taunton argues, are critical race theory and intersectionality, which split society into identity-based groups of oppressor and oppressed to assign collective guilt and justify seizing power and assets under the banner of &quot;social justice.&quot; He frames this as a cynical exploitation of human nature — greed, the urge to control, and the desire to blame personal failure on others — and notes that Marxist regimes killed over 125 million people across dozens of nations in the twentieth century. His closing claim: a large Christian population has historically been the brake on this drift, because Marxism is inherently godless and Christianity is the load-bearing block of Western, free society.
+
+Links:
+https://en.wikipedia.org/wiki/Antonio_Gramsci
+https://en.wikipedia.org/wiki/Mass_killings_under_communist_states
+https://www.marxists.org/archive/marx/works/1848/communist-manifesto/</description>
+      <pubDate>Tue, 30 Jun 2026 08:37:31 +0000</pubDate>
+      <itunes:duration>03:23</itunes:duration>
+      <itunes:summary>Larry Alex Taunton traces how Marxist ideology adapted after the violent proletarian revolution Marx predicted never arrived in the West. Democratic reforms and a Bible-centred Christian culture gave workers hope and a stake in their future, so the ideology changed tactics. Italian Marxist Antonio Gramsci concluded that Western institutions — family, education, religion — were too strong for a direct assault, and proposed a &quot;Trojan Horse&quot; of cultural infiltration: undermine society's pillars from within until it collapses. The modern tools of that strategy, Taunton argues, are critical race theory and intersectionality, which split society into identity-based groups of oppressor and oppressed to assign collective guilt and justify seizing power and assets under the banner of &quot;social justice.&quot; He frames this as a cynical exploitation of human nature — greed, the urge to control, and the desire to blame personal failure on others — and notes that Marxist regimes killed over 125 million people across dozens of nations in the twentieth century. His closing claim: a large Christian population has historically been the brake on this drift, because Marxism is inherently godless and Christianity is the load-bearing block of Western, free society.
+
+Links:
+https://en.wikipedia.org/wiki/Antonio_Gramsci
+https://en.wikipedia.org/wiki/Mass_killings_under_communist_states
+https://www.marxists.org/archive/marx/works/1848/communist-manifesto/</itunes:summary>
+      <itunes:episode>173</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep173-larry-alex-taunton-understanding-communism-sudden-advance-communism.podcast.mp3" length="2960877" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep173-larry-alex-taunton-understanding-communism-sudden-advance-communism</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep173-larry-alex-taunton-understanding-communism-sudden-advance-communism.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Hermes Agent Latest Update: The 8 New Features</title>
       <description>Hermes Agent's v0.17.0 — the 'Reach Release' (June 19, 2026) — shipped eight features extending where and how the open-source agent operates: native iMessage via Photon Spectrum, a privacy-preserving Raft agent-network gateway, a deepened desktop app, non-blocking background subagents, image-to-image editing, question-driven Automation Blueprints, the grok-composer fast coding model, and a Curator optimization that ends silent background token spend. Each feature is grounded in the official release notes, not the demo hype.
