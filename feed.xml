@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Wed, 01 Jul 2026 12:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:18:23 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -23,7 +23,7 @@ That principle was modernized in 2011, when Australian designer Edward Linacre (
 Links:
 https://en.wikipedia.org/wiki/Qanat
 https://www.theguardian.com/technology/2011/nov/20/edward-linacre-airdrop-bright-idea</description>
-      <pubDate>Wed, 01 Jul 2026 12:10:11 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 17:17:45 +0000</pubDate>
       <itunes:duration>03:10</itunes:duration>
       <itunes:summary>Commercial atmospheric water generators pull drinking water from humidity, but a $2,000 machine running on grid power 24/7 is a liability, not a solution. The passive alternative is ancient: by 500 BC the Persian Empire used underground channels called qanats to deliver water with no electricity and no moving parts, relying on the simple physics that warm air holds more moisture than cool air. Draw warm, humid air underground and the cool soil chills it below its dew point, forcing the moisture to condense into liquid water.
 
@@ -35,7 +35,7 @@ https://www.theguardian.com/technology/2011/nov/20/edward-linacre-airdrop-bright
       <itunes:episode>174</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep174-black-sheep-forgotten-water-harvesting-method-that-actually.podcast.mp3" length="2752797" type="audio/mpeg"/>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep174-black-sheep-forgotten-water-harvesting-method-that-actually.podcast.mp3" length="2773749" type="audio/mpeg"/>
       <guid isPermaLink="false">freeist:ep174-black-sheep-forgotten-water-harvesting-method-that-actually</guid>
       <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep174-black-sheep-forgotten-water-harvesting-method-that-actually.podcast.txt" type="text/plain"/>
     </item>

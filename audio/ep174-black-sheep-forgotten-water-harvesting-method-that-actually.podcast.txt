@@ -6,7 +6,7 @@ The principle is ancient. By five hundred years before Christ, the Persian Empir
 
 Here is the exact mechanism. Warm air holds more moisture than cool air. Take warm, humid surface air and funnel it underground. The cool soil chills that air below its dew point. The air can no longer hold its moisture. Water condenses into liquid.
 
-In twenty eleven, an Australian student named Edward Linnaker won the James Dyson Award for proving this ancient concept works in a modern backyard. His passive device produced a liter of water a day during a severe drought. No pumps. No grid. No compressors.
+In twenty eleven, an Australian student named Edward Linacre won the James Dyson Award for his Airdrop device, proving this ancient concept works in a modern backyard. His passive device produced a liter of water a day during a severe drought. No pumps. No grid. No compressors.
 
 You can build a version of this yourself for about fifty dollars. Dig a hole two feet deep. At this depth, the soil temperature is cool and stable. Place a copper coil at the bottom. Copper has high thermal conductivity, so it gets cold fast and stays cold. Connect the top of that copper coil to a plastic pipe sitting above ground to catch the warm air. Run the other end of the copper coil into a buried, food-grade bucket to collect the condensation.
 
