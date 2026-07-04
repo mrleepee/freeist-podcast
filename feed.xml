@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sat, 04 Jul 2026 14:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:40:01 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,27 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>Alex Karp's Davos Pitch: Palantir, Defense AI, and the Winner-Take-Most Argument</title>
+      <description>At the World Economic Forum in Davos, BlackRock's Larry Fink sat down with Alex Karp, Palantir's co-founder and CEO, for what was framed as a discussion about AI but functioned as a high-profile sales pitch. Karp makes the winner-take-most case that battlefield AI tooling translates cleanly to civilian enterprise, that cleared-talent scarcity locks in Palantir's moat, and that AI will elevate rather than displace workers. We treat each claim as his assertion, not established fact, separating the defensible points (cleared-talent shortage, the US-China-Europe AI divergence, AI's reality in defense) from the self-serving framing, and close on what a skeptic would say about a defense contractor arguing its own software is the answer to civilization's hardest problems.
+
+Links:
+https://en.wikipedia.org/wiki/Palantir_Technologies
+https://www.weforum.org/stories/2026/01/davos-2026/</description>
+      <pubDate>Sat, 04 Jul 2026 14:32:38 +0000</pubDate>
+      <itunes:duration>05:29</itunes:duration>
+      <itunes:summary>At the World Economic Forum in Davos, BlackRock's Larry Fink sat down with Alex Karp, Palantir's co-founder and CEO, for what was framed as a discussion about AI but functioned as a high-profile sales pitch. Karp makes the winner-take-most case that battlefield AI tooling translates cleanly to civilian enterprise, that cleared-talent scarcity locks in Palantir's moat, and that AI will elevate rather than displace workers. We treat each claim as his assertion, not established fact, separating the defensible points (cleared-talent shortage, the US-China-Europe AI divergence, AI's reality in defense) from the self-serving framing, and close on what a skeptic would say about a defense contractor arguing its own software is the answer to civilization's hardest problems.
+
+Links:
+https://en.wikipedia.org/wiki/Palantir_Technologies
+https://www.weforum.org/stories/2026/01/davos-2026/</itunes:summary>
+      <itunes:episode>175</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep175-alex-karps-davos-pitch-palantir-defense-ai-winner.podcast.mp3" length="4636461" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep175-alex-karps-davos-pitch-palantir-defense-ai-winner</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep175-alex-karps-davos-pitch-palantir-defense-ai-winner.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>The Forgotten Water Harvesting Method That Actually Works</title>
       <description>Commercial atmospheric water generators pull drinking water from humidity, but a $2,000 machine running on grid power 24/7 is a liability, not a solution. The passive alternative is ancient: by 500 BC the Persian Empire used underground channels called qanats to deliver water with no electricity and no moving parts, relying on the simple physics that warm air holds more moisture than cool air. Draw warm, humid air underground and the cool soil chills it below its dew point, forcing the moisture to condense into liquid water.
