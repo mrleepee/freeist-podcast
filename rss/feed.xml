@@ -5,7 +5,7 @@
     <description>Short-form podcast covering technology, finance, and global affairs.</description>
     <language>en</language>
     <link>https://mrleepee.github.io/freeist-podcast/</link>
-    <lastBuildDate>Sat, 04 Jul 2026 14:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:57:39 +0000</lastBuildDate>
     <itunes:type>episodic</itunes:type>
     <podcast:guid>cca96d73-72ed-507f-b329-802e26eb0899</podcast:guid>
     <itunes:author>Señora Freedom</itunes:author>
@@ -14,6 +14,29 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>No Name, No Case: The Fifth Amendment Strategy That Stalled a Courtroom</title>
+      <description>Jevin Martinez walked into a U.S. courtroom expecting to be arrested and walked out a free man, having said almost nothing. The video frames this as a working legal loophole built on two precise U.S. legal hooks: the Fifth Amendment's privilege against self-incrimination, and the federal perjury statute for sworn affidavits. We lay out the mechanics exactly as the video argues them — refusing to state one's name to withhold consent to jurisdiction, then filing sworn affidavits under 18 U.S.C. § 1623 to prove appearance — while flagging the relevant controlling law. The Supreme Court's decision in Hiibel v. Sixth Judicial District Court of Nevada, 542 U.S. 177 (2004), governs when a person can be compelled to identify themselves, and we cite the actual statutory text and case so listeners can read the primary sources rather than take the tactic on faith. We treat the 'stalemate' result as the video's claim, not as established or reliably repeatable legal advice.
+
+Links:
+https://constitution.congress.gov/constitution/amendment-5/
+https://www.law.cornell.edu/supremecourt/text/03-5554
+https://www.law.cornell.edu/uscode/text/18/1623</description>
+      <pubDate>Wed, 15 Jul 2026 08:53:52 +0000</pubDate>
+      <itunes:duration>04:00</itunes:duration>
+      <itunes:summary>Jevin Martinez walked into a U.S. courtroom expecting to be arrested and walked out a free man, having said almost nothing. The video frames this as a working legal loophole built on two precise U.S. legal hooks: the Fifth Amendment's privilege against self-incrimination, and the federal perjury statute for sworn affidavits. We lay out the mechanics exactly as the video argues them — refusing to state one's name to withhold consent to jurisdiction, then filing sworn affidavits under 18 U.S.C. § 1623 to prove appearance — while flagging the relevant controlling law. The Supreme Court's decision in Hiibel v. Sixth Judicial District Court of Nevada, 542 U.S. 177 (2004), governs when a person can be compelled to identify themselves, and we cite the actual statutory text and case so listeners can read the primary sources rather than take the tactic on faith. We treat the 'stalemate' result as the video's claim, not as established or reliably repeatable legal advice.
+
+Links:
+https://constitution.congress.gov/constitution/amendment-5/
+https://www.law.cornell.edu/supremecourt/text/03-5554
+https://www.law.cornell.edu/uscode/text/18/1623</itunes:summary>
+      <itunes:episode>176</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://mrleepee.github.io/freeist-podcast/audio/ep176-burnthecorporatefiction-no-name-no-case-this-jevon-martinez.podcast.mp3" length="3405789" type="audio/mpeg"/>
+      <guid isPermaLink="false">freeist:ep176-burnthecorporatefiction-no-name-no-case-this-jevon-martinez</guid>
+      <podcast:transcript url="https://mrleepee.github.io/freeist-podcast/audio/ep176-burnthecorporatefiction-no-name-no-case-this-jevon-martinez.podcast.txt" type="text/plain"/>
+    </item>
     <item>
       <title>Alex Karp's Davos Pitch: Palantir, Defense AI, and the Winner-Take-Most Argument</title>
       <description>At the World Economic Forum in Davos, BlackRock's Larry Fink sat down with Alex Karp, Palantir's co-founder and CEO, for what was framed as a discussion about AI but functioned as a high-profile sales pitch. Karp makes the winner-take-most case that battlefield AI tooling translates cleanly to civilian enterprise, that cleared-talent scarcity locks in Palantir's moat, and that AI will elevate rather than displace workers. We treat each claim as his assertion, not established fact, separating the defensible points (cleared-talent shortage, the US-China-Europe AI divergence, AI's reality in defense) from the self-serving framing, and close on what a skeptic would say about a defense contractor arguing its own software is the answer to civilization's hardest problems.

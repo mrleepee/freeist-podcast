@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "publish_blocked": false,
+  "checks": {
+    "loudness": {
+      "passed": true,
+      "reason": "LUFS=-16.0 TP=-1.4",
+      "metrics": {
+        "integrated_lufs": -16.0,
+        "true_peak_dbfs": -1.4
+      }
+    },
+    "pronunciation": {
+      "passed": true,
+      "reason": "no risky tokens found",
+      "metrics": {
+        "risky_count": 0
+      }
+    },
+    "substance": {
+      "passed": true,
+      "reason": "no filler, 16.9 numbers/1k, 1.9 sources/1k",
+      "metrics": {
+        "word_count": 533,
+        "filler_phrases": [],
+        "numbers": 9,
+        "numbers_per_1k": 16.9,
+        "named_sources": 1,
+        "sources_per_1k": 1.9
+      }
+    },
+    "structure": {
+      "passed": true,
+      "reason": "hook present, ending clean",
+      "metrics": {
+        "has_hook": true,
+        "opening": "Jevin Martinez walked into a United States courtroom expecting to be arrested. He walked out a free ",
+        "ending_clean": true,
+        "ending_denied_phrases": []
+      }
+    },
+    "dialogue": {
+      "passed": true,
+      "reason": "solo episode (not applicable)",
+      "metrics": {
+        "duo": false
+      }
+    }
+  },
+  "blocking_failures": []
+}
